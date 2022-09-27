@@ -30,13 +30,13 @@
 
 
 ### Sideloadly  ( HIGHLY RECOMMENDED )
-* Download and install Sideloadly from [here](https://sideloadly.io).
+* Download and install Sideloadly from [installation here](https://sideloadly.io).
 
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
 ### AltStore
-* Download and install AltServer from [here](https://altstore.io).
+* Download and install AltServer from [installation here](https://altstore.io).
 
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
@@ -52,7 +52,7 @@
 
 
 ### TrollStore
-* Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
+* Download and install TrollStore from [installation here](https://github.com/opa334/TrollStore).
 * download the YouTube ipa from link above and install it via TrollStore:
 
 
