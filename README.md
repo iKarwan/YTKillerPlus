@@ -1,11 +1,10 @@
 # YTKillerPlus
 * a whole new YouTube Experience!
 
-## Supported Firmware?
-* iOS 13.0/iOS 16.1 >
+## Recommended iOS Firmware & YouTube App Versions?
+* iOS 13.0/iOS 16.1 ...
+* YouTube v16.10.5 and newer ...
 
-## Recommended YouTube Version App?
-* YouTube v16.10.5 and newer >
 
 ## Depiction Page
 [Click here to read more about YTKillerPlus](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)
@@ -54,6 +53,3 @@
 ### TrollStore
 * Download and install TrollStore from [installation here](https://github.com/opa334/TrollStore).
 * download the YouTube ipa from link above and install it via TrollStore:
-
-
-## END
