@@ -15,23 +15,13 @@ YouTube v16.10.5 and newer >
 
 * **Jailbreak:** Add __[https://repo.ikghd.me](https://repo.ikghd.me)__ to your Cydia/Zebra/Sileo sources and download it from there.
 * **Sideloading || TrollStore (No Jailbreak):**
-    Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
 
-    1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
+    1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://ikghd.site/iPA/YouTube_v17.38.9.zip) | com.google.ios.youtube | 17.38.9 | 2.0 | ZIP |
         | [YouTube](https://ikghd.site/iPA/YouTube_v17.38.9.ipa) | com.google.ios.youtube | 17.38.9 | 2.0 | IPA |
 
-
-## Duplicate ?
-* NOTE !!! pls don't try to duplicate it using third party apps cause it breaks the license .
-* and only use this iPA here as it would get update weeklly when a new YouTube version get released .
-
-* also  don't try to sideload the DEB on the repo as it won't work just use this iPA here .
-
-
-    2. (Option 2) [Optional] You can get a paid subscription from a signing store where you can download the latest YTKillerPlus directly from your device and have it available for 1 year instead of 7 days. (i.e ).
 
 ## How to Sideload on non-jailbroken devices
 ### Requirements
@@ -51,22 +41,19 @@ YouTube v16.10.5 and newer >
 
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
-* Option 1
     * install via AltStore.
     * [Open In AltStore YouTube v17.38.9](https://tinyurl.com/37fjn9hs) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
-* Option 2
-    * Download the IPA/ZIP file from the link above.
-    * Copy the IPA file to your device, using iCloud Drive, Airdrop, or any other method.
-    * Open AltStore and navigate to the "My Apps" tab.
-    * Choose the plus sign button locatted in the top right corner and open the IPA file.
-    * When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
+
+## Duplicate ?
+* NOTE !!! pls don't try to duplicate it using third party apps cause it breaks the license .
+* and only use this iPA here as it would get update weeklly when a new YouTube version get released .
+
+* also  don't try to sideload the DEB on the repo as it won't work just use this iPA here .
 
 
 ### TrollStore
-
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-
 * download the YouTube ipa from link above and install it via TrollStore:
 
 ## NOTE!!!
