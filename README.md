@@ -72,11 +72,4 @@ YouTube v16.10.5 and newer >
 ## NOTE!!!
 * TrollStore only support iOS versions 14.0 up to 15.1.1
 
-
-
-## Support
-Support my development if you'd like :):
-* BTC Bitcoin (BTC): `bc1qkq6v7ctxlz67pnhnxl9mjux29cm36ycwltjjt6`
-* Tether (USDT TRC-20): `TBv2Jva6im7G6rbrHBvPviD8HCaXXRPgCc`
-* Tether (USDT ERC-20): `0x1DEDace48c77acD39f29487de8B1B968ABcC4374`
-* PayPal (PP): `https://paypal.me/hiwajaf`
+## END
