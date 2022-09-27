@@ -20,8 +20,8 @@ YouTube v16.10.5 and newer >
     1. (Option 1) Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://mega.nz/file/clAWnC5C#eohL3TUI1AYKg-3j3kB4UK6fT9Hok90GErmjCVUdddk) | com.google.ios.youtube | 17.38.9 | 2.0 | ZIP |
-        | [YouTube](https://mega.nz/file/o0YgVBKD#eohL3TUI1AYKg-3j3kB4UK6fT9Hok90GErmjCVUdddk) | com.google.ios.youtube | 17.38.9 | 2.0 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.38.9.zip) | com.google.ios.youtube | 17.38.9 | 2.0 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.38.9.ipa) | com.google.ios.youtube | 17.38.9 | 2.0 | IPA |
 
 
 ## Duplicate ?
@@ -53,7 +53,7 @@ YouTube v16.10.5 and newer >
 
 * Option 1
     * install via AltStore.
-    * `altstore://install?url=https://mega.nz/file/o0YgVBKD#eohL3TUI1AYKg-3j3kB4UK6fT9Hok90GErmjCVUdddk`
+    * `altstore://install?url=https://ikghd.site/iPA/YouTube_v17.38.9.ipa`
 
 * Option 2
     * Download the IPA/ZIP file from the link above.
