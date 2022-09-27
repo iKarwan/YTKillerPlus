@@ -53,7 +53,7 @@ YouTube v16.10.5 and newer >
 
 * Option 1
     * install via AltStore.
-    * `altstore://install?url=https://ikghd.site/iPA/YouTube_v17.38.9.ipa`
+    * [Open In AltStore YouTube v17.38.9](https://tinyurl.com/2xdrazbk) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 * Option 2
     * Download the IPA/ZIP file from the link above.
