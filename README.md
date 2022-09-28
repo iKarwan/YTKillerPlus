@@ -45,7 +45,7 @@
 
 ## Duplicate ?
 * NOTE !!! pls don't try to duplicate it using third party apps cause it breaks the license .
-* and only use this iPA here as it would get update weeklly when a new YouTube version get released .
+* and only use this iPA here as it would get update weekly when a new YouTube version get released .
 
 * also  don't try to sideload the DEB on the repo as it won't work just use this iPA here .
 
