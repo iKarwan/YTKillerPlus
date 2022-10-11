@@ -19,7 +19,7 @@
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://ikghd.site/iPA/YouTube_v17.40.5.zip) | com.google.ios.youtube | 17.40.5 | 2.0 | ZIP |
         | [YouTube](https://ikghd.site/iPA/YouTube_v17.40.5.ipa) | com.google.ios.youtube | 17.40.5| 2.0 | IPA |
-        | [YT_v15.30](https://ikghd.site/iPA/YouTube_v15.30.3.ipa) | com.google.ios.youtube | 15.30.3 | 2.0 | IPA |
+        | [YT_v15.30](https://ikghd.site/iPA/YT_v15.30.3.ipa) | com.google.ios.youtube | 15.30.3 | 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
