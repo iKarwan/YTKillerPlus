@@ -2,7 +2,7 @@
 * a whole new YouTube Experience!
 
 ## Recommended iOS Firmware & YouTube App Versions?
-* iOS 13.0 / iOS 16.1 ...
+* iOS 13.0 / iOS 16.x ...
 * YouTube v16.10.5 and newer ...
 
 
@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YouTube_v17.41.2.zip) | com.google.ios.youtube | 17.41.2 | 2.0 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YouTube_v17.41.2.ipa) | com.google.ios.youtube | 17.41.2| 2.0 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.6.zip) | com.google.ios.youtube | 17.42.6 | 2.0 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.6.ipa) | com.google.ios.youtube | 17.42.6| 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v17.41.2](https://tinyurl.com/yhf7yu29) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v17.42.6](https://tinyurl.com/2mrryzmr) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 ### TrollStore
