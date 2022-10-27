@@ -3,6 +3,8 @@
 
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
 
+/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - ch ext... */
+
 /* YTKillerPlus global switch */
 "YTK_PLUS" = "YTKillerPlus:";
 "GLOBAL_ENABLED_SWITCH" = "global enabled switch";

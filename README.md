@@ -54,5 +54,5 @@
 
 
 ## translation?
-* YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely and open a pull request to be add in future update .
+* YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely and open a pull request or send it via Email @ ( ikghd3@gmail.com ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit .
