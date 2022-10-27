@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.6.zip) | com.google.ios.youtube | 17.42.6 | 2.0 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.6.ipa) | com.google.ios.youtube | 17.42.6| 2.0 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.7.zip) | com.google.ios.youtube | 17.42.7 | 2.0 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YouTube_v17.42.7.ipa) | com.google.ios.youtube | 17.42.7| 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v17.42.6](https://tinyurl.com/2mrryzmr) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v17.42.7](https://tinyurl.com/369yekfu) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 ### TrollStore
@@ -51,3 +51,8 @@
 ## Updating?
 * NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
 * don't switch between install method as that breaks the license .
+
+
+## translation?
+* YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely and open a pull request to be add in future update .
+* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit .
