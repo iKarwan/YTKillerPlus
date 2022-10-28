@@ -56,7 +56,7 @@
 
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "影片播放頁面選項";
+"VIDEO_PLAYER_SECTION" = "影片播放頁面";
 "HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
 "HIDE_VIDEO_DESCRIPTION" = "隱藏影片標題、詳細內容";
 "HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
@@ -78,18 +78,18 @@
 
 
 /* overlay options section */
-"OVERLAY_SECTION" = "影片懸浮控制鈕選項";
+"OVERLAY_SECTION" = "影片懸浮控制鈕";
 "SHOW_STATUS_BAR_IN_OVERLAY" = "懸浮顯示狀態欄";
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機種與仿iPad風格";
 "DISABLE_DOUBLE_TAP" = "停用點兩下";
-"DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看提示」";
+"DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看？」提示";
 "DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
-"HIDE_OVERLAY_QUICK_ACTION" = "隱藏懸浮快速按鈕";
+"HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式下底部的懸浮快速按鈕";
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "不支援Legacy Feature！";
 "MEDIA_CONTROLLER" = "媒體控制器";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "智慧顯示媒體控制器";
-"SHOW_MEDIA_CONTROLLER" = "保持顯示媒體控制器";
-"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏懸浮黑色背景";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
+"SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏觸發懸浮時的黑色背景";
 "KEEP_CAPTION_ON" = "保持字幕功能開啟";
 "KEEP_CAPTION_ON_INFO" = "播放影片時自動顯示字幕";
 "PREVIUOS_AND_NEXT_BUTTON" = "上一部和下一部影片按鈕";
@@ -120,7 +120,7 @@
 
 
 /* streaming section */
-"STREAMING_SECTION" = "影片串流細節選項";
+"STREAMING_SECTION" = "影片串流細節";
 "LEGACY_QUALITY_MODE" = "舊款畫質選擇模式";
 "LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
@@ -138,7 +138,7 @@
 "IPAD_SECION" = "仿iPad風格";
 "IPADOS_MODE" = "iPadOS模式";
 "DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
-"HIDE_CHANNEL_CIRCLES" = "隱藏頻道圓圈";
+"HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
 "MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
 "USE_ASPECT_RATIO" = "使用擴張比例風格";
 "USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的迷你播放器仿iPad風格！";
@@ -155,6 +155,7 @@
 "HIDE_ITEMS_NAV_BAR" = "隱藏頂部導航欄項目";
 "HIDE_YT_LOGO" = "隱藏YouTube Logo";
 "HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
+"HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕";
 "HIDE_ACCOUNT" = "隱藏帳號";
 "HIDE_SEARCH" = "隱藏搜尋";
 "HIDE_CAST_BUTTON" = "隱藏投放按鈕";
@@ -172,7 +173,7 @@
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "下載功能項目";
+"DOWNLOAD_SECTION" = "下載功能";
 "LOCAL_DOWNLOADING" = "Local下載模式(與懸浮下載按鈕方式不同)";
 "LOCAL_DOWNLOADING_INFO" = "在播放中影片上長按觸發下載選單，影片直接儲存至照片App。(若有重複畫質選項請優先選擇較上方的選項)";
 "HIDE_DOWNLOAD_BUTTON" = "隱藏下載按鈕";
@@ -209,13 +210,13 @@
 "HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
-"ENABLE_MINI_PLAYER_VIDEOS" = "應用迷你播放器";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "強制所有影片皆能使用迷你播放器";
+"ENABLE_MINI_PLAYER_VIDEOS" = "廣泛使用迷你播放器";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "使兒童影片也能使用迷你播放器";
 "HIDE_HUD_ALERTS" = "去除動作提示窗";
-"HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚等";
+"HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等";
 "CLEAN_SHARE_SHEET" = "簡潔的分享選單(移除取消按鈕)";
 "ALLOWED_ALL_COMMENTS" = "允許所有留言";
-"HIDE_LINE_SEPERATOR" = "隱藏分割線條";
+"HIDE_LINE_SEPERATOR" = "隱藏分割線條(媒體庫)";
 "ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
 "DISABLE_DARK_MODE" = "停用黑暗模式";
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
