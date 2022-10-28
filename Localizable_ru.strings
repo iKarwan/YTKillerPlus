@@ -64,7 +64,7 @@
 "HIDE_VIDEO_DESCRIPTION" = "Скрыть описание видео";
 "HIDE_FILTER_TAGS" = "Скрыть тэги";
 "HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "Скрыть кнопки под плеером";
-"VIDEO_PLAYER_FEATURES_INFO" = "Данная опция требует включения имитации старой версии в общем разделе настроек YTKillerPlus";
+"VIDEO_PLAYER_FEATURES_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
 "HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
 "COMMENTS" = "Комментарии";
@@ -182,7 +182,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает кнопку «Скачать» от YouTube Premium";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео"; //need explanation
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium"; //need explanation
-"DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в общем разделе настроек YTKillerPlus";
+"DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
 
 
 /* tabbar section */
