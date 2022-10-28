@@ -1,12 +1,12 @@
-/* created on 25/11/2022 */
+/* created on 25/10/2022 */
 /* by iKarwan */
 
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
 
-/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - ch ext... */
+/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"YTK_PLUS" = "YTKillerPlus:";
+/* "YTK_PLUS" = "YTKillerPlus:"; */
 "GLOBAL_ENABLED_SWITCH" = "global enabled switch";
 
 /* downloding global switch */
@@ -87,9 +87,9 @@
 "DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused?";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "not support if legacy FT is on, | YTKPlus Section!";
-"MEDIA_CONTROLLER" = "media controller";
+"MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Show Overlay Controller Smart";
-"SHOW_MEDIA_CONTROLLER" = "Show Media Controller";
+"SHOW_MEDIA_CONTROLLER" = "always Show overlay Controlle";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
 "KEEP_CAPTION_ON" = "Keep Caption On";
 "KEEP_CAPTION_ON_INFO" = "keep caption on when playieng videos";
@@ -206,6 +206,7 @@
 "HIDE_SEARCHED_HISTORY" = "Hide Searched History";
 "NOT_TOPIC_SECTION" = "No Topic Section";
 "HIDE_NOTIFICATION_BUTTON" = "Hide Notification Button";
+"HIDE_NOTIFICATION_BUTTON_INFO" = "Hide Notification Bell button beside subscription button";
 "HIDE_PREMIUM_POPUP" = "Hide Premium PoPUP";
 "HIDE_YT_UPDATE_POPUP" = "Hide YT Update PoPUP";
 "HIDE_YT_UPDATE_POPUP_INFO" = "annoying force update/quit the app alert!";

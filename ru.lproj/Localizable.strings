@@ -1,13 +1,11 @@
-/* created on 25/11/2022 */
+/* created on 25/10/2022 */
 /* by iKarwan */
 /* Russian by dayanch96 */
 
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
 
-/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - ch ext... */
-
 /* YTKillerPlus global switch */
-"YTK_PLUS" = "YTKillerPlus";
+/* "YTK_PLUS" = "YTKillerPlus"; */
 "GLOBAL_ENABLED_SWITCH" = "Активирует твик";
 
 /* downloding global switch */
@@ -208,6 +206,7 @@
 "HIDE_SEARCHED_HISTORY" = "Скрыть историю поиска";
 "NOT_TOPIC_SECTION" = "Скрыть секцию с топиками";
 "HIDE_NOTIFICATION_BUTTON" = "Скрыть кнопку уведомлений";
+"HIDE_NOTIFICATION_BUTTON_INFO" = "Hide Notification Bell button beside subscription button";
 "HIDE_PREMIUM_POPUP" = "Не рекомендовать Premium";
 "HIDE_YT_UPDATE_POPUP" = "Скрыть уведомление об обновлении";
 "HIDE_YT_UPDATE_POPUP_INFO" = "Скрывает раздражающее окошко с требованием обновить YouTube";
