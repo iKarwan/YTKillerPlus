@@ -287,6 +287,7 @@
 "COPY_UUID" = "複製您的UUID";
 "COPIED_UUID" = "已複製";
 "UUID_ACTIVATION_INFO" = "啟用授權資訊";
+"CANCEL_SENDING" = "取消发送";
 "CANCELED_SENDING" = "已取消";
 "ACTIVATION_ERROR" = "啟用錯誤！";
 "ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！ 😭 嵰 請聯繫開發者以獲得更多資訊！";

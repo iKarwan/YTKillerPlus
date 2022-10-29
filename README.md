@@ -48,11 +48,11 @@
 * download the YouTube ipa from link above and install it via TrollStore:
 
 
-## Updating?
+## Updating..
 * NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
 * don't switch between install method as that breaks the license .
 
 
-## translation?
+## Localization..
 * YTKillerPlus now fully support localization if u wish to add your languages please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit .

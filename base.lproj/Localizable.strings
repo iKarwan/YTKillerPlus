@@ -217,7 +217,7 @@
 "HIDE_HUD_ALERTS_INFO" = "hide all pop up alerts like disliking/childe videos";
 "CLEAN_SHARE_SHEET" = "Clean Share Sheet";
 "ALLOWED_ALL_COMMENTS" = "Allowed All Comments";
-"HIDE_LINE_SEPERATOR" = "Hide Line Seperator in library";
+"HIDE_LINE_SEPERATOR" = "Hide Line Seperators";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
 "HIDE_INCLUDE_PAID_PROMO" = "Hide Include P-Promotion";
