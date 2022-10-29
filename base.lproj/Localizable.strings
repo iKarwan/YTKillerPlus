@@ -49,10 +49,11 @@
 "DISABLE_CAPTIONS" = "Disable Captions";
 "DISABLE_HINTS" = "Disable Hints";
 
-/* other || credits & links */
+/* other || credits translation & links */
 "OTHER_TWEAKS" = "Check Out Other Projects";
 "CREDITS" = "Credits";
-
+"SPECIAL_THANK" = "Special Thank";
+"LOCALIZATION" = "localization";
 "DEVELOPER" = "Developer:";
 
 
@@ -89,7 +90,7 @@
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "not support if legacy FT is on, | YTKPlus Section!";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Show Overlay Controller Smart";
-"SHOW_MEDIA_CONTROLLER" = "always Show overlay Controlle";
+"SHOW_MEDIA_CONTROLLER" = "always Show overlay Controller";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
 "KEEP_CAPTION_ON" = "Keep Caption On";
 "KEEP_CAPTION_ON_INFO" = "keep caption on when playieng videos";
@@ -211,12 +212,12 @@
 "HIDE_YT_UPDATE_POPUP" = "Hide YT Update PoPUP";
 "HIDE_YT_UPDATE_POPUP_INFO" = "annoying force update/quit the app alert!";
 "ENABLE_MINI_PLAYER_VIDEOS" = "Enable miniPlayer Videos";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "enable all videos in miniPlayer";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
-"HIDE_HUD_ALERTS_INFO" = "hide all alerts popup on like dislike etc..";
+"HIDE_HUD_ALERTS_INFO" = "hide all pop up alerts like disliking/childe videos";
 "CLEAN_SHARE_SHEET" = "Clean Share Sheet";
 "ALLOWED_ALL_COMMENTS" = "Allowed All Comments";
-"HIDE_LINE_SEPERATOR" = "Hide Line Seperator";
+"HIDE_LINE_SEPERATOR" = "Hide Line Seperator in library";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
 "HIDE_INCLUDE_PAID_PROMO" = "Hide Include P-Promotion";

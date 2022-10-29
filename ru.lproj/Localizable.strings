@@ -48,12 +48,12 @@
 "DISABLE_CAPTIONS" = "Отключить субтитры";
 "DISABLE_HINTS" = "Отключить подсказки";
 
-/* other || credits & links */
+/* other || credits translation & links */
 "OTHER_TWEAKS" = "Наши проекты";
 "CREDITS" = "О нас";
-
-"DEVELOPER" = "Разработчик:";
+"SPECIAL_THANK" = "Special Thank";
 "LOCALIZATION" = "Перевод:"; // in case if you add it
+"DEVELOPER" = "Разработчик:";
 
 
 /* video player section */

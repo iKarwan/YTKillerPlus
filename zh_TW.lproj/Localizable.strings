@@ -48,10 +48,11 @@
 "DISABLE_CAPTIONS" = "停用字幕功能";
 "DISABLE_HINTS" = "停用Hints";
 
-/* other || credits & links */
+/* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
 "CREDITS" = "鳴謝：";
-
+"SPECIAL_THANK" = "Special Thank";
+"LOCALIZATION" = "localization";
 "DEVELOPER" = "開發者：";
 
 
@@ -206,7 +207,7 @@
 "HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
 "NOT_TOPIC_SECTION" = "隱藏主題區塊";
 "HIDE_NOTIFICATION_BUTTON" = "隱藏通知鈴鐺按鈕";
-"HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕"
+"HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕";
 "HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
@@ -279,8 +280,8 @@
 /* license activation section */
 "YOUR_UUID_IS" = "您的UUID is: %@";
 "THANKS" = "謝謝";
-"ACTIVATED_SUCCESS" = "成功啟用您的授權！盡情享受您的進階YouTube體驗！";
-"NOT_LICENSED_YET" = "您尚未擁有授權";
+"ACTIVATED_SUCCESS" = "成功啟用您的授權！盡情享受您的進階YouTube體驗！😊";
+"NOT_LICENSED_YET" = "您尚未擁有授權☹️";
 "BUY_LICENSE" = "購買授權";
 "UPGRADE_FROM_YTKILLER" = "從YoutubeKiller用戶升級";
 "COPY_UUID" = "複製您的UUID";
@@ -288,7 +289,7 @@
 "UUID_ACTIVATION_INFO" = "啟用授權資訊";
 "CANCELED_SENDING" = "已取消";
 "ACTIVATION_ERROR" = "啟用錯誤！";
-"ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！ 嵰 請聯繫開發者以獲得更多資訊！";
+"ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！ 😭 嵰 請聯繫開發者以獲得更多資訊！";
 "CONTACT_DEVELPER" = "聯絡開發者！";
 "DISMISS_SEND" = "撤銷傳送";
 
