@@ -1,7 +1,7 @@
 /* created on 25/10/2022 */
 /* by iKarwan */
 
-/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
+/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
@@ -37,8 +37,6 @@
 /* general section switch */
 "APP_LOCK" = "App Lock";
 "LOCK_APP_VIA_PASSWORD" = "lock the app via system password!";
-"FOCUS_MODE" = "use Focus Mode";
-"FUCOSING_ON_NEW" = "fucosing on what's new only!";
 "OLED_DARK_MODE" = "Oled Dark Mode";
 "FOLLOW_SYSTEM_APPEARANCE" = "following system appearance settings!";
 "PLAY_IN_BACKGROUND" = "Play In Background";
@@ -96,7 +94,7 @@
 "KEEP_CAPTION_ON_INFO" = "keep caption on when playieng videos";
 "PREVIUOS_AND_NEXT_BUTTON" = "previuos & next Button";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Disable Previous Next Button";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Previous & Next Button Padding";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Previous & Next Button Compacted";
 "PLAYER_BAR_NEXT_BUTTON" = "Player Bar Next Button";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Hide Previous Next Button";
 "HIDE_BACK_BUTTON_SHADOW" = "Hide Back Button Shadows";
@@ -127,7 +125,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "revert back the old quality selection!";
 "PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
 "ENABLE_PIP" = "Enable PiP";
-"ENABLE_PIP_INFO" = "configured from YT Settings Under General!";
+"ENABLE_PIP_INFO" = "add a pip Icon in overlay";
 "RETURN_YT_DISLIKE" = "Return YT Dislike";
 "RETURN_YT_DISLIKE_INFO" = "enable vote submission on YT Settings General";
 "PLAYBACK_SPEED" = "PlayBack Speed";
@@ -140,9 +138,10 @@
 "IPAD_SECION" = "iPad Mode";
 "IPADOS_MODE" = "iPadOS Mode";
 "DISABLE_DRAG_AND_DROP" = "Disable Drag & Drop";
-"HIDE_CHANNEL_CIRCLES" = "Hide Channel Circles";
+"HIDE_CHANNEL_CIRCLES" = "Hide Subscription Icon";
+"HIDE_CHANNEL_CIRCLES_INFO" = "hide circle channel icons on subs tab in navbar!";
 "MINI_PLAYER_ASPECT_RATIO" = "mini Player aspect Ratio";
-"USE_ASPECT_RATIO" = "use Aspect Ratio";
+"USE_ASPECT_RATIO" = "use Full Aspects";
 "USE_ASPECT_RATIO_INFO" = "mini Player not supported!";
 "MINI_PLAYER" = "mini Player";
 "REDEFIND_MINI_PLAYER" = "Redefind mini Player";
@@ -153,7 +152,7 @@
 "STATUS_BAR" = "Status Bar";
 "HIDE_STATUS_BAR" = "Hide Status Bar";
 "CHANNEL_SECTIONS" = "channel Sections";
-"STICKY_NAV_BAR" = "Sticky NavBar";
+"STICKY_NAV_BAR" = "hide Categories In Nav Bar";
 "HIDE_ITEMS_NAV_BAR" = "Hide Items";
 "HIDE_YT_LOGO" = "Hide YT Logo";
 "HIDE_NOTIFICATIONS_BILL" = "Hide Notification 🔕";
@@ -186,7 +185,7 @@
 
 /* tabbar section */
 "TAB_BAR_SECTION" = "Tab Bar";
-"TABS_SHRINKED_BUTTOM" = "Tabs Shrinked (Buttom)";
+"TABS_SHRINKED_BUTTOM" = "Tabs Shrinked (Bottom)";
 "TABS_SHRINKED_SMART" = "Tabs Shrinked (Smart)";
 "DISABLE_CREATE_BUTTON" = "Disable Create (+)";
 "HIDE_TAB_LABELS" = "Hide Tab Labels";
@@ -206,8 +205,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "use system VolumeHUD on landscape";
 "HIDE_SEARCHED_HISTORY" = "Hide Searched History";
 "NOT_TOPIC_SECTION" = "No Topic Section";
-"HIDE_NOTIFICATION_BUTTON" = "Hide Notification Button";
-"HIDE_NOTIFICATION_BUTTON_INFO" = "Hide Notification Bell button beside subscription button";
 "HIDE_PREMIUM_POPUP" = "Hide Premium PoPUP";
 "HIDE_YT_UPDATE_POPUP" = "Hide YT Update PoPUP";
 "HIDE_YT_UPDATE_POPUP_INFO" = "annoying force update/quit the app alert!";
@@ -225,20 +222,6 @@
 
 
 
-
-/* YTKillerPlus PiP section in YT settings */
-"USE_PIP_BUTTON" = "Use PiP Button";
-"USE_PIP_BUTTON_INFO" = "Adds a PiP button over the video control overlay to activate PiP instead of dismissing the app.";
-"USE_VIDEO_TAB_BAR_PIPS" = "Use Video Tab Bar PiP Button";
-"USE_VIDEO_TAB_BAR_PIPS_INFO" = "Adds a PiP button in video tab bar to activate PiP instead of dismissing the app. App restart is required.";
-"DISABLE_PIP_FOR_MINI_PLAYER" = "Disable PiP for Mini Player";
-"DISABLE_PIP_FOR_MINI_PLAYER_INFO" = "Disables PiP while playing a video in the mini player.";
-"LEGACY_PIP" = "Legacy PiP";
-"LEGACY_PIP_INFO" = "Uses AVPlayerLayer for PiP. This gracefully fixes speedup bug but also removes UHD options (2K/4K) from any videos. App restart is required.";
-"LEGACY_FEATURES" = "Legacy Features";
-"LEGACY_FEATURES_INFO" = "run features that stoped on v17.0x and above! features like hiding items under media players, ext... App restart is required.";
-
-
 /* global action title */
 "OK" = "OK";
 "YES" = "Yes";
@@ -253,7 +236,6 @@
 "NOT_SUPPORTED_FORMAT" = "This video is not supported by the downloader\nPlease try a different download quality";
 "VIDEO" = "Video";
 "AUDIO" = "Audio";
-"SELECT_YOUR_OPTION" = "Select Your Option";
 "RENAME" = "Rename";
 "PLAY" = "Play";
 "SHARE" = "Share";
@@ -261,10 +243,10 @@
 "MORE_OPTION" = "More Options";
 "DELETE_ALL" = "Delete All";
 "SAVE_TO_PHOTOS" = "Save To Photos";
-"ARE_YOU_SURE" = "Are you Sure?";
-"NOTE" = "Noting!";
+"ARE_YOU_SURE" = "Are you Sure you want Deleting All Items?";
+"NOTE" = "Note!";
 "SAVE_FAILED" = "Safe Failed!";
-"SAVE_TO_PHOTOS_FAILED" = "Save To Camera Roll Failed \nMake Sure To Give Camera Roll Permission To YouTube In The iOS Settings App";
+"SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed \nMake Sure To Give Photos app Permission To YouTube In The iOS Settings App";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 

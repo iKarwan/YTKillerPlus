@@ -2,7 +2,7 @@
 /* by iKarwan */
 /* Russian by dayanch96 */
 
-/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
+/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus"; */
@@ -36,8 +36,6 @@
 /* general section switch */
 "APP_LOCK" = "Блокировка паролем";
 "LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";
-"FOCUS_MODE" = "Режим фокусирования";
-"FUCOSING_ON_NEW" = "Поможет сосредоточиться на новых публикациях";
 "OLED_DARK_MODE" = "Темный режим для OLED";
 "FOLLOW_SYSTEM_APPEARANCE" = "Тема как в системе";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
@@ -126,7 +124,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "Возвращает прежний стиль выбора качества видео";
 "PICTURE_IN_PICTURE_PIP" = "Картинка-в-Картинке (PiP)";
 "ENABLE_PIP" = "Включить PiP";
-"ENABLE_PIP_INFO" = "Настраивается в «Общих» настройках YouTube";
+"ENABLE_PIP_INFO" = "add a pip Icon in overlay";
 "RETURN_YT_DISLIKE" = "Отображать дизлайки";
 "RETURN_YT_DISLIKE_INFO" = "Включить отправку данных о ваших дизлайках можно в «Общих» настройках YouTube";
 "PLAYBACK_SPEED" = "Скорость воспроизведения";
@@ -205,8 +203,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "Отображать системный бар в полноэкранном режиме";
 "HIDE_SEARCHED_HISTORY" = "Скрыть историю поиска";
 "NOT_TOPIC_SECTION" = "Скрыть секцию с топиками";
-"HIDE_NOTIFICATION_BUTTON" = "Скрыть кнопку уведомлений";
-"HIDE_NOTIFICATION_BUTTON_INFO" = "Hide Notification Bell button beside subscription button";
 "HIDE_PREMIUM_POPUP" = "Не рекомендовать Premium";
 "HIDE_YT_UPDATE_POPUP" = "Скрыть уведомление об обновлении";
 "HIDE_YT_UPDATE_POPUP_INFO" = "Скрывает раздражающее окошко с требованием обновить YouTube";
@@ -222,20 +218,6 @@
 "HIDE_INCLUDE_PAID_PROMO" = "Скрыть «Есть реклама»";
 "DARK_KEYBOARDS" = "Клавиатура в темном режиме";
 
-
-
-
-/* YTKillerPlus PiP section in YT settings */
-"USE_PIP_BUTTON" = "Активировать PiP вручную";
-"USE_PIP_BUTTON_INFO" = "Добавляет кнопку PiP в панель навигации для активации вручную. Включите данную опцию, чтобы PiP не срабатывал автоматически";
-"USE_VIDEO_TAB_BAR_PIPS" = "Использовать кнопку PiP под плеером";
-"USE_VIDEO_TAB_BAR_PIPS_INFO" = "Добавляет кнопку PiP в панель под видео для активации PiP вручную. Включите данную опцию, чтобы PiP не срабатывал автоматически. Потребуется перезапуск YouTube";
-"DISABLE_PIP_FOR_MINI_PLAYER" = "Отключить PiP для мини-плеера";
-"DISABLE_PIP_FOR_MINI_PLAYER_INFO" = "Предотвращает включение режима Картинка-в-Картинке, если видео проигрывается в мини-плеере";
-"LEGACY_PIP" = "Старый вариант PiP";
-"LEGACY_PIP_INFO" = "На основе AVPlayerLayer, в котором нет багов со скоростью воспроизведения. Данный режим отключает воспроизведение видео в ультра  высоком разрешении (2K/4K). Потребуется перезапуск YouTube";
-"LEGACY_FEATURES" = "Имитация старой версии YouTube";
-"LEGACY_FEATURES_INFO" = "Понижает версию YouTube до 16.46.5, в которой корректно отображаются кнопки под плеером. Потребуется перезапуск YouTube";
 
 
 /* global action title */

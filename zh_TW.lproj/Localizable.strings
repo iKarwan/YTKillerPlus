@@ -2,7 +2,7 @@
 /* by iKarwan */
 /* Chinese by @CySxL */
 
-/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credit */
+/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus："; */
@@ -36,8 +36,6 @@
 /* general section switch */
 "APP_LOCK" = "鎖定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube app上鎖！";
-"FOCUS_MODE" = "專注模式";
-"FUCOSING_ON_NEW" = "只專注在新事物上！";
 "OLED_DARK_MODE" = "OLED黑暗介面模式";
 "FOLLOW_SYSTEM_APPEARANCE" = "此模式遵從系統外觀模式設定";
 "PLAY_IN_BACKGROUND" = "背景播放";
@@ -126,7 +124,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
-"ENABLE_PIP_INFO" = "進階設定請至YouTube帳號大頭照->設定->YTKillerPlus內調整";
+"ENABLE_PIP_INFO" = "add a pip Icon in overlay";
 "RETURN_YT_DISLIKE" = "影片不喜歡/倒讚數量顯示";
 "RETURN_YT_DISLIKE_INFO" = "請至YouTube帳號大頭照->設定->一般->Enable vote submission->開啟開關";
 "PLAYBACK_SPEED" = "影片播放速度";
@@ -206,8 +204,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "僅作用於橫向模式中";
 "HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
 "NOT_TOPIC_SECTION" = "隱藏主題區塊";
-"HIDE_NOTIFICATION_BUTTON" = "隱藏通知鈴鐺按鈕";
-"HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕";
 "HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
@@ -223,20 +219,6 @@
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
 "DARK_KEYBOARDS" = "使用黑暗模式鍵盤";
 
-
-
-
-/* YTKillerPlus PiP section in YT settings */
-"USE_PIP_BUTTON" = "啟用子母畫面懸浮按鈕";
-"USE_PIP_BUTTON_INFO" = "在影片上增加一個啟用子母畫面(PIP)的懸浮按鈕，可用於取代離開YouTube的子母畫面觸發方式";
-"USE_VIDEO_TAB_BAR_PIPS" = "啟用影片播放頁面的子母畫面按鈕";
-"USE_VIDEO_TAB_BAR_PIPS_INFO" = "在影片播放頁面下方的按鈕欄(喜歡、分享等按鈕的位置)中，增加一個啟用子母畫面(PIP)的按鈕。YouTube 17.0x版本須同時啟用下方的Legacy Features。須重新啟動App以應用更動。";
-"DISABLE_PIP_FOR_MINI_PLAYER" = "使用迷你播放器時停用子母畫面";
-"DISABLE_PIP_FOR_MINI_PLAYER_INFO" = "可應用於單純想要影片背景播放而不想要離開YouTube後有子母畫面(PIP)時：先將欲播放影片縮小至迷你播放器後再離開YouTube app，子母畫面將不會被啟動";
-"LEGACY_PIP" = "舊款子母畫面模式";
-"LEGACY_PIP_INFO" = "使用AVPlayer來播放子母畫面。此功能可以修正PIP時影片的異常加速問題，但同時也會移除任何影片的超高UHD(2K/4K)畫質選擇。須重新啟動App以應用更動。";
-"LEGACY_FEATURES" = "Legacy Features(舊款功能)";
-"LEGACY_FEATURES_INFO" = "重新啟用一些在YouTube 17.0x版本之後被移除的功能！例如隱藏影片播放頁面下方按鈕等等。須重新啟動App以應用更改";
 
 
 /* global action title */
