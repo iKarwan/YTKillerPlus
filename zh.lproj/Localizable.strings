@@ -66,11 +66,6 @@
 "HIDE_COMMENTS_PREVIEW_INFO" = "用來避免暴雷仔！！";
 "HIDE_COMMENTS_GUIDLINES" = "隱藏留言區社群規範提醒";
 "HIDE_COMMUNITY_TEXT_INFO" = "讓你發布留言時可以不用尊重他人(誤";
-"OTHERS" = "其他";
-"HIDE_PLAYLIST" = "隱藏播放清單";
-"PLAYLIST_INFO" = "不支援仿iPad風格";
-"HIDE_COVID_NEWS" = "隱藏COVID-19警示";
-"COVID_NEWS_INFO" = "在首頁隱藏COVID-19警示區塊";
 
 
 /* overlay options section */
@@ -203,7 +198,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "僅作用於橫向模式中";
 "HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
 "NOT_TOPIC_SECTION" = "隱藏主題區塊";
-"HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
 "HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
@@ -218,7 +212,12 @@
 "DISABLE_DARK_MODE" = "停用黑暗模式";
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
 "DARK_KEYBOARDS" = "使用黑暗模式鍵盤";
-
+"OTHERS" = "其他";
+"HIDE_PLAYLIST" = "隱藏播放清單";
+"PLAYLIST_INFO" = "不支援仿iPad風格";
+"HIDE_COVID_NEWS" = "隱藏COVID-19警示";
+"COVID_NEWS_INFO" = "在首頁隱藏COVID-19警示區塊";
+"HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
 
 
 /* global action title */

@@ -67,11 +67,6 @@
 "HIDE_COMMENTS_PREVIEW_INFO" = "Hide Previews! Non spoiling the content..!";
 "HIDE_COMMENTS_GUIDLINES" = "Hide Comment Guidlines";
 "HIDE_COMMUNITY_TEXT_INFO" = "Hide Community Guidelines txt in comments!";
-"OTHERS" = "others";
-"HIDE_PLAYLIST" = "Hide PlayList";
-"PLAYLIST_INFO" = "ipad style not supported!";
-"HIDE_COVID_NEWS" = "Hide Covid & News";
-"COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
 
 
 /* overlay options section */
@@ -204,7 +199,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "use system VolumeHUD on landscape";
 "HIDE_SEARCHED_HISTORY" = "Hide Searched History";
 "NOT_TOPIC_SECTION" = "No Topic Section";
-"HIDE_FILTER_TAGS" = "Hide Filter Tags";
 "HIDE_PREMIUM_POPUP" = "Hide Premium PoPUP";
 "HIDE_YT_UPDATE_POPUP" = "Hide YT Update PoPUP";
 "HIDE_YT_UPDATE_POPUP_INFO" = "annoying force update/quit the app alert!";
@@ -219,6 +213,12 @@
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
 "HIDE_INCLUDE_PAID_PROMO" = "Hide Include P-Promotion";
 "DARK_KEYBOARDS" = "Dark Mode Keyboard";
+"OTHERS" = "Home Feed";
+"HIDE_PLAYLIST" = "Hide PlayList";
+"PLAYLIST_INFO" = "ipad style not supported!";
+"HIDE_COVID_NEWS" = "Hide Covid & News";
+"COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
+"HIDE_FILTER_TAGS" = "Hide Filter Tags";
 
 
 

@@ -66,11 +66,6 @@
 "HIDE_COMMENTS_PREVIEW_INFO" = "Скрывает секцию с популярным комментарием";
 "HIDE_COMMENTS_GUIDLINES" = "Скрыть гайдлайны";
 "HIDE_COMMUNITY_TEXT_INFO" = "Скрывает секцию следования правилам сообщества";
-"OTHERS" = "Другое";
-"HIDE_PLAYLIST" = "Скрыть плейлисты";
-"PLAYLIST_INFO" = "Не поддерживается в режиме iPad";
-"HIDE_COVID_NEWS" = "Скрыть новости";
-"COVID_NEWS_INFO" = "Скрывает новости и информацию про COVID с главного экрана";
 
 
 /* overlay options section */
@@ -202,7 +197,6 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "Отображать системный бар в полноэкранном режиме";
 "HIDE_SEARCHED_HISTORY" = "Скрыть историю поиска";
 "NOT_TOPIC_SECTION" = "Скрыть секцию с топиками";
-"HIDE_FILTER_TAGS" = "Скрыть тэги";
 "HIDE_PREMIUM_POPUP" = "Не рекомендовать Premium";
 "HIDE_YT_UPDATE_POPUP" = "Скрыть уведомление об обновлении";
 "HIDE_YT_UPDATE_POPUP_INFO" = "Скрывает раздражающее окошко с требованием обновить YouTube";
@@ -217,6 +211,12 @@
 "DISABLE_DARK_MODE" = "Запретить темный режим";
 "HIDE_INCLUDE_PAID_PROMO" = "Скрыть «Есть реклама»";
 "DARK_KEYBOARDS" = "Клавиатура в темном режиме";
+"OTHERS" = "Другое";
+"HIDE_PLAYLIST" = "Скрыть плейлисты";
+"PLAYLIST_INFO" = "Не поддерживается в режиме iPad";
+"HIDE_COVID_NEWS" = "Скрыть новости";
+"COVID_NEWS_INFO" = "Скрывает новости и информацию про COVID с главного экрана";
+"HIDE_FILTER_TAGS" = "Скрыть тэги";
 
 
 
