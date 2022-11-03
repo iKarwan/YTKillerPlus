@@ -58,11 +58,8 @@
 "VIDEO_PLAYER_SECTION" = "Видеоплеер";
 "HIDE_SUGGESTED_VIDEO" = "Скрыть рекомендации";
 "HIDE_VIDEO_DESCRIPTION" = "Скрыть описание видео";
-"HIDE_FILTER_TAGS" = "Скрыть тэги";
 "HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "Скрыть кнопки под плеером";
 "VIDEO_PLAYER_FEATURES_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
-"HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
 "COMMENTS" = "Комментарии";
 "HIDE_COMMENTS" = "Скрыть комментарии";
 "HIDE_COMMENTS_PREVIEW" = "Скрыть предпросмотр комментариев";
@@ -85,6 +82,8 @@
 "DISABLE_CONTINUE_WATCHING_INFO" = "Данное сообщение всплывает при повторном открытии длинного видео";
 "HIDE_OVERLAY_QUICK_ACTION" = "Скрыть ярлыки с оверлея";
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "Не поддерживается при включенной имитации старой версии YouTube";
+"HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
 "MEDIA_CONTROLLER" = "Управление плеером";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Отображать умное управление оверлеем"; //have no idea what is this
 "SHOW_MEDIA_CONTROLLER" = "Отображать кнопки управления плеером";
@@ -203,6 +202,7 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "Отображать системный бар в полноэкранном режиме";
 "HIDE_SEARCHED_HISTORY" = "Скрыть историю поиска";
 "NOT_TOPIC_SECTION" = "Скрыть секцию с топиками";
+"HIDE_FILTER_TAGS" = "Скрыть тэги";
 "HIDE_PREMIUM_POPUP" = "Не рекомендовать Premium";
 "HIDE_YT_UPDATE_POPUP" = "Скрыть уведомление об обновлении";
 "HIDE_YT_UPDATE_POPUP_INFO" = "Скрывает раздражающее окошко с требованием обновить YouTube";

@@ -58,11 +58,8 @@
 "VIDEO_PLAYER_SECTION" = "影片播放頁面";
 "HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
 "HIDE_VIDEO_DESCRIPTION" = "隱藏影片標題、詳細內容";
-"HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
 "HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "隱藏影片播放器下方按鈕";
 "VIDEO_PLAYER_FEATURES_INFO" = "上方功能需要配合開啟Legacy Features功能才可作用。YouTube帳號大頭照->設定->YTKillerPlus->Legacy Features->開啟開關";
-"HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
-"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸背後的瀏覽熱圖";
 "COMMENTS" = "留言區";
 "HIDE_COMMENTS" = "隱藏留言區";
 "HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
@@ -85,6 +82,8 @@
 "DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式下底部的懸浮快速按鈕";
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "不支援Legacy Feature！";
+"HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
+"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸背後的瀏覽熱圖";
 "MEDIA_CONTROLLER" = "媒體控制器";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
 "SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
@@ -204,6 +203,7 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "僅作用於橫向模式中";
 "HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
 "NOT_TOPIC_SECTION" = "隱藏主題區塊";
+"HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
 "HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";

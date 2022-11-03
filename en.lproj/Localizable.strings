@@ -59,11 +59,8 @@
 "VIDEO_PLAYER_SECTION" = "video player";
 "HIDE_SUGGESTED_VIDEO" = "Hide Suggested Video";
 "HIDE_VIDEO_DESCRIPTION" = "Hide Video Description";
-"HIDE_FILTER_TAGS" = "Hide Filter Tags";
 "HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "Hide Buttons under VPlayer";
 "VIDEO_PLAYER_FEATURES_INFO" = "those option needs Legacy feature option in YouTube settings under general YTKillerPlus section to be enabled. in order to work...";
-"HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Hide HeatMap must viewed TimeLine";
 "COMMENTS" = "comments";
 "HIDE_COMMENTS" = "Hide Comments";
 "HIDE_COMMENTS_PREVIEW" = "Hide Comments Review";
@@ -86,6 +83,8 @@
 "DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused?";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_OVERLAY_QUICK_ACTION_INFO" = "not support if legacy FT is on, | YTKPlus Section!";
+"HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Hide HeatMap must viewed TimeLine";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Show Overlay Controller Smart";
 "SHOW_MEDIA_CONTROLLER" = "always Show overlay Controller";
@@ -205,6 +204,7 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "use system VolumeHUD on landscape";
 "HIDE_SEARCHED_HISTORY" = "Hide Searched History";
 "NOT_TOPIC_SECTION" = "No Topic Section";
+"HIDE_FILTER_TAGS" = "Hide Filter Tags";
 "HIDE_PREMIUM_POPUP" = "Hide Premium PoPUP";
 "HIDE_YT_UPDATE_POPUP" = "Hide YT Update PoPUP";
 "HIDE_YT_UPDATE_POPUP_INFO" = "annoying force update/quit the app alert!";
