@@ -39,7 +39,7 @@
 "FOCUS_MODE" = "Режим фокусирования";
 "FUCOSING_ON_NEW" = "Поможет сосредоточиться на новых публикациях";
 "OLED_DARK_MODE" = "Темный режим для OLED";
-"FOLLOW_SYSTEM_APPEARANCE" = "Отображает тему исходя из системных настроек";
+"FOLLOW_SYSTEM_APPEARANCE" = "Тема как в системе";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
 "NO_ADVERTISMENT" = "Убрать рекламу";
 "NO_AGE_RESTRICTION" = "Отключить возрастные ограничения";
@@ -95,7 +95,7 @@
 "KEEP_CAPTION_ON_INFO" = "Отображает название видео при его воспроизведении";
 "PREVIUOS_AND_NEXT_BUTTON" = "Кнопки «След.» и «Пред.»";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Скрыть кнопки «След.» и «Пред.» в плеере";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Previous & Next Button Padding"; //have no idea what is this
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Скрыть кнопки «След.» и «Пред.» в плейлистах";
 "PLAYER_BAR_NEXT_BUTTON" = "Кнопки мини-плеера";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Скрыть «След.» и «Пред.» в мини-плеере";
 "HIDE_BACK_BUTTON_SHADOW" = "Скрыть тень кнопки «Назад»";
@@ -141,7 +141,7 @@
 "DISABLE_DRAG_AND_DROP" = "Отключить перетаскивание";
 "HIDE_CHANNEL_CIRCLES" = "Скрыть круглые аватарки";
 "MINI_PLAYER_ASPECT_RATIO" = "Соотношение сторон мини-плеера";
-"USE_ASPECT_RATIO" = "use Aspect Ratio"; //have no idea what is this
+"USE_ASPECT_RATIO" = "Заполнить экран";
 "USE_ASPECT_RATIO_INFO" = "Не совместим с мини-плеером";
 "MINI_PLAYER" = "Мини-плеер";
 "REDEFIND_MINI_PLAYER" = "Переопределить мини-плеер";
@@ -152,7 +152,7 @@
 "STATUS_BAR" = "Настройки статус-бара";
 "HIDE_STATUS_BAR" = "Скрыть статус-бар";
 "CHANNEL_SECTIONS" = "Секция каналов";
-"STICKY_NAV_BAR" = "Sticky NavBar";  //have no idea what is this
+"STICKY_NAV_BAR" = "Закрепить верхнюю панель";
 "HIDE_ITEMS_NAV_BAR" = "Настройки элементов";
 "HIDE_YT_LOGO" = "Скрыть логотип YouTube";
 "HIDE_NOTIFICATIONS_BILL" = "Скрыть кнопку «Уведомления»";
@@ -178,15 +178,15 @@
 "LOCAL_DOWNLOADING_INFO" = "Долгий тап по видео сохранит его в Галерею";
 "HIDE_DOWNLOAD_BUTTON" = "Скрыть кнопку «Скачать»";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает кнопку «Скачать» от YouTube Premium";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео"; //need explanation
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium"; //need explanation
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium";
 "DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
 
 
 /* tabbar section */
 "TAB_BAR_SECTION" = "Панель навигации";
-"TABS_SHRINKED_BUTTOM" = "Tabs Shrinked (Buttom)"; //need explanation, Shrunken* Button or Bottom?
-"TABS_SHRINKED_SMART" = "Tabs Shrinked (Smart)"; //need explanation
+"TABS_SHRINKED_BUTTOM" = "Уменьшить нижнюю панель (Кнопки)";
+"TABS_SHRINKED_SMART" = "Уменьшить нижнюю панель (Smart)";
 "DISABLE_CREATE_BUTTON" = "Скрыть кнопку «Загрузить» (+)";
 "HIDE_TAB_LABELS" = "Скрыть названия вкладок";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Вкладка «Навигация» вместо «Shorts»";
