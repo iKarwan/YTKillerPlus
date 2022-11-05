@@ -57,9 +57,6 @@
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "Видеоплеер";
 "HIDE_SUGGESTED_VIDEO" = "Скрыть рекомендации";
-"HIDE_VIDEO_DESCRIPTION" = "Скрыть описание видео";
-"HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "Скрыть кнопки под плеером";
-"VIDEO_PLAYER_FEATURES_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
 "COMMENTS" = "Комментарии";
 "HIDE_COMMENTS" = "Скрыть комментарии";
 "HIDE_COMMENTS_PREVIEW" = "Скрыть предпросмотр комментариев";
@@ -76,7 +73,6 @@
 "DISABLE_CONTINUE_WATCHING" = "Отключить «Продолжить просмотр»";
 "DISABLE_CONTINUE_WATCHING_INFO" = "Данное сообщение всплывает при повторном открытии длинного видео";
 "HIDE_OVERLAY_QUICK_ACTION" = "Скрыть ярлыки с оверлея";
-"HIDE_OVERLAY_QUICK_ACTION_INFO" = "Не поддерживается при включенной имитации старой версии YouTube";
 "HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
 "MEDIA_CONTROLLER" = "Управление плеером";
@@ -118,9 +114,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "Возвращает прежний стиль выбора качества видео";
 "PICTURE_IN_PICTURE_PIP" = "Картинка-в-Картинке (PiP)";
 "ENABLE_PIP" = "Включить PiP";
-"ENABLE_PIP_INFO" = "add a pip Icon in overlay";
-"RETURN_YT_DISLIKE" = "Отображать дизлайки";
-"RETURN_YT_DISLIKE_INFO" = "Включить отправку данных о ваших дизлайках можно в «Общих» настройках YouTube";
+"ENABLE_PIP_INFO" = "добавить значок пипса в оверлей";
 "PLAYBACK_SPEED" = "Скорость воспроизведения";
 "PLAYBACK_SPEED_INFO" = "Добавляет дополнительные режимы воспроизведения";
 "DISABLE_AUTOPLAY_VIDEOS" = "Отключить автовоспроизведение роликов";
@@ -132,6 +126,7 @@
 "IPADOS_MODE" = "Интерфейс как в iPadOS";
 "DISABLE_DRAG_AND_DROP" = "Отключить перетаскивание";
 "HIDE_CHANNEL_CIRCLES" = "Скрыть круглые аватарки";
+"HIDE_CHANNEL_CIRCLES_INFO" = "скрыть круглые значки каналов на вкладке подписки в навигационной панели!";
 "MINI_PLAYER_ASPECT_RATIO" = "Соотношение сторон мини-плеера";
 "USE_ASPECT_RATIO" = "Заполнить экран";
 "USE_ASPECT_RATIO_INFO" = "Не совместим с мини-плеером";
@@ -230,11 +225,13 @@
 "DOWNLOADING_START" = "Загрузка...";
 "SAVED" = "Сохранено";
 "SUCCESS" = "Готово";
+"HIGH_QUALITY" = "High";
+"MEDIUM_QUALITY" = "Medium";
+"LOW_QUALITY" = "Low"
 "SELECT_VIDEO_QUALITY" = "Выберите качество";
 "NOT_SUPPORTED_FORMAT" = "Данное видео не поддерживается загрузчиком.\nПопробуйте выбрать другое качество для загрузки";
 "VIDEO" = "Видео";
 "AUDIO" = "Аудио";
-"SELECT_YOUR_OPTION" = "Выберите опцию";
 "RENAME" = "Переименовать";
 "PLAY" = "Воспроизвести";
 "SHARE" = "Поделиться";

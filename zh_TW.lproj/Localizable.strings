@@ -57,9 +57,6 @@
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "影片播放頁面";
 "HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
-"HIDE_VIDEO_DESCRIPTION" = "隱藏影片標題、詳細內容";
-"HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "隱藏影片播放器下方按鈕";
-"VIDEO_PLAYER_FEATURES_INFO" = "上方功能需要配合開啟Legacy Features功能才可作用。YouTube帳號大頭照->設定->YTKillerPlus->Legacy Features->開啟開關";
 "COMMENTS" = "留言區";
 "HIDE_COMMENTS" = "隱藏留言區";
 "HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
@@ -76,7 +73,6 @@
 "DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看？」提示";
 "DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式下底部的懸浮快速按鈕";
-"HIDE_OVERLAY_QUICK_ACTION_INFO" = "不支援Legacy Feature！";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸背後的瀏覽熱圖";
 "MEDIA_CONTROLLER" = "媒體控制器";
@@ -118,9 +114,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
-"ENABLE_PIP_INFO" = "add a pip Icon in overlay";
-"RETURN_YT_DISLIKE" = "影片不喜歡/倒讚數量顯示";
-"RETURN_YT_DISLIKE_INFO" = "請至YouTube帳號大頭照->設定->一般->Enable vote submission->開啟開關";
+"ENABLE_PIP_INFO" = "在叠加层中添加一个点子图标";
 "PLAYBACK_SPEED" = "影片播放速度";
 "PLAYBACK_SPEED_INFO" = "在懸浮齒輪按鈕->播放速度中增加更多選擇";
 "DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
@@ -132,6 +126,7 @@
 "IPADOS_MODE" = "iPadOS模式";
 "DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
 "HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
+"HIDE_CHANNEL_CIRCLES_INFO" = "在导航栏中的订阅选项卡上隐藏圆形频道图标！";
 "MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
 "USE_ASPECT_RATIO" = "使用擴張比例風格";
 "USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的迷你播放器仿iPad風格！";
@@ -230,11 +225,13 @@
 "DOWNLOADING_START" = "下載中...";
 "SAVED" = "已儲存";
 "SUCCESS" = "成功";
+"HIGH_QUALITY" = "High";
+"MEDIUM_QUALITY" = "Medium";
+"LOW_QUALITY" = "Low";
 "SELECT_VIDEO_QUALITY" = "選擇影片畫質";
 "NOT_SUPPORTED_FORMAT" = "下載器不支援此影片\n請嘗試選擇別的畫質";
 "VIDEO" = "影片";
 "AUDIO" = "音訊";
-"SELECT_YOUR_OPTION" = "請選擇欲採取動作";
 "RENAME" = "重新命名";
 "PLAY" = "播放";
 "SHARE" = "分享";

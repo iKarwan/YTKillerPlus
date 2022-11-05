@@ -18,7 +18,7 @@
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.43.1.ipa) | com.google.ios.youtube | 17.43.1 | 2.0 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.43.1.ipa) | com.google.ios.youtube | 17.43.1| 2.0 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.43.1.ipa) | com.google.ios.youtube | 17.43.1 | 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices

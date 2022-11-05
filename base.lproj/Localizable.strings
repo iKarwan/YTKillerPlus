@@ -58,9 +58,6 @@
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "video player";
 "HIDE_SUGGESTED_VIDEO" = "Hide Suggested Video";
-"HIDE_VIDEO_DESCRIPTION" = "Hide Video Description";
-"HIDE_BUTTONS_UNDER_VIDEO_PLAYER" = "Hide Buttons under VPlayer";
-"VIDEO_PLAYER_FEATURES_INFO" = "those option needs Legacy feature option in YouTube settings under general YTKillerPlus section to be enabled. in order to work...";
 "COMMENTS" = "comments";
 "HIDE_COMMENTS" = "Hide Comments";
 "HIDE_COMMENTS_PREVIEW" = "Hide Comments Review";
@@ -77,7 +74,6 @@
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
 "DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused?";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
-"HIDE_OVERLAY_QUICK_ACTION_INFO" = "not support if legacy FT is on, | YTKPlus Section!";
 "HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide HeatMap must viewed TimeLine";
 "MEDIA_CONTROLLER" = "overlay controller";
@@ -120,8 +116,6 @@
 "PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
 "ENABLE_PIP" = "Enable PiP";
 "ENABLE_PIP_INFO" = "add a pip Icon in overlay";
-"RETURN_YT_DISLIKE" = "Return YT Dislike";
-"RETURN_YT_DISLIKE_INFO" = "enable vote submission on YT Settings General";
 "PLAYBACK_SPEED" = "PlayBack Speed";
 "PLAYBACK_SPEED_INFO" = "add extra speed PlayBack options!";
 "DISABLE_AUTOPLAY_VIDEOS" = "Disable Autoplay Videos";
@@ -133,7 +127,7 @@
 "IPADOS_MODE" = "iPadOS Mode";
 "DISABLE_DRAG_AND_DROP" = "Disable Drag & Drop";
 "HIDE_CHANNEL_CIRCLES" = "Hide Subscription Icon";
-"HIDE_CHANNEL_CIRCLES_INFO" = "hide circle channel icons on subs tab in navbar!";
+"HIDE_CHANNEL_CIRCLES_INFO" = "hide circle channel icons on subs-tab in navbar!";
 "MINI_PLAYER_ASPECT_RATIO" = "mini Player aspect Ratio";
 "USE_ASPECT_RATIO" = "use Full Aspects";
 "USE_ASPECT_RATIO_INFO" = "mini Player not supported!";
@@ -232,6 +226,9 @@
 "DOWNLOADING_START" = "Downloading...";
 "SAVED" = "Saved";
 "SUCCESS" = "Success";
+"HIGH_QUALITY" = "High";
+"MEDIUM_QUALITY" = "Medium";
+"LOW_QUALITY" = "Low";
 "SELECT_VIDEO_QUALITY" = "Select Video Quality";
 "NOT_SUPPORTED_FORMAT" = "This video is not supported by the downloader\nPlease try a different download quality";
 "VIDEO" = "Video";
