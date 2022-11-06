@@ -227,7 +227,7 @@
 "SUCCESS" = "Готово";
 "HIGH_QUALITY" = "High";
 "MEDIUM_QUALITY" = "Medium";
-"LOW_QUALITY" = "Low"
+"LOW_QUALITY" = "Low";
 "SELECT_VIDEO_QUALITY" = "Выберите качество";
 "NOT_SUPPORTED_FORMAT" = "Данное видео не поддерживается загрузчиком.\nПопробуйте выбрать другое качество для загрузки";
 "VIDEO" = "Видео";

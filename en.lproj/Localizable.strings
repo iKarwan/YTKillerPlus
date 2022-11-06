@@ -72,7 +72,7 @@
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "notch devices & ipad style not supported!";
 "DISABLE_DOUBLE_TAP" = "Disable Double Tap";
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
-"DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused?";
+"DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused! Continue watch..";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide HeatMap must viewed TimeLine";
