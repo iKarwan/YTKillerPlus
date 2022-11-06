@@ -7,11 +7,11 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus:"; */
-"GLOBAL_ENABLED_SWITCH" = "global enabled switch";
+"GLOBAL_ENABLED_SWITCH" = "Global ebabler. Tap the button on top-right corner to apply any changes.";
 
 /* downloding global switch */
-"DOWNLOADING" = "Downloading:";
-"GLOBAL_DOWNLOADING_SWITCH" = "global downloading switch";
+"DOWNLOADING" = "Download Feature:";
+"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download video/audio.";
 
 /* Startup page section */
 "STARTUP_PAGE" = "Startup Page";
@@ -24,21 +24,21 @@
 "LIBRARY" = "Library";
 
 /* general section */
-"VIDEO_PLAYER" = "Video Player";
+"VIDEO_PLAYER" = "Video Player Options";
 "OVERLAY_OPTIONS" = "Overlay Options";
 "STREAM_OPTIONS" = "Stream Options";
 "IPAD_OPTIONS" = "iPad Options";
 "NAVIGATION_BAR" = "Navigation Bar";
 "SHORTS_OPTION" = "Shorts Options";
-"DOWNLOAD_OPTIONS" = "Download Options";
+"DOWNLOAD_OPTIONS" = "Extra Download Options";
 "TAB_BAR_OPTIONS" = "Tab Bar Options";
 "MISCELLANEOUS" = "Miscellaneous";
 
 /* general section switch */
 "APP_LOCK" = "App Lock";
-"LOCK_APP_VIA_PASSWORD" = "lock the app via system password!";
+"LOCK_APP_VIA_PASSWORD" = "Lock the app via system password!";
 "OLED_DARK_MODE" = "Oled Dark Mode";
-"FOLLOW_SYSTEM_APPEARANCE" = "following system appearance settings!";
+"FOLLOW_SYSTEM_APPEARANCE" = "Following system appearance settings!";
 "PLAY_IN_BACKGROUND" = "Play In Background";
 "NO_ADVERTISMENT" = "No Advertisment";
 "NO_AGE_RESTRICTION" = "No Age Restriction";
@@ -48,28 +48,28 @@
 "DISABLE_HINTS" = "Disable Hints";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Check Out Other Projects";
-"CREDITS" = "Credits";
-"SPECIAL_THANK" = "Special Thank";
-"LOCALIZATION" = "localization";
+"OTHER_TWEAKS" = "Check Out my Other Projects:";
+"CREDITS" = "Credits:";
+"SPECIAL_THANK" = "Special Thanks:";
+"LOCALIZATION" = "Localizations:";
 "DEVELOPER" = "Developer:";
 
 
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "video player";
 "HIDE_SUGGESTED_VIDEO" = "Hide Suggested Video";
-"COMMENTS" = "comments";
+"COMMENTS" = "Comments";
 "HIDE_COMMENTS" = "Hide Comments";
-"HIDE_COMMENTS_PREVIEW" = "Hide Comments Review";
-"HIDE_COMMENTS_PREVIEW_INFO" = "Hide Previews! Non spoiling the content..!";
+"HIDE_COMMENTS_PREVIEW" = "Hide Comments Preview";
+"HIDE_COMMENTS_PREVIEW_INFO" = "No more spoiler comments...!";
 "HIDE_COMMENTS_GUIDLINES" = "Hide Comment Guidlines";
-"HIDE_COMMUNITY_TEXT_INFO" = "Hide Community Guidelines txt in comments!";
+"HIDE_COMMUNITY_TEXT_INFO" = "Hide Community Guidelines at top!";
 
 
 /* overlay options section */
-"OVERLAY_SECTION" = "overlay";
+"OVERLAY_SECTION" = "Overlay";
 "SHOW_STATUS_BAR_IN_OVERLAY" = "Show StatusBar In Overlay";
-"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "notch devices & ipad style not supported!";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Notch devices & iPad style are not supported!";
 "DISABLE_DOUBLE_TAP" = "Disable Double Tap";
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
 "DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused! Continue watch..";
@@ -168,7 +168,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "hide stock YT download button!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disable Expirity downloaded videos";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "videos downloaded using stock YT downloader!";
-"DOWNLOAD_SECTION_INFO" = "those option needs Legacy feature option in YouTube settings under general YTKillerPlus section to be enabled. in order to work...";
+"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple selections of downloadable quality, please choose the upper one. 2. Local download method stores contents directly to Photo app. 3. Please invoke the overlay on video first before you start long pressing to move progress.";
 
 
 /* tabbar section */
