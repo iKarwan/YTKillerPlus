@@ -6,11 +6,11 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus："; */
-"GLOBAL_ENABLED_SWITCH" = "全域開關，啟用YTKillerPlus。";
+"GLOBAL_ENABLED_SWITCH" = "全域開關。點擊右上角按鈕來快速套用所有更動。";
 
 /* downloding global switch */
 "DOWNLOADING" = "下載功能：";
-"GLOBAL_DOWNLOADING_SWITCH" = "下載功能全域開關";
+"GLOBAL_DOWNLOADING_SWITCH" = "在影片內增加一個懸浮的下載按鈕";
 
 /* Startup page section */
 "STARTUP_PAGE" = "YouTube啟動頁面";
@@ -29,7 +29,7 @@
 "IPAD_OPTIONS" = "仿iPad風格選項";
 "NAVIGATION_BAR" = "頂部導航欄選項";
 "SHORTS_OPTION" = "Shorts選項";
-"DOWNLOAD_OPTIONS" = "下載功能選項";
+"DOWNLOAD_OPTIONS" = "額外下載功能選項";
 "TAB_BAR_OPTIONS" = "底部標籤欄選項";
 "MISCELLANEOUS" = "其他功能";
 
@@ -49,8 +49,8 @@
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
 "CREDITS" = "鳴謝：";
-"SPECIAL_THANK" = "Special Thank";
-"LOCALIZATION" = "localization";
+"SPECIAL_THANK" = "特別感謝：";
+"LOCALIZATION" = "在地翻譯：";
 "DEVELOPER" = "開發者：";
 
 
@@ -60,7 +60,7 @@
 "COMMENTS" = "留言區";
 "HIDE_COMMENTS" = "隱藏留言區";
 "HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
-"HIDE_COMMENTS_PREVIEW_INFO" = "不再受暴雷仔困擾！！";
+"HIDE_COMMENTS_PREVIEW_INFO" = "不再受暴雷留言困擾！！";
 "HIDE_COMMENTS_GUIDLINES" = "隱藏留言區社群規範提醒";
 "HIDE_COMMUNITY_TEXT_INFO" = "讓你發布留言時可以不用尊重他人(誤";
 
@@ -72,13 +72,13 @@
 "DISABLE_DOUBLE_TAP" = "停用點兩下";
 "DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看？」提示";
 "DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
-"HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式下底部的懸浮快速按鈕";
+"HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
-"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸背後的瀏覽熱圖";
+"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸後方的瀏覽熱圖(Heatmap)";
 "MEDIA_CONTROLLER" = "媒體控制器";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
 "SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
-"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏觸發懸浮時的黑色背景";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏懸浮控制鈕畫面的黑色毛玻璃背景";
 "KEEP_CAPTION_ON" = "保持字幕功能開啟";
 "KEEP_CAPTION_ON_INFO" = "播放影片時自動顯示字幕";
 "PREVIUOS_AND_NEXT_BUTTON" = "上一部和下一部影片按鈕";
@@ -103,7 +103,7 @@
 "HIDE_ENDSCREEN_VIDEOS" = "隱藏片尾的超連結影片";
 "HIDE_RELATED_VIDEOS" = "隱藏相關影片";
 "HIDE_LANDSCAPE_COMMENTS" = "隱藏橫向模式留言區";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "隱藏轉橫向模式時自動展開的留言區(橫向時的手動開啟也會失效)";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "自動展開與手動開啟橫向留言區功能皆會失效！";
 "SHOW_PROGRESS_BAR" = "在橫向模式保持顯示時間軸/進度條";
 "SHOW_PROGRESS_BAR_INFO" = "上滑顯示相關影片將會失效";
 
@@ -114,7 +114,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
-"ENABLE_PIP_INFO" = "在叠加层中添加一个点子图标";
+"ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
 "PLAYBACK_SPEED" = "影片播放速度";
 "PLAYBACK_SPEED_INFO" = "在懸浮齒輪按鈕->播放速度中增加更多選擇";
 "DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
@@ -126,7 +126,7 @@
 "IPADOS_MODE" = "iPadOS模式";
 "DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
 "HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
-"HIDE_CHANNEL_CIRCLES_INFO" = "在导航栏中的订阅选项卡上隐藏圆形频道图标！";
+"HIDE_CHANNEL_CIRCLES_INFO" = "訂閱內容->頂部導航欄下方的已訂閱頻道圓形按鈕";
 "MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
 "USE_ASPECT_RATIO" = "使用擴張比例風格";
 "USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的迷你播放器仿iPad風格！";
@@ -139,13 +139,13 @@
 "STATUS_BAR" = "狀態欄";
 "HIDE_STATUS_BAR" = "隱藏狀態欄";
 "CHANNEL_SECTIONS" = "頻道頁面";
-"STICKY_NAV_BAR" = "固定頂部導航欄";
+"STICKY_NAV_BAR" = "隱藏頻道頁面頂部的分類欄";
 "HIDE_ITEMS_NAV_BAR" = "隱藏頂部導航欄項目";
 "HIDE_YT_LOGO" = "隱藏YouTube Logo";
 "HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
 "HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕";
-"HIDE_ACCOUNT" = "隱藏帳號";
-"HIDE_SEARCH" = "隱藏搜尋";
+"HIDE_ACCOUNT" = "隱藏帳號按鈕";
+"HIDE_SEARCH" = "隱藏搜尋按鈕";
 "HIDE_CAST_BUTTON" = "隱藏投放按鈕";
 
 
@@ -161,19 +161,19 @@
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "下載功能";
-"LOCAL_DOWNLOADING" = "Local下載模式(與懸浮下載按鈕方式不同)";
-"LOCAL_DOWNLOADING_INFO" = "在播放中影片上長按觸發下載選單，影片直接儲存至照片App。(若有重複畫質選項請優先選擇較上方的選項)";
+"DOWNLOAD_SECTION" = "額外下載功能";
+"LOCAL_DOWNLOADING" = "Local下載模式";
+"LOCAL_DOWNLOADING_INFO" = "在播放中影片上長按以觸發下載選單";
 "HIDE_DOWNLOAD_BUTTON" = "隱藏下載按鈕";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏YouTube原生的下載按鈕";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "防止已下載影片過期";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用於YouTube原生功能所下載的影片";
-"DOWNLOAD_SECTION_INFO" = "上方功能需要配合開啟Legacy Features功能才可作用。YouTube帳號大頭照->設定->YTKillerPlus->Legacy Features->開啟開關";
+"DOWNLOAD_SECTION_INFO" = "註：1. 若有重複畫質選項請優先選擇較上方的選項。2. Local下載方式與懸浮下載按鈕方式不同，將直接儲存至照片App內。3. 請先觸發懸浮控制鈕畫面後再長按影片來使用原生拖移進度功能。";
 
 
 /* tabbar section */
 "TAB_BAR_SECTION" = "底部標籤欄";
-"TABS_SHRINKED_BUTTOM" = "縮減底部空格(到底)";
+"TABS_SHRINKED_BUTTOM" = "縮減底部空格(至底)";
 "TABS_SHRINKED_SMART" = "縮減底部空格(智慧)";
 "DISABLE_CREATE_BUTTON" = "停用製作(+)功能";
 "HIDE_TAB_LABELS" = "隱藏標籤名稱";
@@ -197,9 +197,9 @@
 "HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
 "HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
 "ENABLE_MINI_PLAYER_VIDEOS" = "廣泛使用迷你播放器";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "使兒童影片也能使用迷你播放器";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "讓兒童影片也能使用迷你播放器";
 "HIDE_HUD_ALERTS" = "去除動作提示窗";
-"HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等";
+"HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等。";
 "CLEAN_SHARE_SHEET" = "簡潔的分享選單(移除取消按鈕)";
 "ALLOWED_ALL_COMMENTS" = "允許所有留言";
 "HIDE_LINE_SEPERATOR" = "隱藏分割線條(媒體庫)";
@@ -211,25 +211,25 @@
 "HIDE_PLAYLIST" = "隱藏播放清單";
 "PLAYLIST_INFO" = "不支援仿iPad風格";
 "HIDE_COVID_NEWS" = "隱藏COVID-19警示";
-"COVID_NEWS_INFO" = "在首頁隱藏COVID-19警示區塊";
-"HIDE_FILTER_TAGS" = "隱藏過濾器標籤(相關內容、直播中、合輯、已觀看等)";
+"COVID_NEWS_INFO" = "在首頁隱藏COVID-19疫情提醒區塊";
+"HIDE_FILTER_TAGS" = "隱藏過濾器按鈕(直播中、合輯、遊戲等)";
 
 
 /* global action title */
 "OK" = "OK";
-"YES" = "Yes";
-"NO" = "No";
+"YES" = "是";
+"NO" = "否";
 "CANCEL" = "取消";
 "DISMISS" = "撤銷";
 "DELETED" = "已刪除";
-"DOWNLOADING_START" = "下載中...";
-"SAVED" = "已儲存";
-"SUCCESS" = "成功";
-"HIGH_QUALITY" = "High";
-"MEDIUM_QUALITY" = "Medium";
-"LOW_QUALITY" = "Low";
-"SELECT_VIDEO_QUALITY" = "選擇影片畫質";
-"NOT_SUPPORTED_FORMAT" = "下載器不支援此影片\n請嘗試選擇別的畫質";
+"DOWNLOADING_START" = "下載中⏳";
+"SAVED" = "已儲存!";
+"SUCCESS" = "成功!";
+"HIGH_QUALITY" = "高品質";
+"MEDIUM_QUALITY" = "中品質";
+"LOW_QUALITY" = "低品質";
+"SELECT_VIDEO_QUALITY" = "請選擇影片畫質";
+"NOT_SUPPORTED_FORMAT" = "下載器目前不支援此影片\n請嘗試選擇別的畫質";
 "VIDEO" = "影片";
 "AUDIO" = "音訊";
 "RENAME" = "重新命名";
@@ -241,7 +241,7 @@
 "SAVE_TO_PHOTOS" = "儲存到照片App";
 "ARE_YOU_SURE" = "你確定嗎？";
 "NOTE" = "Noting!";
-"SAVE_FAILED" = "儲存失敗！";
+"SAVE_FAILED" = "儲存失敗!";
 "SAVE_TO_PHOTOS_FAILED" = "無法儲存到照片\n請在設定App中確認是否有給予YouTube照片的取用權限";
 "DELETING_VIDEO" = "確定要刪除影片嗎？";
 "DELETING_AUDIO" = "確定要刪除音訊嗎？";
@@ -265,17 +265,17 @@
 "COPY_UUID" = "複製您的UUID";
 "COPIED_UUID" = "已複製";
 "UUID_ACTIVATION_INFO" = "啟用授權資訊";
-"CANCEL_SENDING" = "取消发送";
+"CANCEL_SENDING" = "取消傳送";
 "CANCELED_SENDING" = "已取消";
-"ACTIVATION_ERROR" = "啟用錯誤！";
-"ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！ 😭 嵰 請聯繫開發者以獲得更多資訊！";
+"ACTIVATION_ERROR" = "啟用錯誤!";
+"ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！😭 請聯繫開發者以獲得更多資訊！";
 "CONTACT_DEVELPER" = "聯絡開發者！";
 "DISMISS_SEND" = "撤銷傳送";
 
 "WELCOME_ACTIVATION_INFO" = "\n[ 為什麼需要提供UUID？ ] \n 此插體需要和授權伺服器連接以啟用，所以需要網路連線。\n\n [ 如何啟用？ ] \n 請點擊上方的齒輪圖示來獲取如何啟用授權的資訊。\n\n [ 傳送您的UUID ] \n 成功購買授權之後，請您務必傳送UUID來向伺服器啟用您的授權。\n 點擊複製您的UUID按鈕後，您便可以利用電子信箱傳送您的UUID \n\n [ 從YoutubeKiller用戶升級 ] \n 成功購買授權之後，請您一併傳送舊的UDID(來自YoutubeKiller) 和新的UUID(來自YTKillerPlus)，伺服器將會幫您啟用授權。";
 
 "SEND_UUID" = "傳送您的UUID以註冊！";
-"SEND_UUID_AND_PROOF" = "請傳送帶有付費證明的截圖或照片來啟用授權！請在下方貼上您的UUID。賤鴌 \n\n 我的UUID是:";
+"SEND_UUID_AND_PROOF" = "請傳送帶有付費證明的截圖或照片來啟用授權！請在下方貼上您的UUID。\n\n 我的UUID是:";
 "WELCOME_MESSAGE" = "歡迎使用YTKillerPlus 2.0版本！";
 
 
