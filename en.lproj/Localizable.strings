@@ -72,7 +72,7 @@
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Notch devices & iPad style are not supported!";
 "DISABLE_DOUBLE_TAP" = "Disable Double Tap";
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
-"DISABLE_CONTINUE_WATCHING_INFO" = "when play a long video paused! Continue watch..";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Appears when you watch a long vedio.";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide HeatMap must viewed TimeLine";
@@ -104,9 +104,9 @@
 "HIDE_ENDSCREEN_VIDEOS" = "Hide EndScreen Videos";
 "HIDE_RELATED_VIDEOS" = "Hide Related Videos";
 "HIDE_LANDSCAPE_COMMENTS" = "Hide LandScape comments";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "disable comments view on fullscreen mode!";
-"SHOW_PROGRESS_BAR" = "Show Progress Bar";
-"SHOW_PROGRESS_BAR_INFO" = "always show progress bar in landscape mode!";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Comment section will be disabled throughly in landscape.";
+"SHOW_PROGRESS_BAR" = "Keep Showing Progress Bar in Landscape";
+"SHOW_PROGRESS_BAR_INFO" = "Swipe to show related videos will be disabled.";
 
 
 /* streaming section */
@@ -126,21 +126,21 @@
 "IPAD_SECION" = "iPad Mode";
 "IPADOS_MODE" = "iPadOS Mode";
 "DISABLE_DRAG_AND_DROP" = "Disable Drag & Drop";
-"HIDE_CHANNEL_CIRCLES" = "Hide Subscription Icon";
-"HIDE_CHANNEL_CIRCLES_INFO" = "hide circle channel icons on subs-tab in navbar!";
-"MINI_PLAYER_ASPECT_RATIO" = "mini Player aspect Ratio";
-"USE_ASPECT_RATIO" = "use Full Aspects";
-"USE_ASPECT_RATIO_INFO" = "mini Player not supported!";
-"MINI_PLAYER" = "mini Player";
-"REDEFIND_MINI_PLAYER" = "Redefind mini Player";
-"MINI_PLAYER_IPAD_MODE" = "mini Player iPad Mode";
+"HIDE_CHANNEL_CIRCLES" = "Hide Circle Channel Icons";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Subscription -> Channel icons below navigation bar.";
+"MINI_PLAYER_ASPECT_RATIO" = "Aspect Ratio mini Player";
+"USE_ASPECT_RATIO" = "Use Full Aspects";
+"USE_ASPECT_RATIO_INFO" = "Doesn't support iPad mini Player styles below.";
+"MINI_PLAYER" = "iPad style mini Player";
+"REDEFIND_MINI_PLAYER" = "mini Player at middle";
+"MINI_PLAYER_IPAD_MODE" = "mini Player at right";
 
 
 /* navbar section */
 "STATUS_BAR" = "Status Bar";
 "HIDE_STATUS_BAR" = "Hide Status Bar";
-"CHANNEL_SECTIONS" = "channel Sections";
-"STICKY_NAV_BAR" = "hide Categories In Nav Bar";
+"CHANNEL_SECTIONS" = "Channel Sections";
+"STICKY_NAV_BAR" = "Hide Categories below Navigation Bar in channel";
 "HIDE_ITEMS_NAV_BAR" = "Hide Items";
 "HIDE_YT_LOGO" = "Hide YT Logo";
 "HIDE_NOTIFICATIONS_BILL" = "Hide Notification 🔕";
@@ -161,8 +161,8 @@
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "download options";
-"LOCAL_DOWNLOADING" = "Local Downloading..";
+"DOWNLOAD_SECTION" = "Extra Download options";
+"LOCAL_DOWNLOADING" = "Local Download Mode";
 "LOCAL_DOWNLOADING_INFO" = "long press on video | saving directly to photos!";
 "HIDE_DOWNLOAD_BUTTON" = "Hide Download Button";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "hide stock YT download button!";
