@@ -9,7 +9,7 @@
 "GLOBAL_ENABLED_SWITCH" = "全域開關。點擊右上角按鈕來快速套用所有更動。";
 
 /* downloding global switch */
-"DOWNLOADING" = "下載功能：";
+"DOWNLOADING" = "下載功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "在影片內增加一個懸浮的下載按鈕";
 
 /* Startup page section */
@@ -212,7 +212,7 @@
 "PLAYLIST_INFO" = "不支援仿iPad風格";
 "HIDE_COVID_NEWS" = "隱藏COVID-19警示";
 "COVID_NEWS_INFO" = "在首頁隱藏COVID-19疫情提醒區塊";
-"HIDE_FILTER_TAGS" = "隱藏過濾器按鈕(直播中、合輯、遊戲等)";
+"HIDE_FILTER_TAGS" = "隱藏主題過濾器(直播中、合輯、遊戲等)";
 
 
 /* global action title */
