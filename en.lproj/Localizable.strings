@@ -37,7 +37,7 @@
 /* general section switch */
 "APP_LOCK" = "App Lock";
 "LOCK_APP_VIA_PASSWORD" = "Lock the app via system password!";
-"OLED_DARK_MODE" = "Oled Dark Mode";
+"OLED_DARK_MODE" = "OLED Dark Mode";
 "FOLLOW_SYSTEM_APPEARANCE" = "Following system appearance settings!";
 "PLAY_IN_BACKGROUND" = "Play In Background";
 "NO_ADVERTISMENT" = "No Advertisment";
@@ -259,7 +259,7 @@
 /* license activation section */
 "YOUR_UUID_IS" = "Your UUID is: %@";
 "THANKS" = "Thanks";
-"ACTIVATED_SUCCESS" = "Your license is activated successfully 😊. Enjoy the most advanced experience of Youtube!";
+"ACTIVATED_SUCCESS" = "Your license is activated successfully 😊. Enjoy the most advanced experience of YouTube!";
 "NOT_LICENSED_YET" = "You don't have a license yet ☹️";
 "BUY_LICENSE" = "Buy License";
 "UPGRADE_FROM_YTKILLER" = "Upgrade From YouTubeKiller";
