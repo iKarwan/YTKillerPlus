@@ -256,7 +256,7 @@
 
 
 /* license activation section */
-"YOUR_UUID_IS" = "您的UUID is: %@";
+"YOUR_UUID_IS" = "您的UUID如下: %@";
 "THANKS" = "謝謝";
 "ACTIVATED_SUCCESS" = "成功啟用您的授權！盡情享受您的進階YouTube體驗！😊";
 "NOT_LICENSED_YET" = "您尚未擁有授權☹️";
