@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus："; */
+/* "YTK_PLUS" = "YTKillerPlus:"; */
 "GLOBAL_ENABLED_SWITCH" = "全域開關。點擊右上角按鈕來快速套用所有更動。";
 
 /* downloding global switch */
@@ -115,8 +115,8 @@
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
 "ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
-"PLAYBACK_SPEED" = "影片播放速度";
-"PLAYBACK_SPEED_INFO" = "在懸浮齒輪按鈕->播放速度中增加更多選擇";
+"PLAYBACK_SPEED" = "增加影片播放速度選擇";
+"PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕->播放速度";
 "DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
 "PLAY_HD_VIDEOS_OVER_CELLULAR" = "在3G/4G/5G環境下播放高畫質HD影片";
 
