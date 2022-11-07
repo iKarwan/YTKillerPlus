@@ -6,7 +6,7 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus:"; */
-"GLOBAL_ENABLED_SWITCH" = "全域開關。點擊右上角按鈕來快速套用所有更動。";
+"GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
 "DOWNLOADING" = "下載功能";
@@ -116,7 +116,7 @@
 "ENABLE_PIP" = "啟用子母畫面";
 "ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
 "PLAYBACK_SPEED" = "增加影片播放速度選擇";
-"PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕->播放速度";
+"PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕 -> 播放速度";
 "DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
 "PLAY_HD_VIDEOS_OVER_CELLULAR" = "在3G/4G/5G環境下播放高畫質HD影片";
 
@@ -126,7 +126,7 @@
 "IPADOS_MODE" = "iPadOS模式";
 "DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
 "HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
-"HIDE_CHANNEL_CIRCLES_INFO" = "訂閱內容->頂部導航欄下方的已訂閱頻道圓形按鈕";
+"HIDE_CHANNEL_CIRCLES_INFO" = "訂閱內容 -> 頂部導航欄下方的已訂閱頻道圓形按鈕";
 "MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
 "USE_ASPECT_RATIO" = "使用擴張比例風格";
 "USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的迷你播放器仿iPad風格！";
