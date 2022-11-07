@@ -77,8 +77,8 @@
 "HIDE_PLAYERBAR_WAVE" = "Hide Playerbar Wave";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide most viewed Heatmap behind Timeline";
 "MEDIA_CONTROLLER" = "overlay controller";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "Show Overlay Controller Smart";
-"SHOW_MEDIA_CONTROLLER" = "Always Show Overlay Controller";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Always Show Play/Pause Button";
+"SHOW_MEDIA_CONTROLLER" = "Always Show All Overlay Controllers";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
 "KEEP_CAPTION_ON" = "Keep Caption On";
 "KEEP_CAPTION_ON_INFO" = "Automatically display captions when start playing videos";
