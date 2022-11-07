@@ -7,10 +7,10 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus:"; */
-"GLOBAL_ENABLED_SWITCH" = "Tap the button on top-right corner to apply any changes.";
+"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply any changes.";
 
 /* downloding global switch */
-"DOWNLOADING" = "Download Feature:";
+"DOWNLOADING" = "Download Feature";
 "GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download video/audio.";
 
 /* Startup page section */
@@ -72,20 +72,20 @@
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Notch devices & iPad style are not supported!";
 "DISABLE_DOUBLE_TAP" = "Disable Double Tap";
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
-"DISABLE_CONTINUE_WATCHING_INFO" = "Appears when you watch a very long vedio.";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Appears when you watch a very very long vedio.";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
-"HIDE_PLAYERBAR_WAVE" = "Hide PlayerBar Wave";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Hide most viewed Heatmap behind TimeLine";
+"HIDE_PLAYERBAR_WAVE" = "Hide Playerbar Wave";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Hide most viewed Heatmap behind Timeline";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Show Overlay Controller Smart";
 "SHOW_MEDIA_CONTROLLER" = "Always Show Overlay Controller";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
 "KEEP_CAPTION_ON" = "Keep Caption On";
-"KEEP_CAPTION_ON_INFO" = "Automatically display caption when playing videos";
+"KEEP_CAPTION_ON_INFO" = "Automatically display captions when start playing videos";
 "PREVIUOS_AND_NEXT_BUTTON" = "previuos & next Button";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Disable Previous & Next Button";
 "PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Compacted Previous & Next Button";
-"PLAYER_BAR_NEXT_BUTTON" = "Next Button At Player Bar";
+"PLAYER_BAR_NEXT_BUTTON" = "Add Next Button to Playerbar";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Hide Previous & Next Button";
 "HIDE_BACK_BUTTON_SHADOW" = "Hide Previous & Next Button Shadow";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Replace Previous & Next Button";
@@ -115,7 +115,7 @@
 "LEGACY_QUALITY_MODE_INFO" = "Revert back the old quality selection!";
 "PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
 "ENABLE_PIP" = "Enable PIP Feature";
-"ENABLE_PIP_INFO" = "Add a PIP Icon in overlay";
+"ENABLE_PIP_INFO" = "Add a PIP Icon in video overlay";
 "PLAYBACK_SPEED" = "Add Extra Playback Speed Options";
 "PLAYBACK_SPEED_INFO" = "Video overlay -> Gear button -> Playback speed";
 "DISABLE_AUTOPLAY_VIDEOS" = "Disable Autoplay Videos";
@@ -139,8 +139,8 @@
 /* navbar section */
 "STATUS_BAR" = "Status Bar";
 "HIDE_STATUS_BAR" = "Hide Status Bar";
-"CHANNEL_SECTIONS" = "Channel Sections";
-"STICKY_NAV_BAR" = "Hide Categories below Navigation Bar in channel";
+"CHANNEL_SECTIONS" = "In Channel Section";
+"STICKY_NAV_BAR" = "Hide Categories below Navigation Bar";
 "HIDE_ITEMS_NAV_BAR" = "Hide Items";
 "HIDE_YT_LOGO" = "Hide YT Logo";
 "HIDE_NOTIFICATIONS_BILL" = "Hide Notification 🔕";
@@ -168,7 +168,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Hide stock YT download button!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disable Expirity Downloaded Videos";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Videos downloaded using stock YT downloader!";
-"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple but same qualities, please choose the upper one. 2. Local download method stores contents directly to Photo app. 3. Please invoke the overlay on video first before you start long pressing to move progress.";
+"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple same qualities, please choose the upper one. 2. Local download stores contents directly to Photo app. 3. Invoke the overlay on video first before you start long pressing to move progress.";
 
 
 /* tabbar section */
@@ -193,13 +193,13 @@
 "USE_STOCK_VOLUME_HUD_INFO" = "Only works in landscape";
 "HIDE_SEARCHED_HISTORY" = "Hide Searched History";
 "NOT_TOPIC_SECTION" = "No Topic Section";
-"HIDE_PREMIUM_POPUP" = "Hide Premium Popup";
-"HIDE_YT_UPDATE_POPUP" = "Hide YT Update Popup";
+"HIDE_PREMIUM_POPUP" = "Hide Premium Pop-Up";
+"HIDE_YT_UPDATE_POPUP" = "Hide YT Update Pop-Up";
 "HIDE_YT_UPDATE_POPUP_INFO" = "The annoying force update/quit the app alert!";
 "ENABLE_MINI_PLAYER_VIDEOS" = "Enable Mini Player For All Videos";
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
-"HIDE_HUD_ALERTS_INFO" = "Hide all pop up alerts like disliking/children videos";
+"HIDE_HUD_ALERTS_INFO" = "Hide all pop-up alerts like disliking/children videos";
 "CLEAN_SHARE_SHEET" = "Clean Share Sheet";
 "ALLOWED_ALL_COMMENTS" = "Allowed All Comments";
 "HIDE_LINE_SEPERATOR" = "Hide Line Seperators In Library";
@@ -209,10 +209,10 @@
 "DARK_KEYBOARDS" = "Dark Mode Keyboard";
 "OTHERS" = "Home Feed";
 "HIDE_PLAYLIST" = "Hide PlayList";
-"PLAYLIST_INFO" = "ipad style not supported!";
+"PLAYLIST_INFO" = "iPad style is not supported!";
 "HIDE_COVID_NEWS" = "Hide Covid & News";
 "COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
-"HIDE_FILTER_TAGS" = "Hide Filter Tags";
+"HIDE_FILTER_TAGS" = "Hide Topic Filters At The Top";
 
 
 
@@ -249,7 +249,7 @@
 
 
 /* download manager section */
-"DOWNLOAD_MANAGER" = "Downloads";
+"DOWNLOAD_MANAGER" = "Download Manager";
 "VIDEO_TAB_BAR" = "Video";
 "AUDIO_TAB_BAR" = "Audio";
 "SHORTS_TAB_BAR" = "Shorts";
