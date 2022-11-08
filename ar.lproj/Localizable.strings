@@ -75,6 +75,8 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "إخفاء الأزرار في مشغل الفيديو";
 "HIDE_PLAYERBAR_WAVE" = "إخفاء شريط المتابعة";
 "HIDE_PLAYERBAR_WAVE_INFO" = "إخفاء خريطة الحرارية الأكثر مشاهدة. الجدول الزمني";
+"SWIPE_TO_HIDE_PANEL" = "اسحب لإخفاء عرض اللوحة";
+"SWIPE_TO_HIDE_PANEL_INFO" = "اسحب من يسار لليمين عند عرض اللوحات فـ وضع ملء الشاشة";
 "MEDIA_CONTROLLER" = "أدوات التحكم بمشغل الفيديو";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "إظهار وحدة تحكم التراكب الذكية";
 "SHOW_MEDIA_CONTROLLER" = "دائما اظهر ازرار التحكم";
@@ -109,12 +111,15 @@
 
 
 /* streaming section */
-"STREAMING_SECTION" = "البث";
 "LEGACY_QUALITY_MODE" = "الجودة بـ مظهره القديم";
 "LEGACY_QUALITY_MODE_INFO" = "اعادة مظهر اختيار الجودة الى مظهره القديم";
 "PICTURE_IN_PICTURE_PIP" = "صورة في صورة (PiP)";
 "ENABLE_PIP" = "تفعيل PiP";
 "ENABLE_PIP_INFO" = "إضافة أيقونة PiP داخل مشغل الفيديو";
+"DOUBLE_TAP" = "ضغطتين للأمام والرجوع";
+"CUSTOM_SKIP_DURATION" = "تخصيص مدة التخطي";
+"VALUE_CHANGES" = "ثواني: %.lf";
+"STREAMING_SECTION" = "البث";
 "PLAYBACK_SPEED" = "سرعة التشغيل";
 "PLAYBACK_SPEED_INFO" = "إضافة خيارات أخرى لسرعة التشغيل";
 "DISABLE_AUTOPLAY_VIDEOS" = "تعطيل تشغيل الفيديوهات تلقائيا";
@@ -176,6 +181,8 @@
 "TABS_SHRINKED_SMART" = "تقليص علامات التبويب (ذكي)";
 "DISABLE_CREATE_BUTTON" = "تعطيل زر رفع الفيديو";
 "HIDE_TAB_LABELS" = "إخفاء عناوين الإزرار السفلية";
+"PREVENT_OPEN_IN_SHORTS" = "عدم الفتح في Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "يحدث بعد اغلاق YT أثناء تواجدها في علامة تبويب الـShorts!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "إستبدال زر Shorts بزر الإكتشاف";
 "HIDE_TABS" = "إخفاء الأزرار";
 "HIDE_EXPLORE_TAB" = "إخفاء الإكتشاف";

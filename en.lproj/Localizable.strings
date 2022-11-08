@@ -7,11 +7,11 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus:"; */
-"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply any changes.";
+"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
 "DOWNLOADING" = "Download Feature";
-"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download video/audio.";
+"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download Media.";
 
 /* Startup page section */
 "STARTUP_PAGE" = "Startup Page";
@@ -76,12 +76,14 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
 "HIDE_PLAYERBAR_WAVE" = "Hide Playerbar Wave";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Hide most viewed Heatmap behind Timeline";
+"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel view";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on FS panels view";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Always Show Play/Pause Button";
 "SHOW_MEDIA_CONTROLLER" = "Always Show All Overlay Controllers";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Hide Dark Overlay Background";
 "KEEP_CAPTION_ON" = "Keep Caption On";
-"KEEP_CAPTION_ON_INFO" = "Automatically display captions when start playing videos";
+"KEEP_CAPTION_ON_INFO" = "Automatically display captions when playing videos";
 "PREVIUOS_AND_NEXT_BUTTON" = "previuos & next Button";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Disable Previous & Next Button";
 "PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Compacted Previous & Next Button";
@@ -103,19 +105,22 @@
 "HIDE_CAST_BUTTON" = "Hide Cast Button";
 "HIDE_ENDSCREEN_VIDEOS" = "Hide EndScreen Videos";
 "HIDE_RELATED_VIDEOS" = "Hide Related Videos";
-"HIDE_LANDSCAPE_COMMENTS" = "Hide LandScape Comments";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "Comment section will be disabled entirely in landscape";
-"SHOW_PROGRESS_BAR" = "Keep Showing Progress Bar In Landscape";
+"HIDE_LANDSCAPE_COMMENTS" = "Disable LS Comment Section";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Comment section will be disabled entirely in LS";
+"SHOW_PROGRESS_BAR" = "Keep Showing Progress Bar In LS";
 "SHOW_PROGRESS_BAR_INFO" = "Swipe to show related videos will be disabled";
 
 
 /* streaming section */
-"STREAMING_SECTION" = "Streaming";
 "LEGACY_QUALITY_MODE" = "Legacy Quality Mode";
 "LEGACY_QUALITY_MODE_INFO" = "Revert back the old quality selection!";
 "PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
 "ENABLE_PIP" = "Enable PIP Feature";
 "ENABLE_PIP_INFO" = "Add a PIP Icon in video overlay";
+"DOUBLE_TAP" = "Double Tap Options";
+"CUSTOM_SKIP_DURATION" = "Custom Skip Duration";
+"VALUE_CHANGES" = "Seconds: %.lf";
+"STREAMING_SECTION" = "Streaming";
 "PLAYBACK_SPEED" = "Add Extra Playback Speed Options";
 "PLAYBACK_SPEED_INFO" = "Video overlay -> Gear button -> Playback speed";
 "DISABLE_AUTOPLAY_VIDEOS" = "Disable Autoplay Videos";
@@ -177,6 +182,8 @@
 "TABS_SHRINKED_SMART" = "Tabs Shrinked (Smart)";
 "DISABLE_CREATE_BUTTON" = "Disable Create (+)";
 "HIDE_TAB_LABELS" = "Hide Tab Labels";
+"PREVENT_OPEN_IN_SHORTS" = "Prevent Launch In Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Replace Shorts With Explore";
 "HIDE_TABS" = "Hide Tabs";
 "HIDE_EXPLORE_TAB" = "Hide Explore";

@@ -75,6 +75,8 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "Скрыть ярлыки с оверлея";
 "HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
+"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel view";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on fullscreen panels view";
 "MEDIA_CONTROLLER" = "Управление плеером";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Отображать умное управление оверлеем"; //have no idea what is this
 "SHOW_MEDIA_CONTROLLER" = "Отображать кнопки управления плеером";
@@ -109,12 +111,15 @@
 
 
 /* streaming section */
-"STREAMING_SECTION" = "Воспроизведение";
 "LEGACY_QUALITY_MODE" = "Старый выбор качества";
 "LEGACY_QUALITY_MODE_INFO" = "Возвращает прежний стиль выбора качества видео";
 "PICTURE_IN_PICTURE_PIP" = "Картинка-в-Картинке (PiP)";
 "ENABLE_PIP" = "Включить PiP";
 "ENABLE_PIP_INFO" = "добавить значок пипса в оверлей";
+"DOUBLE_TAP" = "Double Tap Options";
+"CUSTOM_SKIP_DURATION" = "Custom Skip Duration";
+"VALUE_CHANGES" = "Seconds: %.lf";
+"STREAMING_SECTION" = "Воспроизведение";
 "PLAYBACK_SPEED" = "Скорость воспроизведения";
 "PLAYBACK_SPEED_INFO" = "Добавляет дополнительные режимы воспроизведения";
 "DISABLE_AUTOPLAY_VIDEOS" = "Отключить автовоспроизведение роликов";
@@ -176,6 +181,8 @@
 "TABS_SHRINKED_SMART" = "Уменьшить нижнюю панель (Smart)";
 "DISABLE_CREATE_BUTTON" = "Скрыть кнопку «Загрузить» (+)";
 "HIDE_TAB_LABELS" = "Скрыть названия вкладок";
+"PREVENT_OPEN_IN_SHORTS" = "Prevent Launch In Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Вкладка «Навигация» вместо «Shorts»";
 "HIDE_TABS" = "Настройки вкладок";
 "HIDE_EXPLORE_TAB" = "Скрыть вкладку «Навигация»";

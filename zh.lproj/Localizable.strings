@@ -75,6 +75,8 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸後方的瀏覽熱圖(Heatmap)";
+"SWIPE_TO_HIDE_PANEL" = "滑動關閉橫向留言區";
+"SWIPE_TO_HIDE_PANEL_INFO" = "在橫向留言區塊上由左向右滑動；同時關閉懸浮介面。";
 "MEDIA_CONTROLLER" = "媒體控制器";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
 "SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
@@ -102,19 +104,22 @@
 "HIDE_CAST_BUTTON" = "隱藏投放按鈕";
 "HIDE_ENDSCREEN_VIDEOS" = "隱藏片尾的超連結影片";
 "HIDE_RELATED_VIDEOS" = "隱藏相關影片";
-"HIDE_LANDSCAPE_COMMENTS" = "隱藏橫向模式留言區";
+"HIDE_LANDSCAPE_COMMENTS" = "停用橫向模式留言區";
 "HIDE_LANDSCAPE_COMMENTS_INFO" = "自動展開與手動開啟橫向留言區功能皆會失效！";
 "SHOW_PROGRESS_BAR" = "在橫向模式保持顯示時間軸/進度條";
 "SHOW_PROGRESS_BAR_INFO" = "上滑顯示相關影片將會失效";
 
 
 /* streaming section */
-"STREAMING_SECTION" = "影片串流細節";
 "LEGACY_QUALITY_MODE" = "舊款畫質選擇模式";
 "LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
 "ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
+"DOUBLE_TAP" = "點兩下選項";
+"CUSTOM_SKIP_DURATION" = "自定義點兩下跳轉秒數";
+"VALUE_CHANGES" = "秒數: %.lf";
+"STREAMING_SECTION" = "影片串流細節";
 "PLAYBACK_SPEED" = "增加影片播放速度選擇";
 "PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕 -> 播放速度";
 "DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
@@ -177,6 +182,8 @@
 "TABS_SHRINKED_SMART" = "縮減底部空格(智慧)";
 "DISABLE_CREATE_BUTTON" = "停用製作(+)功能";
 "HIDE_TAB_LABELS" = "隱藏標籤名稱";
+"PREVENT_OPEN_IN_SHORTS" = "避免開啟YouTube時為Shorts頁面";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "上一次關閉YouTube前停留在Shorts頁面所產生的暫留";
 "REPLACE_SHORTS_WITH_EXPLORE" = "使用「探索」標籤取代Shorts標籤";
 "HIDE_TABS" = "隱藏標籤項目";
 "HIDE_EXPLORE_TAB" = "隱藏探索標籤";
