@@ -118,7 +118,8 @@
 "ENABLE_PIP_INFO" = "إضافة أيقونة PiP داخل مشغل الفيديو";
 "DOUBLE_TAP" = "ضغطتين للأمام والرجوع";
 "CUSTOM_SKIP_DURATION" = "تخصيص مدة التخطي";
-"VALUE_CHANGES" = "ثواني: %.lf";
+"VALUE_CHANGES_JB" = "ثواني: %.lf";
+"VALUE_CHANGES" = "ثواني: 10";
 "STREAMING_SECTION" = "البث";
 "PLAYBACK_SPEED" = "سرعة التشغيل";
 "PLAYBACK_SPEED_INFO" = "إضافة خيارات أخرى لسرعة التشغيل";

@@ -118,7 +118,8 @@
 "ENABLE_PIP_INFO" = "добавить значок пипса в оверлей";
 "DOUBLE_TAP" = "Double Tap Options";
 "CUSTOM_SKIP_DURATION" = "Custom Skip Duration";
-"VALUE_CHANGES" = "Seconds: %.lf";
+"VALUE_CHANGES_JB" = "Seconds: %.lf";
+"VALUE_CHANGES" = "Seconds: 10";
 "STREAMING_SECTION" = "Воспроизведение";
 "PLAYBACK_SPEED" = "Скорость воспроизведения";
 "PLAYBACK_SPEED_INFO" = "Добавляет дополнительные режимы воспроизведения";

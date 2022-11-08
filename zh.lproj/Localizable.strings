@@ -118,7 +118,8 @@
 "ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
 "DOUBLE_TAP" = "點兩下選項";
 "CUSTOM_SKIP_DURATION" = "自定義點兩下跳轉秒數";
-"VALUE_CHANGES" = "秒數: %.lf";
+"VALUE_CHANGES_JB" = "秒數: %.lf";
+"VALUE_CHANGES" = "秒數: 10";
 "STREAMING_SECTION" = "影片串流細節";
 "PLAYBACK_SPEED" = "增加影片播放速度選擇";
 "PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕 -> 播放速度";

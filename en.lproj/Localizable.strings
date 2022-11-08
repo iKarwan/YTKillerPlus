@@ -119,7 +119,8 @@
 "ENABLE_PIP_INFO" = "Add a PIP Icon in video overlay";
 "DOUBLE_TAP" = "Double Tap Options";
 "CUSTOM_SKIP_DURATION" = "Custom Skip Duration";
-"VALUE_CHANGES" = "Seconds: %.lf";
+"VALUE_CHANGES_JB" = "Seconds: %.lf";
+"VALUE_CHANGES" = "Seconds: 10";
 "STREAMING_SECTION" = "Streaming";
 "PLAYBACK_SPEED" = "Add Extra Playback Speed Options";
 "PLAYBACK_SPEED_INFO" = "Video overlay -> Gear button -> Playback speed";
