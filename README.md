@@ -49,10 +49,8 @@
 
 
 ## Updating..
-* deprecated | NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
-* deprecated | don't switch between install method as that breaks the license .
-
-* You can now duplicate or switch between installing method .
+* NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
+* don't switch between install method as that breaks the license .
 
 
 ## Localization..
