@@ -9,7 +9,7 @@
 "GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
-"DOWNLOADING" = "下載功能";
+"DOWNLOADING" = "啟用下載功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "在影片內增加一個懸浮的下載按鈕";
 
 /* Startup page section */
@@ -36,15 +36,14 @@
 /* general section switch */
 "APP_LOCK" = "鎖定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube app上鎖！";
-"OLED_DARK_MODE" = "OLED黑暗介面模式";
-"FOLLOW_SYSTEM_APPEARANCE" = "此模式遵從系統外觀模式設定";
-"PLAY_IN_BACKGROUND" = "背景播放";
+"OLED_DARK_MODE" = "OLED深色主題模式";
+"FOCUS_MODE" = "啟用專注模式";
+"PLAY_IN_BACKGROUND" = "啟用背景播放";
 "NO_ADVERTISMENT" = "去除廣告";
-"NO_AGE_RESTRICTION" = "去除年齡限制";
-"HIDE_YT_STORIES" = "隱藏YT Stories";
-"HIDE_YT_SHORTS" = "隱藏YT Shorts";
+"NO_AGE_RESTRICTION" = "去除觀看年齡限制";
+"HIDE_YT_STORIES" = "隱藏推送影片中的Stories區塊";
+"HIDE_YT_SHORTS" = "隱藏推送影片中的Shorts區塊";
 "DISABLE_CAPTIONS" = "停用字幕功能";
-"DISABLE_HINTS" = "停用Hints";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
@@ -74,7 +73,7 @@
 "DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
-"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸後方的瀏覽熱圖(Heatmap)";
+"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏滑動時間軸時出現的瀏覽熱圖(Heat Map)";
 "SWIPE_TO_HIDE_PANEL" = "滑動關閉橫向留言區";
 "SWIPE_TO_HIDE_PANEL_INFO" = "在橫向留言區塊上由左向右滑動；同時關閉懸浮介面。";
 "MEDIA_CONTROLLER" = "媒體控制器";
@@ -85,8 +84,8 @@
 "KEEP_CAPTION_ON_INFO" = "播放影片時自動顯示字幕";
 "PREVIUOS_AND_NEXT_BUTTON" = "上一部和下一部影片按鈕";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "停用上、下部影片按鈕功能";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "縮短上下部影片按鈕間距";
-"PLAYER_BAR_NEXT_BUTTON" = "時間軸右側新增下一部影片按鈕";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "縮短上、下部影片按鈕間距";
+"PLAYER_BAR_NEXT_BUTTON" = "在時間碼右側新增下一部影片按鈕";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "隱藏上、下部影片按鈕";
 "HIDE_BACK_BUTTON_SHADOW" = "隱藏上、下部影片按鈕陰影";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "取代上、下部影片按鈕";
@@ -111,8 +110,8 @@
 
 
 /* streaming section */
-"LEGACY_QUALITY_MODE" = "舊款畫質選擇模式";
-"LEGACY_QUALITY_MODE_INFO" = "使用舊款但更詳細的影片畫質選擇！";
+"LEGACY_QUALITY_MODE" = "啟用舊款畫質選擇模式";
+"LEGACY_QUALITY_MODE_INFO" = "找回舊款但更詳細的影片畫質選擇！";
 "PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
 "ENABLE_PIP" = "啟用子母畫面";
 "ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
@@ -129,16 +128,16 @@
 
 /* ipad section */
 "IPAD_SECION" = "仿iPad風格";
-"IPADOS_MODE" = "iPadOS模式";
+"IPADOS_MODE" = "啟用iPadOS模式";
 "DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
 "HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
 "HIDE_CHANNEL_CIRCLES_INFO" = "訂閱內容 -> 頂部導航欄下方的已訂閱頻道圓形按鈕";
 "MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
 "USE_ASPECT_RATIO" = "使用擴張比例風格";
-"USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的迷你播放器仿iPad風格！";
+"USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的「迷你播放器仿iPad風格」！";
 "MINI_PLAYER" = "迷你播放器仿iPad風格";
-"REDEFIND_MINI_PLAYER" = "迷你播放器置中";
-"MINI_PLAYER_IPAD_MODE" = "迷你播放器靠右";
+"REDEFIND_MINI_PLAYER" = "使用仿iPad風格：置中";
+"MINI_PLAYER_IPAD_MODE" = "使用仿iPad風格：靠右";
 
 
 /* navbar section */
@@ -157,7 +156,7 @@
 
 /* shorts section */
 "SHORTS_SECTION" = "Shorts";
-"ENABLE_PLAYER_BAR" = "啟用時間軸/進度條";
+"ENABLE_PLAYER_BAR" = "在底部啟用時間軸/進度條";
 "HIDE_ELEMNTS" = "隱藏Shorts項目";
 "HIDE_LIKE_BUTTON" = "隱藏喜歡按鈕";
 "HIDE_DISLIKE_BUTTON" = "隱藏不喜歡按鈕";
@@ -168,13 +167,13 @@
 
 /* downloading section */
 "DOWNLOAD_SECTION" = "額外下載功能";
-"LOCAL_DOWNLOADING" = "Local下載模式";
+"LOCAL_DOWNLOADING" = "啟用Local下載模式";
 "LOCAL_DOWNLOADING_INFO" = "在播放中影片上長按以觸發下載選單";
 "HIDE_DOWNLOAD_BUTTON" = "隱藏下載按鈕";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏YouTube原生的下載按鈕";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "防止已下載影片過期";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用於YouTube原生功能所下載的影片";
-"DOWNLOAD_SECTION_INFO" = "註：1. 若有重複畫質選項請優先選擇較上方的選項。2. Local下載方式與懸浮下載按鈕方式不同，將直接儲存至照片App內。3. 請先觸發懸浮控制鈕畫面後再長按影片來使用原生拖移進度功能。";
+"DOWNLOAD_SECTION_INFO" = "註：1. 若有重複畫質選項請優先選擇較上方的選項。2. Local下載方式與懸浮下載按鈕方式不同，將直接儲存至照片App內。3. 原生的長按影片拖移進度功能將會失效。";
 
 
 /* tabbar section */
@@ -183,10 +182,11 @@
 "TABS_SHRINKED_SMART" = "縮減底部空格(智慧)";
 "DISABLE_CREATE_BUTTON" = "停用製作(+)功能";
 "HIDE_TAB_LABELS" = "隱藏標籤名稱";
-"PREVENT_OPEN_IN_SHORTS" = "避免開啟YouTube時為Shorts頁面";
+"PREVENT_OPEN_IN_SHORTS" = "避免YouTube自動開啟Shorts標籤";
 "PREVENT_OPEN_IN_SHORTS_INFO" = "上一次關閉YouTube前停留在Shorts頁面所產生的暫留";
 "REPLACE_SHORTS_WITH_EXPLORE" = "使用「探索」標籤取代Shorts標籤";
 "HIDE_TABS" = "隱藏標籤項目";
+"HIDE_HOME_TAB" = "Hide Home";
 "HIDE_EXPLORE_TAB" = "隱藏探索標籤";
 "HIDE_SHORTS_TAB" = "隱藏Shorts標籤";
 "HIDE_CREATE_TAB" = "隱藏製作(+)標籤";
@@ -208,8 +208,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "讓兒童影片也能使用迷你播放器";
 "HIDE_HUD_ALERTS" = "去除動作提示窗";
 "HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等。";
-"CLEAN_SHARE_SHEET" = "簡潔的分享選單(移除取消按鈕)";
-"ALLOWED_ALL_COMMENTS" = "允許所有留言";
+"CLEAN_SHARE_SHEET" = "移除分享選單上的取消按鈕";
 "HIDE_LINE_SEPERATOR" = "隱藏分割線條(媒體庫)";
 "ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
 "DISABLE_DARK_MODE" = "停用黑暗模式";
@@ -221,7 +220,9 @@
 "HIDE_COVID_NEWS" = "隱藏COVID-19警示";
 "COVID_NEWS_INFO" = "在首頁隱藏COVID-19疫情提醒區塊";
 "HIDE_FILTER_TAGS" = "隱藏主題過濾器(直播中、合輯、遊戲等)";
-
+"FIX_SIGN_IN" = "Fix sign in";
+"FIX_SIGNIN" = "Fix Sign In To YouTube";
+"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
 
 /* global action title */
 "OK" = "OK";

@@ -9,8 +9,8 @@
 "GLOBAL_ENABLED_SWITCH" = "زر تفعيل الأداة";
 
 /* downloding global switch */
-"DOWNLOADING" = "[التحميل]";
-"GLOBAL_DOWNLOADING_SWITCH" = "تفعيل زر التحميل";
+"DOWNLOADING" = "[التنزيل]";
+"GLOBAL_DOWNLOADING_SWITCH" = "تفعيل زر التنزيل";
 
 /* Startup page section */
 "STARTUP_PAGE" = "صفحة البداية";
@@ -35,16 +35,15 @@
 
 /* general section switch */
 "APP_LOCK" = "قفل التطبيق";
-"LOCK_APP_VIA_PASSWORD" = "قفل التطبيق بكلمة مرور الجهاز";
+"LOCK_APP_VIA_PASSWORD" = "بكلمة مرور الجهاز";
 "OLED_DARK_MODE" = "الوضع الليلي الداكن";
-"FOLLOW_SYSTEM_APPEARANCE" = "المطابقة وفقا لوضع النظام";
+"FOCUS_MODE" = "تفعيل وضع التركيز";
 "PLAY_IN_BACKGROUND" = "التشغيل في الخلفية";
 "NO_ADVERTISMENT" = "إزالة الإعلانات";
 "NO_AGE_RESTRICTION" = "إزالة تقييد المحتوى العمري";
 "HIDE_YT_STORIES" = "إخفاء الستوري";
 "HIDE_YT_SHORTS" = "إخفاء Shorts";
 "DISABLE_CAPTIONS" = "تعطيل الترجمة التوضيحية";
-"DISABLE_HINTS" = "تعطيل الإقتراحات";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "إطلع على المشاريع الإخرى";
@@ -166,14 +165,14 @@
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "خيارات التحميل";
-"LOCAL_DOWNLOADING" = "تحميل";
+"DOWNLOAD_SECTION" = "خيارات التنزيل المحلي";
+"LOCAL_DOWNLOADING" = "التنزيل المحلي";
 "LOCAL_DOWNLOADING_INFO" = "الضغط بشكل مطول لحفظ الفيديو | سيتم حفظه في ألبوم الكاميرا";
-"HIDE_DOWNLOAD_BUTTON" = "إخفاء زر التحميل";
-"HIDE_DOWNLOAD_BUTTON_INFO" = "إخفاء زر التحميل الخاص بيوتيوب";
+"HIDE_DOWNLOAD_BUTTON" = "إخفاء زر التتزيل";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "إخفاء زر التنزيل الخاص بيوتيوب";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "تعطيل إنتهاء صلاحية الفيديوهات المحملة";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "تحميل الفيديوهات بإستخدام زر التحميل الخاص بيوتيوب";
-"DOWNLOAD_SECTION_INFO" = "هذه الخيارات تحتاج لتفعيل ميزة Leagcy الموجودة أسفل قسم إهدادات الأداة";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "تنزيل الفيديوهات بإستخدام زر التنزيل الخاص بيوتيوب";
+"DOWNLOAD_SECTION_INFO" = "ملاحظة لـ JB فقط: 1. إذا كانت هناك العديد من الجودات المتشابهة ، فيرجى اختيار النوع العلوي. 2. يخزن التنزيل المحلي المحتويات مباشرة إلى تطبيق الصور.";
 
 
 /* tabbar section */
@@ -186,6 +185,7 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "يحدث بعد اغلاق YT أثناء تواجدها في علامة تبويب الـShorts!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "إستبدال زر Shorts بزر الإكتشاف";
 "HIDE_TABS" = "إخفاء الأزرار";
+"HIDE_HOME_TAB" = "اخفاء الرئيسية";
 "HIDE_EXPLORE_TAB" = "إخفاء الإكتشاف";
 "HIDE_SHORTS_TAB" = "إخفاء Shorts";
 "HIDE_CREATE_TAB" = "إخفاء إنشاء (+)";
@@ -208,7 +208,6 @@
 "HIDE_HUD_ALERTS" = "اخفاء التنبيهات";
 "HIDE_HUD_ALERTS_INFO" = "اخفاء التنبيهات عند /الاعجاب تشغيل فديوهات الاطفال الخ...";
 "CLEAN_SHARE_SHEET" = "اخفاء زر الالغاء للمشاركة";
-"ALLOWED_ALL_COMMENTS" = "السماح بجميع التعليقات";
 "HIDE_LINE_SEPERATOR" = "اخفاء الخطوط الفاصلة في الاقسام";
 "ROUND_ALL_VIEW_CORNERS" = "جعل جميع الزوايا دائرية";
 "DISABLE_DARK_MODE" = "تعطيل الوضع الليلي";
@@ -220,7 +219,9 @@
 "HIDE_COVID_NEWS" = "إخفاء أخبار فيروس كورونا";
 "COVID_NEWS_INFO" = "إخفاء أخبار وجديد فيروس كورونا";
 "HIDE_FILTER_TAGS" = "إخفاء علامات التصفية";
-
+"FIX_SIGN_IN" = "إصلاح تسجيل الدخول";
+"FIX_SIGNIN" = "إصلاح تسجيل الدخول لليوتيوب";
+"FIX_SIGNIN_INFO" = "فقط أقل من نظام التشغيل اصدار 15 الاصدار 15 وما فوق لديه بالفعل!";
 
 
 /* global action title */

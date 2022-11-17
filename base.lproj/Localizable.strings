@@ -10,8 +10,8 @@
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
-"DOWNLOADING" = "Download Feature";
-"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download Media.";
+"DOWNLOADING" = "Enable Download Feature:";
+"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download media.";
 
 /* Startup page section */
 "STARTUP_PAGE" = "Startup Page";
@@ -35,17 +35,16 @@
 "MISCELLANEOUS" = "Miscellaneous";
 
 /* general section switch */
-"APP_LOCK" = "App Lock";
-"LOCK_APP_VIA_PASSWORD" = "Lock the app via system password!";
+"APP_LOCK" = "Lock The App";
+"LOCK_APP_VIA_PASSWORD" = "via system password";
 "OLED_DARK_MODE" = "OLED Dark Mode";
-"FOLLOW_SYSTEM_APPEARANCE" = "Following system appearance settings!";
+"FOCUS_MODE" = "Enable Focus Mode";
 "PLAY_IN_BACKGROUND" = "Play In Background";
-"NO_ADVERTISMENT" = "No Advertisment";
+"NO_ADVERTISMENT" = "No Advertisements";
 "NO_AGE_RESTRICTION" = "No Age Restriction";
-"HIDE_YT_STORIES" = "Hide YT Stories";
-"HIDE_YT_SHORTS" = "Hide YT Shorts";
+"HIDE_YT_STORIES" = "Hide Stories Section Between Feeds";
+"HIDE_YT_SHORTS" = "Hide Shorts Section Between Feeds";
 "DISABLE_CAPTIONS" = "Disable Captions";
-"DISABLE_HINTS" = "Disable Hints";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Check Out My Other Projects:";
@@ -74,10 +73,10 @@
 "DISABLE_CONTINUE_WATCHING" = "Disable Continue Watching";
 "DISABLE_CONTINUE_WATCHING_INFO" = "Appears when you watch a very very long vedio.";
 "HIDE_OVERLAY_QUICK_ACTION" = "Hide Overlay Quick Action";
-"HIDE_PLAYERBAR_WAVE" = "Hide Playerbar Wave";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Hide most viewed Heatmap behind Timeline";
-"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel view";
-"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on FS panels view";
+"HIDE_PLAYERBAR_WAVE" = "Hide Waves Behind Timeline";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Hide viewed Heat map while scrolling on timeline";
+"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel View";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on fullscreen panel view";
 "MEDIA_CONTROLLER" = "overlay controller";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Always Show Play/Pause Button";
 "SHOW_MEDIA_CONTROLLER" = "Always Show All Overlay Controllers";
@@ -87,7 +86,7 @@
 "PREVIUOS_AND_NEXT_BUTTON" = "previuos & next Button";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Disable Previous & Next Button";
 "PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Compacted Previous & Next Button";
-"PLAYER_BAR_NEXT_BUTTON" = "Add Next Button to Playerbar";
+"PLAYER_BAR_NEXT_BUTTON" = "Add A Next Button Beside Time Codes";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Hide Previous & Next Button";
 "HIDE_BACK_BUTTON_SHADOW" = "Hide Previous & Next Button Shadow";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Replace Previous & Next Button";
@@ -112,8 +111,8 @@
 
 
 /* streaming section */
-"LEGACY_QUALITY_MODE" = "Legacy Quality Mode";
-"LEGACY_QUALITY_MODE_INFO" = "Revert back the old quality selection!";
+"LEGACY_QUALITY_MODE" = "Enable Legacy Quality Mode";
+"LEGACY_QUALITY_MODE_INFO" = "Revert back the old quality selections!";
 "PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
 "ENABLE_PIP" = "Enable PIP Feature";
 "ENABLE_PIP_INFO" = "Add a PIP Icon in video overlay";
@@ -130,11 +129,11 @@
 
 /* ipad section */
 "IPAD_SECION" = "iPad Mode";
-"IPADOS_MODE" = "iPadOS Mode";
+"IPADOS_MODE" = "Enable iPadOS Mode";
 "DISABLE_DRAG_AND_DROP" = "Disable Drag & Drop";
 "HIDE_CHANNEL_CIRCLES" = "Hide Circle Channel Icons";
 "HIDE_CHANNEL_CIRCLES_INFO" = "Subscription -> Channel icons below navigation bar.";
-"MINI_PLAYER_ASPECT_RATIO" = "Aspect Ratio Mini Player";
+"MINI_PLAYER_ASPECT_RATIO" = "Aspect Ratio Style Mini Player";
 "USE_ASPECT_RATIO" = "Use Full Aspects";
 "USE_ASPECT_RATIO_INFO" = "Doesn't support iPad style mini Player below.";
 "MINI_PLAYER" = "iPad style mini Player";
@@ -157,8 +156,8 @@
 
 /* shorts section */
 "SHORTS_SECTION" = "Shorts";
-"ENABLE_PLAYER_BAR" = "Enable Player Bar";
-"HIDE_ELEMNTS" = "Hide Elemnts";
+"ENABLE_PLAYER_BAR" = "Enable Progress Bar At Bottom";
+"HIDE_ELEMNTS" = "Hide Elements";
 "HIDE_LIKE_BUTTON" = "Hide Like Button";
 "HIDE_DISLIKE_BUTTON" = "Hide Dislike Button";
 "HIDE_COMMENTS_BUTTON" = "Hide Comments Button";
@@ -168,13 +167,13 @@
 
 /* downloading section */
 "DOWNLOAD_SECTION" = "Extra Download options";
-"LOCAL_DOWNLOADING" = "Local Download Mode";
+"LOCAL_DOWNLOADING" = "Enable Local Download Mode";
 "LOCAL_DOWNLOADING_INFO" = "Long press on playing video to trigger download menu!";
 "HIDE_DOWNLOAD_BUTTON" = "Hide Download Button";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Hide stock YT download button!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disable Expirity Downloaded Videos";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Videos downloaded using stock YT downloader!";
-"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple same qualities, please choose the upper one. 2. Local download stores contents directly to Photo app. 3. Invoke the overlay on video first before you start long pressing to move progress.";
+"DOWNLOAD_SECTION_INFO" = "Note for JB only: 1. If there are multiple same qualities, please choose the upper one. 2. Local download stores contents directly to Photo app. 3. The default long pressing on video to move progress gesture will be disabled.";
 
 
 /* tabbar section */
@@ -183,10 +182,11 @@
 "TABS_SHRINKED_SMART" = "Tabs Shrinked (Smart)";
 "DISABLE_CREATE_BUTTON" = "Disable Create (+)";
 "HIDE_TAB_LABELS" = "Hide Tab Labels";
-"PREVENT_OPEN_IN_SHORTS" = "Prevent Launch In Shorts";
+"PREVENT_OPEN_IN_SHORTS" = "Prevent Auto-Launching In Shorts Tab";
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Replace Shorts With Explore";
 "HIDE_TABS" = "Hide Tabs";
+"HIDE_HOME_TAB" = "Hide Home";
 "HIDE_EXPLORE_TAB" = "Hide Explore";
 "HIDE_SHORTS_TAB" = "Hide Shorts";
 "HIDE_CREATE_TAB" = "Hide Create (+)";
@@ -208,8 +208,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
 "HIDE_HUD_ALERTS_INFO" = "Hide all pop-up alerts like disliking/children videos";
-"CLEAN_SHARE_SHEET" = "Clean Share Sheet";
-"ALLOWED_ALL_COMMENTS" = "Allowed All Comments";
+"CLEAN_SHARE_SHEET" = "Hide Cancel Button In Share Sheet";
 "HIDE_LINE_SEPERATOR" = "Hide Line Seperators In Library";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
@@ -221,7 +220,9 @@
 "HIDE_COVID_NEWS" = "Hide Covid & News";
 "COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
 "HIDE_FILTER_TAGS" = "Hide Topic Filters At The Top";
-
+"FIX_SIGN_IN" = "Fix sign in";
+"FIX_SIGNIN" = "Fix Sign In To YouTube";
+"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
 
 
 /* global action title */

@@ -37,14 +37,13 @@
 "APP_LOCK" = "Блокировка паролем";
 "LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";
 "OLED_DARK_MODE" = "Темный режим для OLED";
-"FOLLOW_SYSTEM_APPEARANCE" = "Тема как в системе";
+"FOCUS_MODE" = "Enable Focus Mode";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
 "NO_ADVERTISMENT" = "Убрать рекламу";
 "NO_AGE_RESTRICTION" = "Отключить возрастные ограничения";
 "HIDE_YT_STORIES" = "Скрыть истории";
 "HIDE_YT_SHORTS" = "Скрыть Shorts";
 "DISABLE_CAPTIONS" = "Отключить субтитры";
-"DISABLE_HINTS" = "Отключить подсказки";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Наши проекты";
@@ -186,6 +185,7 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Вкладка «Навигация» вместо «Shorts»";
 "HIDE_TABS" = "Настройки вкладок";
+"HIDE_HOME_TAB" = "Hide Home";
 "HIDE_EXPLORE_TAB" = "Скрыть вкладку «Навигация»";
 "HIDE_SHORTS_TAB" = "Скрыть вкладку «Shorts»";
 "HIDE_CREATE_TAB" = "Скрыть вкладку «Загрузить» (+)";
@@ -208,7 +208,6 @@
 "HIDE_HUD_ALERTS" = "Скрыть сообщения плеера";
 "HIDE_HUD_ALERTS_INFO" = "Скрывает надписи YouTube, появляющиеся поверх видео";
 "CLEAN_SHARE_SHEET" = "Убрать лишнее с меню «Поделиться»";
-"ALLOWED_ALL_COMMENTS" = "Разрешить все комментарии";
 "HIDE_LINE_SEPERATOR" = "Скрыть разделитель";
 "ROUND_ALL_VIEW_CORNERS" = "Закруглись все углы";
 "DISABLE_DARK_MODE" = "Запретить темный режим";
@@ -220,7 +219,9 @@
 "HIDE_COVID_NEWS" = "Скрыть новости";
 "COVID_NEWS_INFO" = "Скрывает новости и информацию про COVID с главного экрана";
 "HIDE_FILTER_TAGS" = "Скрыть тэги";
-
+"FIX_SIGN_IN" = "Fix sign in";
+"FIX_SIGNIN" = "Fix Sign In To YouTube";
+"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
 
 
 /* global action title */

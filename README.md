@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.44.4.ipa) | com.google.ios.youtube | 17.44.4 | 2.0.8 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.44.4.ipa) | com.google.ios.youtube | 17.44.4 | 2.0.8 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.45.1.ipa) | com.google.ios.youtube | 17.45.1 | 2.0.9 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.45.1.ipa) | com.google.ios.youtube | 17.45.1 | 2.0.9 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v17.44.4](https://tinyurl.com/4wjcfz8t) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v17.45.1](https://tinyurl.com/34aen3z2) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 ### TrollStore
@@ -49,8 +49,10 @@
 
 
 ## Updating..
-* NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
-* don't switch between install method as that breaks the license .
+* deprecated | NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
+* deprecated | don't switch between install method as that breaks the license .
+
+* You can now duplicate or switch between installing method .
 
 
 ## Localization..
