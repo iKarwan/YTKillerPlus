@@ -10,7 +10,7 @@
 
 /* downloding global switch */
 "DOWNLOADING" = "啟用下載功能";
-"GLOBAL_DOWNLOADING_SWITCH" = "在影片內增加一個懸浮的下載按鈕";
+"GLOBAL_DOWNLOADING_SWITCH" = "在影片內容上方增加一個懸浮下載按鈕";
 
 /* Startup page section */
 "STARTUP_PAGE" = "YouTube啟動頁面";
@@ -34,10 +34,11 @@
 "MISCELLANEOUS" = "其他功能";
 
 /* general section switch */
-"APP_LOCK" = "鎖定App功能";
-"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼將YouTube app上鎖！";
-"OLED_DARK_MODE" = "OLED深色主題模式";
-"FOCUS_MODE" = "啟用專注模式";
+"APP_LOCK" = "啟用鎖定App功能";
+"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖YouTube";
+"OLED_DARK_MODE" = "啟用OLED深色主題模式";
+"FOLLOW_SYSTEM_APPEARANCE" = "此模式遵從系統深色外觀設定";
+"FOCUS_MODE" = "啟用專注模式（移除會分心元素)";
 "PLAY_IN_BACKGROUND" = "啟用背景播放";
 "NO_ADVERTISMENT" = "去除廣告";
 "NO_AGE_RESTRICTION" = "去除觀看年齡限制";
@@ -47,7 +48,7 @@
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
-"CREDITS" = "鳴謝：";
+"CREDITS" = "鳴謝";
 "SPECIAL_THANK" = "特別感謝：";
 "LOCALIZATION" = "在地翻譯：";
 "DEVELOPER" = "開發者：";
@@ -55,7 +56,7 @@
 
 /* video player section */
 "VIDEO_PLAYER_SECTION" = "影片播放頁面";
-"HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
+"HIDE_SUGGESTED_VIDEO" = "隱藏留言區下方的推薦影片列";
 "COMMENTS" = "留言區";
 "HIDE_COMMENTS" = "隱藏留言區";
 "HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
@@ -69,8 +70,8 @@
 "SHOW_STATUS_BAR_IN_OVERLAY" = "懸浮顯示狀態欄";
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機種與仿iPad風格";
 "DISABLE_DOUBLE_TAP" = "停用點兩下";
-"DISABLE_CONTINUE_WATCHING" = "停用「您是否還在觀看？」提示";
-"DISABLE_CONTINUE_WATCHING_INFO" = "出現於長時間持續播放影片時的提示";
+"DISABLE_CONTINUE_WATCHING" = "停用「影片已暫停，要繼續觀賞嗎？」";
+"DISABLE_CONTINUE_WATCHING_INFO" = "長時間持續播放影片時出現的暫停提示";
 "HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
 "HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏滑動時間軸時出現的瀏覽熱圖(Heat Map)";
@@ -92,7 +93,7 @@
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "以快轉、倒轉x秒按鈕取代";
 "HIDE_ITEMS" = "隱藏懸浮項目";
 "HIDE_VOLUME_BAR" = "隱藏音量指示器";
-"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時YouTube的原生白色音量條";
+"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時影片上方的白色音量條";
 "HIDE_INFO_CARD" = "隱藏資訊卡";
 "HIDE_WATER_MARK" = "隱藏浮水印";
 "HIDE_AUTOPLAY_BUTTON" = "隱藏自動播放按鈕";
@@ -173,7 +174,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏YouTube原生的下載按鈕";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "防止已下載影片過期";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用於YouTube原生功能所下載的影片";
-"DOWNLOAD_SECTION_INFO" = "註：1. 若有重複畫質選項請優先選擇較上方的選項。2. Local下載方式與懸浮下載按鈕方式不同，將直接儲存至照片App內。3. 原生的長按影片拖移進度功能將會失效。";
+"DOWNLOAD_SECTION_INFO" = "註:1.此下載功能僅限越獄用戶使用。2. 若有重複畫質選項請優先選擇較上方的選項。3. Local下載方式與懸浮下載按鈕方式不同，將直接儲存至照片App內。4. 原生的長按影片拖移進度功能將會失效。";
 
 
 /* tabbar section */
@@ -186,7 +187,7 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "上一次關閉YouTube前停留在Shorts頁面所產生的暫留";
 "REPLACE_SHORTS_WITH_EXPLORE" = "使用「探索」標籤取代Shorts標籤";
 "HIDE_TABS" = "隱藏標籤項目";
-"HIDE_HOME_TAB" = "Hide Home";
+"HIDE_HOME_TAB" = "隱藏首頁標籤";
 "HIDE_EXPLORE_TAB" = "隱藏探索標籤";
 "HIDE_SHORTS_TAB" = "隱藏Shorts標籤";
 "HIDE_CREATE_TAB" = "隱藏製作(+)標籤";
@@ -213,16 +214,17 @@
 "ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
 "DISABLE_DARK_MODE" = "停用黑暗模式";
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
-"DARK_KEYBOARDS" = "使用黑暗模式鍵盤";
+"DARK_KEYBOARDS" = "使用深色外觀鍵盤";
 "OTHERS" = "其他";
 "HIDE_PLAYLIST" = "隱藏播放清單";
 "PLAYLIST_INFO" = "不支援仿iPad風格";
 "HIDE_COVID_NEWS" = "隱藏COVID-19警示";
 "COVID_NEWS_INFO" = "在首頁隱藏COVID-19疫情提醒區塊";
 "HIDE_FILTER_TAGS" = "隱藏主題過濾器(直播中、合輯、遊戲等)";
-"FIX_SIGN_IN" = "Fix sign in";
-"FIX_SIGNIN" = "Fix Sign In To YouTube";
-"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
+"FIX_SIGN_IN" = "修復「Google無法驗證此登入安全性」錯誤";
+"FIX_SIGNIN" = "修復無法登入YouTube問題";
+"FIX_SIGNIN_INFO" = "僅iOS14以下側載用戶需要開啟，iOS15以上已包含修復!";
+
 
 /* global action title */
 "OK" = "OK";

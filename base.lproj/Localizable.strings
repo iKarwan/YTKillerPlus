@@ -173,7 +173,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Hide stock YT download button!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disable Expirity Downloaded Videos";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Videos downloaded using stock YT downloader!";
-"DOWNLOAD_SECTION_INFO" = "Note for JB only: 1. If there are multiple same qualities, please choose the upper one. 2. Local download stores contents directly to Photo app. 3. The default long pressing on video to move progress gesture will be disabled.";
+"DOWNLOAD_SECTION_INFO" = "Note: 1. For JailBreak users only. 2. If there are multiple same qualities, please choose the upper one. 3. Local download stores contents directly to Photo app. 4. The default long pressing on video to move progress gesture will be disabled.";
 
 
 /* tabbar section */
@@ -220,9 +220,9 @@
 "HIDE_COVID_NEWS" = "Hide Covid & News";
 "COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
 "HIDE_FILTER_TAGS" = "Hide Topic Filters At The Top";
-"FIX_SIGN_IN" = "Fix sign in";
-"FIX_SIGNIN" = "Fix Sign In To YouTube";
-"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
+"FIX_SIGN_IN" = "Fix 'Google couldn't confirm this attempt to sign in is safe' Error ";
+"FIX_SIGNIN" = "Fix Unable To Sign In YouTube Account";
+"FIX_SIGNIN_INFO" = "Only for sideload user below iOS14. iOS15+ has it already!";
 
 
 /* global action title */
