@@ -173,7 +173,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Hide stock YT download button!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disable Expirity Downloaded Videos";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Videos downloaded using stock YT downloader!";
-"DOWNLOAD_SECTION_INFO" = "Note: 1. For JailBreak users only. 2. If there are multiple same qualities, please choose the upper one. 3. Local download stores contents directly to Photo app. 4. The default long pressing on video to move progress gesture will be disabled.";
+"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple same qualities (only happens on Jailbroken users), please choose the upper one. 2. Local download stores contents directly to Photo app. 3. The default long pressing on video to move progress gesture will be disabled.";
 
 
 /* tabbar section */
