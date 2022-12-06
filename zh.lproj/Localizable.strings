@@ -232,7 +232,7 @@
 "CANCEL" = "取消";
 "DISMISS" = "撤銷";
 "DELETED" = "已刪除";
-"DOWNLOADING_START" = "下載中⏳";
+"DOWNLOADING_START" = "下載中 ⏳";
 "SAVED" = "已儲存!";
 "SUCCESS" = "成功!";
 "HIGH_QUALITY" = "高品質";

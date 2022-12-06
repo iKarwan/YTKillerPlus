@@ -231,7 +231,7 @@
 "CANCEL" = "Отмена";
 "DISMISS" = "Скрыть";
 "DELETED" = "Удалено";
-"DOWNLOADING_START" = "Загрузка...";
+"DOWNLOADING_START" = "Загрузка ⏳";
 "SAVED" = "Сохранено";
 "SUCCESS" = "Готово";
 "HIGH_QUALITY" = "High";

@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.46.4.ipa) | com.google.ios.youtube | 17.46.4 | 2.0.11 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.46.4.ipa) | com.google.ios.youtube | 17.46.4 | 2.0.11 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.46.4.ipa) | com.google.ios.youtube | 17.46.4 | 2.0 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.46.4.ipa) | com.google.ios.youtube | 17.46.4 | 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -28,19 +28,19 @@
 3. Apple ID (email & password)
 
 
-### Sideloadly  ( HIGHLY RECOMMENDED )
+### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
-### AltStore
+### AltStore  ( RECOMMENDED )
 * Download and install AltServer from [here](https://altstore.io).
 
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v17.46.4](https://tinyurl.com/mredepry) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v17.46.4](https://tinyurl.com/5n9bmndh) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 ### TrollStore

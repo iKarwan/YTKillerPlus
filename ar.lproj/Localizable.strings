@@ -231,7 +231,7 @@
 "CANCEL" = "إلغاء";
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";
-"DOWNLOADING_START" = "جاري التحميل";
+"DOWNLOADING_START" = "جاري التحميل ⏳";
 "SAVED" = "تم الحفظ";
 "SUCCESS" = "نجاح";
 "HIGH_QUALITY" = "جودة عالية";

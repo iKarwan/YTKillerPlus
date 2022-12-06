@@ -222,7 +222,7 @@
 "HIDE_FILTER_TAGS" = "Hide Topic Filters At The Top";
 "FIX_SIGN_IN" = "Fix 'Google couldn't confirm this attempt to sign in is safe' Error ";
 "FIX_SIGNIN" = "Fix Unable To Sign In YouTube Account";
-"FIX_SIGNIN_INFO" = "Only for sideload user below iOS14. iOS15+ has it already!";
+"FIX_SIGNIN_INFO" = "Only for sideload user below iOS15. iOS15+ has it already!";
 
 
 /* global action title */
@@ -232,7 +232,7 @@
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";
-"DOWNLOADING_START" = "Downloading⏳";
+"DOWNLOADING_START" = "Downloading ⏳";
 "SAVED" = "Saved";
 "SUCCESS" = "Success";
 "HIGH_QUALITY" = "High";
