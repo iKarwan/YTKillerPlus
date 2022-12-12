@@ -272,7 +272,7 @@
 "NOT_LICENSED_YET" = "You don't have a license yet ☹️";
 "BUY_LICENSE" = "Buy License";
 "UPGRADE_FROM_YTKILLER" = "Upgrade From YouTubeKiller";
-"COPY_UUID" = "Copy UUID";
+"COPY_UUID" = "Copy UUID & send it";
 "COPIED_UUID" = "Copied";
 "UUID_ACTIVATION_INFO" = "Activation Info";
 "CANCEL_SENDING" = "Cancel";

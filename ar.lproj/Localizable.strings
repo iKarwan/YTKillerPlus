@@ -271,7 +271,7 @@
 "NOT_LICENSED_YET" = "انت لا تملك ترخيص بعد ☹️";
 "BUY_LICENSE" = "شراء ترخيص";
 "UPGRADE_FROM_YTKILLER" = "ترقية من YouTubeKiller";
-"COPY_UUID" = "نسخ UUID";
+"COPY_UUID" = "انسخ UUID وأرسله";
 "COPIED_UUID" = "تم النسخ";
 "UUID_ACTIVATION_INFO" = "معلومات التفعيل";
 "CANCEL_SENDING" = "إلغاء";

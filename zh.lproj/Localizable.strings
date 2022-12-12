@@ -272,7 +272,7 @@
 "NOT_LICENSED_YET" = "您尚未擁有授權☹️";
 "BUY_LICENSE" = "購買授權";
 "UPGRADE_FROM_YTKILLER" = "從YoutubeKiller用戶升級";
-"COPY_UUID" = "複製您的UUID";
+"COPY_UUID" = "复制 UUID 并发送";
 "COPIED_UUID" = "已複製";
 "UUID_ACTIVATION_INFO" = "啟用授權資訊";
 "CANCEL_SENDING" = "取消傳送";
