@@ -207,7 +207,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Принудительно активирует мини-плеер для всех видео";
 "HIDE_HUD_ALERTS" = "Скрыть сообщения плеера";
 "HIDE_HUD_ALERTS_INFO" = "Скрывает надписи YouTube, появляющиеся поверх видео";
-"CLEAN_SHARE_SHEET" = "Убрать лишнее с меню «Поделиться»";
+"CLASSIC_SHARE" = "Классический заполненный общий лист при вызове";
 "HIDE_LINE_SEPERATOR" = "Скрыть разделитель";
 "ROUND_ALL_VIEW_CORNERS" = "Закруглись все углы";
 "DISABLE_DARK_MODE" = "Запретить темный режим";

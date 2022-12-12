@@ -18,7 +18,7 @@
 "CANCELED_SENDING" = "İptal edildi";
 "CANCEL_SENDING" = "İptal";
 "CHANNEL_SECTIONS" = "Kanal Bölümünde";
-"CLEAN_SHARE_SHEET" = "Paylaşım Sayfasında İptal Düğmesini Gizle";
+"CLASSIC_SHARE" = "Çağırıldığında Klasik Dolu Paylaşım Sayfası";
 "COMMENTS" = "Yorumlar";
 "CONTACT_DEVELPER" = "Geliştiriciyle iletişime geçin!";
 "COPIED_UUID" = "kopyalandı";
@@ -64,7 +64,7 @@
 "FIX_SIGN_IN" = "Düzeltme 'Google, bu oturum açma girişiminin güvenli olduğunu onaylayamadı' Hatası";
 "FOCUS_MODE" = "Odak Modunu Etkinleştir";
 "GLOBAL_DOWNLOADING_SWITCH" = "Medyayı indirmek için bindirmeye bir düğme ekleyin.";
-"GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için sağ üst düğmeye dokunun.";
+"GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için üst düğmeye dokunun.";
 "HIDE_ACCOUNT" = "Hesabı Gizle";
 "HIDE_ALL_TAB" = "Tüm Sekmeleri Gizle";
 "HIDE_AUTOPLAY_BUTTON" = "Otomatik Kullan Düğmesini Gizle";
@@ -154,13 +154,13 @@
 "MISCELLANEOUS_SECTION" = "Çeşitli";
 "MORE_OPTION" = "Daha fazla seçenek";
 "NAVIGATION_BAR" = "Gezinme Çubuğu Seçenekleri";
-"NO" = "Numara";
+"NO" = "Yok";
 "NOTE" = "Not!";
 "NOT_LICENSED_YET" = "Henüz bir lisansınız yok ☹️";
 "NOT_SUPPORTED_FORMAT" = "Bu video indirici tarafından desteklenmiyor\nLütfen farklı bir indirme kalitesi deneyin";
 "NOT_TOPIC_SECTION" = "No Topic Section";
 "NO_ADVERTISMENT" = "Reklam yok";
-"NO_AGE_RESTRICTION" = "Yaş Sınırlaması Yok";
+"NO_AGE_RESTRICTION" = "Yaş Sınırlaması yok";
 "OK" = "TAMAM";
 "OLED_DARK_MODE" = "OLED Karanlık Modu";
 "OTHERS" = "Evde besleme";

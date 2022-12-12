@@ -208,7 +208,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "讓兒童影片也能使用迷你播放器";
 "HIDE_HUD_ALERTS" = "去除動作提示窗";
 "HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等。";
-"CLEAN_SHARE_SHEET" = "移除分享選單上的取消按鈕";
+"CLASSIC_SHARE" = "使用舊款的填滿邊緣式分享選單";
 "HIDE_LINE_SEPERATOR" = "隱藏分割線條(媒體庫)";
 "ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
 "DISABLE_DARK_MODE" = "停用黑暗模式";

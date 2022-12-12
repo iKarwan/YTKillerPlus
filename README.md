@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.48.2.ipa) | com.google.ios.youtube | 17.48.2 | 2.0 | ZIP |
-        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.48.2.ipa) | com.google.ios.youtube | 17.48.2 | 2.0 | IPA |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.49.4.ipa) | com.google.ios.youtube | 17.49.4 | 2.0 | ZIP |
+        | [YouTube](https://ikghd.site/iPA/YTKillerPlus_v17.49.4.ipa) | com.google.ios.youtube | 17.49.4 | 2.0 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v17.48.2](https://tinyurl.com/yc2rtart) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v17.49.4](https://tinyurl.com/jxdta452) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 ### TrollStore
@@ -53,6 +53,16 @@
 * don't switch between install method as that breaks the license .
 
 
+## if Jailbroken..
+* NOTE !!! if u Jailbroken & want to use the iPA the license will break u need to send it for Activation again! .
+* mean if u switched to the iPA from Jailbroken or vice versa u need activation again ( only once ) so u need just to use one option of them .
+
+
+## YT Sign IN issue..
+* NOTE !!! if u used the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
+* if u on below iOS 15 , like from 14.8 down to 13.0 u and want to use the iPA u need to enable fix sign in in Miscellaneous section to sign in without issue on those versions .
+
+
 ## Localization..
-* YTKillerPlus now fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
+* YTKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .

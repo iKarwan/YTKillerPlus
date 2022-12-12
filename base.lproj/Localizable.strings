@@ -208,7 +208,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
 "HIDE_HUD_ALERTS_INFO" = "Hide all pop-up alerts like disliking/children videos";
-"CLEAN_SHARE_SHEET" = "Hide Cancel Button In Share Sheet";
+"CLASSIC_SHARE" = "Classic Filled Share Sheet When Invoke";
 "HIDE_LINE_SEPERATOR" = "Hide Line Seperators In Library";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
@@ -249,7 +249,7 @@
 "MORE_OPTION" = "More Options";
 "DELETE_ALL" = "Delete All";
 "SAVE_TO_PHOTOS" = "Save To Photos";
-"ARE_YOU_SURE" = "Are you sure you want Deleting All Items?";
+"ARE_YOU_SURE" = "Are you sure you want to Deleting All Items?";
 "NOTE" = "Note!";
 "SAVE_FAILED" = "Save Failed!";
 "SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed \nMake Sure To Give Photos app Permission To YouTube In The iOS Settings App";

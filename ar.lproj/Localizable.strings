@@ -207,7 +207,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "إستخدام المُشغل المُصغر لفيديوهات الأطفال";
 "HIDE_HUD_ALERTS" = "اخفاء التنبيهات";
 "HIDE_HUD_ALERTS_INFO" = "اخفاء التنبيهات عند /الاعجاب تشغيل فديوهات الاطفال الخ...";
-"CLEAN_SHARE_SHEET" = "اخفاء زر الالغاء للمشاركة";
+"CLASSIC_SHARE" = "نمط المشاركة كلاسيكي";
 "HIDE_LINE_SEPERATOR" = "اخفاء الخطوط الفاصلة في الاقسام";
 "ROUND_ALL_VIEW_CORNERS" = "جعل جميع الزوايا دائرية";
 "DISABLE_DARK_MODE" = "تعطيل الوضع الليلي";
