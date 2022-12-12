@@ -58,9 +58,9 @@
 * mean if u switched to the iPA from Jailbroken or vice versa u need activation again ( only once ) so u need just to use one option of them .
 
 
-## YT Sign IN issue..
+## fix YT Sign IN issue..
 * NOTE !!! if u used the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
-* if u on below iOS 15 , like from 14.8 down to 13.0 u and want to use the iPA u need to enable fix sign in in Miscellaneous section to sign in without issue on those versions .
+* if u on below iOS 15 , like from 14.8 down to 13.0 and want to use the iPA u need to enable fix sign in in Miscellaneous section to sign in without issue on those versions .
 
 
 ## Localization..
