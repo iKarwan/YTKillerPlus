@@ -48,19 +48,23 @@
 * download the YouTube ipa from link above and install it via TrollStore:
 
 
-## Updating..
+### Updating..
 * NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
 * don't switch between install method as that breaks the license .
 
 
-## if Jailbroken..
+### if Jailbroken..
 * NOTE !!! if u Jailbroken & want to use the iPA the license will break u need to send it for Activation again! .
 * mean if u switched to the iPA from Jailbroken or vice versa u need activation again ( only once ) so u need just to use one option of them .
 
 
-## fix YT Sign IN issue..
+### fix YT Sign IN issue..
 * NOTE !!! if u used the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
 * if u on below iOS 15 , like from 14.8 down to 13.0 and want to use the iPA u need to enable fix sign in in Miscellaneous section to sign in without issue on those versions .
+
+
+### iPA via telegram..
+* NOTE !!! if u have issue to download the iPA u can download it via telegram @ [here](https://t.me/ikghdiPA). .
 
 
 ## Localization..
