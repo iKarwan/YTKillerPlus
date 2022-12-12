@@ -28,12 +28,6 @@
 3. Apple ID (email & password)
 
 
-### Sideloadly
-* Download and install Sideloadly from [here](https://sideloadly.io).
-
-* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
-
-
 ### AltStore  ( RECOMMENDED )
 * Download and install AltServer from [here](https://altstore.io).
 
@@ -43,19 +37,16 @@
     * [Open In AltStore YouTube v17.49.4](https://tinyurl.com/jxdta452) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
+
+### Sideloadly
+* Download and install Sideloadly from [here](https://sideloadly.io).
+
+* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
+
+
 ### TrollStore
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
 * download the YouTube ipa from link above and install it via TrollStore:
-
-
-### Updating..
-* NOTE !!! when u want to update the iPA u need to use the method that used in the first time installed .
-* don't switch between install method as that breaks the license .
-
-
-### if Jailbroken..
-* NOTE !!! if u Jailbroken & want to use the iPA the license will break u need to send it for Activation again! .
-* mean if u switched to the iPA from Jailbroken or vice versa u need activation again ( only once ) so u need just to use one option of them .
 
 
 ### fix YT Sign IN issue..
