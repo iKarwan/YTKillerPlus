@@ -48,7 +48,7 @@
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Наши проекты";
 "CREDITS" = "О нас";
-"SPECIAL_THANK" = "Special Thank";
+"SPECIAL_THANK" = "Особая благодарность";
 "LOCALIZATION" = "Перевод:"; // in case if you add it
 "DEVELOPER" = "Разработчик:";
 
@@ -74,8 +74,8 @@
 "HIDE_OVERLAY_QUICK_ACTION" = "Скрыть ярлыки с оверлея";
 "HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
-"SWIPE_TO_HIDE_PANEL" = "Swipe To Hide Panel view";
-"SWIPE_TO_HIDE_PANEL_INFO" = "Swipe from left to right on fullscreen panels view";
+"SWIPE_TO_HIDE_PANEL" = "Скрыть панель свайпом";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Скрывает панель с описанием в полноэкранном режиме, если свайпнуть слева направо";
 "MEDIA_CONTROLLER" = "Управление плеером";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Отображать умное управление оверлеем"; //have no idea what is this
 "SHOW_MEDIA_CONTROLLER" = "Отображать кнопки управления плеером";
@@ -115,10 +115,10 @@
 "PICTURE_IN_PICTURE_PIP" = "Картинка-в-Картинке (PiP)";
 "ENABLE_PIP" = "Включить PiP";
 "ENABLE_PIP_INFO" = "добавить значок пипса в оверлей";
-"DOUBLE_TAP" = "Double Tap Options";
-"CUSTOM_SKIP_DURATION" = "Custom Skip Duration";
-"VALUE_CHANGES_JB" = "Seconds: %.lf";
-"VALUE_CHANGES" = "Seconds: 10";
+"DOUBLE_TAP" = "Настройки двойного тапа";
+"CUSTOM_SKIP_DURATION" = "Интервал перемотки";
+"VALUE_CHANGES_JB" = "В секундах: %.lf";
+"VALUE_CHANGES" = "В секундах: 10";
 "STREAMING_SECTION" = "Воспроизведение";
 "PLAYBACK_SPEED" = "Скорость воспроизведения";
 "PLAYBACK_SPEED_INFO" = "Добавляет дополнительные режимы воспроизведения";
@@ -181,8 +181,8 @@
 "TABS_SHRINKED_SMART" = "Уменьшить нижнюю панель (Smart)";
 "DISABLE_CREATE_BUTTON" = "Скрыть кнопку «Загрузить» (+)";
 "HIDE_TAB_LABELS" = "Скрыть названия вкладок";
-"PREVENT_OPEN_IN_SHORTS" = "Prevent Launch In Shorts";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
+"PREVENT_OPEN_IN_SHORTS" = "Запретить запуск с Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Это происходит, если закрыть YouTube при просмотре Shorts";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Вкладка «Навигация» вместо «Shorts»";
 "HIDE_TABS" = "Настройки вкладок";
 "HIDE_HOME_TAB" = "Hide Home";
@@ -219,9 +219,9 @@
 "HIDE_COVID_NEWS" = "Скрыть новости";
 "COVID_NEWS_INFO" = "Скрывает новости и информацию про COVID с главного экрана";
 "HIDE_FILTER_TAGS" = "Скрыть тэги";
-"FIX_SIGN_IN" = "Fix sign in";
-"FIX_SIGNIN" = "Fix Sign In To YouTube";
-"FIX_SIGNIN_INFO" = "only below iOS 15 needed 15& above has it already!";
+"FIX_SIGN_IN" = "Исправить авторизацию";
+"FIX_SIGNIN" = "Исправляет авторизацию аккаунта YouTube";
+"FIX_SIGNIN_INFO" = "только если ниже iOS 15. В iOS 15 работает по умолчанию.";
 
 
 /* global action title */
@@ -234,9 +234,9 @@
 "DOWNLOADING_START" = "Загрузка ⏳";
 "SAVED" = "Сохранено";
 "SUCCESS" = "Готово";
-"HIGH_QUALITY" = "High";
-"MEDIUM_QUALITY" = "Medium";
-"LOW_QUALITY" = "Low";
+"HIGH_QUALITY" = "Высокое";
+"MEDIUM_QUALITY" = "Среднее";
+"LOW_QUALITY" = "Низкое";
 "SELECT_VIDEO_QUALITY" = "Выберите качество";
 "NOT_SUPPORTED_FORMAT" = "Данное видео не поддерживается загрузчиком.\nПопробуйте выбрать другое качество для загрузки";
 "VIDEO" = "Видео";
