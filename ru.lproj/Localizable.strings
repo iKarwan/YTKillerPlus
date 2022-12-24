@@ -37,7 +37,7 @@
 "APP_LOCK" = "Блокировка паролем";
 "LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";
 "OLED_DARK_MODE" = "Темный режим для OLED";
-"FOCUS_MODE" = "Enable Focus Mode";
+"FOCUS_MODE" = "Режим фокусировки";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
 "NO_ADVERTISMENT" = "Убрать рекламу";
 "NO_AGE_RESTRICTION" = "Отключить возрастные ограничения";
@@ -172,7 +172,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает кнопку «Скачать» от YouTube Premium";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium";
-"DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в Настройах YouTube -> YTKillerPlus";
+"DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в Настройках YouTube -> YTKillerPlus";
 
 
 /* tabbar section */
@@ -285,7 +285,7 @@
 
 "SEND_UUID" = "Отправка UUID для регистрации ";
 "SEND_UUID_AND_PROOF" = "Пожалуйста, прикрепите скриншот с доказательством покупки для более быстрой активации. Вставьте ваш UUID ниже.▽▽▽ \n\n Мой UUID (My UUID is):";
-"WELCOME_MESSAGE" = "Добро пожаловать в YTKillerPlus v2.0";
+"WELCOME_MESSAGE" = "Добро пожаловать в YTKillerPlus";
 
 
 /* other stuff */
