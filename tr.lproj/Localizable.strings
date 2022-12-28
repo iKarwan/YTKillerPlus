@@ -231,6 +231,7 @@
 "VIDEO_PLAYER_SECTION" = "video oynatıcı";
 "VIDEO_TAB_BAR" = "Video";
 "VIEW_IN_FILZA" = "Dosyada Görüntüle";
+"DELETE" = "Delete";
 "WELCOME_ACTIVATION_INFO" = "[Neden uuıd'ye ihtiyaç var? ]\n Tweak bir lisans sunucusuyla iletişim kurar. Bu yüzden etkinleştirmek \/ işlemek için internete ihtiyacınız var.\n\n[ Aktivasyon ]\n Lisansınızı nasıl göndereceğiniz ve etkinleştireceğiniz hakkında talimatlar almak için lütfen yukarıdaki dişli çark simgesine tıklayın.\n\n[ UUID'NİZİ gönderiyor]\n Başarılı bir satın alma işleminden sonra, sunucudaki lisansı etkinleştirmek için uuıd'nizi oreder'e göndermeniz gerekir.\n E-posta aracınızla kolayca göndermek için uuıd'yi kopyala düğmesine tıklayın.\n\n [Youtubekiller'den yükseltme]\n Başarılı bir satın alma işleminden sonra kaydolmak için eski YoutubeKiller udıd'nizi ve yeni uuıd'nizi ytkillerplus'tan e-postaya göndermeniz gerekir.";
 "WELCOME_MESSAGE" = "YTKillerPlus v2.0'a hoş geldiniz";
 "YES" = "Evet";
