@@ -44,9 +44,9 @@
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
-### TrollStore
+### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link above and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://ikghd.site/iPA/YTK+TS_v17.49.6.ipa) and install it via TrollStore:
 
 
 ### fix YT Sign IN issue..
