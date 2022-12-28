@@ -1,0 +1,297 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+/* edited on 23/12/2022 */
+/* by @serious.xi */
+
+/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
+
+/* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
+
+/* YTKillerPlus global switch */
+/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOBAL_ENABLED_SWITCH" = "Taste oben rechts antippen, um die Einstellungen zu übernehmen.";
+
+/* downloding global switch */
+"DOWNLOADING" = "Download Funktion aktivieren";
+"GLOBAL_DOWNLOADING_SWITCH" = "Fügt eine Download Taste zum Bedienfeld hinzu.";
+
+/* Startup page section */
+"STARTUP_PAGE" = " Startseite";
+"DEFAULT_PAGE" = "Home";
+
+"HOME" = "Home";
+"EXPLORE" = "Entdecken";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "Abonnements";
+"LIBRARY" = "Mediathek";
+
+/* general section */
+"VIDEO_PLAYER" = "Optionen für den Video Player";
+"OVERLAY_OPTIONS" = "Optionen für das Bedienfeld";
+"STREAM_OPTIONS" = "Optionen für Live Streams";
+"IPAD_OPTIONS" = "iPadOS Funktionalität";
+"NAVIGATION_BAR" = "Optionen für die Navigationsleiste";
+"SHORTS_OPTION" = "Optionen für Short Videos";
+"DOWNLOAD_OPTIONS" = "Weitere Download Optionen";
+"TAB_BAR_OPTIONS" = "Optionen für die Tableiste";
+"MISCELLANEOUS" = "Weitere Optionen";
+
+/* general section switch */
+"APP_LOCK" = "YouTube sperren";
+"LOCK_APP_VIA_PASSWORD" = "(mit dem Systempasswort)";
+"OLED_DARK_MODE" = "Dunkelmodus (OLED)";
+"FOCUS_MODE" = "Fokus festlegen";
+"PLAY_IN_BACKGROUND" = "Hintergrund Wiedergabe (Audio)";
+"NO_ADVERTISMENT" = "Werbeblocker";
+"NO_AGE_RESTRICTION" = "Altersbegrenzung umgehen";
+"HIDE_YT_STORIES" = "Stories auf der Startseite ausblenden";
+"HIDE_YT_SHORTS" = "Shorts auf der Startseite ausblenden";
+"DISABLE_CAPTIONS" = "Untertitel deaktivieren";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an:";
+"CREDITS" = "Mitwirkende:";
+"SPECIAL_THANK" = "Besonderen Dank an:";
+"LOCALIZATION" = "Übersetzung:";
+"DEVELOPER" = "Entwickler:";
+
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "VIDEO PLAYER";
+"HIDE_SUGGESTED_VIDEO" = "Vorschläge ausblenden";
+"COMMENTS" = "Kommentare";
+"HIDE_COMMENTS" = "Kommentare ausblenden";
+"HIDE_COMMENTS_PREVIEW" = "Kommentar Vorschau ausblenden";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Nie wieder vom Top-Kommentar gespoilert werden!";
+"HIDE_COMMENTS_GUIDLINES" = "Community-Richtlinien ausblenden";
+"HIDE_COMMUNITY_TEXT_INFO" = "Lass' dich nie wieder von Influencern belehren!";
+
+
+/* overlay options section */
+"OVERLAY_SECTION" = "Bedienfeld";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Statusbar im Bedienfeld anzeigen";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Nicht kompatibel mit Notch Geräten!";
+"DISABLE_DOUBLE_TAP" = "Doppeltippen deaktivieren  ";
+"DISABLE_CONTINUE_WATCHING" = "Weiterschauen deaktivieren";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Beim Schauen eines sehr langem Videos.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Schnellaktion ausblenden";
+"HIDE_PLAYERBAR_WAVE" = "Highlights ausblenden";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Versteckt die 'Am häufigsten wiederholt' Funktion.";
+"SWIPE_TO_HIDE_PANEL" = "Wischen um die Panelansicht auszublenden";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Blendet Kommentare/Chat/Kapitel aus.";
+"MEDIA_CONTROLLER" = "Hauptbedienfeld";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Play/Pause Taste dauerhaft anzeigen";
+"SHOW_MEDIA_CONTROLLER" = "Alle Tasten dauerhaft anzeigen";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Schatten für Bedienfeld ausblenden";
+"KEEP_CAPTION_ON" = "Untertitel immer automatisch aktivieren";
+"KEEP_CAPTION_ON_INFO" = "Untertitel werden für jedes Video angezeigt.";
+"PREVIUOS_AND_NEXT_BUTTON" = "Zuvor und Als Nächstes Tasten";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten deaktivieren";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Kompaktere 'Zuvor' und 'als Nächstes' Tasten";
+"PLAYER_BAR_NEXT_BUTTON" = "'als Nächstes' Knopf neben Zeitstempel";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten ausblenden";
+"HIDE_BACK_BUTTON_SHADOW" = "Schatten für 'Zuvor' und 'als Nächstes' Tasten ausblenden";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten ersetzen";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Wird ersetzt durch Vor- und Zurückspulen!";
+"HIDE_ITEMS" = "Elemente ausblenden";
+"HIDE_VOLUME_BAR" = "Lautstärkeleiste ausblenden";
+"HIDE_VOLUME_BAR_INFO" = "Blendet die weiße Lautstärkeleiste von YouTube aus.";
+"HIDE_INFO_CARD" = "Infokarten ausblenden";
+"HIDE_WATER_MARK" = "Kanalbild ausblenden";
+"HIDE_AUTOPLAY_BUTTON" = "Autoplay Taste ausblenden";
+"HIDE_CAPTIONS_BUTTON" = "Untertitel Taste ausblenden";
+"HIDE_PLAY_PUASE" = "Play/Pause ausblenden";
+"HIDE_MORE_GEAR_ICON" = "Zahnrad ausblenden";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Chat Taste ausblenden (Live)";
+"HIDE_CAST_BUTTON" = "Chromecast Taste ausblenden";
+"HIDE_ENDSCREEN_VIDEOS" = "Endkarte ausblenden";
+"HIDE_RELATED_VIDEOS" = "'Ähnliche Videos' ausblenden";
+"HIDE_LANDSCAPE_COMMENTS" = "Kommentarsektion ausblenden";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Kommentarsektion wird vollständig deaktiviert im Vollbild.";
+"SHOW_PROGRESS_BAR" = "Zeitleiste dauerhaft anzeigen";
+"SHOW_PROGRESS_BAR_INFO" = "Nach oben Wischen für 'Ähnliche Videos' wird deaktiviert.";
+
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "Klassisce Qualitätsauswahl";
+"LEGACY_QUALITY_MODE_INFO" = "Qualitätsauswahl wie in den guten alten Zeiten!";
+"PICTURE_IN_PICTURE_PIP" = "Bild in Bild Funktion (PiP)";
+"ENABLE_PIP" = "PiP Funktion aktivieren";
+"ENABLE_PIP_INFO" = "Zeigt die PiP Taste im Bedienfeld";
+"DOUBLE_TAP" = "Optionen fürs Doppeltippen";
+"CUSTOM_SKIP_DURATION" = "Intervall fürs Überspringen ändern";
+"VALUE_CHANGES_JB" = "Sekunden: %.lf";
+"VALUE_CHANGES" = "Sekunden: 10";
+"STREAMING_SECTION" = "Streaming";
+"PLAYBACK_SPEED" = "Weitere Geschwindigkeiten hinzufügen";
+"PLAYBACK_SPEED_INFO" = "Bedienfeld -> Zahnrad -> Wiedergabegeschwindigkeit";
+"DISABLE_AUTOPLAY_VIDEOS" = "Autoplay Funktion deaktivieren";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Hohe Auflösung über Mobilfunk";
+
+
+/* ipad section */
+"IPAD_SECION" = "iPadOS Modus";
+"IPADOS_MODE" = "iPadOS Modus aktivieten";
+"DISABLE_DRAG_AND_DROP" = "Drag & Drop Funktion deaktivieren";
+"HIDE_CHANNEL_CIRCLES" = "Die Kanalbilder ausblenden";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Blendet Kanalbilder auf der Abonnements-Seite aus.";
+"MINI_PLAYER_ASPECT_RATIO" = "Anzeigegröße für den Mini Player";
+"USE_ASPECT_RATIO" = "Vollen Bildschirm nutzen";
+"USE_ASPECT_RATIO_INFO" = "Funktioniert nicht in Verbindung mit iPadOS Style.";
+"MINI_PLAYER" = "Mini Player im iPadOS Style";
+"REDEFIND_MINI_PLAYER" = "Mini Player in der Mitte";
+"MINI_PLAYER_IPAD_MODE" = "Mini Player auf der Rechten Seite";
+
+
+/* navbar section */
+"STATUS_BAR" = "Statusleiste";
+"HIDE_STATUS_BAR" = "Statusbar ausblenden";
+"CHANNEL_SECTIONS" = "Auf der Kanalseite";
+"STICKY_NAV_BAR" = "Kategorien unter der Statusleiste ausblenden";
+"HIDE_ITEMS_NAV_BAR" = "Symbole ausblenden";
+"HIDE_YT_LOGO" = "YouTube Logo ausblenden";
+"HIDE_NOTIFICATIONS_BILL" = "Glocke ausblenden";
+"HIDE_ACCOUNT" = "Kanalbild ausblenden";
+"HIDE_SEARCH" = "Suche ausblenden";
+"HIDE_CAST_BUTTON" = "Chromecast ausblenden";
+
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "Zeitleiste aktivieren";
+"HIDE_ELEMNTS" = "Elemente ausblenden";
+"HIDE_LIKE_BUTTON" = "'Like' Taste ausblenden";
+"HIDE_DISLIKE_BUTTON" = "'Dislike' Taste ausblenden";
+"HIDE_COMMENTS_BUTTON" = "'Kommentare' Taste ausblenden";
+"HIDE_SHARE_BUTTON" = "'Teilen' Taste ausblenden";
+"HIDE_MORE_BUTTON" = "'Mehr' Taste ausblenden";
+
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "Weitere Download Optionen";
+"LOCAL_DOWNLOADING" = "Lokalen Download aktivieren";
+"LOCAL_DOWNLOADING_INFO" = "Tippen und Halten um das aktuelle Video herunterzuladen!";
+"HIDE_DOWNLOAD_BUTTON" = "Download Taste ausblenden";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "Blendet die Download Taste von YouTube aus!";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Zeitbegrenzung für Downloads aufheben";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Für offizielle Downloads auf YouTube!";
+"DOWNLOAD_SECTION_INFO" = "Anmerkungen: 1. Falls eine Auflösung mehrfach angezeigt wird, bitte die Oberste auswählen (nur für Jailbreaknutzer relevant). 2. Lokaler Download speichert die Dateien in der Fotos App. 3. Die Gestensteuerung wird deaktiviert (Tippen und Halten zum Spulen).";
+
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "Tableiste";
+"TABS_SHRINKED_BUTTOM" = "Kleinere Tabs";
+"TABS_SHRINKED_SMART" = "Kleinere Tabs (Smart)";
+"DISABLE_CREATE_BUTTON" = "Erstellen deaktivieren (+)";
+"HIDE_TAB_LABELS" = "Beschriftungen ausblenden";
+"PREVENT_OPEN_IN_SHORTS" = "Nicht auf Shortsseite starten";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Wenn YouTube während eines Shorts beendet wird.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Shorts durch Entdecken ersetzen";
+"HIDE_TABS" = "Tabs ausblenden";
+"HIDE_HOME_TAB" = "'Startseite' Tab ausblenden";
+"HIDE_EXPLORE_TAB" = "'Entdecken' Tab ausblenden";
+"HIDE_SHORTS_TAB" = "'Shorts' Tab ausblenden";
+"HIDE_CREATE_TAB" = "'Erstellen' Tab (+) ausblenden";
+"HIDE_SUBSCRIPTION_TAB" = "'Abonnements' Tab ausblenden";
+"HIDE_LIBRARY_TAB" = "'Mediathek' Tab ausblenden";
+"HIDE_ALL_TAB" = "Alle Tabs ausblenden";
+
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "Sonstige Einstellungen";
+"USE_STOCK_VOLUME_HUD" = "System Lautstärkeleiste verwenden";
+"USE_STOCK_VOLUME_HUD_INFO" = "Funktioniert nur während Wiedergabe im Vollbild.";
+"HIDE_SEARCHED_HISTORY" = "Suchverlauf ausblenden";
+"NOT_TOPIC_SECTION" = "Topic Sektion ausblenden";
+"HIDE_PREMIUM_POPUP" = "Premium Pop-Up deaktivieren";
+"HIDE_YT_UPDATE_POPUP" = "Update Pop-Up deaktivieren";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Unterbinde die Aktualisierungsaufforderung!";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Mini Player für alle Videos";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Mini Player für YouTube Kids Videos!";
+"HIDE_HUD_ALERTS" = "HUD Benachrichtigungen ausblenden";
+"HIDE_HUD_ALERTS_INFO" = "Alle Pop-Ups deaktivieren.";
+"CLASSIC_SHARE" = "Standardmäßige Teilen-Ansicht";
+"HIDE_LINE_SEPERATOR" = "Trennlinien in Mediathek ausblenden";
+"ROUND_ALL_VIEW_CORNERS" = "Alle Ecken abrunden";
+"DISABLE_DARK_MODE" = "Dunkelmodus deaktivieren";
+"HIDE_INCLUDE_PAID_PROMO" = "'Enthält bezahlte...' ausblenden";
+"DARK_KEYBOARDS" = "Dunkelmodus für die Tastatur";
+"OTHERS" = "Startseite";
+"HIDE_PLAYLIST" = "Playlisten ausblenden";
+"PLAYLIST_INFO" = "Funktioniert nicht im iPadOS Modus.";
+"HIDE_COVID_NEWS" = "COVID & Nachrichten ausblenden";
+"COVID_NEWS_INFO" = "Versteckt COVID & Nachrichten auf der Startseite!";
+"HIDE_FILTER_TAGS" = "Kategorien ausblenden (Oben)";
+"FIX_SIGN_IN" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist.'";
+"FIX_SIGNIN" = "Fehlerbehebungen für Login";
+"FIX_SIGNIN_INFO" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist. \n Für Nutzer mit iOS 15 oder älter. iOS 15+ hat es standardmäßig!";
+
+
+/* global action title */
+"OK" = "Okay";
+"YES" = "Ja";
+"NO" = "Nein";
+"CANCEL" = "Abbrechen";
+"DISMISS" = "Verwerfen";
+"DELETED" = "Gelöscht";
+"DOWNLOADING_START" = "Download wurde gestartet ⏳";
+"SAVED" = "Gespeichert";
+"SUCCESS" = "Erfolgreich";
+"HIGH_QUALITY" = "Hoch";
+"MEDIUM_QUALITY" = "Mittel";
+"LOW_QUALITY" = "Niedrig";
+"SELECT_VIDEO_QUALITY" = "Auflösung wählen";
+"NOT_SUPPORTED_FORMAT" = "Dieses Video wird nicht unterstützt \nBitte versuche es in einer anderen Auflösung.";
+"VIDEO" = "Video";
+"AUDIO" = "Audio";
+"RENAME" = "Umbenennen";
+"PLAY" = "Wiedergabe";
+"SHARE" = "Teilen";
+"VIEW_IN_FILZA" = "In Filza öffnen";
+"MORE_OPTION" = "Weitere Optionen";
+"DELETE_ALL" = "Alle löschen";
+"SAVE_TO_PHOTOS" = "In Fotos speichern";
+"ARE_YOU_SURE" = "Willst du wirklich alle Dateien löschen?";
+"NOTE" = "Hinweis!";
+"SAVE_FAILED" = "Speichern fehlgeschlagen!";
+"SAVE_TO_PHOTOS_FAILED" = "Speichern in Fotos fehlgeschlagen \n Hat YouTube Zugriff auf deine Fotos?";
+"DELETING_VIDEO" = "Video wirklich löschen?";
+"DELETING_AUDIO" = "Audio wirklich löschen?";
+
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "Download Manager";
+"VIDEO_TAB_BAR" = "Video";
+"AUDIO_TAB_BAR" = "Audio";
+"SHORTS_TAB_BAR" = "Shorts";
+
+
+
+/* license activation section */
+"YOUR_UUID_IS" = "Deine UUID lautet: %@";
+"THANKS" = "Danke!";
+"ACTIVATED_SUCCESS" = "Deine Lizenz wurde erfolgreich aktiviert 😊. Viel Spaß mit der allerbesten YouTube Erfahrung!";
+"NOT_LICENSED_YET" = "Du hast noch keine Lizenz ☹️.";
+"BUY_LICENSE" = "Lizenz erwerben";
+"UPGRADE_FROM_YTKILLER" = "Upgrade von YouTubeKiller (Alte Version)";
+"COPY_UUID" = "UUID kopieren & absenden";
+"COPIED_UUID" = "Kopiert";
+"UUID_ACTIVATION_INFO" = "Informationen zur Aktivierung";
+"CANCEL_SENDING" = "Abbrechen";
+"CANCELED_SENDING" = "Abgebrochen";
+"ACTIVATION_ERROR" = "Fehler bei der Aktivierung!";
+"ACTIVATION_ERROR_INFO" = "Es gibt Probleme mit unserem Aktivierungsserver 😭. Bitte kontaktiere den Entwickler für weitere Informationen!";
+"CONTACT_DEVELPER" = "Entwickler kontaktieren!";
+"DISMISS_SEND" = "Verwerfen";
+
+/* "WELCOME_ACTIVATION_INFO" = "\n[ Für was brauchen wir die UUID? ]\n Das Tweak kommuniziert mit unserem Lizenzierungsserver. Du brauchst also eine aktive Internetverbindung um es zu aktivieren.\n\n[ Aktivierung ]\n Tippe auf das Zahnrad am oberen Bildschirmrand um eine Anleitung zu erhalten.\n\n[ Deine UUID wird gesendet. ]\n Sende uns bitte deine UUID wenn die Zahlung erfolgreich war.\n Tippe auf 'UUID kopieren' und sende sie uns per E-Mail.\n\n [Upgrade von YouTubeKiller (Alte Version) ]\n Du musst uns deine alte UDID von YouTubeKiller UND deine neue UUID von YTKillerPlus per E-Mail zuschicken. Nur dann kann die Registrierung erfolgreich verlaufen!"; */
+
+"SEND_UUID" = "UUID für die Registrierung absenden!";
+"SEND_UUID_AND_PROOF" = "Bitte sende uns ein (Bildschirm-)Foto deines Belegs damit es schneller geht! \n ▽▽▽ UUID bitte unten einfügen ▽▽▽ \n\n My UUID is:";
+"WELCOME_MESSAGE" = "Herzlich Willkommen bei YTKillerPlus v2.1";
+
+
+/* other stuff */
+/* Thank you for this incredible Tweak! */
+/* Country Specific: de */
+/* Username for Credits: @serious.xi */
