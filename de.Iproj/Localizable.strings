@@ -248,6 +248,7 @@
 "PLAY" = "Wiedergabe";
 "SHARE" = "Teilen";
 "VIEW_IN_FILZA" = "In Filza öffnen";
+"DELETE" = "Delete";
 "MORE_OPTION" = "Weitere Optionen";
 "DELETE_ALL" = "Alle löschen";
 "SAVE_TO_PHOTOS" = "In Fotos speichern";
@@ -284,7 +285,7 @@
 "CONTACT_DEVELPER" = "Entwickler kontaktieren!";
 "DISMISS_SEND" = "Verwerfen";
 
-/* "WELCOME_ACTIVATION_INFO" = "\n[ Für was brauchen wir die UUID? ]\n Das Tweak kommuniziert mit unserem Lizenzierungsserver. Du brauchst also eine aktive Internetverbindung um es zu aktivieren.\n\n[ Aktivierung ]\n Tippe auf das Zahnrad am oberen Bildschirmrand um eine Anleitung zu erhalten.\n\n[ Deine UUID wird gesendet. ]\n Sende uns bitte deine UUID wenn die Zahlung erfolgreich war.\n Tippe auf 'UUID kopieren' und sende sie uns per E-Mail.\n\n [Upgrade von YouTubeKiller (Alte Version) ]\n Du musst uns deine alte UDID von YouTubeKiller UND deine neue UUID von YTKillerPlus per E-Mail zuschicken. Nur dann kann die Registrierung erfolgreich verlaufen!"; */
+"WELCOME_ACTIVATION_INFO" = "\n[ Für was brauchen wir die UUID? ]\n Das Tweak kommuniziert mit unserem Lizenzierungsserver. Du brauchst also eine aktive Internetverbindung um es zu aktivieren.\n\n[ Aktivierung ]\n Tippe auf das Zahnrad am oberen Bildschirmrand um eine Anleitung zu erhalten.\n\n[ Deine UUID wird gesendet. ]\n Sende uns bitte deine UUID wenn die Zahlung erfolgreich war.\n Tippe auf 'UUID kopieren' und sende sie uns per E-Mail.\n\n [Upgrade von YouTubeKiller (Alte Version) ]\n Du musst uns deine alte UDID von YouTubeKiller UND deine neue UUID von YTKillerPlus per E-Mail zuschicken. Nur dann kann die Registrierung erfolgreich verlaufen!";
 
 "SEND_UUID" = "UUID für die Registrierung absenden!";
 "SEND_UUID_AND_PROOF" = "Bitte sende uns ein (Bildschirm-)Foto deines Belegs damit es schneller geht! \n ▽▽▽ UUID bitte unten einfügen ▽▽▽ \n\n My UUID is:";

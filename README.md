@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/iPA/YouTube_v17.49.6.ipa) | com.google.ios.youtube | 17.49.6 | 2.1 | ZIP |
         | [YouTube](https://ikghd.site/iPA/YouTube_v17.49.6.ipa) | com.google.ios.youtube | 17.49.6 | 2.1 | IPA |
+        | [TrollStore](https://mega.nz/file/1wE3wIBQ#1z4FEgBpoLc2NbvDVI7gt2O_hvPa019cr6JEM7-fiNI) | com.google.ios.youtube | 17.49.6 | 2.1 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,12 +46,11 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link above and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://mega.nz/file/1wE3wIBQ#1z4FEgBpoLc2NbvDVI7gt2O_hvPa019cr6JEM7-fiNI) and install it via TrollStore:
 
 
 ### fix YT Sign IN issue..
 * NOTE !!! if u used the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
-* if u on below iOS 15 , like from 14.8 down to 13.0 and want to use the iPA u need to enable fix sign in in Miscellaneous section to sign in without issue on those versions .
 
 
 ## Localization..
