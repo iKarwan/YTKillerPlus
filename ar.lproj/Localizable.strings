@@ -76,6 +76,7 @@
 "HIDE_PLAYERBAR_WAVE_INFO" = "إخفاء خريطة الحرارية الأكثر مشاهدة. الجدول الزمني";
 "SWIPE_TO_HIDE_PANEL" = "اسحب لإخفاء عرض اللوحة";
 "SWIPE_TO_HIDE_PANEL_INFO" = "اسحب من يسار لليمين عند عرض اللوحات فـ وضع ملء الشاشة";
+"DISABLE_PINCH_TO_ZOOM" = "تعطيل قرص للتكبير";
 "MEDIA_CONTROLLER" = "أدوات التحكم بمشغل الفيديو";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "إظهار وحدة تحكم التراكب الذكية";
 "SHOW_MEDIA_CONTROLLER" = "دائما اظهر ازرار التحكم";
@@ -286,7 +287,7 @@
 
 "SEND_UUID" = "إرسال UUID للتسجيل";
 "SEND_UUID_AND_PROOF" = "فضلا قم بإدراج صورة اثبات الشراء للتفعيل بشكل اسرع. الصق UUID بالأسفل \n\n الخاص بي UUID هو:";
-"WELCOME_MESSAGE" = "مرحبا بك YTKillerPlus v2.0";
+"WELCOME_MESSAGE" = "مرحبا بك YTKillerPlus v2.1";
 
 
 /* other stuff */

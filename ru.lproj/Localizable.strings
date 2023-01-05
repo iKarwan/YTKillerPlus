@@ -76,6 +76,7 @@
 "HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
 "SWIPE_TO_HIDE_PANEL" = "Скрыть панель свайпом";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Скрывает панель с описанием в полноэкранном режиме, если свайпнуть слева направо";
+"DISABLE_PINCH_TO_ZOOM" = "Отключить щипок для масштабирования";
 "MEDIA_CONTROLLER" = "Управление плеером";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Отображать умное управление оверлеем"; //have no idea what is this
 "SHOW_MEDIA_CONTROLLER" = "Отображать кнопки управления плеером";
@@ -245,7 +246,7 @@
 "PLAY" = "Воспроизвести";
 "SHARE" = "Поделиться";
 "VIEW_IN_FILZA" = "Открыть в Filza";
-"DELETE" = "Delete";
+"DELETE" = "Удалить";
 "MORE_OPTION" = "Больше";
 "DELETE_ALL" = "Удалить все";
 "SAVE_TO_PHOTOS" = "Сохранить в Фото";

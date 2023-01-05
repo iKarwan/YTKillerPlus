@@ -76,6 +76,7 @@
 "HIDE_PLAYERBAR_WAVE_INFO" = "隱藏滑動時間軸時出現的瀏覽熱圖(Heat Map)";
 "SWIPE_TO_HIDE_PANEL" = "滑動關閉橫向留言區";
 "SWIPE_TO_HIDE_PANEL_INFO" = "在橫向留言區塊上由左向右滑動；同時關閉懸浮介面。";
+"DISABLE_PINCH_TO_ZOOM" = "禁用捏缩放";
 "MEDIA_CONTROLLER" = "媒體控制器";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
 "SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
@@ -246,7 +247,7 @@
 "PLAY" = "播放";
 "SHARE" = "分享";
 "VIEW_IN_FILZA" = "在Filza中查看";
-"DELETE" = "Delete";
+"DELETE" = "删除";
 "MORE_OPTION" = "更多選項";
 "DELETE_ALL" = "刪除全部";
 "SAVE_TO_PHOTOS" = "儲存到照片App";
@@ -287,7 +288,7 @@
 
 "SEND_UUID" = "傳送您的UUID以註冊！";
 "SEND_UUID_AND_PROOF" = "請傳送帶有付費證明的截圖或照片來啟用授權！請在下方貼上您的UUID。\n\n 我的UUID是:";
-"WELCOME_MESSAGE" = "歡迎使用YTKillerPlus 2.0版本！";
+"WELCOME_MESSAGE" = "歡迎使用YTKillerPlus 2.1版本！";
 
 
 /* other stuff */
