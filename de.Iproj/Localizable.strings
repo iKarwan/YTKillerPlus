@@ -1,8 +1,10 @@
 /* created on 25/10/2022 */
 /* by iKarwan */
-/* Germany by @serious.xi */
+/* edited on 23/12/2022 */
+/* by @serious.xi */
 
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
+
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus:"; */
@@ -84,12 +86,12 @@
 "KEEP_CAPTION_ON" = "Untertitel immer automatisch aktivieren";
 "KEEP_CAPTION_ON_INFO" = "Untertitel werden für jedes Video angezeigt.";
 "PREVIUOS_AND_NEXT_BUTTON" = "Zuvor und Als Nächstes Tasten";
-"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Zuvor und 'als Nächstes' Tasten deaktivieren";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten deaktivieren";
 "PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Kompaktere 'Zuvor' und 'als Nächstes' Tasten";
-"PLAYER_BAR_NEXT_BUTTON" = "als Nächstes Knopf neben Zeitstempel";
-"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Zuvor und 'als Nächstes' Tasten ausblenden";
+"PLAYER_BAR_NEXT_BUTTON" = "'als Nächstes' Knopf neben Zeitstempel";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten ausblenden";
 "HIDE_BACK_BUTTON_SHADOW" = "Schatten für 'Zuvor' und 'als Nächstes' Tasten ausblenden";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Zuvor und 'als Nächstes' Tasten ersetzen";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "'Zuvor' und 'als Nächstes' Tasten ersetzen";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Wird ersetzt durch Vor- und Zurückspulen!";
 "HIDE_ITEMS" = "Elemente ausblenden";
 "HIDE_VOLUME_BAR" = "Lautstärkeleiste ausblenden";
@@ -103,7 +105,7 @@
 "HIDE_CHAT_BUTTON_IN_STREAM" = "Chat Taste ausblenden (Live)";
 "HIDE_CAST_BUTTON" = "Chromecast Taste ausblenden";
 "HIDE_ENDSCREEN_VIDEOS" = "Endkarte ausblenden";
-"HIDE_RELATED_VIDEOS" = "Ähnliche Videos ausblenden";
+"HIDE_RELATED_VIDEOS" = "'Ähnliche Videos' ausblenden";
 "HIDE_LANDSCAPE_COMMENTS" = "Kommentarsektion ausblenden";
 "HIDE_LANDSCAPE_COMMENTS_INFO" = "Kommentarsektion wird vollständig deaktiviert im Vollbild.";
 "SHOW_PROGRESS_BAR" = "Zeitleiste dauerhaft anzeigen";
@@ -158,11 +160,11 @@
 "SHORTS_SECTION" = "Shorts";
 "ENABLE_PLAYER_BAR" = "Zeitleiste aktivieren";
 "HIDE_ELEMNTS" = "Elemente ausblenden";
-"HIDE_LIKE_BUTTON" = "Like Taste ausblenden";
-"HIDE_DISLIKE_BUTTON" = "Dislike Taste ausblenden";
-"HIDE_COMMENTS_BUTTON" = "Kommentare Taste ausblenden";
-"HIDE_SHARE_BUTTON" = "Teilen Taste ausblenden";
-"HIDE_MORE_BUTTON" = "Mehr Taste ausblenden";
+"HIDE_LIKE_BUTTON" = "'Like' Taste ausblenden";
+"HIDE_DISLIKE_BUTTON" = "'Dislike' Taste ausblenden";
+"HIDE_COMMENTS_BUTTON" = "'Kommentare' Taste ausblenden";
+"HIDE_SHARE_BUTTON" = "'Teilen' Taste ausblenden";
+"HIDE_MORE_BUTTON" = "'Mehr' Taste ausblenden";
 
 
 /* downloading section */
@@ -186,12 +188,12 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Wenn YouTube während eines Shorts beendet wird.";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Shorts durch Entdecken ersetzen";
 "HIDE_TABS" = "Tabs ausblenden";
-"HIDE_HOME_TAB" = "Startseite Tab ausblenden";
-"HIDE_EXPLORE_TAB" = "Entdecken Tab ausblenden";
-"HIDE_SHORTS_TAB" = "Shorts Tab ausblenden";
-"HIDE_CREATE_TAB" = "Erstellen Tab (+) ausblenden";
-"HIDE_SUBSCRIPTION_TAB" = "Abonnements Tab ausblenden";
-"HIDE_LIBRARY_TAB" = "Mediathek Tab ausblenden";
+"HIDE_HOME_TAB" = "'Startseite' Tab ausblenden";
+"HIDE_EXPLORE_TAB" = "'Entdecken' Tab ausblenden";
+"HIDE_SHORTS_TAB" = "'Shorts' Tab ausblenden";
+"HIDE_CREATE_TAB" = "'Erstellen' Tab (+) ausblenden";
+"HIDE_SUBSCRIPTION_TAB" = "'Abonnements' Tab ausblenden";
+"HIDE_LIBRARY_TAB" = "'Mediathek' Tab ausblenden";
 "HIDE_ALL_TAB" = "Alle Tabs ausblenden";
 
 
@@ -212,7 +214,7 @@
 "HIDE_LINE_SEPERATOR" = "Trennlinien in Mediathek ausblenden";
 "ROUND_ALL_VIEW_CORNERS" = "Alle Ecken abrunden";
 "DISABLE_DARK_MODE" = "Dunkelmodus deaktivieren";
-"HIDE_INCLUDE_PAID_PROMO" = "Enthält bezahlte... ausblenden";
+"HIDE_INCLUDE_PAID_PROMO" = "'Enthält bezahlte...' ausblenden";
 "DARK_KEYBOARDS" = "Dunkelmodus für die Tastatur";
 "OTHERS" = "Startseite";
 "HIDE_PLAYLIST" = "Playlisten ausblenden";
@@ -220,7 +222,7 @@
 "HIDE_COVID_NEWS" = "COVID & Nachrichten ausblenden";
 "COVID_NEWS_INFO" = "Versteckt COVID & Nachrichten auf der Startseite!";
 "HIDE_FILTER_TAGS" = "Kategorien ausblenden (Oben)";
-"FIX_SIGN_IN" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist.";
+"FIX_SIGN_IN" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist.'";
 "FIX_SIGNIN" = "Fehlerbehebungen für Login";
 "FIX_SIGNIN_INFO" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist. \n Für Nutzer mit iOS 15 oder älter. iOS 15+ hat es standardmäßig!";
 
@@ -291,3 +293,6 @@
 
 
 /* other stuff */
+/* Thank you for this incredible Tweak! */
+/* Country Specific: de */
+/* Username for Credits: @serious.xi */
