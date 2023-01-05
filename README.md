@@ -50,7 +50,7 @@
 
 
 ### fix YT Sign IN issue..
-* NOTE !!! if u used the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
+* NOTE !!! if u use the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
 
 
 ## Localization..
