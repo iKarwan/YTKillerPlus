@@ -14,6 +14,9 @@
 "AUDIO" = "Ses";
 "AUDIO_TAB_BAR" = "Ses";
 "BUY_LICENSE" = "Lisans Satın Al";
+"ERROR" = "Error";
+"ACTIONS" = "Actions";
+"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "İptal";
 "CANCELED_SENDING" = "İptal edildi";
 "CANCEL_SENDING" = "İptal";
@@ -27,9 +30,11 @@
 "CREDITS" = "Kredi:";
 "CUSTOM_SKIP_DURATION" = "Özel Atlama Süresi";
 "DARK_KEYBOARDS" = "Karanlık Mod Klavyesi";
+"DISABLE_RTL" = "Disable RTL language";
 "DEFAULT_PAGE" = "Ev";
 "DELETED" = "Silindi";
 "DELETE_ALL" = "Hepsini sil";
+"SAVE_ARTWORK" = "Save Artwork/thumbnails";
 "DELETING_AUDIO" = "Ses Siliniyor mu?";
 "DELETING_VIDEO" = "Video siliniyor";
 "DEVELOPER" = "Geliştirici:";
@@ -144,6 +149,8 @@
 "LOCAL_DOWNLOADING" = "Yerel İndirme Modunu Etkinleştir";
 "LOCAL_DOWNLOADING_INFO" = "İndirme menüsünü tetiklemek için video oynatmaya uzun basın!";
 "LOCK_APP_VIA_PASSWORD" = "sistem şifresi ile";
+"UHD_UNLOCK" = "UHD Unlocker";
+"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
 "LOW_QUALITY" = "Düşük";
 "MEDIA_CONTROLLER" = "medya denetleyicisi";
 "MEDIUM_QUALITY" = "Orta";

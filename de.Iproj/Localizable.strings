@@ -38,8 +38,9 @@
 /* general section switch */
 "APP_LOCK" = "YouTube sperren";
 "LOCK_APP_VIA_PASSWORD" = "(mit dem Systempasswort)";
+"UHD_UNLOCK" = "UHD Unlocker";
+"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
 "OLED_DARK_MODE" = "Dunkelmodus (OLED)";
-"FOCUS_MODE" = "Fokus festlegen";
 "PLAY_IN_BACKGROUND" = "Hintergrund Wiedergabe (Audio)";
 "NO_ADVERTISMENT" = "Werbeblocker";
 "NO_AGE_RESTRICTION" = "Altersbegrenzung umgehen";
@@ -216,6 +217,7 @@
 "DISABLE_DARK_MODE" = "Dunkelmodus deaktivieren";
 "HIDE_INCLUDE_PAID_PROMO" = "'Enthält bezahlte...' ausblenden";
 "DARK_KEYBOARDS" = "Dunkelmodus für die Tastatur";
+"DISABLE_RTL" = "Disable RTL language";
 "OTHERS" = "Startseite";
 "HIDE_PLAYLIST" = "Playlisten ausblenden";
 "PLAYLIST_INFO" = "Funktioniert nicht im iPadOS Modus.";
@@ -231,6 +233,9 @@
 "OK" = "Okay";
 "YES" = "Ja";
 "NO" = "Nein";
+"ERROR" = "Error";
+"ACTIONS" = "Actions";
+"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";
@@ -251,6 +256,7 @@
 "DELETE" = "Löschen";
 "MORE_OPTION" = "Weitere Optionen";
 "DELETE_ALL" = "Alle löschen";
+"SAVE_ARTWORK" = "Save Artwork/thumbnails";
 "SAVE_TO_PHOTOS" = "In Fotos speichern";
 "ARE_YOU_SURE" = "Willst du wirklich alle Dateien löschen?";
 "NOTE" = "Hinweis!";

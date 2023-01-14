@@ -36,8 +36,9 @@
 /* general section switch */
 "APP_LOCK" = "啟用鎖定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖YouTube";
+"UHD_UNLOCK" = "UHD Unlocker";
+"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
 "OLED_DARK_MODE" = "啟用OLED深色主題模式";
-"FOCUS_MODE" = "啟用專注模式(移除造成分心的元素)";
 "PLAY_IN_BACKGROUND" = "啟用背景播放";
 "NO_ADVERTISMENT" = "去除廣告";
 "NO_AGE_RESTRICTION" = "去除觀看年齡限制";
@@ -215,6 +216,7 @@
 "DISABLE_DARK_MODE" = "停用黑暗模式";
 "HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
 "DARK_KEYBOARDS" = "使用深色外觀鍵盤";
+"DISABLE_RTL" = "Disable RTL language";
 "OTHERS" = "其他";
 "HIDE_PLAYLIST" = "隱藏播放清單";
 "PLAYLIST_INFO" = "不支援仿iPad風格";
@@ -230,6 +232,9 @@
 "OK" = "OK";
 "YES" = "是";
 "NO" = "否";
+"ERROR" = "Error";
+"ACTIONS" = "Actions";
+"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "取消";
 "DISMISS" = "撤銷";
 "DELETED" = "已刪除";
@@ -250,6 +255,7 @@
 "DELETE" = "删除";
 "MORE_OPTION" = "更多選項";
 "DELETE_ALL" = "刪除全部";
+"SAVE_ARTWORK" = "Save Artwork/thumbnails";
 "SAVE_TO_PHOTOS" = "儲存到照片App";
 "ARE_YOU_SURE" = "你確定嗎？";
 "NOTE" = "Noting!";

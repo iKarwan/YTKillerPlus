@@ -36,6 +36,8 @@
 /* general section switch */
 "APP_LOCK" = "قفل التطبيق";
 "LOCK_APP_VIA_PASSWORD" = "بكلمة مرور الجهاز";
+"UHD_UNLOCK" = "4K الجودة العالية";
+"UHD_UNLOCK_INFO" = "iPA الجودة العالية لـ ";
 "OLED_DARK_MODE" = "الوضع الليلي الداكن";
 "FOCUS_MODE" = "تفعيل وضع التركيز";
 "PLAY_IN_BACKGROUND" = "التشغيل في الخلفية";
@@ -214,6 +216,7 @@
 "DISABLE_DARK_MODE" = "تعطيل الوضع الليلي";
 "HIDE_INCLUDE_PAID_PROMO" = "إخفاء الإعلانات المُروّجة";
 "DARK_KEYBOARDS" = "الوضع الليلي للكيبورد";
+"DISABLE_RTL" = "تعطيل اللغة RTL";
 "OTHERS" = "قسم الرئيسية";
 "HIDE_PLAYLIST" = "إخفاء القوائم";
 "PLAYLIST_INFO" = "وضع الـ iPad غير مدعوم";
@@ -229,6 +232,9 @@
 "OK" = "حسنا";
 "YES" = "نعم";
 "NO" = "لا";
+"ERROR" = "خطأ";
+"ACTIONS" = "خيارات";
+"FILZA_NOT_INSTALLED_ALERT" = "التطبيق ليس مثبتاَ على الجهاز.";
 "CANCEL" = "إلغاء";
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";
@@ -249,6 +255,7 @@
 "DELETE" = "حذف";
 "MORE_OPTION" = "خيارات أخرى";
 "DELETE_ALL" = "حذف الكل";
+"SAVE_ARTWORK" = "حفظ الصورة";
 "SAVE_TO_PHOTOS" = "حفظ لألبوم الكاميرا";
 "ARE_YOU_SURE" = "هل أنت متأكد من حذف جميع الوسائط؟";
 "NOTE" = "ملاحظة";

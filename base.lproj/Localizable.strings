@@ -37,8 +37,9 @@
 /* general section switch */
 "APP_LOCK" = "Lock The App";
 "LOCK_APP_VIA_PASSWORD" = "via system password";
+"UHD_UNLOCK" = "UHD Unlocker";
+"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
 "OLED_DARK_MODE" = "OLED Dark Mode";
-"FOCUS_MODE" = "Enable Focus Mode";
 "PLAY_IN_BACKGROUND" = "Play In Background";
 "NO_ADVERTISMENT" = "No Advertisements";
 "NO_AGE_RESTRICTION" = "No Age Restriction";
@@ -215,6 +216,7 @@
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
 "HIDE_INCLUDE_PAID_PROMO" = "Hide Include P-Promotion";
 "DARK_KEYBOARDS" = "Dark Mode Keyboard";
+"DISABLE_RTL" = "Disable RTL language";
 "OTHERS" = "Home Feed";
 "HIDE_PLAYLIST" = "Hide PlayList";
 "PLAYLIST_INFO" = "iPad style is not supported!";
@@ -230,6 +232,9 @@
 "OK" = "OK";
 "YES" = "Yes";
 "NO" = "No";
+"ERROR" = "Error";
+"ACTIONS" = "Actions";
+"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";
@@ -250,6 +255,7 @@
 "DELETE" = "Delete";
 "MORE_OPTION" = "More Options";
 "DELETE_ALL" = "Delete All";
+"SAVE_ARTWORK" = "Save Artwork/thumbnails";
 "SAVE_TO_PHOTOS" = "Save To Photos";
 "ARE_YOU_SURE" = "Are you sure you want to Deleting All Items?";
 "NOTE" = "Note!";

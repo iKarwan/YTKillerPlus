@@ -36,8 +36,9 @@
 /* general section switch */
 "APP_LOCK" = "Блокировка паролем";
 "LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";
+"UHD_UNLOCK" = "UHD Unlocker";
+"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
 "OLED_DARK_MODE" = "Темный режим для OLED";
-"FOCUS_MODE" = "Режим фокусировки";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
 "NO_ADVERTISMENT" = "Убрать рекламу";
 "NO_AGE_RESTRICTION" = "Отключить возрастные ограничения";
@@ -214,6 +215,7 @@
 "DISABLE_DARK_MODE" = "Запретить темный режим";
 "HIDE_INCLUDE_PAID_PROMO" = "Скрыть «Есть реклама»";
 "DARK_KEYBOARDS" = "Клавиатура в темном режиме";
+"DISABLE_RTL" = "Disable RTL language";
 "OTHERS" = "Другое";
 "HIDE_PLAYLIST" = "Скрыть плейлисты";
 "PLAYLIST_INFO" = "Не поддерживается в режиме iPad";
@@ -229,6 +231,9 @@
 "OK" = "ОК";
 "YES" = "Да";
 "NO" = "Нет";
+"ERROR" = "Error";
+"ACTIONS" = "Actions";
+"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "Отмена";
 "DISMISS" = "Скрыть";
 "DELETED" = "Удалено";
@@ -249,6 +254,7 @@
 "DELETE" = "Удалить";
 "MORE_OPTION" = "Больше";
 "DELETE_ALL" = "Удалить все";
+"SAVE_ARTWORK" = "Save Artwork/thumbnails";
 "SAVE_TO_PHOTOS" = "Сохранить в Фото";
 "ARE_YOU_SURE" = "Вы уверены?";
 "NOTE" = "Тут ничего нет";
