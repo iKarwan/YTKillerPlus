@@ -18,7 +18,7 @@
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://mega.nz/file/ZgkkQagB#X1uk2EtuQrVJF2bthoujs5Ppa15STr3SGCaFKsQUn30) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
-        | [TrollStore](https://mega.nz/file/ZgkkQagB#X1uk2EtuQrVJF2bthoujs5Ppa15STr3SGCaFKsQUn30) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
+        | [TrollStore](https://mega.nz/file/QhVkgabK#LuX2t8m-Ef_RpzQbEe2lD0UddDUpQtj7lbcOvdB40rs) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://mega.nz/file/ZgkkQagB#X1uk2EtuQrVJF2bthoujs5Ppa15STr3SGCaFKsQUn30) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://mega.nz/file/QhVkgabK#LuX2t8m-Ef_RpzQbEe2lD0UddDUpQtj7lbcOvdB40rs) and install it via TrollStore:
 
 
 ### fix YT Sign IN issue..
