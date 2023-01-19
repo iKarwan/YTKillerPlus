@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://mega.nz/file/ZgkkQagB#X1uk2EtuQrVJF2bthoujs5Ppa15STr3SGCaFKsQUn30) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
-        | [TrollStore](https://mega.nz/file/QhVkgabK#LuX2t8m-Ef_RpzQbEe2lD0UddDUpQtj7lbcOvdB40rs) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
+        | [YouTube](https://up-ipa.xyz/share/1Xy8mQnXls3Z7dWD/direct) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
+        | [TrollStore](https://up-ipa.xyz/share/gkhA7Ueog18ZoNts/direct) | com.google.ios.youtube | 18.01.6 | 2.1-4 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -28,13 +28,13 @@
 3. Apple ID (email & password)
 
 
-### AltStore  ( RECOMMENDED )
+### AltStore
 * Download and install AltServer from [here](https://altstore.io).
 
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v18.01.6](https://tinyurl.com/3efkk99y) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v18.01.6](https://tinyurl.com/54rf68me) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://mega.nz/file/QhVkgabK#LuX2t8m-Ef_RpzQbEe2lD0UddDUpQtj7lbcOvdB40rs) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://up-ipa.xyz/share/gkhA7Ueog18ZoNts/direct) and install it via TrollStore:
 
 
 ### fix YT Sign IN issue..
