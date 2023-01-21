@@ -49,10 +49,6 @@
 * download the YouTube ipa from the link [here](https://up-ipa.xyz/share/gkhA7Ueog18ZoNts/direct) and install it via TrollStore:
 
 
-### fix YT Sign IN issue..
-* NOTE !!! if u use the iPA u need a license to be activated and enabled YTKillerPlus first to use sign in in the app .
-
-
 ## Localization..
 * YTKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
