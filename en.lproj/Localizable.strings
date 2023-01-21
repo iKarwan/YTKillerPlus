@@ -188,7 +188,6 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Replace Shorts With Explore";
 "HIDE_TABS" = "Hide Tabs";
-"HIDE_HOME_TAB" = "Hide Home";
 "HIDE_EXPLORE_TAB" = "Hide Explore";
 "HIDE_SHORTS_TAB" = "Hide Shorts";
 "HIDE_CREATE_TAB" = "Hide Create (+)";
@@ -223,9 +222,6 @@
 "HIDE_COVID_NEWS" = "Hide Covid & News";
 "COVID_NEWS_INFO" = "Hide covid & news in home feeds!";
 "HIDE_FILTER_TAGS" = "Hide Topic Filters At The Top";
-"FIX_SIGN_IN" = "Fix 'Google couldn't confirm this attempt to sign in is safe' Error ";
-"FIX_SIGNIN" = "Fix Unable To Sign In YouTube Account";
-"FIX_SIGNIN_INFO" = "Only for sideload user below iOS15. iOS15+ has it already!";
 
 
 /* global action title */
@@ -233,12 +229,13 @@
 "YES" = "Yes";
 "NO" = "No";
 "ERROR" = "Error";
-"ACTIONS" = "Actions";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
 "DELETED" = "Deleted";
-"DOWNLOADING_START" = "Downloading ⏳";
+"DOWNLOADING_START" = "Downloading";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
 "SAVED" = "Saved";
 "SUCCESS" = "Success";
 "HIGH_QUALITY" = "High";
@@ -254,8 +251,9 @@
 "VIEW_IN_FILZA" = "View In Filza";
 "DELETE" = "Delete";
 "MORE_OPTION" = "More Options";
+"MAIN_OPTION" = "Main Options";
 "DELETE_ALL" = "Delete All";
-"SAVE_ARTWORK" = "Save Artwork/thumbnails";
+"SAVE_ARTWORK" = "Save ArtWork";
 "SAVE_TO_PHOTOS" = "Save To Photos";
 "ARE_YOU_SURE" = "Are you sure you want to Deleting All Items?";
 "NOTE" = "Note!";
@@ -270,31 +268,6 @@
 "VIDEO_TAB_BAR" = "Video";
 "AUDIO_TAB_BAR" = "Audio";
 "SHORTS_TAB_BAR" = "Shorts";
-
-
-
-/* license activation section */
-"YOUR_UUID_IS" = "Your UUID is: %@";
-"THANKS" = "Thanks";
-"ACTIVATED_SUCCESS" = "Your license is activated successfully 😊. Enjoy the most advanced experience of YouTube!";
-"NOT_LICENSED_YET" = "You don't have a license yet ☹️";
-"BUY_LICENSE" = "Buy License";
-"UPGRADE_FROM_YTKILLER" = "Upgrade From YouTubeKiller";
-"COPY_UUID" = "Copy UUID & send it";
-"COPIED_UUID" = "Copied";
-"UUID_ACTIVATION_INFO" = "Activation Info";
-"CANCEL_SENDING" = "Cancel";
-"CANCELED_SENDING" = "Canceled";
-"ACTIVATION_ERROR" = "Activation error!";
-"ACTIVATION_ERROR_INFO" = "There is an issue with the activation server 😭 Please contact the developer for more Info!";
-"CONTACT_DEVELPER" = "Contact developer!";
-"DISMISS_SEND" = "Dismiss";
-
-"WELCOME_ACTIVATION_INFO" = "\n[ Why UUID needed? ]\n The tweak communicates with a license server. So you need internet to activate/proccess it.\n\n[ Activation ]\n Please click on the gear icon above to get instructions about how to send & activate your license.\n\n[ Sending your UUID ]\n After a successful purchase, you need to send your UUID in oreder to activate the license on the server.\n Click on copy UUID button to send it easily with your email agent.\n\n [ Upgrade from YouTubeKiller ]\n You need to send your old YoutubeKiller UDID and your new UUID from YTKillerPlus to the email to get registered after a successful purchase.";
-
-"SEND_UUID" = "Send your UUID for Registration !";
-"SEND_UUID_AND_PROOF" = "Please send a photo/screenshot of the purchased proof for fastest activation! Paste Your UUID down below.▽▽▽ \n\n My UUID is:";
-"WELCOME_MESSAGE" = "Welcome to YTKillerPlus v2.1";
 
 
 /* other stuff */

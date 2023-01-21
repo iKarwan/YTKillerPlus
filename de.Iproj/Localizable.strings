@@ -189,7 +189,6 @@
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Wenn YouTube während eines Shorts beendet wird.";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Shorts durch Entdecken ersetzen";
 "HIDE_TABS" = "Tabs ausblenden";
-"HIDE_HOME_TAB" = "'Startseite' Tab ausblenden";
 "HIDE_EXPLORE_TAB" = "'Entdecken' Tab ausblenden";
 "HIDE_SHORTS_TAB" = "'Shorts' Tab ausblenden";
 "HIDE_CREATE_TAB" = "'Erstellen' Tab (+) ausblenden";
@@ -224,9 +223,6 @@
 "HIDE_COVID_NEWS" = "COVID & Nachrichten ausblenden";
 "COVID_NEWS_INFO" = "Versteckt COVID & Nachrichten auf der Startseite!";
 "HIDE_FILTER_TAGS" = "Kategorien ausblenden (Oben)";
-"FIX_SIGN_IN" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist.'";
-"FIX_SIGNIN" = "Fehlerbehebungen für Login";
-"FIX_SIGNIN_INFO" = "Fehlerbehebung für 'Google konnte nicht überprüfen ob dieser Anmeldeversuch sicher ist. \n Für Nutzer mit iOS 15 oder älter. iOS 15+ hat es standardmäßig!";
 
 
 /* global action title */
@@ -234,12 +230,13 @@
 "YES" = "Ja";
 "NO" = "Nein";
 "ERROR" = "Error";
-"ACTIONS" = "Actions";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";
-"DOWNLOADING_START" = "Download wurde gestartet ⏳";
+"DOWNLOADING_START" = "Download wurde gestartet";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
 "SAVED" = "Gespeichert";
 "SUCCESS" = "Erfolgreich";
 "HIGH_QUALITY" = "Hoch";
@@ -255,8 +252,9 @@
 "VIEW_IN_FILZA" = "In Filza öffnen";
 "DELETE" = "Löschen";
 "MORE_OPTION" = "Weitere Optionen";
+"MAIN_OPTION" = "Main Options";
 "DELETE_ALL" = "Alle löschen";
-"SAVE_ARTWORK" = "Save Artwork/thumbnails";
+"SAVE_ARTWORK" = "Save ArtWork";
 "SAVE_TO_PHOTOS" = "In Fotos speichern";
 "ARE_YOU_SURE" = "Willst du wirklich alle Dateien löschen?";
 "NOTE" = "Hinweis!";
@@ -271,31 +269,6 @@
 "VIDEO_TAB_BAR" = "Video";
 "AUDIO_TAB_BAR" = "Audio";
 "SHORTS_TAB_BAR" = "Shorts";
-
-
-
-/* license activation section */
-"YOUR_UUID_IS" = "Deine UUID lautet: %@";
-"THANKS" = "Danke!";
-"ACTIVATED_SUCCESS" = "Deine Lizenz wurde erfolgreich aktiviert 😊. Viel Spaß mit der allerbesten YouTube Erfahrung!";
-"NOT_LICENSED_YET" = "Du hast noch keine Lizenz ☹️.";
-"BUY_LICENSE" = "Lizenz erwerben";
-"UPGRADE_FROM_YTKILLER" = "Upgrade von YouTubeKiller (Alte Version)";
-"COPY_UUID" = "UUID kopieren & absenden";
-"COPIED_UUID" = "Kopiert";
-"UUID_ACTIVATION_INFO" = "Informationen zur Aktivierung";
-"CANCEL_SENDING" = "Abbrechen";
-"CANCELED_SENDING" = "Abgebrochen";
-"ACTIVATION_ERROR" = "Fehler bei der Aktivierung!";
-"ACTIVATION_ERROR_INFO" = "Es gibt Probleme mit unserem Aktivierungsserver 😭. Bitte kontaktiere den Entwickler für weitere Informationen!";
-"CONTACT_DEVELPER" = "Entwickler kontaktieren!";
-"DISMISS_SEND" = "Verwerfen";
-
-"WELCOME_ACTIVATION_INFO" = "\n[ Für was brauchen wir die UUID? ]\n Das Tweak kommuniziert mit unserem Lizenzierungsserver. Du brauchst also eine aktive Internetverbindung um es zu aktivieren.\n\n[ Aktivierung ]\n Tippe auf das Zahnrad am oberen Bildschirmrand um eine Anleitung zu erhalten.\n\n[ Deine UUID wird gesendet. ]\n Sende uns bitte deine UUID wenn die Zahlung erfolgreich war.\n Tippe auf 'UUID kopieren' und sende sie uns per E-Mail.\n\n [Upgrade von YouTubeKiller (Alte Version) ]\n Du musst uns deine alte UDID von YouTubeKiller UND deine neue UUID von YTKillerPlus per E-Mail zuschicken. Nur dann kann die Registrierung erfolgreich verlaufen!";
-
-"SEND_UUID" = "UUID für die Registrierung absenden!";
-"SEND_UUID_AND_PROOF" = "Bitte sende uns ein (Bildschirm-)Foto deines Belegs damit es schneller geht! \n ▽▽▽ UUID bitte unten einfügen ▽▽▽ \n\n My UUID is:";
-"WELCOME_MESSAGE" = "Herzlich Willkommen bei YTKillerPlus v2.1";
 
 
 /* other stuff */

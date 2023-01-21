@@ -6,26 +6,16 @@
 
 /* YTKillerPlus global switch */
 /* "YTK_PLUS" = "YTKillerPlus"; */
-"ACTIVATED_SUCCESS" = "Lisansınız başarıyla etkinleştirildi 😊. YouTube'un en gelişmiş deneyiminin keyfini çıkarın!";
-"ACTIVATION_ERROR" = "Aktivasyon hatası!";
-"ACTIVATION_ERROR_INFO" = "Etkinleştirme sunucusuyla ilgili bir sorun var 😭 Daha fazla bilgi için lütfen geliştiriciyle iletişime geçin!";
 "APP_LOCK" = "Uygulamayı Kilitle";
 "ARE_YOU_SURE" = "Tüm Öğeleri Silmek istediğinizden emin misiniz?";
 "AUDIO" = "Ses";
 "AUDIO_TAB_BAR" = "Ses";
-"BUY_LICENSE" = "Lisans Satın Al";
 "ERROR" = "Error";
-"ACTIONS" = "Actions";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "CANCEL" = "İptal";
-"CANCELED_SENDING" = "İptal edildi";
-"CANCEL_SENDING" = "İptal";
 "CHANNEL_SECTIONS" = "Kanal Bölümünde";
 "CLASSIC_SHARE" = "Çağırıldığında Klasik Dolu Paylaşım Sayfası";
 "COMMENTS" = "Yorumlar";
-"CONTACT_DEVELPER" = "Geliştiriciyle iletişime geçin!";
-"COPIED_UUID" = "kopyalandı";
-"COPY_UUID" = "UUID'yi kopyalayın ve gönderin";
 "COVID_NEWS_INFO" = "Ev beslemelerinde covid ve haberleri gizleyin!";
 "CREDITS" = "Kredi:";
 "CUSTOM_SKIP_DURATION" = "Özel Atlama Süresi";
@@ -50,10 +40,11 @@
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Stok YT indirici kullanılarak indirilen videolar!";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Önceki ve Sonraki Düğmeyi Devre Dışı Bırak";
 "DISMISS" = "Reddet";
-"DISMISS_SEND" = "Reddet";
 "DOUBLE_TAP" = "Çift Dokunma Seçenekleri";
 "DOWNLOADING" = "İndirme Özelliğini Etkinleştir:";
-"DOWNLOADING_START" = "İndiriliyor ⏳";
+"DOWNLOADING_START" = "İndiriliyor";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
 "DOWNLOAD_MANAGER" = "İndirme yöneticisi";
 "DOWNLOAD_OPTIONS" = "Ekstra İndirme Seçenekleri";
 "DOWNLOAD_SECTION" = "Ekstra İndirme seçenekleri";
@@ -64,10 +55,6 @@
 "ENABLE_PIP_INFO" = "Video yer paylaşımına bir PIP Simgesi ekleyin";
 "ENABLE_PLAYER_BAR" = "Altta İlerleme Çubuğunu Etkinleştir";
 "EXPLORE" = "Keşfet";
-"FIX_SIGNIN" = "YouTube Hesabında Oturum Açılamamasını Düzelt";
-"FIX_SIGNIN_INFO" = "Yalnızca iOS14'ün altındaki yan yükleme kullanıcısı için. iOS15'te zaten var!";
-"FIX_SIGN_IN" = "Düzeltme 'Google, bu oturum açma girişiminin güvenli olduğunu onaylayamadı' Hatası";
-"FOCUS_MODE" = "Odak Modunu Etkinleştir";
 "GLOBAL_DOWNLOADING_SWITCH" = "Medyayı indirmek için bindirmeye bir düğme ekleyin.";
 "GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için üst düğmeye dokunun.";
 "HIDE_ACCOUNT" = "Hesabı Gizle";
@@ -95,7 +82,6 @@
 "HIDE_ENDSCREEN_VIDEOS" = "Bitiş Ekranı Videolarını Gizle";
 "HIDE_EXPLORE_TAB" = "Keşfet'i Gizle";
 "HIDE_FILTER_TAGS" = "Konu Filtrelerini En Üstte Gizle";
-"HIDE_HOME_TAB" = "Ana Sayfayı Gizle";
 "HIDE_HUD_ALERTS" = "Hud Uyarılarını Gizle";
 "HIDE_HUD_ALERTS_INFO" = "Beğenmeme\/çocuk videoları gibi tüm açılır pencere uyarılarını gizle";
 "HIDE_INCLUDE_PAID_PROMO" = "Gizle P-Promosyon Dahil Et";
@@ -160,10 +146,10 @@
 "MISCELLANEOUS" = "Çeşitli";
 "MISCELLANEOUS_SECTION" = "Çeşitli";
 "MORE_OPTION" = "Daha fazla seçenek";
+"MAIN_OPTION" = "Main Options";
 "NAVIGATION_BAR" = "Gezinme Çubuğu Seçenekleri";
 "NO" = "Yok";
 "NOTE" = "Not!";
-"NOT_LICENSED_YET" = "Henüz bir lisansınız yok ☹️";
 "NOT_SUPPORTED_FORMAT" = "Bu video indirici tarafından desteklenmiyor\nLütfen farklı bir indirme kalitesi deneyin";
 "NOT_TOPIC_SECTION" = "No Topic Section";
 "NO_ADVERTISMENT" = "Reklam yok";
@@ -225,13 +211,10 @@
 "TABS_SHRINKED_SMART" = "Sekmeler Küçüldü (Akıllı)";
 "TAB_BAR_OPTIONS" = "Sekme Çubuğu Seçenekleri";
 "TAB_BAR_SECTION" = "Sekme Çubuğu";
-"THANKS" = "teşekkürler";
-"UPGRADE_FROM_YTKILLER" = "YouTubeKiller'dan Yükseltme";
 "USE_ASPECT_RATIO" = "Tam Yönleri Kullan";
 "USE_ASPECT_RATIO_INFO" = "Aşağıdaki iPad tarzı mini Oynatıcıyı desteklemez.";
 "USE_STOCK_VOLUME_HUD" = "Sistem\/Stok HacmiHUD Kullan";
 "USE_STOCK_VOLUME_HUD_INFO" = "Sadece manzarada çalışır";
-"UUID_ACTIVATION_INFO" = "Aktivasyon Bilgisi";
 "VALUE_CHANGES" = "Saniye: 10";
 "VALUE_CHANGES_JB" = "Saniye: %.lf";
 "VIDEO" = "Video";
@@ -240,9 +223,6 @@
 "VIDEO_TAB_BAR" = "Video";
 "VIEW_IN_FILZA" = "Dosyada Görüntüle";
 "DELETE" = "Silmek";
-"WELCOME_ACTIVATION_INFO" = "[Neden uuıd'ye ihtiyaç var? ]\n Tweak bir lisans sunucusuyla iletişim kurar. Bu yüzden etkinleştirmek \/ işlemek için internete ihtiyacınız var.\n\n[ Aktivasyon ]\n Lisansınızı nasıl göndereceğiniz ve etkinleştireceğiniz hakkında talimatlar almak için lütfen yukarıdaki dişli çark simgesine tıklayın.\n\n[ UUID'NİZİ gönderiyor]\n Başarılı bir satın alma işleminden sonra, sunucudaki lisansı etkinleştirmek için uuıd'nizi oreder'e göndermeniz gerekir.\n E-posta aracınızla kolayca göndermek için uuıd'yi kopyala düğmesine tıklayın.\n\n [Youtubekiller'den yükseltme]\n Başarılı bir satın alma işleminden sonra kaydolmak için eski YoutubeKiller udıd'nizi ve yeni uuıd'nizi ytkillerplus'tan e-postaya göndermeniz gerekir.";
-"WELCOME_MESSAGE" = "YTKillerPlus v2.1'a hoş geldiniz";
 "YES" = "Evet";
-"YOUR_UUID_IS" = "UUID'niz: %@";
 
 /* other stuff */
