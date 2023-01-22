@@ -35,7 +35,7 @@
 
 /* general section switch */
 "APP_LOCK" = "啟用鎖定App功能";
-"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖"
+"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖";
 "UHD_UNLOCK" = "啟用4K UHD畫質";
 "UHD_UNLOCK_INFO" = "解鎖側載IPA的限制";
 "OLED_DARK_MODE" = "啟用OLED深色主題模式";
