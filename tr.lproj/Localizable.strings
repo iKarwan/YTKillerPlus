@@ -12,6 +12,7 @@
 "AUDIO_TAB_BAR" = "Ses";
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
+"NO_DATA" = "No data available.";
 "CANCEL" = "İptal";
 "CHANNEL_SECTIONS" = "Kanal Bölümünde";
 "CLASSIC_SHARE" = "Çağırıldığında Klasik Dolu Paylaşım Sayfası";
@@ -45,10 +46,11 @@
 "DOWNLOADING_START" = "İndiriliyor";
 "VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
 "AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "cancel";
 "DOWNLOAD_MANAGER" = "İndirme yöneticisi";
 "DOWNLOAD_OPTIONS" = "Ekstra İndirme Seçenekleri";
 "DOWNLOAD_SECTION" = "Ekstra İndirme seçenekleri";
-"DOWNLOAD_SECTION_INFO" = "Not: 1. Birden çok aynı nitelik varsa (yalnızca Jailbreak kullananlarda olur), lütfen üsttekini seçin.  2. Yerel indirme, içeriği doğrudan Fotoğraf uygulamasında depolar.  3. İlerleme hareketini taşımak için videoya varsayılan uzun basma devre dışı bırakılır.";
+"DOWNLOAD_SECTION_INFO" = "Not: 1. Birden çok aynı nitelik varsa (yalnızca Jailbreak kullananlarda olur), lütfen üsttekini seçin.  2. Yerel indirme, içeriği doğrudan Fotoğraf uygulamasında depolar.  3. İlerleme hareketini taşımak için videoya varsayılan uzun basma devre dışı bırakılır. 4. if u enabled the 4K enabler on ( MAIN SECTION ) this download feature will be disabled.";
 "ENABLE_MINI_PLAYER_VIDEOS" = "Tüm Videolar İçin Mini Oynatıcıyı Etkinleştir";
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Çocuklara özel videolarda mini oynatıcıyı kullanın";
 "ENABLE_PIP" = "PIP Özelliğini Etkinleştir";

@@ -176,7 +176,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Blendet die Download Taste von YouTube aus!";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Zeitbegrenzung für Downloads aufheben";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Für offizielle Downloads auf YouTube!";
-"DOWNLOAD_SECTION_INFO" = "Anmerkungen: 1. Falls eine Auflösung mehrfach angezeigt wird, bitte die Oberste auswählen (nur für Jailbreaknutzer relevant). 2. Lokaler Download speichert die Dateien in der Fotos App. 3. Die Gestensteuerung wird deaktiviert (Tippen und Halten zum Spulen).";
+"DOWNLOAD_SECTION_INFO" = "Anmerkungen: 1. Falls eine Auflösung mehrfach angezeigt wird, bitte die Oberste auswählen (nur für Jailbreaknutzer relevant). 2. Lokaler Download speichert die Dateien in der Fotos App. 3. Die Gestensteuerung wird deaktiviert (Tippen und Halten zum Spulen). 4. if u enabled the 4K enabler on ( MAIN SECTION ) this download feature will be disabled.";
 
 
 /* tabbar section */
@@ -231,12 +231,14 @@
 "NO" = "Nein";
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
+"NO_DATA" = "No data available.";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";
 "DOWNLOADING_START" = "Download wurde gestartet";
 "VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
 "AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "cancel";
 "SAVED" = "Gespeichert";
 "SUCCESS" = "Erfolgreich";
 "HIGH_QUALITY" = "Hoch";

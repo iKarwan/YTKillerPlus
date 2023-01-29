@@ -29,7 +29,7 @@
 "IPAD_OPTIONS" = "خيارات الآيباد";
 "NAVIGATION_BAR" = "شريط التنقل";
 "SHORTS_OPTION" = "خيارات Shorts";
-"DOWNLOAD_OPTIONS" = "خيارات التحميل";
+"DOWNLOAD_OPTIONS" = "خيارات التنزيل";
 "TAB_BAR_OPTIONS" = "خيارات التبويب";
 "MISCELLANEOUS" = "خيارات أخرى";
 
@@ -175,7 +175,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "إخفاء زر التنزيل الخاص بيوتيوب";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "تعطيل إنتهاء صلاحية الفيديوهات المحملة";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "تنزيل الفيديوهات بإستخدام زر التنزيل الخاص بيوتيوب";
-"DOWNLOAD_SECTION_INFO" = "ملاحظة لـ JB فقط: 1. إذا كانت هناك العديد من الجودات المتشابهة ، فيرجى اختيار النوع العلوي. 2. يخزن التنزيل المحلي المحتويات مباشرة إلى تطبيق الصور.";
+"DOWNLOAD_SECTION_INFO" = "ملاحظة لـ JB فقط: 1. إذا كانت هناك العديد من الجودات المتشابهة ، فيرجى اختيار النوع العلوي. 2. يخزن التنزيل المحلي المحتويات مباشرة إلى تطبيق الصور. 3.اذا كان خيار تفعيل ال4K شغال بصفحة الرئيسية سيعطل التنزيل المحلي";
 
 
 /* tabbar section */
@@ -230,12 +230,14 @@
 "NO" = "لا";
 "ERROR" = "خطأ";
 "FILZA_NOT_INSTALLED_ALERT" = "التطبيق ليس مثبتاَ على الجهاز.";
+"NO_DATA" = "لا توجد تنزيلات";
 "CANCEL" = "إلغاء";
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";
 "DOWNLOADING_START" = "جاري التحميل";
 "VIDEO_DWD_PROGRESS" = "فيديو(1/2)\n\n%.02f%%";
 "AUDIO_DWD_PROGRESS" = "صوت(2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "الغاء";
 "SAVED" = "تم الحفظ";
 "SUCCESS" = "نجاح";
 "SELECT_VIDEO_QUALITY" = "إختيار جودة الفيديو";
@@ -261,7 +263,7 @@
 
 
 /* download manager section */
-"DOWNLOAD_MANAGER" = "التحميلات";
+"DOWNLOAD_MANAGER" = "التنزيلات";
 "VIDEO_TAB_BAR" = "الفيديوهات";
 "AUDIO_TAB_BAR" = "الصوت";
 "SHORTS_TAB_BAR" = "Shorts";

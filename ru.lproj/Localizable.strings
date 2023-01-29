@@ -174,7 +174,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает кнопку «Скачать» от YouTube Premium";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium";
-"DOWNLOAD_SECTION_INFO" = "Данная опция требует включения имитации старой версии в Настройках YouTube -> YTKillerPlus";
+"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple same qualities (only happens on Jailbroken users), please choose the upper one. 2. Local download stores contents directly to Photo app. 3. The default long pressing on video to move progress gesture will be disabled. 4. if u enabled the 4K enabler on ( MAIN SECTION ) this download feature will be disabled.";
 
 
 /* tabbar section */
@@ -229,12 +229,14 @@
 "NO" = "Нет";
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
+"NO_DATA" = "No data available.";
 "CANCEL" = "Отмена";
 "DISMISS" = "Скрыть";
 "DELETED" = "Удалено";
 "DOWNLOADING_START" = "Загрузка";
 "VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
 "AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "cancel";
 "SAVED" = "Сохранено";
 "SUCCESS" = "Готово";
 "HIGH_QUALITY" = "Высокое";
