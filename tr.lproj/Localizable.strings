@@ -13,6 +13,7 @@
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
+"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
 "CANCEL" = "İptal";
 "CHANNEL_SECTIONS" = "Kanal Bölümünde";
 "CLASSIC_SHARE" = "Çağırıldığında Klasik Dolu Paylaşım Sayfası";
@@ -43,6 +44,9 @@
 "DISMISS" = "Reddet";
 "DOUBLE_TAP" = "Çift Dokunma Seçenekleri";
 "DOWNLOADING" = "İndirme Özelliğini Etkinleştir:";
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
+"ALWAYS_ASK" = "Always Ask";
 "DOWNLOADING_START" = "İndiriliyor";
 "VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
 "AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
@@ -202,6 +206,7 @@
 "STARTUP_PAGE" = "Başlangıç Sayfası";
 "STATUS_BAR" = "Durum çubuğu";
 "STICKY_NAV_BAR" = "Gezinme Çubuğunun altındaki Kategorileri Gizle";
+"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "STREAMING_SECTION" = "Yayın Akışı";
 "STREAM_OPTIONS" = "Akış Seçenekleri";
 "SUBSCRIPTIONS" = "Abonelik";

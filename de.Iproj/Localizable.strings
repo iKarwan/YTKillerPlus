@@ -14,6 +14,10 @@
 "DOWNLOADING" = "Download Funktion aktivieren";
 "GLOBAL_DOWNLOADING_SWITCH" = "Fügt eine Download Taste zum Bedienfeld hinzu.";
 
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
+"ALWAYS_ASK" = "Always Ask";
+
 /* Startup page section */
 "STARTUP_PAGE" = "Startseite";
 "DEFAULT_PAGE" = "Home";
@@ -149,6 +153,7 @@
 "HIDE_STATUS_BAR" = "Statusbar ausblenden";
 "CHANNEL_SECTIONS" = "Auf der Kanalseite";
 "STICKY_NAV_BAR" = "Kategorien unter der Statusleiste ausblenden";
+"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "HIDE_ITEMS_NAV_BAR" = "Symbole ausblenden";
 "HIDE_YT_LOGO" = "YouTube Logo ausblenden";
 "HIDE_NOTIFICATIONS_BILL" = "Glocke ausblenden";
@@ -232,6 +237,7 @@
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
+"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";

@@ -12,6 +12,10 @@
 "DOWNLOADING" = "Скачивание";
 "GLOBAL_DOWNLOADING_SWITCH" = "Активирует функцию скачивания";
 
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
+"ALWAYS_ASK" = "Always Ask";
+
 /* Startup page section */
 "STARTUP_PAGE" = "Начальная страница";
 "DEFAULT_PAGE" = "Главная";
@@ -147,6 +151,7 @@
 "HIDE_STATUS_BAR" = "Скрыть статус-бар";
 "CHANNEL_SECTIONS" = "Секция каналов";
 "STICKY_NAV_BAR" = "Закрепить верхнюю панель";
+"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "HIDE_ITEMS_NAV_BAR" = "Настройки элементов";
 "HIDE_YT_LOGO" = "Скрыть логотип YouTube";
 "HIDE_NOTIFICATIONS_BILL" = "Скрыть кнопку «Уведомления»";
@@ -230,6 +235,7 @@
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
+"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
 "CANCEL" = "Отмена";
 "DISMISS" = "Скрыть";
 "DELETED" = "Удалено";

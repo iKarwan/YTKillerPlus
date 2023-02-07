@@ -12,6 +12,10 @@
 "DOWNLOADING" = "啟用下載功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "在影片內容上方增加一個懸浮下載按鈕";
 
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
+"ALWAYS_ASK" = "Always Ask";
+
 /* Startup page section */
 "STARTUP_PAGE" = "YouTube啟動頁面";
 "DEFAULT_PAGE" = "首頁";
@@ -147,6 +151,7 @@
 "HIDE_STATUS_BAR" = "隱藏狀態欄";
 "CHANNEL_SECTIONS" = "頻道頁面";
 "STICKY_NAV_BAR" = "隱藏頻道頁面頂部的分類欄";
+"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "HIDE_ITEMS_NAV_BAR" = "隱藏頂部導航欄項目";
 "HIDE_YT_LOGO" = "隱藏YouTube Logo";
 "HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
@@ -231,6 +236,7 @@
 "ERROR" = "錯誤";
 "FILZA_NOT_INSTALLED_ALERT" = "在此裝置上沒有發現Filza";
 "NO_DATA" = "您尚未下載檔案😳";
+"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
 "CANCEL" = "取消";
 "DISMISS" = "撤銷";
 "DELETED" = "已刪除";
