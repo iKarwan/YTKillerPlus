@@ -1,0 +1,283 @@
+/* tạo ngày 25/10/2022 */
+/* bởi iKarwan */
+
+/* GHI CHÚ!!! bạn có quyền yêu cầu một bản sao của YTKillerPlus sau khi dịch và thêm vào phần đóng góp */
+
+/* LƯU Ý 2 !!! Vui lòng thêm quốc gia cụ thể của bạn sau khi dịch. en - ar - zh ext... */
+
+/* YTKillerPlus global switch */
+/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOBAL_ENABLED_SWITCH" = "Nhấn vào nút trên cùng bên phải để áp dụng các thay đổi.";
+
+/* downloding global switch */
+"DOWNLOADING" = "Bật tính năng tải xuống:";
+"GLOBAL_DOWNLOADING_SWITCH" = "Thêm nút tải xuống vào trình phát video.";
+
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
+"ALWAYS_ASK" = "Always Ask";
+"AUDIO_ONLY" = "Audio Only";
+
+/* Startup page section */
+"STARTUP_PAGE" = "Trang khởi động";
+"DEFAULT_PAGE" = "Trang chủ";
+
+"HOME" = "Trang chủ";
+"EXPLORE" = "Khám phá";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "Kênh đăng ký";
+"LIBRARY" = "Thư viện";
+
+
+/* general section */
+"VIDEO_PLAYER" = "Tùy chọn Trình phát video";
+"OVERLAY_OPTIONS" = "Tùy chọn Trình phát";
+"STREAM_OPTIONS" = "Tùy chọn luồng";
+"IPAD_OPTIONS" = "Tùy chọn iPad";
+"NAVIGATION_BAR" = "Tùy chọn Thanh điều hướng";
+"SHORTS_OPTION" = "Tùy chọn Shorts";
+"DOWNLOAD_OPTIONS" = "Tùy chọn Tải xuống bổ sung";
+"TAB_BAR_OPTIONS" = "Tùy chọn Thanh tab";
+"MISCELLANEOUS" = "Tùy chọn khác";
+
+/* general section switch */
+"APP_LOCK" = "Khoá ứng dụng";
+"LOCK_APP_VIA_PASSWORD" = "qua mật khẩu hệ thống";
+"UHD_UNLOCK" = "Mở khoá UHD";
+"UHD_UNLOCK_INFO" = "Mở khoá 4K trên iPA";
+"OLED_DARK_MODE" = "Chế độ tối OLED";
+"PLAY_IN_BACKGROUND" = "Phát trong nền";
+"NO_ADVERTISMENT" = "Không quảng cáo";
+"NO_AGE_RESTRICTION" = "Không giới hạn độ tuổi";
+"HIDE_YT_STORIES" = "Ẩn tất cả bài đăng của cộng đồng";
+"HIDE_YT_SHORTS" = "Ẩn tất cả video ngắn";
+"DISABLE_CAPTIONS" = "Tắt phụ đề";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Tìm hiểu các dự án khác của tôi:";
+"CREDITS" = "Tham gia:";
+"SPECIAL_THANK" = "Đặt biệt Cảm ơn:";
+"LOCALIZATION" = "Bản dịch:";
+"DEVELOPER" = "Nhà phát triển:";
+
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "Trình phát video";
+"HIDE_SUGGESTED_VIDEO" = "Ẩn video đề xuất";
+"COMMENTS" = "Bình luận";
+"HIDE_COMMENTS" = "Ẩn bình luận";
+"HIDE_COMMENTS_PREVIEW" = "Ẩn xem trước bình luận";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Không còn bình luận tiết lộ nữa!";
+"HIDE_COMMENTS_GUIDLINES" = "Ẩn nguyên tắt cộng đồng";
+"HIDE_COMMUNITY_TEXT_INFO" = "Ẩn nguyên tắc cộng đồng ở trên cùng!";
+
+
+/* overlay options section */
+"OVERLAY_SECTION" = "Lớp phủ";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Hiển thị thanh trạng thái trong lớp phủ";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Thiết bị có notch & iPad không được hỗ trợ!";
+"DISABLE_DOUBLE_TAP" = "Tắt nhấn đúp";
+"DISABLE_CONTINUE_WATCHING" = "Tắt tự động phát";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Xuất hiện khi bạn xem một đoạn video rất dài.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Ẩn hành động nhanh của lớp phủ";
+"HIDE_PLAYERBAR_WAVE" = "Ẩn sóng sau dòng thời gian";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Ẩn Bản đồ đã xem khi cuộn trên dòng thời gian";
+"SWIPE_TO_HIDE_PANEL" = "Vuốt để ẩn chế độ xem bảng điều khiển";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Vuốt từ trái sang phải trên chế độ xem toàn màn hình";
+"DISABLE_PINCH_TO_ZOOM" = "Tắt chụm để thu phóng";
+"MEDIA_CONTROLLER" = "Bộ điều khiển lớp phủ";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Luôn Hiển thị Nút Phát/Tạm dừng";
+"SHOW_MEDIA_CONTROLLER" = "Luôn hiển thị tất cả bộ điều khiển lớp phủ";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Ẩn nền tối của lớp phủ";
+"KEEP_CAPTION_ON" = "Bật phụ đề";
+"KEEP_CAPTION_ON_INFO" = "Tự động hiển thị chú thích khi phát video";
+"PREVIUOS_AND_NEXT_BUTTON" = "Nút quay lại & nút tiếp theo";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Tắt Nút Quay lại & Tiếp theo";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Compacted Previous & Next Button";
+"PLAYER_BAR_NEXT_BUTTON" = "Thêm Nút Tiếp theo Bên cạnh Thời gian";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Ẩn Nút Quay lại & Tiếp theo";
+"HIDE_BACK_BUTTON_SHADOW" = "Ẩn Bóng Nút Quay lại & Tiếp theo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Thay thế Nút Quay lại & Tiếp theo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Thay thế bằng nút tua đi & tua lại!";
+"HIDE_ITEMS" = "Ẩn mục";
+"HIDE_VOLUME_BAR" = "Ẩn thanh âm lượng";
+"HIDE_VOLUME_BAR_INFO" = "Ẩn thanh âm lượng màu trắng của YT ở chế độ ngang";
+"HIDE_INFO_CARD" = "Ẩn thẻ thông tin";
+"HIDE_WATER_MARK" = "Ẩn watermark trong video";
+"HIDE_AUTOPLAY_BUTTON" = "Ẩn Nút Tự động Phát";
+"HIDE_CAPTIONS_BUTTON" = "Ẩn nút Phụ đề";
+"HIDE_PLAY_PUASE" = "Ẩn Phát/Tạm dừng";
+"HIDE_MORE_GEAR_ICON" = "Ẩn thêm/Biểu tượng bánh răng";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Ẩn nút trò chuyện trong stream";
+"HIDE_CAST_BUTTON" = "Ẩn nút Truyền";
+"HIDE_ENDSCREEN_VIDEOS" = "Ẩn màn hình cuối video";
+"HIDE_RELATED_VIDEOS" = "Ẩn Video Liên quan";
+"HIDE_LANDSCAPE_COMMENTS" = "Tắt bình luận Livestream";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Phần bình luận sẽ bị tắt hoàn toàn trong Livestream";
+"SHOW_PROGRESS_BAR" = "Tiếp tục hiển thị thanh tiến trình trong Livestream";
+"SHOW_PROGRESS_BAR_INFO" = "Vuốt để hiển thị video liên quan sẽ bị tắt";
+
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "Bật chế độ Chất lượng video cũ";
+"LEGACY_QUALITY_MODE_INFO" = "Khôi phục các lựa chọn chất lượng video cũ!";
+"PICTURE_IN_PICTURE_PIP" = "Hình trong hình (PiP)";
+"ENABLE_PIP" = "Bật tính năng PiP";
+"ENABLE_PIP_INFO" = "Thêm biểu tượng PiP trong trình phát video";
+"DOUBLE_TAP" = "Tùy chọn Nhấn đúp";
+"CUSTOM_SKIP_DURATION" = "Tùy chỉnh thời gian bỏ qua";
+"VALUE_CHANGES_JB" = "Giây: %.Nếu";
+"VALUE_CHANGES" = "Giây: 10";
+"STREAMING_SECTION" = "Truyền trực tuyến";
+"PLAYBACK_SPEED" = "Thêm tùy chọn tốc độ phát";
+"PLAYBACK_SPEED_INFO" = "Lớp phủ video -> Nút cài đặt -> Tốc độ phát lại";
+"DISABLE_AUTOPLAY_VIDEOS" = "Tắt tự động phát video";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Phát Video HD Trên 3G/4G/5G";
+
+
+/* ipad section */
+"IPAD_SECION" = "Chế độ iPad";
+"IPADOS_MODE" = "Bật chế độ iPadOS";
+"DISABLE_DRAG_AND_DROP" = "Vô hiệu Kéo & Thả";
+"HIDE_CHANNEL_CIRCLES" = "Ẩn Biểu tượng Kênh Vòng tròn";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Đăng ký -> Biểu tượng kênh bên dưới thanh điều hướng.";
+"MINI_PLAYER_ASPECT_RATIO" = "Tuỳ chỉnh trình phát thu nhỏ";
+"USE_ASPECT_RATIO" = "Sử dụng toàn bộ khung hình";
+"USE_ASPECT_RATIO_INFO" = "Không hỗ trợ Trình phát mini kiểu iPad bên dưới.";
+"MINI_PLAYER" = "Trình phát thu nhỏ kiểu iPad";
+"REDEFIND_MINI_PLAYER" = "Trình phát thu nhỏ ở giữa";
+"MINI_PLAYER_IPAD_MODE" = "Trình phát thu nhỏ bên phải";
+
+
+/* navbar section */
+"STATUS_BAR" = "Thanh trạng thái";
+"HIDE_STATUS_BAR" = "Ẩn thanh trạng thái";
+"CHANNEL_SECTIONS" = "Trong phần Kênh";
+"STICKY_NAV_BAR" = "Ẩn Danh mục bên dưới Thanh Điều hướng";
+"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
+"HIDE_ITEMS_NAV_BAR" = "Ẩn Mục";
+"HIDE_YT_LOGO" = "Ẩn biểu tượng YT";
+"HIDE_NOTIFICATIONS_BILL" = "Ẩn thông báo";
+"HIDE_ACCOUNT" = "Ẩn Tài khoản";
+"HIDE_SEARCH" = "Ẩn Tìm kiếm";
+"HIDE_CAST_BUTTON" = "Ẩn nút Truyền video";
+
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "Bật thanh tiến trình ở dưới cùng";
+"HIDE_ELEMNTS" = "Ẩn các nút";
+"HIDE_LIKE_BUTTON" = "Ẩn nút Thích";
+"HIDE_DISLIKE_BUTTON" = "Ẩn nút Không thích";
+"HIDE_COMMENTS_BUTTON" = "Ẩn nút Bình luận";
+"HIDE_SHARE_BUTTON" = "Ẩn nút Chia sẻ";
+"HIDE_MORE_BUTTON" = "Ẩn nút Thêm";
+
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "Tùy chọn Tải xuống Bổ sung";
+"LOCAL_DOWNLOADING" = "Bật Chế độ Tải xuống Cục bộ";
+"LOCAL_DOWNLOADING_INFO" = "Nhấn giữ vào trình phát video để kích hoạt menu tải xuống!";
+"HIDE_DOWNLOAD_BUTTON" = "Ẩn nút Tải xuống";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "Ẩn nút tải xuống mặc định của YT!";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Vô hiệu hóa các Video đã Tải xuống Hết hạn";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Video được tải xuống bằng trình tải xuống mặc định YT!";
+"DOWNLOAD_SECTION_INFO" = "Lưu ý: 1. Nếu có nhiều chất lượng giống nhau (chỉ xảy ra với người dùng đã Bẻ khóa), vui lòng chọn chất lượng cao hơn. 2. Nội dung tải xuống cục bộ lưu trữ trực tiếp vào ứng dụng Ảnh. 3. Nhấn và giữ mặc định trên video để di chuyển cử chỉ tiến độ sẽ bị vô hiệu hóa. 4. Nếu bạn bật mở khoá UHD thì tính năng tải xuống này sẽ bị vô hiệu hóa.";
+
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "Thanh tab";
+"TABS_SHRINKED_BUTTOM" = "Tab thu nhỏ (Dưới cùng)";
+"TABS_SHRINKED_SMART" = "Tab Thu nhỏ (Thông minh)";
+"DISABLE_CREATE_BUTTON" = "Vô hiệu hóa Tạo (+)";
+"HIDE_TAB_LABELS" = "Ẩn nhãn tab";
+"PREVENT_OPEN_IN_SHORTS" = "Ngăn tự động chạy Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Xảy ra sau khi bạn vào YT ở trong Thẻ Shorts!";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Thay Shorts Bằng Khám phá";
+"HIDE_TABS" = "Ẩn Tabs";
+"HIDE_EXPLORE_TAB" = "Ẩn Khám phá";
+"HIDE_SHORTS_TAB" = "Ẩn Shorts";
+"HIDE_CREATE_TAB" = "Ẩn Tạo (+)";
+"HIDE_SUBSCRIPTION_TAB" = "Ẩn Đăng ký";
+"HIDE_LIBRARY_TAB" = "Ẩn Thư viện";
+"HIDE_ALL_TAB" = "Ẩn tất cả Tabs";
+
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "Cài đặt khác";
+"USE_STOCK_VOLUME_HUD" = "Sử dụng System/Stock VolumeHUD";
+"USE_STOCK_VOLUME_HUD_INFO" = "Chỉ hoạt động ở chế độ ngang";
+"HIDE_SEARCHED_HISTORY" = "Ẩn Lịch sử tìm kiếm";
+"NOT_TOPIC_SECTION" = "Không có phần chủ đề";
+"HIDE_PREMIUM_POPUP" = "Ẩn Premium Pop-Up";
+"HIDE_YT_UPDATE_POPUP" = "Ẩn Pop-Up cập nhật YT";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Ẩn thông báo buộc cập nhật/thoát ứng dụng gây phiền nhiễu!";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Bật Trình phát Mini cho tất cả video";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Sử dụng trình phát thu nhỏ trên video dành cho trẻ em";
+"HIDE_HUD_ALERTS" = "Ẩn các cảnh báo";
+"HIDE_HUD_ALERTS_INFO" = "Ẩn tất cả cảnh báo bật lên như video không thích/trẻ em";
+"CLASSIC_SHARE" = "Bảng chia sẻ kiểu cũ được hiển thị";
+"HIDE_LINE_SEPERATOR" = "Ẩn dấu tách dòng trong thư viện";
+"ROUND_ALL_VIEW_CORNERS" = "Làm Tròn Tất Cả Góc Cạnh";
+"DISABLE_DARK_MODE" = "Tất chế độ tối";
+"HIDE_INCLUDE_PAID_PROMO" = "Ẩn quảng cáo P-Promotion";
+"DARK_KEYBOARDS" = "Chế độ bàn phím tối";
+"DISABLE_RTL" = "Tắt ngôn ngữ RTL";
+"OTHERS" = "Dữ liệu trên Trang chủ";
+"HIDE_PLAYLIST" = "Ẩn danh sách phát";
+"PLAYLIST_INFO" = "Không hỗ trợ kiểu iPad!";
+"HIDE_COVID_NEWS" = "Ẩn Covid & Tin tức";
+"COVID_NEWS_INFO" = "Ẩn covid & tin tức hiển thị trên trang chủ";
+"HIDE_FILTER_TAGS" = "Ẩn Bộ lọc Chủ đề Ở Trên cùng";
+
+
+/* global action title */
+"OK" = "OK";
+"YES" = "Đồng ý";
+"NO" = "Không";
+"ERROR" = "Lỗi";
+"FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
+"NO_DATA" = "Không có dữ liệu.";
+"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
+"CANCEL" = "Hủy";
+"DISMISS" = "Bỏ qua";
+"DELETED" = "Đã xoá";
+"DOWNLOADING_START" = "Đang tải xuống";
+"VIDEO_DWD_PROGRESS" = "Video (1/2)\n\n%.02f%%";
+"AUDIO_DWD_PROGRESS" = "Âm thanh (2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "Hủy";
+"SAVED" = "Đã lưu";
+"SUCCESS" = "Thành công";
+"HIGH_QUALITY" = "Cao";
+"MEDIUM_QUALITY" = "Trung bình";
+"LOW_QUALITY" = "Thấp";
+"SELECT_VIDEO_QUALITY" = "Chọn chất lượng video";
+"NOT_SUPPORTED_FORMAT" = "Trình tải xuống không hỗ trợ video này\nVui lòng thử chất lượng tải xuống khác";
+"VIDEO" = "Video";
+"AUDIO" = "Âm thanh";
+"RENAME" = "Đổi tên";
+"PLAY" = "Play";
+"SHARE" = "Chia sẻ";
+"VIEW_IN_FILZA" = "Xem trong Filza";
+"DELETE" = "Xoá";
+"MORE_OPTION" = "Tùy chọn khác";
+"MAIN_OPTION" = "Quay lại";
+"DELETE_ALL" = "Xoá tất cả";
+"SAVE_ARTWORK" = "Lưu ảnh thu nhỏ";
+"SAVE_TO_PHOTOS" = "Lưu vào Ảnh";
+"ARE_YOU_SURE" = "Bạn có chắc chắn muốn Xóa Tất cả Mục không?";
+"NOTE" = "Ghi chú!";
+"SAVE_FAILED" = "Lưu Thất bại!";
+"SAVE_TO_PHOTOS_FAILED" = "Lưu vào ảnh không thành công\nĐảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong ứng dụng Cài đặt iOS";
+"DELETING_VIDEO" = "Đang xoá Video?";
+"DELETING_AUDIO" = "Đang xoá Âm thanh?";
+
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "Quản lý Tải xuống";
+"VIDEO_TAB_BAR" = "Video";
+"AUDIO_TAB_BAR" = "Âm thanh";
+"SHORTS_TAB_BAR" = "Shorts";
+
+
+/* other stuff */
