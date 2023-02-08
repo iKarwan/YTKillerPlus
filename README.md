@@ -17,12 +17,12 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://drive.google.com/file/d/1qPVrwLbBBIZ90NjVf0FpH6X13kow5Syy/view?usp=drivesdk) | com.google.ios.youtube | 18.03.3 | 2.2 | IPA |
-        | [TrollStore](https://drive.google.com/file/d/1BMnmbU85G6gxx4jOJKNIB_BqKDNUMr3a/view?usp=drivesdk) | com.google.ios.youtube | 18.03.3 | 2.2 | IPA |
+        | [YouTube](https://drive.google.com/file/d/1yF_vOUtQ5IPAUTHMWDyNDj5JuNJZTeHg/view?usp=drivesdk) | com.google.ios.youtube | 18.05.2 | 2.2-3 | IPA |
+        | [TrollStore](https://drive.google.com/file/d/1Df_dd6zuydhhNxd_elLLr4VVjSS4RdWi/view?usp=drivesdk) | com.google.ios.youtube | 18.05.2 | 2.2-3 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
-### Requirements
+### Requirementsz
 1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
@@ -34,7 +34,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v18.03.3](https://tinyurl.com/2p87mp4x) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v18.05.2](https://tinyurl.com/2p87mp4x) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://up-ipa.xyz/share/gkhA7Ueog18ZoNts/direct) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://drive.google.com/file/d/1Df_dd6zuydhhNxd_elLLr4VVjSS4RdWi/view?usp=drivesdk) and install it via TrollStore:
 
 
 ## Localization..
