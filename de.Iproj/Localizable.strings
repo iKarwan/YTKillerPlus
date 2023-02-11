@@ -17,6 +17,7 @@
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
 "ALWAYS_ASK" = "Always Ask";
+"AUDIO_ONLY" = "Audio Only";
 
 /* Startup page section */
 "STARTUP_PAGE" = "Startseite";
@@ -237,7 +238,7 @@
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
-"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE!!!\n enabling this feature will disable local downloading!";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";

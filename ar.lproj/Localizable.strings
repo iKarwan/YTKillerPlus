@@ -15,6 +15,7 @@
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "تعيين جودة التنزيل";
 "ALWAYS_ASK" = "اسأل دائماَ";
+"AUDIO_ONLY" = "الصوت فقط";
 
 /* Startup page section */
 "STARTUP_PAGE" = "صفحة البداية";
@@ -236,7 +237,7 @@
 "ERROR" = "خطأ";
 "FILZA_NOT_INSTALLED_ALERT" = "التطبيق ليس مثبتاَ على الجهاز.";
 "NO_DATA" = "لا توجد تنزيلات";
-"VIDEO_QUALITY_NOT_AVAILABLE" = "جودة الفيديو غير متوفر\n قم بتحديد جودة اخرى من الاعدادات";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "ملاحظة \n هذا الخيار يقوم بـ تعطيل خيار التنزيل المحلي";
 "CANCEL" = "إلغاء";
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";

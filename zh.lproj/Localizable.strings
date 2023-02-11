@@ -13,8 +13,9 @@
 "GLOBAL_DOWNLOADING_SWITCH" = "在影片內容上方增加一個懸浮下載按鈕";
 
 /* Default Download Quality section */
-"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
-"ALWAYS_ASK" = "Always Ask";
+"DEFAULT_DOWNLOAD_QUALITY" = "預設下載畫質";
+"ALWAYS_ASK" = "總是詢問";
+"AUDIO_ONLY" = "Audio Only";
 
 /* Startup page section */
 "STARTUP_PAGE" = "YouTube啟動頁面";
@@ -41,7 +42,7 @@
 "APP_LOCK" = "啟用鎖定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖";
 "UHD_UNLOCK" = "啟用4K UHD畫質";
-"UHD_UNLOCK_INFO" = "解鎖側載IPA的限制";
+"UHD_UNLOCK_INFO" = "解放側載的畫質限制";
 "OLED_DARK_MODE" = "啟用OLED深色主題模式";
 "PLAY_IN_BACKGROUND" = "啟用背景播放";
 "NO_ADVERTISMENT" = "去除廣告";
@@ -151,7 +152,7 @@
 "HIDE_STATUS_BAR" = "隱藏狀態欄";
 "CHANNEL_SECTIONS" = "頻道頁面";
 "STICKY_NAV_BAR" = "隱藏頻道頁面頂部的分類欄";
-"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
+"SHOW_YTKPLUS_ICON" = "顯示YTKillerPlus設定按鈕";
 "HIDE_ITEMS_NAV_BAR" = "隱藏頂部導航欄項目";
 "HIDE_YT_LOGO" = "隱藏YouTube Logo";
 "HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
@@ -180,7 +181,7 @@
 "HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏YouTube原生的下載按鈕";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "防止已下載影片過期";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用於YouTube原生功能所下載的影片";
-"DOWNLOAD_SECTION_INFO" = "註：1. 若有重複畫質選項請優先選擇較上方的選項(僅越獄用戶可能會遇到)。2. Local下載方式與懸浮下載按鈕方式不同，影片將直接儲存至照片App內。3. 原生的長按影片拖移進度功能將會失效。. 4. if u enabled the 4K enabler on ( MAIN SECTION ) this download feature will be disabled.";
+"DOWNLOAD_SECTION_INFO" = "1. 若有重複畫質選項請優先選擇較上方的選項(僅越獄用戶可能會遇到)。2. Local下載方式與懸浮下載按鈕方式不同，影片將直接儲存至照片App內。3. 原生的長按影片拖移進度功能將會失效。4. 若您啟用了4K UHD畫質此功能將會失效。";
 
 
 /* tabbar section */
@@ -236,7 +237,7 @@
 "ERROR" = "錯誤";
 "FILZA_NOT_INSTALLED_ALERT" = "在此裝置上沒有發現Filza";
 "NO_DATA" = "您尚未下載檔案😳";
-"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE!!!\n enabling this feature will disable local downloading!";
 "CANCEL" = "取消";
 "DISMISS" = "撤銷";
 "DELETED" = "已刪除";

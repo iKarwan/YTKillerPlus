@@ -1,5 +1,6 @@
 /* tạo ngày 25/10/2022 */
 /* bởi iKarwan */
+/* vietnamese by Minh Quâb Hûa */
 
 /* GHI CHÚ!!! bạn có quyền yêu cầu một bản sao của YTKillerPlus sau khi dịch và thêm vào phần đóng góp */
 
@@ -28,9 +29,8 @@
 "SUBSCRIPTIONS" = "Kênh đăng ký";
 "LIBRARY" = "Thư viện";
 
-
 /* general section */
-"VIDEO_PLAYER" = "Tùy chọn Trình phát video";
+"VIDEO_PLAYER" = "Tùy chọn bố cục video";
 "OVERLAY_OPTIONS" = "Tùy chọn Trình phát";
 "STREAM_OPTIONS" = "Tùy chọn luồng";
 "IPAD_OPTIONS" = "Tùy chọn iPad";
@@ -42,7 +42,7 @@
 
 /* general section switch */
 "APP_LOCK" = "Khoá ứng dụng";
-"LOCK_APP_VIA_PASSWORD" = "qua mật khẩu hệ thống";
+"LOCK_APP_VIA_PASSWORD" = "dùng mật khẩu hệ thống";
 "UHD_UNLOCK" = "Mở khoá UHD";
 "UHD_UNLOCK_INFO" = "Mở khoá 4K trên iPA";
 "OLED_DARK_MODE" = "Chế độ tối OLED";
@@ -50,7 +50,7 @@
 "NO_ADVERTISMENT" = "Không quảng cáo";
 "NO_AGE_RESTRICTION" = "Không giới hạn độ tuổi";
 "HIDE_YT_STORIES" = "Ẩn tất cả bài đăng của cộng đồng";
-"HIDE_YT_SHORTS" = "Ẩn tất cả video ngắn";
+"HIDE_YT_SHORTS" = "Ẩn tất cả Shorts video";
 "DISABLE_CAPTIONS" = "Tắt phụ đề";
 
 /* other || credits translation & links */
@@ -67,7 +67,7 @@
 "COMMENTS" = "Bình luận";
 "HIDE_COMMENTS" = "Ẩn bình luận";
 "HIDE_COMMENTS_PREVIEW" = "Ẩn xem trước bình luận";
-"HIDE_COMMENTS_PREVIEW_INFO" = "Không còn bình luận tiết lộ nữa!";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Không còn bình luận xem trước dưới video!";
 "HIDE_COMMENTS_GUIDLINES" = "Ẩn nguyên tắt cộng đồng";
 "HIDE_COMMUNITY_TEXT_INFO" = "Ẩn nguyên tắc cộng đồng ở trên cùng!";
 
@@ -75,46 +75,46 @@
 /* overlay options section */
 "OVERLAY_SECTION" = "Lớp phủ";
 "SHOW_STATUS_BAR_IN_OVERLAY" = "Hiển thị thanh trạng thái trong lớp phủ";
-"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Thiết bị có notch & iPad không được hỗ trợ!";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Thiết bị có notch & kiểu iPad không được hỗ trợ!";
 "DISABLE_DOUBLE_TAP" = "Tắt nhấn đúp";
 "DISABLE_CONTINUE_WATCHING" = "Tắt tự động phát";
-"DISABLE_CONTINUE_WATCHING_INFO" = "Xuất hiện khi bạn xem một đoạn video rất dài.";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Xuất hiện khi xem hết một video.";
 "HIDE_OVERLAY_QUICK_ACTION" = "Ẩn hành động nhanh của lớp phủ";
 "HIDE_PLAYERBAR_WAVE" = "Ẩn sóng sau dòng thời gian";
 "HIDE_PLAYERBAR_WAVE_INFO" = "Ẩn Bản đồ đã xem khi cuộn trên dòng thời gian";
 "SWIPE_TO_HIDE_PANEL" = "Vuốt để ẩn chế độ xem bảng điều khiển";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Vuốt từ trái sang phải trên chế độ xem toàn màn hình";
 "DISABLE_PINCH_TO_ZOOM" = "Tắt chụm để thu phóng";
-"MEDIA_CONTROLLER" = "Bộ điều khiển lớp phủ";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "Luôn Hiển thị Nút Phát/Tạm dừng";
+"MEDIA_CONTROLLER" = "tùy chỉnh lớp phủ";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Hiển thị Nút Phát/Tạm dừng";
 "SHOW_MEDIA_CONTROLLER" = "Luôn hiển thị tất cả bộ điều khiển lớp phủ";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Ẩn nền tối của lớp phủ";
 "KEEP_CAPTION_ON" = "Bật phụ đề";
-"KEEP_CAPTION_ON_INFO" = "Tự động hiển thị chú thích khi phát video";
-"PREVIUOS_AND_NEXT_BUTTON" = "Nút quay lại & nút tiếp theo";
-"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Tắt Nút Quay lại & Tiếp theo";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Compacted Previous & Next Button";
-"PLAYER_BAR_NEXT_BUTTON" = "Thêm Nút Tiếp theo Bên cạnh Thời gian";
-"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Ẩn Nút Quay lại & Tiếp theo";
-"HIDE_BACK_BUTTON_SHADOW" = "Ẩn Bóng Nút Quay lại & Tiếp theo";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Thay thế Nút Quay lại & Tiếp theo";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Thay thế bằng nút tua đi & tua lại!";
+"KEEP_CAPTION_ON_INFO" = "Tự động hiển thị phụ đề khi phát video";
+"PREVIUOS_AND_NEXT_BUTTON" = "nút trước và tiếp theo";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Tắt nút Trước và Tiếp theo";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Thu gọn nút Trước và Tiếp theo";
+"PLAYER_BAR_NEXT_BUTTON" = "Thêm Tiếp theo sau thời gian video";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Ẩn nút Trước và Tiếp theo";
+"HIDE_BACK_BUTTON_SHADOW" = "Ẩn nền đen nút Trước và Tiếp theo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Thay thế nút Trước và Tiếp theo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Thay thế Trước và Tiếp theo bằng tua lui và tua tới!";
 "HIDE_ITEMS" = "Ẩn mục";
 "HIDE_VOLUME_BAR" = "Ẩn thanh âm lượng";
-"HIDE_VOLUME_BAR_INFO" = "Ẩn thanh âm lượng màu trắng của YT ở chế độ ngang";
-"HIDE_INFO_CARD" = "Ẩn thẻ thông tin";
-"HIDE_WATER_MARK" = "Ẩn watermark trong video";
-"HIDE_AUTOPLAY_BUTTON" = "Ẩn Nút Tự động Phát";
+"HIDE_VOLUME_BAR_INFO" = "Ẩn thanh âm lượng của YT trong chế độ ngang";
+"HIDE_INFO_CARD" = "Ẩn Thẻ thông tin";
+"HIDE_WATER_MARK" = "Ẩn Watermark";
+"HIDE_AUTOPLAY_BUTTON" = "Ẩn nút Tự động phát";
 "HIDE_CAPTIONS_BUTTON" = "Ẩn nút Phụ đề";
 "HIDE_PLAY_PUASE" = "Ẩn Phát/Tạm dừng";
-"HIDE_MORE_GEAR_ICON" = "Ẩn thêm/Biểu tượng bánh răng";
+"HIDE_MORE_GEAR_ICON" = "Ẩn Thêm/Biểu tượng bánh răng";
 "HIDE_CHAT_BUTTON_IN_STREAM" = "Ẩn nút trò chuyện trong stream";
 "HIDE_CAST_BUTTON" = "Ẩn nút Truyền";
-"HIDE_ENDSCREEN_VIDEOS" = "Ẩn màn hình cuối video";
+"HIDE_ENDSCREEN_VIDEOS" = "Ẩn màn hình kết thúc video";
 "HIDE_RELATED_VIDEOS" = "Ẩn Video Liên quan";
 "HIDE_LANDSCAPE_COMMENTS" = "Tắt bình luận Livestream";
 "HIDE_LANDSCAPE_COMMENTS_INFO" = "Phần bình luận sẽ bị tắt hoàn toàn trong Livestream";
-"SHOW_PROGRESS_BAR" = "Tiếp tục hiển thị thanh tiến trình trong Livestream";
+"SHOW_PROGRESS_BAR" = "Hiển thị thanh tiến trình trong Livestream";
 "SHOW_PROGRESS_BAR_INFO" = "Vuốt để hiển thị video liên quan sẽ bị tắt";
 
 
@@ -157,7 +157,7 @@
 "SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "HIDE_ITEMS_NAV_BAR" = "Ẩn Mục";
 "HIDE_YT_LOGO" = "Ẩn biểu tượng YT";
-"HIDE_NOTIFICATIONS_BILL" = "Ẩn thông báo";
+"HIDE_NOTIFICATIONS_BILL" = "Ẩn thông báo";
 "HIDE_ACCOUNT" = "Ẩn Tài khoản";
 "HIDE_SEARCH" = "Ẩn Tìm kiếm";
 "HIDE_CAST_BUTTON" = "Ẩn nút Truyền video";
@@ -177,10 +177,10 @@
 /* downloading section */
 "DOWNLOAD_SECTION" = "Tùy chọn Tải xuống Bổ sung";
 "LOCAL_DOWNLOADING" = "Bật Chế độ Tải xuống Cục bộ";
-"LOCAL_DOWNLOADING_INFO" = "Nhấn giữ vào trình phát video để kích hoạt menu tải xuống!";
+"LOCAL_DOWNLOADING_INFO" = "Nhấn giữ vào trình phát video để kích hoạt!";
 "HIDE_DOWNLOAD_BUTTON" = "Ẩn nút Tải xuống";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Ẩn nút tải xuống mặc định của YT!";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Vô hiệu hóa các Video đã Tải xuống Hết hạn";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Vô hiệu hóa Video Tải xuống Hết hạn";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Video được tải xuống bằng trình tải xuống mặc định YT!";
 "DOWNLOAD_SECTION_INFO" = "Lưu ý: 1. Nếu có nhiều chất lượng giống nhau (chỉ xảy ra với người dùng đã Bẻ khóa), vui lòng chọn chất lượng cao hơn. 2. Nội dung tải xuống cục bộ lưu trữ trực tiếp vào ứng dụng Ảnh. 3. Nhấn và giữ mặc định trên video để di chuyển cử chỉ tiến độ sẽ bị vô hiệu hóa. 4. Nếu bạn bật mở khoá UHD thì tính năng tải xuống này sẽ bị vô hiệu hóa.";
 
@@ -237,15 +237,15 @@
 "NO" = "Không";
 "ERROR" = "Lỗi";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE!!!\n enabling this feature will disable local downloading!";
 "NO_DATA" = "Không có dữ liệu.";
-"VIDEO_QUALITY_NOT_AVAILABLE" = "video quality not available\n choose another quality fromm settings.";
-"CANCEL" = "Hủy";
+"CANCEL" = "Huỷ";
 "DISMISS" = "Bỏ qua";
 "DELETED" = "Đã xoá";
 "DOWNLOADING_START" = "Đang tải xuống";
-"VIDEO_DWD_PROGRESS" = "Video (1/2)\n\n%.02f%%";
-"AUDIO_DWD_PROGRESS" = "Âm thanh (2/2)\n\n%.02f%%";
-"CANCEL_HUD" = "Hủy";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
+"AUDIO_DWD_PROGRESS" = "Âm thanh(2/2)\n\n%.02f%%";
+"CANCEL_HUD" = "Huỷ";
 "SAVED" = "Đã lưu";
 "SUCCESS" = "Thành công";
 "HIGH_QUALITY" = "Cao";
