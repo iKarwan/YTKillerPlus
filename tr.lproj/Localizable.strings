@@ -49,8 +49,8 @@
 "ALWAYS_ASK" = "Always Ask";
 "AUDIO_ONLY" = "Audio Only";
 "DOWNLOADING_START" = "İndiriliyor";
-"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.02f%%";
-"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.02f%%";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.01f%%";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.01f%%";
 "CANCEL_HUD" = "cancel";
 "DOWNLOAD_MANAGER" = "İndirme yöneticisi";
 "DOWNLOAD_OPTIONS" = "Ekstra İndirme Seçenekleri";
@@ -212,6 +212,8 @@
 "STREAM_OPTIONS" = "Akış Seçenekleri";
 "SUBSCRIPTIONS" = "Abonelik";
 "SUCCESS" = "Başarı";
+"SHOW_ALL_QUALITY" = "Show All Quality";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow !";
 "SWIPE_TO_HIDE_PANEL" = "Panel Görünümünü Gizlemek İçin Kaydırın";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Tam ekran panel görünümünde soldan sağa kaydırın";
 "DISABLE_PINCH_TO_ZOOM" = "Yakınlaştırmak için Sıkıştırmayı Devre Dışı Bırak";

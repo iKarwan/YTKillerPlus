@@ -242,11 +242,13 @@
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";
 "DOWNLOADING_START" = "جاري التحميل";
-"VIDEO_DWD_PROGRESS" = "فيديو(1/2)\n\n%.02f%%";
-"AUDIO_DWD_PROGRESS" = "صوت(2/2)\n\n%.02f%%";
+"VIDEO_DWD_PROGRESS" = "فيديو(1/2)\n\n%.01f%%";
+"AUDIO_DWD_PROGRESS" = "صوت(2/2)\n\n%.01f%%";
 "CANCEL_HUD" = "الغاء";
 "SAVED" = "تم الحفظ";
 "SUCCESS" = "نجاح";
+"SHOW_ALL_QUALITY" = "اظهار جميع الجودات";
+"SHOW_ALL_QUALITY_INFO" = "اظهار جميع الجودات مع الصوت,التنزيل محدود و بطئ!";
 "SELECT_VIDEO_QUALITY" = "إختيار جودة الفيديو";
 "NOT_SUPPORTED_FORMAT" = "لا يمكن تحميل الفيديو بالجودة المختار\nفضلا قم بإختيار جودة أخرى ";
 "VIDEO" = "الفيديو";
