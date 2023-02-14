@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://drive.google.com/file/d/1yF_vOUtQ5IPAUTHMWDyNDj5JuNJZTeHg/view?usp=drivesdk) | com.google.ios.youtube | 18.05.2 | 2.2-3 | IPA |
-        | [TrollStore](https://drive.google.com/file/d/1Df_dd6zuydhhNxd_elLLr4VVjSS4RdWi/view?usp=drivesdk) | com.google.ios.youtube | 18.05.2 | 2.2-3 | IPA |
+        | [YouTube](https://mega.nz/file/FEsmyCAB#zw9nVR_yDSp9Rl7oJmslRmJYgqrMOhM_SMEO0tfw2FI) | com.google.ios.youtube | 18.05.2 | 2.2-7 | IPA |
+        | [TrollStore](https://mega.nz/file/QF9STKBD#qJq9kockP653DjpYk4ow-2SUFGiZU5Q7-qFZPd0B264) | com.google.ios.youtube | 18.05.2 | 2.2-7 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://drive.google.com/file/d/1Df_dd6zuydhhNxd_elLLr4VVjSS4RdWi/view?usp=drivesdk) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://mega.nz/file/QF9STKBD#qJq9kockP653DjpYk4ow-2SUFGiZU5Q7-qFZPd0B264) and install it via TrollStore:
 
 
 ## Localization..
