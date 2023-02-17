@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://mega.nz/file/FEsmyCAB#zw9nVR_yDSp9Rl7oJmslRmJYgqrMOhM_SMEO0tfw2FI) | com.google.ios.youtube | 18.05.2 | 2.2-7 | IPA |
-        | [TrollStore](https://mega.nz/file/QF9STKBD#qJq9kockP653DjpYk4ow-2SUFGiZU5Q7-qFZPd0B264) | com.google.ios.youtube | 18.05.2 | 2.2-7 | IPA |
+        | [YouTube](https://mega.nz/file/bo0lTQYI#FLfgkbwZyxhpgzjST0jgRYhHQzQ5F7Gjmbm2C0Tc6_Y) | com.google.ios.youtube | 18.06.6 | 2.2-10 | IPA |
+        | [TrollStore](https://mega.nz/file/C0UGwLwB#BLyHecGjLLNlRtMfjhReOugUUK4lACPHNAAuPK35w5g) | com.google.ios.youtube | 18.06.6 | 2.2-10 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -34,7 +34,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YouTube v18.05.2](https://tinyurl.com/2p87mp4x) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YouTube v18.06.6](https://tinyurl.com/2p87mp4x) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://mega.nz/file/QF9STKBD#qJq9kockP653DjpYk4ow-2SUFGiZU5Q7-qFZPd0B264) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://mega.nz/file/C0UGwLwB#BLyHecGjLLNlRtMfjhReOugUUK4lACPHNAAuPK35w5g) and install it via TrollStore:
 
 
 ## Localization..

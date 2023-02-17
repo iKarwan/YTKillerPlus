@@ -1,6 +1,6 @@
 /* tạo ngày 25/10/2022 */
 /* bởi iKarwan */
-/* vietnamese by Minh Quâb Hûa */
+/* vietnamese bởi Minh Quâb Hûa */
 
 /* GHI CHÚ!!! bạn có quyền yêu cầu một bản sao của YTKillerPlus sau khi dịch và thêm vào phần đóng góp */
 
@@ -237,19 +237,19 @@
 "NO" = "Không";
 "ERROR" = "Lỗi";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE!!!\n enabling this feature will disable local downloading!";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
 "NO_DATA" = "Không có dữ liệu.";
 "CANCEL" = "Huỷ";
 "DISMISS" = "Bỏ qua";
 "DELETED" = "Đã xoá";
 "DOWNLOADING_START" = "Đang tải xuống";
-"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.01f%%";
-"AUDIO_DWD_PROGRESS" = "Âm thanh(2/2)\n\n%.01f%%";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)";
+"AUDIO_DWD_PROGRESS" = "Âm thanh(2/2)";
 "CANCEL_HUD" = "Huỷ";
 "SAVED" = "Đã lưu";
 "SUCCESS" = "Thành công";
 "SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow !";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow!";
 "SELECT_VIDEO_QUALITY" = "Chọn chất lượng video";
 "NOT_SUPPORTED_FORMAT" = "Trình tải xuống không hỗ trợ video này\nVui lòng thử chất lượng tải xuống khác";
 "VIDEO" = "Video";

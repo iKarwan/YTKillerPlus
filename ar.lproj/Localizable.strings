@@ -237,13 +237,13 @@
 "ERROR" = "خطأ";
 "FILZA_NOT_INSTALLED_ALERT" = "التطبيق ليس مثبتاَ على الجهاز.";
 "NO_DATA" = "لا توجد تنزيلات";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "ملاحظة \n هذا الخيار يقوم بـ تعطيل خيار التنزيل المحلي";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "ملاحظة \n هذا الخيار يقوم بـ تعطيل خيار التنزيل المحلي لـ iPA فقط";
 "CANCEL" = "إلغاء";
 "DISMISS" = "إخفاء";
 "DELETED" = "تم الحذف";
 "DOWNLOADING_START" = "جاري التحميل";
-"VIDEO_DWD_PROGRESS" = "فيديو(1/2)\n\n%.01f%%";
-"AUDIO_DWD_PROGRESS" = "صوت(2/2)\n\n%.01f%%";
+"VIDEO_DWD_PROGRESS" = "فيديو(1/2)";
+"AUDIO_DWD_PROGRESS" = "صوت(2/2)";
 "CANCEL_HUD" = "الغاء";
 "SAVED" = "تم الحفظ";
 "SUCCESS" = "نجاح";

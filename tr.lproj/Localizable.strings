@@ -13,7 +13,7 @@
 "ERROR" = "Error";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE!!!\n enabling this feature will disable local downloading!";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
 "CANCEL" = "İptal";
 "CHANNEL_SECTIONS" = "Kanal Bölümünde";
 "CLASSIC_SHARE" = "Çağırıldığında Klasik Dolu Paylaşım Sayfası";
@@ -49,8 +49,8 @@
 "ALWAYS_ASK" = "Always Ask";
 "AUDIO_ONLY" = "Audio Only";
 "DOWNLOADING_START" = "İndiriliyor";
-"VIDEO_DWD_PROGRESS" = "Video(1/2)\n\n%.01f%%";
-"AUDIO_DWD_PROGRESS" = "Audio(2/2)\n\n%.01f%%";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)";
 "CANCEL_HUD" = "cancel";
 "DOWNLOAD_MANAGER" = "İndirme yöneticisi";
 "DOWNLOAD_OPTIONS" = "Ekstra İndirme Seçenekleri";
@@ -213,7 +213,7 @@
 "SUBSCRIPTIONS" = "Abonelik";
 "SUCCESS" = "Başarı";
 "SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow !";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow!";
 "SWIPE_TO_HIDE_PANEL" = "Panel Görünümünü Gizlemek İçin Kaydırın";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Tam ekran panel görünümünde soldan sağa kaydırın";
 "DISABLE_PINCH_TO_ZOOM" = "Yakınlaştırmak için Sıkıştırmayı Devre Dışı Bırak";
