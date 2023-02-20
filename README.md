@@ -3,7 +3,7 @@
 
 ## Recommended iOS Firmware & YouTube App Versions?
 * iOS 13.0 / iOS 16.x ...
-* YouTube v16.10.5 and newer ...
+* YouTube v17.25.1 and newer ...
 
 
 ## Depiction Page
@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://drive.google.com/file/d/1nhOB5il9I2hcywK5LNfL4MprzoRoKOXq/view?usp=drivesdk) | com.google.ios.youtube | 18.06.6 | 2.2-10 | IPA |
-        | [TrollStore](https://drive.google.com/file/d/1fdumsotNavOPUu6II5MZLsp8HLVjUYSF/view?usp=drivesdk) | com.google.ios.youtube | 18.06.6 | 2.2-10 | IPA |
+        | [YouTube](https://drive.google.com/file/d/1nhOB5il9I2hcywK5LNfL4MprzoRoKOXq/view?usp=drivesdk) | com.google.ios.youtube | 18.06.6 | 2.2-11 | IPA |
+        | [TrollStore](https://drive.google.com/file/d/1fdumsotNavOPUu6II5MZLsp8HLVjUYSF/view?usp=drivesdk) | com.google.ios.youtube | 18.06.6 | 2.2-11 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
