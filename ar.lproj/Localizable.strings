@@ -58,7 +58,7 @@
 "SPECIAL_THANK" = "شكر خاص";
 "LOCALIZATION" = "الترجمة";
 "DEVELOPER" = "المطور:";
-"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
+"WELCOM_ALERT" = "لتعديل الإعدادات ، انتقل إلى رمز شريط علامة التبويب (YTKPlus) ثم انقر فوق رمز الترس أعلاه";
 
 
 /* video player section */
@@ -236,7 +236,7 @@
 "YES" = "نعم";
 "NO" = "لا";
 "ERROR" = "خطأ";
-"APP_RESTART_REQUIRED" = "app restart required";
+"APP_RESTART_REQUIRED" = "اعادة تشغيل التطبيق لتطبيق الغييرات";
 "FILZA_NOT_INSTALLED_ALERT" = "التطبيق ليس مثبتاَ على الجهاز.";
 "NO_DATA" = "لا توجد تنزيلات";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "ملاحظة \n هذا الخيار يقوم بـ تعطيل خيار التنزيل المحلي لـ iPA فقط";
