@@ -59,6 +59,7 @@
 "SPECIAL_THANK" = "Đặt biệt Cảm ơn:";
 "LOCALIZATION" = "Bản dịch:";
 "DEVELOPER" = "Nhà phát triển:";
+"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
 /* video player section */
@@ -236,6 +237,7 @@
 "YES" = "Đồng ý";
 "NO" = "Không";
 "ERROR" = "Lỗi";
+"APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
 "NO_DATA" = "Không có dữ liệu.";

@@ -57,6 +57,7 @@
 "SPECIAL_THANK" = "特別感謝：";
 "LOCALIZATION" = "在地翻譯：";
 "DEVELOPER" = "開發者：";
+"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
 /* video player section */
@@ -235,6 +236,7 @@
 "YES" = "是";
 "NO" = "否";
 "ERROR" = "錯誤";
+"APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "在此裝置上沒有發現Filza";
 "NO_DATA" = "您尚未下載檔案😳";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "請留意，啟用此功能將會同時停用「額外下載功能」！";

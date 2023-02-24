@@ -59,6 +59,7 @@
 "SPECIAL_THANK" = "Besonderen Dank an:";
 "LOCALIZATION" = "Übersetzung:";
 "DEVELOPER" = "Entwickler:";
+"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
 /* video player section */
@@ -236,6 +237,7 @@
 "YES" = "Ja";
 "NO" = "Nein";
 "ERROR" = "Error";
+"APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
