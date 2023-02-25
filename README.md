@@ -18,7 +18,7 @@
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://ikghd.site/iPA/YouTube_18.07.5_YTKillerPlus_2.2-13.ipa) | com.google.ios.youtube | 18.07.5 | 2.2-13 | IPA |
-        | [TrollStore](https://ikghd.site/iPA/YouTube_18.07.5_YTKillerPlus_2.2-13.ipa) | com.google.ios.youtube | 18.07.5 | 2.2-13 | IPA |
+        | [TrollStore](https://ikghd.site/iPA/YouTube_18.07.5_YTKillerPlus_2.2-13_TrollStore.ipa) | com.google.ios.youtube | 18.07.5 | 2.2-13 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://ikghd.site/iPA/YouTube_18.07.5_YTKillerPlus_2.2-13.ipa) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://ikghd.site/iPA/YouTube_18.07.5_YTKillerPlus_2.2-13_TrollStore.ipa) and install it via TrollStore:
 
 
 ## Localization..
