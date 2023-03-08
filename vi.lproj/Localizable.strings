@@ -7,7 +7,7 @@
 /* LƯU Ý 2 !!! Vui lòng thêm quốc gia cụ thể của bạn sau khi dịch. en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "Nhấn vào nút trên cùng bên phải để áp dụng các thay đổi.";
 
 /* downloding global switch */

@@ -7,7 +7,7 @@
 
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "Taste oben rechts antippen, um die Einstellungen zu übernehmen.";
 
 /* downloding global switch */

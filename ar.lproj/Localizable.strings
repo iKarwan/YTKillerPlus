@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOB_ENABLED" = "تمكين الكل:";
 "GLOBAL_ENABLED_SWITCH" = "زر تفعيل الأداة";
 
 /* downloding global switch */
@@ -15,7 +15,7 @@
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "تعيين جودة التنزيل";
 "ALWAYS_ASK" = "اسأل دائماَ";
-"AUDIO_ONLY" = "الصوت فقط";
+"AUDIO_ONLY" = "صوت فقط";
 
 /* Startup page section */
 "STARTUP_PAGE" = "صفحة البداية";

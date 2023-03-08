@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
@@ -57,7 +57,7 @@
 "SPECIAL_THANK" = "特別感謝：";
 "LOCALIZATION" = "在地翻譯：";
 "DEVELOPER" = "開發者：";
-"WELCOM_ALERT" = "to modify the settings go to the tab bar icon (YTKPlus) then click on the gear icon above";
+"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
 /* video player section */

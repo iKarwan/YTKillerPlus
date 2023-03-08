@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-/* "YTK_PLUS" = "YTKillerPlus:"; */
+"GLOB_ENABLED" = "Global Enabled:";
 "GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
