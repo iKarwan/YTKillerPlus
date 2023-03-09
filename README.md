@@ -1,8 +1,8 @@
 # YTKillerPlus
 * a whole new YouTube Experience!
 
-## Recommended iOS Firmware & YouTube App Versions?
-* iOS 13.0 / iOS 16.x ...
+## Recommended iOS iPadOS Firmware & YouTube App Versions?
+* iOS iPadOS 13.0 / iOS iPadOS 16.x ...
 * YouTube v16.46.5 and newer ...
 
 
