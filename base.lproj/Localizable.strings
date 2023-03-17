@@ -252,9 +252,9 @@
 "SAVED" = "Saved";
 "SUCCESS" = "Success";
 "SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow!";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
 "SELECT_VIDEO_QUALITY" = "Select Video Quality";
-"NOT_SUPPORTED_FORMAT" = "This video is not supported by the downloader\nPlease try a different download quality";
+"NOT_SUPPORTED_FORMAT" = "This video is not supported by the downloader! Please try a different download quality";
 "VIDEO" = "Video";
 "AUDIO" = "Audio";
 "RENAME" = "Rename";
@@ -270,7 +270,7 @@
 "ARE_YOU_SURE" = "Are you sure you want to Deleting All Items?";
 "NOTE" = "Note!";
 "SAVE_FAILED" = "Save Failed!";
-"SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed \nMake Sure To Give Photos app Permission To YouTube In The iOS Settings App";
+"SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed Make Sure To Give Photos app Permission To YouTube In The iOS Settings App";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 

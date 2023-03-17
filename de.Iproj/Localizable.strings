@@ -240,7 +240,7 @@
 "APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
 "NO_DATA" = "No data available.";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
 "CANCEL" = "Abbrechen";
 "DISMISS" = "Verwerfen";
 "DELETED" = "Gelöscht";
@@ -251,9 +251,9 @@
 "SAVED" = "Gespeichert";
 "SUCCESS" = "Erfolgreich";
 "SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow!";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
 "SELECT_VIDEO_QUALITY" = "Auflösung wählen";
-"NOT_SUPPORTED_FORMAT" = "Dieses Video wird nicht unterstützt \nBitte versuche es in einer anderen Auflösung.";
+"NOT_SUPPORTED_FORMAT" = "Dieses Video wird nicht unterstützt Bitte versuche es in einer anderen Auflösung.";
 "VIDEO" = "Video";
 "AUDIO" = "Audio";
 "RENAME" = "Umbenennen";
@@ -269,7 +269,7 @@
 "ARE_YOU_SURE" = "Willst du wirklich alle Dateien löschen?";
 "NOTE" = "Hinweis!";
 "SAVE_FAILED" = "Speichern fehlgeschlagen!";
-"SAVE_TO_PHOTOS_FAILED" = "Speichern in Fotos fehlgeschlagen \n Hat YouTube Zugriff auf deine Fotos?";
+"SAVE_TO_PHOTOS_FAILED" = "Speichern in Fotos fehlgeschlagen Hat YouTube Zugriff auf deine Fotos?";
 "DELETING_VIDEO" = "Video wirklich löschen?";
 "DELETING_AUDIO" = "Audio wirklich löschen?";
 

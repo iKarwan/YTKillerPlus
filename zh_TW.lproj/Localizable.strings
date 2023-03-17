@@ -250,9 +250,9 @@
 "SAVED" = "已儲存!";
 "SUCCESS" = "成功!";
 "SHOW_ALL_QUALITY" = "顯示所有畫質和音訊";
-"SHOW_ALL_QUALITY_INFO" = " 此功能與「總是詢問」不同，下載速度較慢。";
+"SHOW_ALL_QUALITY_INFO" = " 此功能與「總是詢問」不同。";
 "SELECT_VIDEO_QUALITY" = "請選擇影片畫質";
-"NOT_SUPPORTED_FORMAT" = "下載器目前不支援此影片\n請嘗試選擇別的畫質";
+"NOT_SUPPORTED_FORMAT" = "下載器目前不支援此影片 請嘗試選擇別的畫質";
 "VIDEO" = "影片";
 "AUDIO" = "音訊";
 "RENAME" = "重新命名";
@@ -268,7 +268,7 @@
 "ARE_YOU_SURE" = "您確定嗎？";
 "NOTE" = "Noting!";
 "SAVE_FAILED" = "儲存失敗!";
-"SAVE_TO_PHOTOS_FAILED" = "無法儲存到照片\n請在設定App中確認是否有給予YouTube照片的取用權限";
+"SAVE_TO_PHOTOS_FAILED" = "無法儲存到照片 請在設定App中確認是否有給予YouTube照片的取用權限";
 "DELETING_VIDEO" = "確定要刪除影片嗎？";
 "DELETING_AUDIO" = "確定要刪除音訊嗎？";
 

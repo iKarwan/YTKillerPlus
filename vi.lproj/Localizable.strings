@@ -239,7 +239,7 @@
 "ERROR" = "Lỗi";
 "APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "NOTE \n enabling this feature will disable local downloading!\n iPA Sidloaded version only";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
 "NO_DATA" = "Không có dữ liệu.";
 "CANCEL" = "Huỷ";
 "DISMISS" = "Bỏ qua";
@@ -251,9 +251,9 @@
 "SAVED" = "Đã lưu";
 "SUCCESS" = "Thành công";
 "SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio, download speed is limited & slow!";
+"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
 "SELECT_VIDEO_QUALITY" = "Chọn chất lượng video";
-"NOT_SUPPORTED_FORMAT" = "Trình tải xuống không hỗ trợ video này\nVui lòng thử chất lượng tải xuống khác";
+"NOT_SUPPORTED_FORMAT" = "Trình tải xuống không hỗ trợ video này Vui lòng thử chất lượng tải xuống khác";
 "VIDEO" = "Video";
 "AUDIO" = "Âm thanh";
 "RENAME" = "Đổi tên";
@@ -269,7 +269,7 @@
 "ARE_YOU_SURE" = "Bạn có chắc chắn muốn Xóa Tất cả Mục không?";
 "NOTE" = "Ghi chú!";
 "SAVE_FAILED" = "Lưu Thất bại!";
-"SAVE_TO_PHOTOS_FAILED" = "Lưu vào ảnh không thành công\nĐảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong ứng dụng Cài đặt iOS";
+"SAVE_TO_PHOTOS_FAILED" = "Lưu vào ảnh không thành công Đảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong ứng dụng Cài đặt iOS";
 "DELETING_VIDEO" = "Đang xoá Video?";
 "DELETING_AUDIO" = "Đang xoá Âm thanh?";
 
