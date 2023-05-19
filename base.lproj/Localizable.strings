@@ -274,6 +274,11 @@
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 
+"AFTER_DONE" = "After Download Done!";
+"SAVE_OR_SHARE" = "Save or Share";
+"SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
+"SAVE_TO_PHOTOS" = "Save to Photos";
+"SAVE_TO_DOWNLOAD" = "Save to Download";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download Manager";
