@@ -284,4 +284,40 @@
 "AUDIO_TAB_BAR" = "صوت";
 "SHORTS_TAB_BAR" = "Shorts";
 
+
+/* license activation section */
+"YOUR_UUID_IS" = "الخاص بك UUID هو: %@";
+"THANKS" = "شكرا";
+"ACTIVATED_SUCCESS" = "!تم تفعيل إشتراكك بنجاح 😊. إستمتع";
+"NOT_LICENSED_YET" = "انت لا تملك ترخيص بعد ☹️";
+"BUY_LICENSE" = "شراء ترخيص";
+"UPGRADE_FROM_YTKILLER" = "ترقية من YouTubeKiller";
+"COPY_UUID" = "انسخ UUID وأرسله";
+"COPIED_UUID" = "تم النسخ";
+"UUID_ACTIVATION_INFO" = "معلومات التفعيل";
+"CANCEL_SENDING" = "إلغاء";
+"CANCELED_SENDING" = "تم الإلغاء";
+"ACTIVATION_ERROR" = "فشل التفعيل";
+"ACTIVATION_ERROR_INFO" = "توجد مشكلة في سيرفر التفعيل 😭 فضلا تواصل مع المطور للحصول على المزيد من المعلومات";
+"CONTACT_DEVELPER" = "تواصل مع المطور";
+"DISMISS_SEND" = "إخفاء";
+
+"WELCOME_ACTIVATION_INFO" = "・update server activation and changed sorry there was an issue with the previuos one it was creating multiple ID on the same device pls SEND the new UUID again to the email with the proof of the purchase to activated it again sorry to everyone for the inconvenience 😔
+
+・更新服务器激活并更改抱歉，previus 存在问题，它在同一设备上创建多个 ID 请再次将新的 UUID 发送到电子邮件中，并附上购买证明以再次激活它，对于给大家带来的不便，我们深表歉意😔
+
+・sunucu aktivasyonunu güncelle ve değişti üzgünüm öncekiyle ilgili bir sorun vardı aynı cihazda birden fazla kimlik oluşturuyordu lütfen yeni UUID'yi yeniden etkinleştirmek için satın alma kanıtıyla birlikte e-postaya tekrar GÖNDERİN rahatsızlıktan dolayı herkesten özür dileriz 😔
+
+・تحديث تنشيط الخادم وتغييره ، آسف كانت هناك مشكلة مع الرقم السابق الذي كان ينشئ معرفات متعددة على نفس الجهاز ، الرجاء إرسال UUID الجديد مرة أخرى إلى البريد الإلكتروني مع إثبات الشراء لتنشيطه مرة أخرى آسف للجميع على الإزعاج 😔";
+
+
+"SEND_UUID" = "إرسال UUID للتسجيل";
+"SEND_UUID_AND_PROOF" = "لمن يمتلك الرمز ، تحتاج إلى إرسال الرمز الخاص بك ، ومع UUID الجديد إذا كان الرمز لا يتضمن الرسالة سيتم تجاهله من قبل الدعم!
+
+لمستخدم جديد! يرجى إرسال صورة / لقطة شاشة للإثبات الذي تم شراؤه لأسرع تفعيل! الصق UUID الخاص بك أدناه.▽▽▽
+
+UUID الخاص بي هو:";
+"WELCOME_MESSAGE" = "مرحبا بك YTKillerPlus v2.0";
+
+
 /* other stuff */

@@ -284,4 +284,36 @@
 "SHORTS_TAB_BAR" = "Shorts";
 
 
+
+/* license activation section */
+"YOUR_UUID_IS" = "Ваш UUID: %@";
+"THANKS" = "Спасибо";
+"ACTIVATED_SUCCESS" = "Ваша лицензия успешно активирована 😊. Спасибо!";
+"NOT_LICENSED_YET" = "У вас пока нет лицензии ☹️";
+"BUY_LICENSE" = "Купить лицензию";
+"UPGRADE_FROM_YTKILLER" = "Обновить YouTubeKiller";
+"COPY_UUID" = "Скопируйте UUID и отправьте его";
+"COPIED_UUID" = "Скопировано";
+"UUID_ACTIVATION_INFO" = "Информация об активации";
+"CANCEL_SENDING" = "Отмена";
+"CANCELED_SENDING" = "Отменена";
+"ACTIVATION_ERROR" = "Ошибка активации";
+"ACTIVATION_ERROR_INFO" = "Произошла ошибка на сервере во время активации 😭 Пожалуйста, свяжитесь с разработчиком";
+"CONTACT_DEVELPER" = "Связаться с разработчиком";
+"DISMISS_SEND" = "Закрыть";
+
+"WELCOME_ACTIVATION_INFO" = "・update server activation and changed sorry there was an issue with the previuos one it was creating multiple ID on the same device pls SEND the new UUID again to the email with the proof of the purchase to activated it again sorry to everyone for the inconvenience 😔
+
+・更新服务器激活并更改抱歉，previus 存在问题，它在同一设备上创建多个 ID 请再次将新的 UUID 发送到电子邮件中，并附上购买证明以再次激活它，对于给大家带来的不便，我们深表歉意😔
+
+・sunucu aktivasyonunu güncelle ve değişti üzgünüm öncekiyle ilgili bir sorun vardı aynı cihazda birden fazla kimlik oluşturuyordu lütfen yeni UUID'yi yeniden etkinleştirmek için satın alma kanıtıyla birlikte e-postaya tekrar GÖNDERİN rahatsızlıktan dolayı herkesten özür dileriz 😔
+
+・تحديث تنشيط الخادم وتغييره ، آسف كانت هناك مشكلة مع الرقم السابق الذي كان ينشئ معرفات متعددة على نفس الجهاز ، الرجاء إرسال UUID الجديد مرة أخرى إلى البريد الإلكتروني مع إثبات الشراء لتنشيطه مرة أخرى آسف للجميع على الإزعاج 😔";
+
+
+"SEND_UUID" = "Отправка UUID для регистрации ";
+"SEND_UUID_AND_PROOF" = "Пожалуйста, прикрепите скриншот с доказательством покупки для более быстрой активации. Вставьте ваш UUID ниже.▽▽▽ \n\n Мой UUID (My UUID is):";
+"WELCOME_MESSAGE" = "Добро пожаловать в YTKillerPlus v2.0";
+
+
 /* other stuff */
