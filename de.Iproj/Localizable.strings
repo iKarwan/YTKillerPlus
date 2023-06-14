@@ -286,36 +286,6 @@
 "SHORTS_TAB_BAR" = "Shorts";
 
 
-/* license activation section */
-"YOUR_UUID_IS" = "Your UUID is: %@";
-"THANKS" = "Thanks";
-"ACTIVATED_SUCCESS" = "Your license is activated successfully 😊. Enjoy the most advanced experience of YouTube!";
-"NOT_LICENSED_YET" = "You don't have a license yet ☹️";
-"BUY_LICENSE" = "Buy License";
-"UPGRADE_FROM_YTKILLER" = "Upgrade From YouTubeKiller";
-"COPY_UUID" = "Copy UUID & send it";
-"COPIED_UUID" = "Copied";
-"UUID_ACTIVATION_INFO" = "Activation Info";
-"CANCEL_SENDING" = "Cancel";
-"CANCELED_SENDING" = "Canceled";
-"ACTIVATION_ERROR" = "Activation error!";
-"ACTIVATION_ERROR_INFO" = "There is an issue with the activation server 😭 Please contact the developer for more Info!";
-"CONTACT_DEVELPER" = "Contact developer!";
-"DISMISS_SEND" = "Dismiss";
-
-"WELCOME_ACTIVATION_INFO" = "・update server activation and changed sorry there was an issue with the previuos one it was creating multiple ID on the same device pls SEND the new UUID again to the email with the proof of the purchase to activated it again sorry to everyone for the inconvenience 😔
-
-・更新服务器激活并更改抱歉，previus 存在问题，它在同一设备上创建多个 ID 请再次将新的 UUID 发送到电子邮件中，并附上购买证明以再次激活它，对于给大家带来的不便，我们深表歉意😔
-
-・sunucu aktivasyonunu güncelle ve değişti üzgünüm öncekiyle ilgili bir sorun vardı aynı cihazda birden fazla kimlik oluşturuyordu lütfen yeni UUID'yi yeniden etkinleştirmek için satın alma kanıtıyla birlikte e-postaya tekrar GÖNDERİN rahatsızlıktan dolayı herkesten özür dileriz 😔
-
-・تحديث تنشيط الخادم وتغييره ، آسف كانت هناك مشكلة مع الرقم السابق الذي كان ينشئ معرفات متعددة على نفس الجهاز ، الرجاء إرسال UUID الجديد مرة أخرى إلى البريد الإلكتروني مع إثبات الشراء لتنشيطه مرة أخرى آسف للجميع على الإزعاج 😔";
-
-
-"SEND_UUID" = "Send your UUID for Registration !";
-"SEND_UUID_AND_PROOF" = "Please send a photo/screenshot of the purchased proof for fastest activation! Paste Your UUID down below.▽▽▽ \n\n My UUID is:";
-"WELCOME_MESSAGE" = "Welcome to YTKillerPlus v2.2";
-
 /* other stuff */
 /* Thank you for this incredible Tweak! */
 /* Country Specific: de */

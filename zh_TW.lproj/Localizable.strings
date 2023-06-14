@@ -285,39 +285,4 @@
 "SHORTS_TAB_BAR" = "Shorts";
 
 
-/* license activation section */
-"YOUR_UUID_IS" = "您的UUID如下: %@";
-"THANKS" = "謝謝";
-"ACTIVATED_SUCCESS" = "成功啟用您的授權！盡情享受您的進階YouTube體驗！😊";
-"NOT_LICENSED_YET" = "您尚未擁有授權☹️";
-"BUY_LICENSE" = "購買授權";
-"UPGRADE_FROM_YTKILLER" = "從YoutubeKiller用戶升級";
-"COPY_UUID" = "复制 UUID 并发送";
-"COPIED_UUID" = "已複製";
-"UUID_ACTIVATION_INFO" = "啟用授權資訊";
-"CANCEL_SENDING" = "取消傳送";
-"CANCELED_SENDING" = "已取消";
-"ACTIVATION_ERROR" = "啟用錯誤!";
-"ACTIVATION_ERROR_INFO" = "授權啟用伺服器目前有問題！😭 請聯繫開發者以獲得更多資訊！";
-"CONTACT_DEVELPER" = "聯絡開發者！";
-"DISMISS_SEND" = "撤銷傳送";
-
-"WELCOME_ACTIVATION_INFO" = "・update server activation and changed sorry there was an issue with the previuos one it was creating multiple ID on the same device pls SEND the new UUID again to the email with the proof of the purchase to activated it again sorry to everyone for the inconvenience 😔
-
-・更新服务器激活并更改抱歉，previus 存在问题，它在同一设备上创建多个 ID 请再次将新的 UUID 发送到电子邮件中，并附上购买证明以再次激活它，对于给大家带来的不便，我们深表歉意😔
-
-・sunucu aktivasyonunu güncelle ve değişti üzgünüm öncekiyle ilgili bir sorun vardı aynı cihazda birden fazla kimlik oluşturuyordu lütfen yeni UUID'yi yeniden etkinleştirmek için satın alma kanıtıyla birlikte e-postaya tekrar GÖNDERİN rahatsızlıktan dolayı herkesten özür dileriz 😔
-
-・تحديث تنشيط الخادم وتغييره ، آسف كانت هناك مشكلة مع الرقم السابق الذي كان ينشئ معرفات متعددة على نفس الجهاز ، الرجاء إرسال UUID الجديد مرة أخرى إلى البريد الإلكتروني مع إثبات الشراء لتنشيطه مرة أخرى آسف للجميع على الإزعاج 😔";
-
-
-"SEND_UUID" = "傳送您的UUID以註冊！";
-"SEND_UUID_AND_PROOF" = "对于拥有代码的人，您需要发送您的代码，如果代码不包含消息，则使用新的UUID，则支持将忽略该消息！
-
-对于新用户！请发送购买的证明的照片/屏幕截图，以便尽快激活！将您的 UUID 粘贴到下面。
-
-我的UUID是：";
-"WELCOME_MESSAGE" = "歡迎使用YTKillerPlus 2.0版本！";
-
-
 /* other stuff */
