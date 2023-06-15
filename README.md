@@ -49,6 +49,10 @@
 * download the YouTube ipa from the link [here](https://ikghd.site/ipa/YouTube_18.22.9_YTKillerPlus_2.2.16_TrollStore.ipa) and install it via TrollStore:
 
 
+### Telegram channel
+* u can download the ipa always on our telegram channel from the link [here](https://t.me/ikghdiPA)
+
+
 ## Localization..
 * YTKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update .
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
