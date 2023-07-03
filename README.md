@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_18.23.3_YTKillerPlus_2.2.19.ipa) | com.google.ios.youtube | 18.23.3 | 2.2.19 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_18.23.3_YTKillerPlus_2.2.19_TrollStore.ipa) | com.google.ios.youtube | 18.23.3| 2.2.19 | IPA |
+        | [YouTube](https://ikghd.site/ipa/YouTube_18.25.1_YTKillerPlus_2.2.20.ipa) | com.google.ios.youtube | 18.25.1 | 2.2.20 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_18.25.1_YTKillerPlus_2.2.20_TrollStore.ipa) | com.google.ios.youtube | 18.25.1| 2.2.20 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -34,7 +34,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YTKillerPlus v18.23.3](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YTKillerPlus v18.25.1](https://tinyurl.com/) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://ikghd.site/ipa/YouTube_18.23.3_YTKillerPlus_2.2.19_TrollStore.ipa) and install it via TrollStore:
+* download the YouTube ipa from the link [here](https://ikghd.site/ipa/YouTube_18.25.1_YTKillerPlus_2.2.20_TrollStore.ipa) and install it via TrollStore:
 
 
 ### Telegram channel
