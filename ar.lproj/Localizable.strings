@@ -256,6 +256,10 @@
 "VIDEO" = "فيديو";
 "AUDIO" = "صوت";
 "RENAME" = "إعادة تسمية";
+"RENAME_FILE" = "اعادة تسمية الملف";
+"RENAME_NEW_NAME" = "أدخل الاسم الجديد للملف:";
+"RENAME_PLACEHOLDER" = "أدخل اسم الفيديو الجديد";
+"RENAME_PLACEHOLDER_AUDIO" = "أدخل اسم صوتي جديد";
 "PLAY" = "تشغيل";
 "SHARE" = "مشاركة";
 "VIEW_IN_FILZA" = "إظهار في Filza";

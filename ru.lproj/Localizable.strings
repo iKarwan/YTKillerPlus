@@ -255,6 +255,10 @@
 "VIDEO" = "Видео";
 "AUDIO" = "Аудио";
 "RENAME" = "Переименовать";
+"RENAME_FILE" = "Rename File";
+"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_PLACEHOLDER" = "Enter new video name";
+"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Воспроизвести";
 "SHARE" = "Поделиться";
 "VIEW_IN_FILZA" = "Открыть в Filza";

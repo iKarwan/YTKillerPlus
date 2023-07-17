@@ -107,7 +107,7 @@
 "HIDE_WATER_MARK" = "Hide Water Mark";
 "HIDE_AUTOPLAY_BUTTON" = "Hide Autoplay Button";
 "HIDE_CAPTIONS_BUTTON" = "Hide Captions Button";
-"HIDE_PLAY_PUASE" = "Hide Play/Puase";
+"HIDE_PLAY_PUASE" = "Hide Play/Pause";
 "HIDE_MORE_GEAR_ICON" = "Hide More/Gear Icon";
 "HIDE_CHAT_BUTTON_IN_STREAM" = "Hide Chat Button In Stream";
 "HIDE_CAST_BUTTON" = "Hide Cast Button";
@@ -258,6 +258,10 @@
 "VIDEO" = "Video";
 "AUDIO" = "Audio";
 "RENAME" = "Rename";
+"RENAME_FILE" = "Rename File";
+"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_PLACEHOLDER" = "Enter new video name";
+"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Play";
 "SHARE" = "Share";
 "VIEW_IN_FILZA" = "View In Filza";

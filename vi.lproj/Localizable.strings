@@ -257,6 +257,10 @@
 "VIDEO" = "Video";
 "AUDIO" = "Âm thanh";
 "RENAME" = "Đổi tên";
+"RENAME_FILE" = "Rename File";
+"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_PLACEHOLDER" = "Enter new video name";
+"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Play";
 "SHARE" = "Chia sẻ";
 "VIEW_IN_FILZA" = "Xem trong Filza";

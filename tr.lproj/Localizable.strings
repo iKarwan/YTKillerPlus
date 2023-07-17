@@ -175,6 +175,10 @@
 "PREVIUOS_AND_NEXT_BUTTON_PADDING"="Sıkıştırılmış Önceki & Sonraki Butonu";
 "REDEFIND_MINI_PLAYER"="Mini Player Ortada";
 "RENAME"="Yeniden Adlandır";
+"RENAME_FILE" = "Rename File";
+"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_PLACEHOLDER" = "Enter new video name";
+"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON"="Previous & Next Butonlarını Değiştir";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO"="Replace with forward & rewind button!";
 "REPLACE_SHORTS_WITH_EXPLORE"="Shorts ‘ u Keşfet ile Değiştir";
