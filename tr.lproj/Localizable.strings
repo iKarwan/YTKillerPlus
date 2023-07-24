@@ -147,6 +147,9 @@
 "MISCELLANEOUS"="Çeşitli";
 "MISCELLANEOUS_SECTION"="Çeşitli Sekmesi";
 "MORE_OPTION"="Daha Fazla Seçenek";
+"MAIN_OPTION" = "Main Options";
+"DELETE" = "Sil";
+"SAVE_ARTWORK" = "Save ArtWork";
 "NAVIGATION_BAR"="Gezinme Çubuğu Seçenekleri";
 "NO"="Hayır";
 "NOTE"="Not!";
