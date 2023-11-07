@@ -1,0 +1,295 @@
+/* creato il 25/10/2022 */
+/* fatto da iKarwan */
+/* Italiano da ItalianoDoc "1Tdd" */
+
+/* NOTA!!! Avete il diritto di richiedere una copia di YTKillerPlus dopo la traduzione e l'aggiunta ai crediti. */
+
+/* NOTA 2 !!! Si prega di aggiungere dopo la traduzione il vostro paese specifico ad esempio: en - ar - zh ext... */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "Globale Abilitato:";
+"GLOBAL_ENABLED_SWITCH" = "Tocca il pulsante in alto a destra per applicare le modifiche.";
+
+/* downloding global switch */
+"DOWNLOADING" = "Abilita la funzione download:";
+"GLOBAL_DOWNLOADING_SWITCH" = "Aggiungi un pulsante in sovrimpressione per scaricare i media.";
+
+/* Default Download Quality section */
+"DEFAULT_DOWNLOAD_QUALITY" = "Imposta la qualità del download";
+"ALWAYS_ASK" = "Chiedi Sempre";
+"AUDIO_ONLY" = "Solo Audio";
+
+/* Startup page section */
+"STARTUP_PAGE" = "Pagina di avvio";
+"DEFAULT_PAGE" = "Home";
+
+"HOME" = "Home";
+"EXPLORE" = "Esplora";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "Iscrizioni";
+"LIBRARY" = "Raccolta";
+"YTKPlus" = "YTKPlus";
+
+/* general section */
+"VIDEO_PLAYER" = "Opzioni lettore video";
+"OVERLAY_OPTIONS" = "Opzioni Overlay";
+"STREAM_OPTIONS" = "Opzioni di Stream";
+"IPAD_OPTIONS" = "Opzioni IPad ";
+"NAVIGATION_BAR" = "Opzioni Barra di ricerca";
+"SHORTS_OPTION" = "Opzioni Shorts";
+"DOWNLOAD_OPTIONS" = "Opzioni Extra di Download";
+"TAB_BAR_OPTIONS" = "Opzioni Delle Schede";
+"MISCELLANEOUS" = "Varie";
+
+/* general section switch */
+"APP_LOCK" = "Blocca l'applicazione";
+"LOCK_APP_VIA_PASSWORD" = "con la password di sistema";
+"UHD_UNLOCK" = "Sblocca UHD ";
+"UHD_UNLOCK_INFO" = "Sblocca il 4K su iPA";
+"OLED_DARK_MODE" = "Dark Mode OLED";
+"PLAY_IN_BACKGROUND" = "Riproduci in background ";
+"NO_ADVERTISMENT" = "Nessuna Pubblicità";
+"NO_AGE_RESTRICTION" = "Nessuna Restrizione di Età";
+"HIDE_YT_STORIES" = "Nascondi la Sezione Storie tra i Feed";
+"HIDE_YT_SHORTS" = "Nascondi la Sezione Shorts tra i Feed";
+"DISABLE_CAPTIONS" = "Disattiva le Didascalie";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Scopri i Miei Altri Progetti:";
+"CREDITS" = "Crediti:";
+"SPECIAL_THANK" = "Ringraziamenti Speciali:";
+"LOCALIZATION" = "Localizzazioni:";
+"DEVELOPER" = "Sviluppatore:";
+"WELCOM_ALERT" = "Per modificare le impostazioni vai sull'icona (YTKPlus) della barra delle schede, e fai clic sull'icona dell’ ingranaggio in alto";
+
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "player video";
+"HIDE_SUGGESTED_VIDEO" = "Nascondi i Video Suggeriti";
+"COMMENTS" = "Commenti";
+"HIDE_COMMENTS" = "Nascondi Commenti";
+"HIDE_COMMENTS_PREVIEW" = "Nascondi Anteprima Commenti";
+"HIDE_COMMENTS_PREVIEW_INFO" = "Basta con i commenti spoiler!";
+"HIDE_COMMENTS_GUIDLINES" = "Nascondi le Linee Guida dei Commenti";
+"HIDE_COMMUNITY_TEXT_INFO" = "Nascondi le Linee Guida della comunità in alto!";
+
+
+/* overlay options section */
+"OVERLAY_SECTION" = "Overlay";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Mostra la Barra di Stato in Sovrimpressione";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "I dispositivi dotati di Notch e gli iPad non sono supportati!";
+"DISABLE_DOUBLE_TAP" = "Disabilita il Doppio Tocco";
+"DISABLE_CONTINUE_WATCHING" = "Disattiva Continua a guardare";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Appare quando si guarda un video molto lungo.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Nascondi Overlay Azione Rapida ";
+"HIDE_PLAYERBAR_WAVE" = "Nascondi le -onde- dietro la timeline";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Nascondi la -Heat Map- visualizzata durante lo scorrimento della timeline";
+"SWIPE_TO_HIDE_PANEL" = "Scorrere per nascondere la vista del pannello";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Scorrimento da sinistra a destra nella visualizzazione del pannello a schermo intero";
+"DISABLE_PINCH_TO_ZOOM" = "Disabilita la funzione Pinch to Zoom";
+"MEDIA_CONTROLLER" = "controller di sovrapposizione";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Mostra sempre il tasto Play/Pausa";
+"SHOW_MEDIA_CONTROLLER" = "Mostra sempre tutti i controlli di overlay";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Nascondi lo sfondo scuro in Overlay";
+"KEEP_CAPTION_ON" = "Mantenere la didascalia";
+"KEEP_CAPTION_ON_INFO" = "Visualizzazione automatica delle didascalie durante la riproduzione dei video";
+"PREVIUOS_AND_NEXT_BUTTON" = "pulsante precedente e successivo";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Disattiva il pulsante Precedente e Successivo";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Pulsante precedente e successivo compatto";
+"PLAYER_BAR_NEXT_BUTTON" = "Aggiungere un pulsante successivo accanto ai capitoli";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Nascondi il pulsante precedente e successivo";
+"HIDE_BACK_BUTTON_SHADOW" = "Nascondi l'ombra del pulsante precedente e successivo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Sostituisci il pulsante precedente e successivo";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Sostituiscilo con il pulsante di avanti e riavvolgi!";
+"HIDE_ITEMS" = "Nascondi gli oggetti";
+"HIDE_VOLUME_BAR" = "Nascondi barra del volume";
+"HIDE_VOLUME_BAR_INFO" = "Nascondi la barra del volume bianca di YT in orizzontale";
+"HIDE_INFO_CARD" = "Nascondi scheda info";
+"HIDE_WATER_MARK" = "Nascondi Water Mark";
+"HIDE_AUTOPLAY_BUTTON" = "Nascondi pulsante Autoplay";
+"HIDE_CAPTIONS_BUTTON" = "Nascondi Pulsante didascalie";
+"HIDE_PLAY_PUASE" = "Nascondi Riproduzione/Pausa";
+"HIDE_MORE_GEAR_ICON" = "Nascondi Altro/Icona Ingranaggio";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Nascondi il pulsante della chat nelle stream";
+"HIDE_CAST_BUTTON" = "Nascondere il pulsante Trasmetti";
+"HIDE_ENDSCREEN_VIDEOS" = "Nascondi EndScreen Videos";
+"HIDE_RELATED_VIDEOS" = "Nascondi Video correlati";
+"HIDE_LANDSCAPE_COMMENTS" = "Disabilita la sezione commenti LS";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "La sezione dei commenti sarà completamente disabilitata in orizzontale";
+"SHOW_PROGRESS_BAR" = "Continua a mostrare la barra di avanzamento in orizzontale";
+"SHOW_PROGRESS_BAR_INFO" = "Scorri per mostrare i video correlati sarà disabilitato";
+
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "Abilita la modalità di qualità Legacy";
+"LEGACY_QUALITY_MODE_INFO" = "Torna alle vecchia selezione della qualità!";
+"PICTURE_IN_PICTURE_PIP" = "Picture In Picture (PiP)";
+"ENABLE_PIP" = "Abilita la funzione PIP";
+"ENABLE_PIP_INFO" = "Aggiungi un'icona PIP nella sovrapposizione video";
+"DOUBLE_TAP" = "Opzioni doppio tocco";
+"CUSTOM_SKIP_DURATION" = "Durata di salta personalizzata";
+"VALUE_CHANGES_JB" = "Secondi: %.lf";
+"VALUE_CHANGES" = "Secondi: 10";
+"STREAMING_SECTION" = "Streaming";
+"PLAYBACK_SPEED" = "Aggiungi altre opzioni di velocità di riproduzione";
+"PLAYBACK_SPEED_INFO" = "Overlay video -> Pulsante ingranaggio -> Velocità di riproduzione";
+"DISABLE_AUTOPLAY_VIDEOS" = "Disabilita autoplay video";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Riproduzione di video HD con 3G/4G/5G";
+
+
+/* ipad section */
+"IPAD_SECION" = "Modalità iPad";
+"IPADOS_MODE" = "Abilita la modalità iPadOS";
+"DISABLE_DRAG_AND_DROP" = "Disattivare il Drag & Drop";
+"HIDE_CHANNEL_CIRCLES" = "Nascondi le icone dei canali circolari";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Iscrizioni -> Icone dei canali sotto la barra di navigazione.";
+"MINI_PLAYER_ASPECT_RATIO" = "Rapporto di aspetto mini lettore ";
+"USE_ASPECT_RATIO" = "Usa Rapporto Completo";
+"USE_ASPECT_RATIO_INFO" = "Non supporta lo stile del Player dell' iPad mini di seguito.";
+"MINI_PLAYER" = "Mini lettore stile iPad";
+"REDEFIND_MINI_PLAYER" = "Mini lettore al centro";
+"MINI_PLAYER_IPAD_MODE" = "Mini lettore a destra";
+
+
+/* navbar section */
+"STATUS_BAR" = "Barra di stato";
+"HIDE_STATUS_BAR" = "Nascondi la barra di stato";
+"CHANNEL_SECTIONS" = "Nella sezione Canale";
+"STICKY_NAV_BAR" = "Nascondere le categorie sotto la barra di navigazione";
+"SHOW_YTKPLUS_ICON" = "Mostra l'icona YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "Nascondere gli oggetti";
+"SHOW_YTKPlus_Icon" = "Mostra l'icona YTKPlus";
+"HIDE_YT_LOGO" = "Nascondi il logo YT";
+"HIDE_NOTIFICATIONS_BILL" = "Nascondi le notifiche 🔕";
+"HIDE_ACCOUNT" = "Nascondi account";
+"HIDE_SEARCH" = "Nascondi ricerca";
+"HIDE_CAST_BUTTON" = "Nascondi il pulsante Trasmetti";
+
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "Abilita la barra di avanzamento in basso";
+"HIDE_ELEMNTS" = "Nascondi elementi";
+"HIDE_LIKE_BUTTON" = "Nascondi il pulsante Mi piace";
+"HIDE_DISLIKE_BUTTON" = "Nascondere il pulsante dislike";
+"HIDE_COMMENTS_BUTTON" = "Nascondi Pulsante commenti";
+"HIDE_SHARE_BUTTON" = "Nascondi il pulsante Condividi";
+"HIDE_MORE_BUTTON" = "Nascondi il pulsante Altro";
+
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "Opzioni di download aggiuntive";
+"LOCAL_DOWNLOADING" = "Abilita la modalità di download locale";
+"LOCAL_DOWNLOADING_INFO" = "Premi a lungo sul video in riproduzione per attivare il menu di download!";
+"HIDE_DOWNLOAD_BUTTON" = "Nascondi pulsante di download";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "Nascondi il pulsante stock di download di YT!";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Disabilita la scadenza dei video scaricati";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Video scaricati con il downloader stock di YT!";
+"DOWNLOAD_SECTION_INFO" = "Nota: 1. Se ci sono più qualità uguali (succede solo agli utenti Jailbroken), scegli quella che si trova più in alto. 2. Il download locale memorizza i contenuti direttamente nell'app Foto. 3. La pressione prolungata di default sul video per spostare l'avanzamento del video sarà disabilitata. 4. Se si è abilitato il 4K su ( SEZIONE PRINCIPALE ) questa funzione di download sarà disabilitata.";
+
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "Barra delle schede";
+"TABS_SHRINKED_BUTTOM" = "Schede ristrette (in basso)";
+"TABS_SHRINKED_SMART" = "Schede ristrette (intelligenti)";
+"DISABLE_CREATE_BUTTON" = "Disabilita Crea (+)";
+"HIDE_TAB_LABELS" = "Nascondi le etichette delle schede";
+"PREVENT_OPEN_IN_SHORTS" = "Impedire l'avvio automatico nella scheda Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Succede dopo aver chiuso YT mentre ti trovavi nella scheda Shorts!";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Sostituisci Shorts con Esplora";
+"HIDE_TABS" = "Nascondi le schede";
+"HIDE_EXPLORE_TAB" = "Nascondi Esplora";
+"HIDE_SHORTS_TAB" = "Nascondi Shorts";
+"HIDE_CREATE_TAB" = "Nascondi Crea (+)";
+"HIDE_SUBSCRIPTION_TAB" = "Nascondi Iscrizioni";
+"HIDE_LIBRARY_TAB" = "Hide Raccolte";
+"HIDE_ALL_TAB" = "Nascondi tutte le schede";
+
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "Varie";
+"USE_STOCK_VOLUME_HUD" = "Usa il/lo VolumeHUD di Sistema/Stock ";
+"USE_STOCK_VOLUME_HUD_INFO" = "Funziona solo in orizzontale";
+"HIDE_SEARCHED_HISTORY" = "Nascondi la cronologia delle ricerche";
+"NOT_TOPIC_SECTION" = "Nessuna sezione di argomenti";
+"HIDE_PREMIUM_POPUP" = "Nascondi Pop-Up Premium";
+"HIDE_YT_UPDATE_POPUP" = "Nascondere il pop-up dell'aggiornamento di YT";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Il fastidioso avviso di aggiornamento/chiusura forzata dell'app!";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Abilita il Mini Player per tutti i video";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Utilizzare il miniplayer su video realizzati per bambini";
+"HIDE_HUD_ALERTS" = "Nascondi gli avvisi Hud";
+"HIDE_HUD_ALERTS_INFO" = "Nascondere tutti gli avvisi pop-up come i video di sensibili/per bambini";
+"CLASSIC_SHARE" = "Foglio di condivisione classico riempito quando viene richiesto";
+"HIDE_LINE_SEPERATOR" = "Nascondi i separatori di riga nella libreria";
+"ROUND_ALL_VIEW_CORNERS" = "Angoli arrotondati";
+"DISABLE_DARK_MODE" = "Disabilita la modalità scura";
+"HIDE_INCLUDE_PAID_PROMO" = "Nascondi La Dicitura -Include promozioni a pagamento- ";
+"DARK_KEYBOARDS" = "Tastiera in modalità scura";
+"DISABLE_RTL" = "Disattivare il linguaggio RTL";
+"OTHERS" = "Home Feed";
+"HIDE_PLAYLIST" = "Nascondi PlayList";
+"PLAYLIST_INFO" = "Lo stile iPad non è supportato!";
+"HIDE_COVID_NEWS" = "Nascondi Covid & News";
+"COVID_NEWS_INFO" = "Nascondi covid & news nei feed della home!";
+"HIDE_FILTER_TAGS" = "Nascondere i filtri degli argomenti in cima";
+
+
+/* global action title */
+"OK" = "OK";
+"YES" = "Si";
+"NO" = "No";
+"ERROR" = "Errore";
+"APP_RESTART_REQUIRED" = "È necessario riavviare l'app YouTube per applicare le modifiche";
+"FILZA_NOT_INSTALLED_ALERT" = "L'app non è installata sul dispositivo.";
+"NO_DATA" = "Non ci sono dati disponibili.";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "L'abilitazione di questa funzione disabilita il download locale! Solo per la versione iPA sideloaded";
+"CANCEL" = "Cancella";
+"DISMISS" = "Ignora";
+"DELETED" = "Eliminato";
+"DOWNLOADING_START" = "Downloading";
+"VIDEO_DWD_PROGRESS" = "Video(1/2)";
+"AUDIO_DWD_PROGRESS" = "Audio(2/2)";
+"CANCEL_HUD" = "cancella";
+"SAVED" = "Salvato";
+"SUCCESS" = "Successo";
+"SHOW_ALL_QUALITY" = "Mostra tutte le qualità";
+"SHOW_ALL_QUALITY_INFO" = "Mostra tutte le qualità e audio!";
+"SELECT_VIDEO_QUALITY" = "Selezionare la qualità del video";
+"NOT_SUPPORTED_FORMAT" = "Questo video non è supportato dal downloader! Per favore, prova con un'altra qualità di download";
+"VIDEO" = "Video";
+"AUDIO" = "Audio";
+"RENAME" = "Rinomina";
+"RENAME_FILE" = "Rinomina File";
+"RENAME_NEW_NAME" = "Inserire il nuovo nome del file:";
+"RENAME_PLACEHOLDER" = "Inserire il nuovo nome del video";
+"RENAME_PLACEHOLDER_AUDIO" = "Inserire il nuovo nome dell'audio";
+"PLAY" = "Avvia";
+"SHARE" = "Condividi";
+"VIEW_IN_FILZA" = "Visualizza in Filza";
+"DELETE" = "Elimina";
+"MORE_OPTION" = "Più Opzioni";
+"MAIN_OPTION" = "Opzioni principali";
+"DELETE_ALL" = "Elimina tutto";
+"SAVE_ARTWORK" = "Salvate l'opera d'arte";
+"SAVE_TO_PHOTOS" = "Salva su foto";
+"ARE_YOU_SURE" = "Sei sicuro di voler eliminare tutti gli elementi?";
+"NOTE" = "Note!";
+"SAVE_FAILED" = "Salvataggio non riuscito!";
+"SAVE_TO_PHOTOS_FAILED" = "Salvataggio su foto non riuscito assicurati di dare all'app l'autorizzazione per salvare foto nelle impostazioni di iOS";
+"DELETING_VIDEO" = "Cancellare un video?";
+"DELETING_AUDIO" = "Cancellare l'audio?";
+
+"AFTER_DONE" = "Download completato!";
+"SAVE_OR_SHARE" = "Salva o Condividi";
+"SAVE_OR_SHARE_DISC" = "Vuoi salvare il video nell' app foto, scaricarlo o condividerlo?";
+"SAVE_TO_PHOTOS" = "Salva in foto";
+"SAVE_TO_DOWNLOAD" = "Salva in download";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "Download Manager";
+"VIDEO_TAB_BAR" = "Video";
+"AUDIO_TAB_BAR" = "Audio";
+"SHORTS_TAB_BAR" = "Shorts";
+
+
+/* other stuff */
