@@ -1,292 +1,290 @@
-/* created on 25/10/2022 */
-/* by iKarwan */
-/* Chinese by @CySxL */
+/* YTKPlus by iKarwan */
+/* Simplified Chinese By Stalker(YaoDao) */
 
-/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
-"GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
+"GLOB_ENABLED" = "全局启用:";
+"GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用所有改动";
 
 /* downloding global switch */
-"DOWNLOADING" = "啟用下載功能";
-"GLOBAL_DOWNLOADING_SWITCH" = "在影片內容上方增加一個懸浮下載按鈕";
+"DOWNLOADING" = "启用下载功能";
+"GLOBAL_DOWNLOADING_SWITCH" = "在视频上添加下载按钮";
 
 /* Default Download Quality section */
-"DEFAULT_DOWNLOAD_QUALITY" = "預設下載畫質";
-"ALWAYS_ASK" = "總是詢問";
-"AUDIO_ONLY" = "只有音訊";
+"DEFAULT_DOWNLOAD_QUALITY" = "预设下载画质";
+"ALWAYS_ASK" = "总是询问";
+"AUDIO_ONLY" = "只有音频";
 
 /* Startup page section */
-"STARTUP_PAGE" = "YouTube啟動頁面";
-"DEFAULT_PAGE" = "首頁";
+"STARTUP_PAGE" = "YouTube启动页面";
+"DEFAULT_PAGE" = "首页";
 
-"HOME" = "首頁";
+"HOME" = "首页";
 "EXPLORE" = "探索";
-"SHORTS" = "Shorts";
-"SUBSCRIPTIONS" = "訂閱內容";
-"LIBRARY" = "媒體庫";
+"SHORTS" = "短视频";
+"SUBSCRIPTIONS" = "订阅内容";
+"LIBRARY" = "媒体库";
+"YTKPlus" = "YTKPlus";
 
 /* general section */
-"VIDEO_PLAYER" = "影片播放頁面選項";
-"OVERLAY_OPTIONS" = "影片懸浮控制鈕選項";
-"STREAM_OPTIONS" = "影片串流細節選項";
-"IPAD_OPTIONS" = "仿iPad風格選項";
-"NAVIGATION_BAR" = "頂部導航欄選項";
-"SHORTS_OPTION" = "Shorts選項";
-"DOWNLOAD_OPTIONS" = "額外下載功能選項";
-"TAB_BAR_OPTIONS" = "底部標籤欄選項";
+"VIDEO_PLAYER" = "视频播放器选项";
+"OVERLAY_OPTIONS" = "视频播放界面选项";
+"STREAM_OPTIONS" = "流媒体选项";
+"IPAD_OPTIONS" = "iPad风格选项";
+"NAVIGATION_BAR" = "顶部导航栏选项";
+"SHORTS_OPTION" = "短视频选项";
+"DOWNLOAD_OPTIONS" = "扩展下载功能选项";
+"TAB_BAR_OPTIONS" = "底部选项卡选项";
 "MISCELLANEOUS" = "其他功能";
 
 /* general section switch */
-"APP_LOCK" = "啟用鎖定App功能";
-"LOCK_APP_VIA_PASSWORD" = "使用裝置密碼上鎖";
-"UHD_UNLOCK" = "啟用4K UHD畫質";
-"UHD_UNLOCK_INFO" = "解放側載的畫質限制";
-"OLED_DARK_MODE" = "啟用OLED深色主題模式";
-"PLAY_IN_BACKGROUND" = "啟用背景播放";
-"NO_ADVERTISMENT" = "去除廣告";
-"NO_AGE_RESTRICTION" = "去除觀看年齡限制";
-"HIDE_YT_STORIES" = "隱藏推送影片中的Stories區塊";
-"HIDE_YT_SHORTS" = "隱藏推送影片中的Shorts區塊";
+"APP_LOCK" = "启用锁定App功能";
+"LOCK_APP_VIA_PASSWORD" = "使用设备密码锁定";
+"UHD_UNLOCK" = "启用4K UHD画质";
+"UHD_UNLOCK_INFO" = "解除视频画质限制";
+"OLED_DARK_MODE" = "启用OLED深色主题";
+"PLAY_IN_BACKGROUND" = "启用后台播放";
+"NO_ADVERTISMENT" = "去除广告";
+"NO_AGE_RESTRICTION" = "去除观看年龄限制";
+"HIDE_YT_STORIES" = "隐藏推送视频中的付费区域";
+"HIDE_YT_SHORTS" = "隐藏推送视频中的短视频区域";
 "DISABLE_CAPTIONS" = "停用字幕功能";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
-"CREDITS" = "鳴謝";
-"SPECIAL_THANK" = "特別感謝：";
-"LOCALIZATION" = "在地翻譯：";
-"DEVELOPER" = "開發者：";
-"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
+"CREDITS" = "鸣谢";
+"SPECIAL_THANK" = "特别感谢：";
+"LOCALIZATION" = "本地化翻译：";
+"DEVELOPER" = "开发者：";
+"WELCOM_ALERT" = "要修改设置，请转到选项卡栏YTKPlus图标，然后点击齿轮图标。";
 
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "影片播放頁面";
-"HIDE_SUGGESTED_VIDEO" = "隱藏留言區下方的推薦影片列";
-"COMMENTS" = "留言區";
-"HIDE_COMMENTS" = "隱藏留言區";
-"HIDE_COMMENTS_PREVIEW" = "隱藏熱門留言預覽";
-"HIDE_COMMENTS_PREVIEW_INFO" = "不再受暴雷留言困擾！！";
-"HIDE_COMMENTS_GUIDLINES" = "隱藏留言區社群規範提醒";
-"HIDE_COMMUNITY_TEXT_INFO" = "讓你發布留言時可以不用尊重他人(誤";
+"VIDEO_PLAYER_SECTION" = "视频播放页面";
+"HIDE_SUGGESTED_VIDEO" = "隐藏评论区下面的推荐视频";
+"COMMENTS" = "评论区";
+"HIDE_COMMENTS" = "隐藏评论区";
+"HIDE_COMMENTS_PREVIEW" = "隐藏评论预览";
+"HIDE_COMMENTS_PREVIEW_INFO" = "不受剧透的困扰";
+"HIDE_COMMENTS_GUIDLINES" = "隐藏社区准则";
+"HIDE_COMMUNITY_TEXT_INFO" = "隐藏顶部的社区准则";
 
 
 /* overlay options section */
-"OVERLAY_SECTION" = "影片懸浮控制鈕";
-"SHOW_STATUS_BAR_IN_OVERLAY" = "懸浮顯示狀態欄";
-"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機種與仿iPad風格";
-"DISABLE_DOUBLE_TAP" = "停用點兩下";
-"DISABLE_CONTINUE_WATCHING" = "停用「影片已暫停，要繼續觀賞嗎？」";
-"DISABLE_CONTINUE_WATCHING_INFO" = "長時間持續播放影片時出現的暫停提示";
-"HIDE_OVERLAY_QUICK_ACTION" = "隱藏橫向模式時間軸下方的懸浮按鈕";
-"HIDE_PLAYERBAR_WAVE" = "隱藏時間軸後方波浪";
-"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏滑動時間軸時出現的瀏覽熱圖(Heat Map)";
-"SWIPE_TO_HIDE_PANEL" = "滑動關閉橫向留言區";
-"SWIPE_TO_HIDE_PANEL_INFO" = "在橫向留言區塊上由左向右滑動；同時關閉懸浮介面。";
-"DISABLE_PINCH_TO_ZOOM" = "停用橫向八倍放大功能";
-"MEDIA_CONTROLLER" = "媒體控制器";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "保持顯示播放/暫停按鈕";
-"SHOW_MEDIA_CONTROLLER" = "保持顯示所有媒體控制器";
-"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏懸浮控制鈕畫面的黑色毛玻璃背景";
-"KEEP_CAPTION_ON" = "保持字幕功能開啟";
-"KEEP_CAPTION_ON_INFO" = "播放影片時自動顯示字幕";
-"PREVIUOS_AND_NEXT_BUTTON" = "上一部和下一部影片按鈕";
-"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "停用上、下部影片按鈕功能";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "縮短上、下部影片按鈕間距";
-"PLAYER_BAR_NEXT_BUTTON" = "在時間碼右側新增下一部影片按鈕";
-"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "隱藏上、下部影片按鈕";
-"HIDE_BACK_BUTTON_SHADOW" = "隱藏上、下部影片按鈕陰影";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "取代上、下部影片按鈕";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "以快轉、倒轉x秒按鈕取代";
-"HIDE_ITEMS" = "隱藏懸浮項目";
-"HIDE_VOLUME_BAR" = "隱藏音量指示器";
-"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時影片上方的白色音量條";
-"HIDE_INFO_CARD" = "隱藏資訊卡";
-"HIDE_WATER_MARK" = "隱藏浮水印";
-"HIDE_AUTOPLAY_BUTTON" = "隱藏自動播放按鈕";
-"HIDE_CAPTIONS_BUTTON" = "隱藏字幕按鈕";
-"HIDE_PLAY_PUASE" = "隱藏播放/暫停按鈕";
-"HIDE_MORE_GEAR_ICON" = "隱藏齒輪按鈕";
-"HIDE_CHAT_BUTTON_IN_STREAM" = "隱藏直播中的聊天室按鈕";
-"HIDE_CAST_BUTTON" = "隱藏投放按鈕";
-"HIDE_ENDSCREEN_VIDEOS" = "隱藏片尾的超連結影片";
-"HIDE_RELATED_VIDEOS" = "隱藏相關影片";
-"HIDE_LANDSCAPE_COMMENTS" = "停用橫向模式留言區";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "自動展開與手動開啟橫向留言區功能皆會失效！";
-"SHOW_PROGRESS_BAR" = "在橫向模式保持顯示時間軸/進度條";
-"SHOW_PROGRESS_BAR_INFO" = "上滑顯示相關影片將會失效";
+"OVERLAY_SECTION" = "播放界面";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "显示状态栏";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支持刘海设备和iPad风格";
+"DISABLE_DOUBLE_TAP" = "禁用双击";
+"DISABLE_CONTINUE_WATCHING" = "禁用继续观看";
+"DISABLE_CONTINUE_WATCHING_INFO" = "当观看长视频时出现的提示";
+"HIDE_OVERLAY_QUICK_ACTION" = "隐藏快速操作";
+"HIDE_PLAYERBAR_WAVE" = "隐藏时间线后的热图";
+"HIDE_PLAYERBAR_WAVE_INFO" = "在时间线上滚动时隐藏已查看的热图";
+"SWIPE_TO_HIDE_PANEL" = "滑动隐藏评论区";
+"SWIPE_TO_HIDE_PANEL_INFO" = "横屏模式在评论区域上“左——>右”滑动来隐藏评论区";
+"DISABLE_PINCH_TO_ZOOM" = "禁用捏合缩放";
+"MEDIA_CONTROLLER" = "媒体控制器";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "始终显示播放/暂停按钮";
+"SHOW_MEDIA_CONTROLLER" = "始终显示所有控制器";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "隐藏深色叠加背景";
+"KEEP_CAPTION_ON" = "保持字幕开启";
+"KEEP_CAPTION_ON_INFO" = "播放视频时自动显示字幕";
+"PREVIUOS_AND_NEXT_BUTTON" = "上一个和下一个按钮";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "禁用上一个和下一个按钮";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "压缩上一个和下一个按钮间距";
+"PLAYER_BAR_NEXT_BUTTON" = "在时间码旁边添加下一个按钮";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "隐藏上一个和下一个按钮";
+"HIDE_BACK_BUTTON_SHADOW" = "隐藏上一个和下一个按钮阴影";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "替换上一个和下一个按钮";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "替换为快进和快退按钮";
+"HIDE_ITEMS" = "隐藏项目";
+"HIDE_VOLUME_BAR" = "隐藏音量条";
+"HIDE_VOLUME_BAR_INFO" = "横屏模式隐藏白色音量条";
+"HIDE_INFO_CARD" = "隐藏信息卡";
+"HIDE_WATER_MARK" = "隐藏水印";
+"HIDE_AUTOPLAY_BUTTON" = "隐藏自动播放按钮";
+"HIDE_CAPTIONS_BUTTON" = "隐藏字幕按钮";
+"HIDE_PLAY_PUASE" = "隐藏播放/暂停按钮";
+"HIDE_MORE_GEAR_ICON" = "隐藏更多/齿轮图标";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "直播中隐藏聊天按钮";
+"HIDE_CAST_BUTTON" = "隐藏投射按钮";
+"HIDE_ENDSCREEN_VIDEOS" = "隐藏片尾推荐视频";
+"HIDE_RELATED_VIDEOS" = "隐藏相关视频";
+"HIDE_LANDSCAPE_COMMENTS" = "禁用横屏评论";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "横屏模式的评论部分将被完全禁用";
+"SHOW_PROGRESS_BAR" = "横屏一直显示进度条";
+"SHOW_PROGRESS_BAR_INFO" = "滑动显示相关视频将被禁用";
 
 
 /* streaming section */
-"LEGACY_QUALITY_MODE" = "啟用舊款畫質選擇模式";
-"LEGACY_QUALITY_MODE_INFO" = "找回舊款但更詳細的影片畫質選擇！";
-"PICTURE_IN_PICTURE_PIP" = "子母畫面/畫中畫(PIP)";
-"ENABLE_PIP" = "啟用子母畫面";
-"ENABLE_PIP_INFO" = "在影片上增加一個懸浮的子母畫面按鈕";
-"DOUBLE_TAP" = "點兩下選項";
-"CUSTOM_SKIP_DURATION" = "自定義點兩下跳轉秒數";
-"VALUE_CHANGES_JB" = "秒數: %.lf";
-"VALUE_CHANGES" = "秒數: 10";
-"STREAMING_SECTION" = "影片串流細節";
-"PLAYBACK_SPEED" = "增加影片播放速度選擇";
-"PLAYBACK_SPEED_INFO" = "影片內的懸浮齒輪按鈕 -> 播放速度";
-"DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
-"PLAY_HD_VIDEOS_OVER_CELLULAR" = "在3G/4G/5G環境下播放高畫質HD影片";
+"LEGACY_QUALITY_MODE" = "启用旧版画质模式";
+"LEGACY_QUALITY_MODE_INFO" = "恢复旧的画质质量选择";
+"PICTURE_IN_PICTURE_PIP" = "画中画";
+"ENABLE_PIP" = "启用画中画";
+"ENABLE_PIP_INFO" = "在视频上添加画中画按钮";
+"DOUBLE_TAP" = "双击选项";
+"CUSTOM_SKIP_DURATION" = "自定义跳过时间";
+"VALUE_CHANGES_JB" = "秒: %.lf";
+"VALUE_CHANGES" = "秒: 10";
+"STREAMING_SECTION" = "流媒体";
+"PLAYBACK_SPEED" = "添加额外的播放速度选项";
+"PLAYBACK_SPEED_INFO" = "视频播放界面-> 齿轮按钮 -> 播放速度";
+"DISABLE_AUTOPLAY_VIDEOS" = "禁用自动播放视频";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "在3G/4G/5G网络播放高清视频";
 
 
 /* ipad section */
-"IPAD_SECION" = "仿iPad風格";
-"IPADOS_MODE" = "啟用iPadOS模式";
-"DISABLE_DRAG_AND_DROP" = "停用拖放功能(Drag & Drop)";
-"HIDE_CHANNEL_CIRCLES" = "隱藏頂部頻道圓形按鈕";
-"HIDE_CHANNEL_CIRCLES_INFO" = "訂閱內容 -> 頂部導航欄下方的已訂閱頻道圓形按鈕";
-"MINI_PLAYER_ASPECT_RATIO" = "迷你播放器擴張風格";
-"USE_ASPECT_RATIO" = "使用擴張比例風格";
-"USE_ASPECT_RATIO_INFO" = "不支援同時使用下方的「迷你播放器仿iPad風格」！";
-"MINI_PLAYER" = "迷你播放器仿iPad風格";
-"REDEFIND_MINI_PLAYER" = "使用仿iPad風格：置中";
-"MINI_PLAYER_IPAD_MODE" = "使用仿iPad風格：靠右";
+"IPAD_SECION" = "iPad风格";
+"IPADOS_MODE" = "启用iPad风格";
+"DISABLE_DRAG_AND_DROP" = "禁用拖放";
+"HIDE_CHANNEL_CIRCLES" = "隐藏订阅频道图标";
+"HIDE_CHANNEL_CIRCLES_INFO" = "订阅内容->导航栏下方的已订阅的频道图标";
+"MINI_PLAYER_ASPECT_RATIO" = "纵横比风格迷你播放器";
+"USE_ASPECT_RATIO" = "使用全部纵横比特性";
+"USE_ASPECT_RATIO_INFO" = "不支持下方的iPad风格迷你播放器";
+"MINI_PLAYER" = "iPad风格迷你播放器";
+"REDEFIND_MINI_PLAYER" = "中置的迷你播放器";
+"MINI_PLAYER_IPAD_MODE" = "右置的迷你播放器";
 
 
 /* navbar section */
-"STATUS_BAR" = "狀態欄";
-"HIDE_STATUS_BAR" = "隱藏狀態欄";
-"CHANNEL_SECTIONS" = "頻道頁面";
-"STICKY_NAV_BAR" = "隱藏頻道頁面頂部的分類欄";
-"SHOW_YTKPLUS_ICON" = "顯示YTKillerPlus設定按鈕";
-"HIDE_ITEMS_NAV_BAR" = "隱藏頂部導航欄項目";
-"HIDE_YT_LOGO" = "隱藏YouTube Logo";
-"HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
-"HIDE_NOTIFICATION_BUTTON_INFO" = "隱藏頻道訂閱按鈕旁的通知鈴鐺按鈕";
-"HIDE_ACCOUNT" = "隱藏帳號按鈕";
-"HIDE_SEARCH" = "隱藏搜尋按鈕";
-"HIDE_CAST_BUTTON" = "隱藏投放按鈕";
+"STATUS_BAR" = "状态栏";
+"HIDE_STATUS_BAR" = "隐藏状态栏";
+"CHANNEL_SECTIONS" = "频道部分";
+"STICKY_NAV_BAR" = "隐藏导航栏下方的类别";
+"SHOW_YTKPLUS_ICON" = "显示YTKillerPlus按钮";
+"HIDE_ITEMS_NAV_BAR" = "隐藏导航栏项目";
+"HIDE_YT_LOGO" = "隐藏YouTube Logo";
+"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮";
+"HIDE_ACCOUNT" = "隐藏账号按钮";
+"HIDE_SEARCH" = "隐藏搜索按钮";
+"HIDE_CAST_BUTTON" = "隐藏投射按钮";
 
 
 /* shorts section */
-"SHORTS_SECTION" = "Shorts";
-"ENABLE_PLAYER_BAR" = "在底部啟用時間軸/進度條";
-"HIDE_ELEMNTS" = "隱藏Shorts項目";
-"HIDE_LIKE_BUTTON" = "隱藏喜歡按鈕";
-"HIDE_DISLIKE_BUTTON" = "隱藏不喜歡按鈕";
-"HIDE_COMMENTS_BUTTON" = "隱藏留言按鈕";
-"HIDE_SHARE_BUTTON" = "隱藏分享按鈕";
-"HIDE_MORE_BUTTON" = "隱藏更多/三點按鈕";
+"SHORTS_SECTION" = "短视频";
+"ENABLE_PLAYER_BAR" = "启用底部进度条";
+"HIDE_ELEMNTS" = "隐藏短视频项目";
+"HIDE_LIKE_BUTTON" = "隐藏喜欢按钮";
+"HIDE_DISLIKE_BUTTON" = "隐藏不喜欢按钮";
+"HIDE_COMMENTS_BUTTON" = "隐藏评论按钮";
+"HIDE_SHARE_BUTTON" = "隐藏分享按钮";
+"HIDE_MORE_BUTTON" = "隐藏更多按钮";
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "額外下載功能";
-"LOCAL_DOWNLOADING" = "啟用Local下載模式";
-"LOCAL_DOWNLOADING_INFO" = "在播放中影片上長按以觸發下載選單";
-"HIDE_DOWNLOAD_BUTTON" = "隱藏下載按鈕";
-"HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏YouTube原生的下載按鈕";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "防止已下載影片過期";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用於YouTube原生功能所下載的影片";
-"DOWNLOAD_SECTION_INFO" = "1. 若有重複畫質選項請優先選擇較上方的選項(僅越獄用戶可能會遇到)。2. Local下載方式與懸浮下載按鈕方式不同，影片將直接儲存至照片App內。3. 原生的長按影片拖移進度功能將會失效。4. 若您啟用了4K UHD畫質此功能將會失效。";
+"DOWNLOAD_SECTION" = "扩展下载功能";
+"LOCAL_DOWNLOADING" = "启用本地下载模式";
+"LOCAL_DOWNLOADING_INFO" = "长按播放视频即可触发下载菜单";
+"HIDE_DOWNLOAD_BUTTON" = "隐藏下载按钮";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "隐藏YouTube原生下载按钮";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "禁止下载视频过期";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用于YouTube原生下载功能所下载的使用";
+"DOWNLOAD_SECTION_INFO" = "1.如果有多个相同品质(仅越狱用户)，请启用上面的选项。2.本地下载模式将内容直接存储到照片应用程序。3.原生长按视频手势将被禁用。4.若启用4K UHD画质，此功能将失效。";
 
 
 /* tabbar section */
-"TAB_BAR_SECTION" = "底部標籤欄";
-"TABS_SHRINKED_BUTTOM" = "縮減底部空格(至底)";
-"TABS_SHRINKED_SMART" = "縮減底部空格(智慧)";
-"DISABLE_CREATE_BUTTON" = "停用製作(+)功能";
-"HIDE_TAB_LABELS" = "隱藏標籤名稱";
-"PREVENT_OPEN_IN_SHORTS" = "避免YouTube自動開啟Shorts標籤";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "上一次關閉YouTube前停留在Shorts頁面所產生的暫留";
-"REPLACE_SHORTS_WITH_EXPLORE" = "使用「探索」標籤取代Shorts標籤";
-"HIDE_TABS" = "隱藏標籤項目";
-"HIDE_EXPLORE_TAB" = "隱藏探索標籤";
-"HIDE_SHORTS_TAB" = "隱藏Shorts標籤";
-"HIDE_CREATE_TAB" = "隱藏製作(+)標籤";
-"HIDE_SUBSCRIPTION_TAB" = "隱藏訂閱內容標籤";
-"HIDE_LIBRARY_TAB" = "隱藏媒體庫標籤";
-"HIDE_ALL_TAB" = "隱藏所有標籤";
+"TAB_BAR_SECTION" = "底部选项卡";
+"TABS_SHRINKED_BUTTOM" = "标签收缩(底部)";
+"TABS_SHRINKED_SMART" = "标签收缩(智能)";
+"DISABLE_CREATE_BUTTON" = "禁用创作(+)按钮";
+"HIDE_TAB_LABELS" = "隐藏选项卡标签";
+"PREVENT_OPEN_IN_SHORTS" = "防止选项卡中自动启动短视频";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "当在短视频选项卡中杀死YouTube后会发生";
+"REPLACE_SHORTS_WITH_EXPLORE" = "使用探索替代短视频";
+"HIDE_TABS" = "隐藏选项卡";
+"HIDE_EXPLORE_TAB" = "隐藏探索";
+"HIDE_SHORTS_TAB" = "隐藏短视频";
+"HIDE_CREATE_TAB" = "隐藏创作(+)";
+"HIDE_SUBSCRIPTION_TAB" = "隐藏订阅内容";
+"HIDE_LIBRARY_TAB" = "隐藏媒体库";
+"HIDE_ALL_TAB" = "隐藏所有";
 
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "其他功能";
-"USE_STOCK_VOLUME_HUD" = "使用系統原生音量HUD";
-"USE_STOCK_VOLUME_HUD_INFO" = "僅作用於橫向模式中";
-"HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
-"NOT_TOPIC_SECTION" = "隱藏主題區塊";
-"HIDE_PREMIUM_POPUP" = "去除升級Premium提示窗";
-"HIDE_YT_UPDATE_POPUP" = "去除升級App版本提示窗";
-"HIDE_YT_UPDATE_POPUP_INFO" = "去除煩人的強制升級提示窗！";
-"ENABLE_MINI_PLAYER_VIDEOS" = "廣泛使用迷你播放器";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "讓兒童影片也能使用迷你播放器";
-"HIDE_HUD_ALERTS" = "去除動作提示窗";
-"HIDE_HUD_ALERTS_INFO" = "隱藏所有動作提示窗，例如倒讚、兒童影片限制等。";
-"CLASSIC_SHARE" = "使用舊款的填滿邊緣式分享選單";
-"HIDE_LINE_SEPERATOR" = "隱藏分割線條(媒體庫)";
-"ROUND_ALL_VIEW_CORNERS" = "柔和圓角介面";
-"DISABLE_DARK_MODE" = "停用黑暗模式";
-"HIDE_INCLUDE_PAID_PROMO" = "去除付費宣傳促銷";
-"DARK_KEYBOARDS" = "使用深色外觀鍵盤";
-"DISABLE_RTL" = "停用右至左(RTL)語系介面";
-"OTHERS" = "其他";
-"HIDE_PLAYLIST" = "隱藏播放清單";
-"PLAYLIST_INFO" = "不支援仿iPad風格";
-"HIDE_COVID_NEWS" = "隱藏COVID-19警示";
-"COVID_NEWS_INFO" = "在首頁隱藏COVID-19疫情提醒區塊";
-"HIDE_FILTER_TAGS" = "隱藏主題過濾器(直播中、合輯、遊戲等)";
+"USE_STOCK_VOLUME_HUD" = "使用系统原生音量HUD";
+"USE_STOCK_VOLUME_HUD_INFO" = "仅作用于横屏模式";
+"HIDE_SEARCHED_HISTORY" = "隐藏搜索记录";
+"NOT_TOPIC_SECTION" = "无主题部分";
+"HIDE_PREMIUM_POPUP" = "隐藏升级Premium弹窗";
+"HIDE_YT_UPDATE_POPUP" = "隐藏更新App版本弹窗";
+"HIDE_YT_UPDATE_POPUP_INFO" = "烦人的强制更新/退出应用程序弹窗";
+"ENABLE_MINI_PLAYER_VIDEOS" = "为所有视频启用迷你播放器";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "在儿童视频上使用迷你播放器";
+"HIDE_HUD_ALERTS" = "隐藏所有弹窗";
+"HIDE_HUD_ALERTS_INFO" = "隐藏所有弹窗，例如不喜欢/儿童视频等。";
+"CLASSIC_SHARE" = "使用旧版填充式分享表";
+"HIDE_LINE_SEPERATOR" = "隐藏媒体库分割线";
+"ROUND_ALL_VIEW_CORNERS" = "所有视图圆角";
+"DISABLE_DARK_MODE" = "禁用深色模式";
+"HIDE_INCLUDE_PAID_PROMO" = "隐藏付费宣传/促销";
+"DARK_KEYBOARDS" = "深色风格键盘";
+"DISABLE_RTL" = "禁用RTL语言";
+"OTHERS" = "主页相关";
+"HIDE_PLAYLIST" = "隐藏播放列表";
+"PLAYLIST_INFO" = "不支持iPad风格";
+"HIDE_COVID_NEWS" = "隐藏COVID-19提示";
+"COVID_NEWS_INFO" = "主页隐藏COVID-19疫情相关";
+"HIDE_FILTER_TAGS" = "隐藏顶部的主题过滤器(直播、游戏等)";
 
 
 /* global action title */
-"OK" = "OK";
+"OK" = "好的";
 "YES" = "是";
 "NO" = "否";
-"ERROR" = "錯誤";
-"APP_RESTART_REQUIRED" = "app restart required";
-"FILZA_NOT_INSTALLED_ALERT" = "在此裝置上沒有發現Filza";
-"NO_DATA" = "您尚未下載檔案😳";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "請留意，啟用此功能將會同時停用「額外下載功能」！";
+"ERROR" = "错误";
+"APP_RESTART_REQUIRED" = "程序需要重启";
+"FILZA_NOT_INSTALLED_ALERT" = "此设备没有发现Filza";
+"NO_DATA" = "无可用数据";
+"NOTE_UHD_LOCAL_DOWNLOAD" = "启用此功能将禁用本地下载模式，仅Sideloadly iPA版本。";
 "CANCEL" = "取消";
-"DISMISS" = "撤銷";
+"DISMISS" = "撤销";
 "DELETED" = "已刪除";
-"DOWNLOADING_START" = "下載中⏳";
-"VIDEO_DWD_PROGRESS" = "影片分割(1/2)";
-"AUDIO_DWD_PROGRESS" = "音訊分割(2/2)";
-"CANCEL_HUD" = "取消下載";
-"SAVED" = "已儲存!";
-"SUCCESS" = "成功!";
-"SHOW_ALL_QUALITY" = "顯示所有畫質和音訊";
-"SHOW_ALL_QUALITY_INFO" = " 此功能與「總是詢問」不同。";
-"SELECT_VIDEO_QUALITY" = "請選擇影片畫質";
-"NOT_SUPPORTED_FORMAT" = "下載器目前不支援此影片 請嘗試選擇別的畫質";
-"VIDEO" = "影片";
-"AUDIO" = "音訊";
-"RENAME" = "重新命名";
-"RENAME_FILE" = "Rename File";
-"RENAME_NEW_NAME" = "Enter the new name for the file:";
-"RENAME_PLACEHOLDER" = "Enter new video name";
-"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
+"DOWNLOADING_START" = "下载中";
+"VIDEO_DWD_PROGRESS" = "视频(1/2)";
+"AUDIO_DWD_PROGRESS" = "音频(2/2)";
+"CANCEL_HUD" = "取消下载";
+"SAVED" = "已保存";
+"SUCCESS" = "成功";
+"SHOW_ALL_QUALITY" = "显示所有画质";
+"SHOW_ALL_QUALITY_INFO" = "显示所有画质和音频";
+"SELECT_VIDEO_QUALITY" = "选择视频画质";
+"NOT_SUPPORTED_FORMAT" = "下载器不支持该视频，请选择其他画质。";
+"VIDEO" = "视频";
+"AUDIO" = "音频";
+"RENAME" = "重命名";
+"RENAME_FILE" = "重新命名文件";
+"RENAME_NEW_NAME" = "输入文件的新名称：";
+"RENAME_PLACEHOLDER" = "输入视频的新名称";
+"RENAME_PLACEHOLDER_AUDIO" = "输入音频的新名称";
 "PLAY" = "播放";
 "SHARE" = "分享";
 "VIEW_IN_FILZA" = "在Filza中查看";
 "DELETE" = "删除";
-"MORE_OPTION" = "更多選項";
-"MAIN_OPTION" = "返回主要選項";
+"MORE_OPTION" = "更多选项";
+"MAIN_OPTION" = "主要选项";
 "DELETE_ALL" = "刪除全部";
-"SAVE_ARTWORK" = "儲存預覽縮圖";
-"SAVE_TO_PHOTOS" = "儲存到照片App";
-"ARE_YOU_SURE" = "您確定嗎？";
-"NOTE" = "Noting!";
-"SAVE_FAILED" = "儲存失敗!";
-"SAVE_TO_PHOTOS_FAILED" = "無法儲存到照片 請在設定App中確認是否有給予YouTube照片的取用權限";
-"DELETING_VIDEO" = "確定要刪除影片嗎？";
-"DELETING_AUDIO" = "確定要刪除音訊嗎？";
+"SAVE_ARTWORK" = "保存预览图";
+"SAVE_TO_PHOTOS" = "保存到照片App";
+"ARE_YOU_SURE" = "是否确实要删除所有项目？";
+"NOTE" = "提示！";
+"SAVE_FAILED" = "保存失败！";
+"SAVE_TO_PHOTOS_FAILED" = "保存到照片失败，请确保在iOS设置中授予YouTube访问照片的权限。";
+"DELETING_VIDEO" = "确定删除视频？";
+"DELETING_AUDIO" = "确定删除音频？";
 
-"AFTER_DONE" = "After Download Done!";
-"SAVE_OR_SHARE" = "Save or Share";
-"SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
-"SAVE_TO_PHOTOS" = "Save to Photos";
-"SAVE_TO_DOWNLOAD" = "Save to Download";
+"AFTER_DONE" = "下载完成后!";
+"SAVE_OR_SHARE" = "保存或分享";
+"SAVE_OR_SHARE_DISC" = "想将视频保存到您的相册、下载还是分享？";
+"SAVE_TO_PHOTOS" = "保存到照片";
+"SAVE_TO_DOWNLOAD" = "保存到下载";
 
 /* download manager section */
-"DOWNLOAD_MANAGER" = "下載管理器";
-"VIDEO_TAB_BAR" = "影片";
-"AUDIO_TAB_BAR" = "音訊";
-"SHORTS_TAB_BAR" = "Shorts";
+"DOWNLOAD_MANAGER" = "下载管理器";
+"VIDEO_TAB_BAR" = "视频";
+"AUDIO_TAB_BAR" = "音频";
+"SHORTS_TAB_BAR" = "短视频";
 
 
 /* other stuff */
