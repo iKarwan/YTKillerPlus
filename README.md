@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* download the YouTube ipa from the link [here](https://ikghd.site/ipa/YouTube_19.03.2_YTKillerPlus_2.3.7_TrollStore.ipa) and install it via TrollStore:
+* copy this link [here](https://ikghd.site/ipa/YouTube_19.03.2_YTKillerPlus_2.3.7_TrollStore.ipa) and paste it to (install from URL) option in TrollStore:
 
 
 ### Telegram channel
