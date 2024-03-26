@@ -58,4 +58,6 @@
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
 
 ### Donation
-* donation always appreciated to keep th eproject on go  [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW), [Buy me a coffe](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
+* donation always appreciated to keep th project on go
+* [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
+* [Buy me a coffe](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
