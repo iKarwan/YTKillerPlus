@@ -60,4 +60,4 @@
 ### Donation
 * donation always appreciated to keep th project on go
 * [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
-* [Buy me a coffe]((https://www.buymeacoffee.com/ikghd))
+* [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
