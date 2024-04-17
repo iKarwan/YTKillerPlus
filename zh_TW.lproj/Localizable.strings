@@ -5,8 +5,8 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "全域開關:";
-"GLOBAL_ENABLED_SWITCH" = "請點擊右上角按鈕以快速套用所有更動。";
+"GLOB_ENABLED" = "Global Enabled:";
+"GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
 "DOWNLOADING" = "啟用下載功能";
@@ -27,6 +27,44 @@
 "SUBSCRIPTIONS" = "訂閱內容";
 "LIBRARY" = "媒體庫";
 
+/* defaults */
+"overlay_button" = "Overlay Button Symlink";
+"overlay_player" = "Overlay Player";
+"speed_index" = "Playback Speed";
+"pip_player" = "PiP Player";
+"short_player" = "Shorts Player";
+
+"yt_video_quality_wifi" = "YT Video Quality On Wifi";
+"yt_video_quality_celluar" = "YT Video Quality On Cellular";
+"auto" = "Auto";
+"highest_quality" = "Highest Quality";
+"yt_speed_playback" = "Default Playback Speed";
+"normal" = "Normal";
+
+"image" = "Image";
+"information" = "Information";
+"copy_title" = "Copy Title";
+"copy_describtion" = "Copy Description";
+"copied" = "Copied";
+
+"save_pfP" = "Save Profile Image";
+"copy_ptext" = "Copy Post Text";
+"save_img" = "Save Image";
+"copy_comment" = "Copy Comment";
+"pip_mode" = "PiP";
+"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+
+"short_fullscreen" = "Shorts Fullscreen";
+"short_auto_skip" = "Shorts Auto Skip";
+"USE_PREM_LOGO" = "use Premium Logo";
+"cast_confirm" = "Cast Confirmation";
+"video_available" = "Video Available";
+"videos_available" = "Videos Available";
+"audio_available" = "Audio Available";
+"audios_available" = "Audios Available";
+"short_available" = "Short Available";
+"shorts_available" = "Shorts Available";
+
 /* general section */
 "VIDEO_PLAYER" = "影片播放頁面選項";
 "OVERLAY_OPTIONS" = "影片懸浮控制鈕選項";
@@ -36,7 +74,7 @@
 "SHORTS_OPTION" = "Shorts選項";
 "DOWNLOAD_OPTIONS" = "額外下載功能選項";
 "TAB_BAR_OPTIONS" = "底部標籤欄選項";
-"MISCELLANEOUS" = "其它功能";
+"MISCELLANEOUS" = "其他功能";
 
 /* general section switch */
 "APP_LOCK" = "啟用鎖定App功能";
@@ -57,7 +95,7 @@
 "SPECIAL_THANK" = "特別感謝：";
 "LOCALIZATION" = "在地翻譯：";
 "DEVELOPER" = "開發者：";
-"WELCOM_ALERT" = "要修改設定，請至底部標籤欄YTKPlus圖示，然後單擊右上方齒輪⚙️圖示";
+"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
 /* video player section */
@@ -236,7 +274,7 @@
 "YES" = "是";
 "NO" = "否";
 "ERROR" = "錯誤";
-"APP_RESTART_REQUIRED" = "需要重新啟動YouTube";
+"APP_RESTART_REQUIRED" = "app restart required";
 "FILZA_NOT_INSTALLED_ALERT" = "在此裝置上沒有發現Filza";
 "NO_DATA" = "您尚未下載檔案😳";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "請留意，啟用此功能將會同時停用「額外下載功能」！";
@@ -256,10 +294,10 @@
 "VIDEO" = "影片";
 "AUDIO" = "音訊";
 "RENAME" = "重新命名";
-"RENAME_FILE" = "檔案重新命名";
-"RENAME_NEW_NAME" = "輸入新的檔案名稱：";
-"RENAME_PLACEHOLDER" = "輸入新的影片名稱";
-"RENAME_PLACEHOLDER_AUDIO" = "輸入新的音訊名稱";
+"RENAME_FILE" = "Rename File";
+"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_PLACEHOLDER" = "Enter new video name";
+"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "播放";
 "SHARE" = "分享";
 "VIEW_IN_FILZA" = "在Filza中查看";
@@ -276,11 +314,11 @@
 "DELETING_VIDEO" = "確定要刪除影片嗎？";
 "DELETING_AUDIO" = "確定要刪除音訊嗎？";
 
-"AFTER_DONE" = "下載完成後!";
-"SAVE_OR_SHARE" = "儲存&分享";
-"SAVE_OR_SHARE_DISC" = "您想將影片儲存到照片App、下載管理器還是分享？";
-"SAVE_TO_PHOTOS" = "儲存到照片App";
-"SAVE_TO_DOWNLOAD" = "儲存到下載管理器";
+"AFTER_DONE" = "After Download Done!";
+"SAVE_OR_SHARE" = "Save or Share";
+"SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
+"SAVE_TO_PHOTOS" = "Save to Photos";
+"SAVE_TO_DOWNLOAD" = "Save to Download";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "下載管理器";

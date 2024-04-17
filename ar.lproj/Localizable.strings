@@ -27,6 +27,46 @@
 "SUBSCRIPTIONS" = "الإشتراكات";
 "LIBRARY" = "المكتبة";
 
+/* defaults */
+/* defaults */
+"overlay_button" = "تراكب ازرار الارتباط";
+"overlay_player" = "المشغل";
+"speed_index" = "سرعة التشغيل";
+"pip_player" = "صورة فـ صورة";
+"short_player" = "مشغل الـ Short";
+
+"yt_video_quality_wifi" = "جودة فيديو على شبكة واي فاي";
+"yt_video_quality_celluar" = "جودة فيديو على شبكة الخدمات";
+"auto" = "تلقائي";
+"highest_quality" = "اعلى دقة";
+"yt_speed_playback" = "سرعة التشغيل الافتراضية";
+"normal" = "عادي";
+
+"image" = "صورة";
+"information" = "المعلومات";
+"copy_title" = "نسخ العنوان";
+"copy_describtion" = "نسخ الوصف";
+"copied" = "تم النسخ";
+
+"save_pfP" = "حفظ صورة الحساب";
+"copy_ptext" = "نسخ الوصف";
+"save_img" = "حفظ الصورة";
+"copy_comment" = "نسخ التعليق";
+"pip_mode" = "صورة فـ صورة";
+"pip_mode_desc" = "يجب عليك تمكين 'تشغيل الخلفية' في الإعدادات حتى تتمكن من استخدام صورة فـ صورة";
+
+"short_fullscreen" = "Shorts شاشة كاملة";
+"short_auto_skip" = "Shorts تخطي تلقائي";
+"USE_PREM_LOGO" = "استخدم الشعار المميز";
+"cast_confirm" = "تأكيد الإرسال";
+"video_available" = "فيديو متوفر";
+"videos_available" = "فيديوهات متوفرة";
+"audio_available" = "صوت متوفر";
+"audios_available" = "صوتيات متوفرة";
+"short_available" = "Short متوفر";
+"shorts_available" = "Shorts متوفرة";
+
+
 /* general section */
 "VIDEO_PLAYER" = "مشغل الفيديو";
 "OVERLAY_OPTIONS" = "خيارات مُشغل الفيديو ";

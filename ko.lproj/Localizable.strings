@@ -29,6 +29,44 @@
 "LIBRARY" = "보관함";
 "YTKPlus" = "YTKPlus";
 
+/* defaults */
+"overlay_button" = "Overlay Button Symlink";
+"overlay_player" = "Overlay Player";
+"speed_index" = "Playback Speed";
+"pip_player" = "PiP Player";
+"short_player" = "Shorts Player";
+
+"yt_video_quality_wifi" = "YT Video Quality On Wifi";
+"yt_video_quality_celluar" = "YT Video Quality On Cellular";
+"auto" = "Auto";
+"highest_quality" = "Highest Quality";
+"yt_speed_playback" = "Default Playback Speed";
+"normal" = "Normal";
+
+"image" = "Image";
+"information" = "Information";
+"copy_title" = "Copy Title";
+"copy_describtion" = "Copy Description";
+"copied" = "Copied";
+
+"save_pfP" = "Save Profile Image";
+"copy_ptext" = "Copy Post Text";
+"save_img" = "Save Image";
+"copy_comment" = "Copy Comment";
+"pip_mode" = "PiP";
+"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+
+"short_fullscreen" = "Shorts Fullscreen";
+"short_auto_skip" = "Shorts Auto Skip";
+"USE_PREM_LOGO" = "use Premium Logo";
+"cast_confirm" = "Cast Confirmation";
+"video_available" = "Video Available";
+"videos_available" = "Videos Available";
+"audio_available" = "Audio Available";
+"audios_available" = "Audios Available";
+"short_available" = "Short Available";
+"shorts_available" = "Shorts Available";
+
 /* general section */
 "VIDEO_PLAYER" = "비디오 플레이어 옵션";
 "OVERLAY_OPTIONS" = "오버레이 옵션";

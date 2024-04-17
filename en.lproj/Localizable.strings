@@ -6,12 +6,12 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
-"DOWNLOADING" = "Enable Download Feature:";
-"GLOBAL_DOWNLOADING_SWITCH" = "Add a button on overlay to download media.";
+"DOWNLOADING" = "Enable Download Feature";
+"glob_overlay_button" = "Buttons that showing inside player.";
 
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
@@ -19,7 +19,7 @@
 "AUDIO_ONLY" = "Audio Only";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Startup Page";
+"STARTUP_PAGE" = "Default Startup Page";
 "DEFAULT_PAGE" = "Home";
 
 "HOME" = "Home";
@@ -28,6 +28,45 @@
 "SUBSCRIPTIONS" = "Subscription";
 "LIBRARY" = "Library";
 "YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "Overlay Button Symlink";
+"overlay_player" = "Overlay Player";
+"speed_index" = "Playback Speed";
+"pip_player" = "PiP Player";
+"short_player" = "Shorts Player";
+
+"yt_video_quality_wifi" = "YT Video Quality On Wifi";
+"yt_video_quality_celluar" = "YT Video Quality On Cellular";
+"auto" = "Auto";
+"highest_quality" = "Highest Quality";
+"yt_speed_playback" = "Default Playback Speed";
+"normal" = "Normal";
+
+"image" = "Image";
+"information" = "Information";
+"copy_title" = "Copy Title";
+"copy_describtion" = "Copy Description";
+"copied" = "Copied";
+
+"save_pfP" = "Save Profile Image";
+"copy_ptext" = "Copy Post Text";
+"save_img" = "Save Image";
+"copy_comment" = "Copy Comment";
+"pip_mode" = "PiP";
+"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+
+"short_fullscreen" = "Shorts Fullscreen";
+"short_auto_skip" = "Shorts Auto Skip";
+"USE_PREM_LOGO" = "use Premium Logo";
+"cast_confirm" = "Cast Confirmation";
+"video_available" = "Video Available";
+"videos_available" = "Videos Available";
+"audio_available" = "Audio Available";
+"audios_available" = "Audios Available";
+"short_available" = "Short Available";
+"shorts_available" = "Shorts Available";
+
 
 /* general section */
 "VIDEO_PLAYER" = "Video Player Options";
@@ -154,7 +193,7 @@
 "STATUS_BAR" = "Status Bar";
 "HIDE_STATUS_BAR" = "Hide Status Bar";
 "CHANNEL_SECTIONS" = "In Channel Section";
-"STICKY_NAV_BAR" = "Hide Categories below Navigation Bar";
+"STICKY_NAV_BAR" = "Hide Categories below NavBar";
 "SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
 "HIDE_ITEMS_NAV_BAR" = "Hide Items";
 "SHOW_YTKPlus_Icon" = "Show YTKPlus Icon";
@@ -193,7 +232,7 @@
 "TABS_SHRINKED_SMART" = "Tabs Shrinked (Smart)";
 "DISABLE_CREATE_BUTTON" = "Disable Create (+)";
 "HIDE_TAB_LABELS" = "Hide Tab Labels";
-"PREVENT_OPEN_IN_SHORTS" = "Prevent Auto-Launching In Shorts Tab";
+"PREVENT_OPEN_IN_SHORTS" = "Prevent Open In Shorts";
 "PREVENT_OPEN_IN_SHORTS_INFO" = "Happens after you kill YT while it was in Shorts Tab!";
 "REPLACE_SHORTS_WITH_EXPLORE" = "Replace Shorts With Explore";
 "HIDE_TABS" = "Hide Tabs";
@@ -218,7 +257,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
 "HIDE_HUD_ALERTS_INFO" = "Hide all pop-up alerts like disliking/children videos";
-"CLASSIC_SHARE" = "Classic Filled Share Sheet When Invoke";
+"CLASSIC_SHARE" = "Classic Share Sheet";
 "HIDE_LINE_SEPERATOR" = "Hide Line Seperators In Library";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";
@@ -240,7 +279,7 @@
 "ERROR" = "Error";
 "APP_RESTART_REQUIRED" = "YouTube app restart required to apply changes";
 "FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
-"NO_DATA" = "No data available.";
+"NO_DATA" = "No Downloads";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
 "CANCEL" = "Cancel";
 "DISMISS" = "Dismiss";
@@ -278,7 +317,7 @@
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 
-"AFTER_DONE" = "After Download Done!";
+"AFTER_DONE" = "After Download Done";
 "SAVE_OR_SHARE" = "Save or Share";
 "SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
 "SAVE_TO_PHOTOS" = "Save to Photos";
