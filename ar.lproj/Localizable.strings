@@ -41,6 +41,7 @@
 "highest_quality" = "اعلى دقة";
 "yt_speed_playback" = "سرعة التشغيل الافتراضية";
 "normal" = "عادي";
+"default" = "افتراضي";
 
 "image" = "صورة";
 "information" = "المعلومات";

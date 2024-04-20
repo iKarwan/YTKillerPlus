@@ -42,6 +42,7 @@
 "highest_quality" = "Highest Quality";
 "yt_speed_playback" = "Default Playback Speed";
 "normal" = "Normal";
+"default" = "Default";
 
 "image" = "Image";
 "information" = "Information";
