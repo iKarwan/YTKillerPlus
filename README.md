@@ -17,8 +17,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_19.15.1_YTKillerPlus_3.0.0.ipa) | com.google.ios.youtube | 19.15.1 | 3.0.0 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.15.1_YTKillerPlus_3.0.0_TrollStore.ipa) | com.google.ios.youtube | 19.15.1| 3.0.0 | IPA |
+        | [YouTube](https://ikghd.site/ipa/YouTube_19.16.3_YTKillerPlus_3.0.1.ipa) | com.google.ios.youtube | 19.16.3 | 3.0.1 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.16.3_YTKillerPlus_3.0.1_TrollStore.ipa) | com.google.ios.youtube | 19.16.3| 3.0.1 | IPA |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -34,7 +34,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YTKillerPlus v19.15.1](https://tinyurl.com/8fcamfpj) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YTKillerPlus v19.16.3](https://tinyurl.com/2em599aw) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -46,7 +46,7 @@
 
 ### TrollStore iPA Only
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* copy this link [here](https://ikghd.site/ipa/YouTube_19.15.1_YTKillerPlus_3.0.0_TrollStore.ipa) and paste it to (install from URL) option in TrollStore:
+* copy this link [here](https://ikghd.site/ipa/YouTube_19.16.3_YTKillerPlus_3.0.1_TrollStore.ipa) and paste it to (install from URL) option in TrollStore:
 
 
 ### Telegram channel
@@ -58,6 +58,6 @@
 * NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
 
 ### Donation
-* donation always appreciated to keep th project on go
+* donation always appreciated to keep the project on go!
 * [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
 * [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
