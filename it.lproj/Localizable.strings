@@ -80,6 +80,9 @@
 "TAB_BAR_OPTIONS" = "Opzioni Delle Schede";
 "MISCELLANEOUS" = "Varie";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section switch */
 "APP_LOCK" = "Blocca l'applicazione";
 "LOCK_APP_VIA_PASSWORD" = "con la password di sistema";

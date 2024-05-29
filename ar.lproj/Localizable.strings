@@ -67,6 +67,8 @@
 "short_available" = "Short متوفر";
 "shorts_available" = "Shorts متوفرة";
 
+"cancel_downloading" = "الغاء التحميل؟";
+"action_undone" = "لا يمكن الرجوع من هذا الخيار!";
 
 /* general section */
 "VIDEO_PLAYER" = "مشغل الفيديو";

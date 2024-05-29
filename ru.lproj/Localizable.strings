@@ -77,6 +77,9 @@
 "TAB_BAR_OPTIONS" = "Настройки панели вкладок";
 "MISCELLANEOUS" = "Другое";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section switch */
 "APP_LOCK" = "Блокировка паролем";
 "LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";

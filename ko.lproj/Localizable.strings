@@ -79,6 +79,9 @@
 "TAB_BAR_OPTIONS" = "탭 표시줄 옵션";
 "MISCELLANEOUS" = "기타";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section switch */
 "APP_LOCK" = "앱 잠금";
 "LOCK_APP_VIA_PASSWORD" = "시스템 암호 사용";

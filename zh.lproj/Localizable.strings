@@ -65,6 +65,9 @@
 "short_available" = "Short Available";
 "shorts_available" = "Shorts Available";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section */
 "VIDEO_PLAYER" = "视频播放器选项";
 "OVERLAY_OPTIONS" = "视频播放界面选项";

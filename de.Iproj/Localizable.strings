@@ -68,6 +68,9 @@
 "short_available" = "Short Available";
 "shorts_available" = "Shorts Available";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section */
 "VIDEO_PLAYER" = "Optionen für den Video Player";
 "OVERLAY_OPTIONS" = "Optionen für das Bedienfeld";

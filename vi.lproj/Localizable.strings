@@ -68,6 +68,9 @@
 "short_available" = "Short Available";
 "shorts_available" = "Shorts Available";
 
+"cancel_downloading" = "Cancel downloading..?";
+"action_undone" = "This action cannot be undone!";
+
 /* general section */
 "VIDEO_PLAYER" = "Tùy chọn bố cục video";
 "OVERLAY_OPTIONS" = "Tùy chọn Trình phát";
