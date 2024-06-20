@@ -91,16 +91,16 @@
 "PLAY_IN_BACKGROUND" = "Play In Background";
 "NO_ADVERTISMENT" = "No Advertisements";
 "NO_AGE_RESTRICTION" = "No Age Restriction";
-"HIDE_YT_STORIES" = "Hide Stories Section Between Feeds";
-"HIDE_YT_SHORTS" = "Hide Shorts Section Between Feeds";
+"HIDE_YT_STORIES" = "Hide Stories In Feeds";
+"HIDE_YT_SHORTS" = "Hide Shorts In Feeds";
 "DISABLE_CAPTIONS" = "Disable Captions";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Check Out My Other Projects:";
-"CREDITS" = "Credits:";
-"SPECIAL_THANK" = "Special Thanks:";
-"LOCALIZATION" = "Localizations:";
-"DEVELOPER" = "Developer:";
+"OTHER_TWEAKS" = "Other Projects";
+"CREDITS" = "Credits";
+"SPECIAL_THANK" = "Special Thanks";
+"LOCALIZATION" = "Localizations";
+"DEVELOPER" = "Developer";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon (YTKPlus) then click on the gear icon above";
 
 
