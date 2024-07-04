@@ -19,7 +19,7 @@
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
         | [YouTube](https://ikghd.site/ipa/YouTube_19.26.5_YTKillerPlus_3.1.3.ipa) | com.google.ios.youtube | 19.26.5 | 3.1.3 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.26.5_YTKillerPlus_3.1.3_TrollStore.tipa) | com.google.ios.youtube | 19.26.5| 3.1.3 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.26.5_YTKillerPlus_3.1.3_TrollStore.tipa) | com.google.ios.youtube | 19.26.5| 3.1.3 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -45,7 +45,7 @@
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
-### TrollStore iPA Only
+### TrollStore tipa file
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
 * copy this link [here](https://ikghd.site/ipa/YouTube_19.26.5_YTKillerPlus_3.1.3_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
 
