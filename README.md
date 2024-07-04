@@ -45,7 +45,7 @@
 * download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
 
 
-### TrollStore tipa file
+### TrollStore tipa
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
 * copy this link [here](https://ikghd.site/ipa/YouTube_19.26.5_YTKillerPlus_3.1.3_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
 
