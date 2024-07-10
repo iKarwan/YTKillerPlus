@@ -72,6 +72,8 @@
 
 "cancel_downloading" = "Cancel downloading..?";
 "action_undone" = "This action cannot be undone!";
+"retry" = "Retry";
+"retry_disc" = "Please try Sign In again";
 
 "DEVELOPER"="Geliştirici:";
 "DISABLE_AUTOPLAY_VIDEOS"="Otomatik Video Oynatmayı Devredışı Bırak";

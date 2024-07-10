@@ -70,6 +70,8 @@
 
 "cancel_downloading" = "Cancel downloading..?";
 "action_undone" = "This action cannot be undone!";
+"retry" = "Retry";
+"retry_disc" = "Please try Sign In again";
 
 /* general section */
 "VIDEO_PLAYER" = "Optionen für den Video Player";

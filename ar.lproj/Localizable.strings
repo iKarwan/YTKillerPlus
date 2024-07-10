@@ -69,6 +69,8 @@
 
 "cancel_downloading" = "الغاء التحميل؟";
 "action_undone" = "لا يمكن الرجوع من هذا الخيار!";
+"retry" = "حاول مجدداَ";
+"retry_disc" = "الرجاء تسجيل الدخول ثانية";
 
 /* general section */
 "VIDEO_PLAYER" = "مشغل الفيديو";

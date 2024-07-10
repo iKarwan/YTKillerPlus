@@ -44,17 +44,17 @@
 "normal" = "Normal";
 "default" = "Default";
 
-"image" = "Image";
-"information" = "Information";
+"image" = "Save image";
+"information" = "Copy information";
 "copy_title" = "Copy Title";
 "copy_describtion" = "Copy Description";
-"copied" = "Copied";
+"copied" = "Copied to clipboard";
 
 "save_pfP" = "Save Profile Image";
 "copy_ptext" = "Copy Post Text";
 "save_img" = "Save Image";
 "copy_comment" = "Copy Comment";
-"pip_mode" = "PiP";
+"pip_mode" = "Play in PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
 
 "short_fullscreen" = "Shorts Fullscreen";
@@ -70,6 +70,8 @@
 
 "cancel_downloading" = "Cancel downloading..?";
 "action_undone" = "This action cannot be undone!";
+"retry" = "Retry";
+"retry_disc" = "Please try Sign In again";
 
 /* general section */
 "VIDEO_PLAYER" = "Video Player Options";
@@ -297,8 +299,8 @@
 "SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
 "SELECT_VIDEO_QUALITY" = "Select Video Quality";
 "NOT_SUPPORTED_FORMAT" = "This video is not supported by the downloader! Please try a different download quality";
-"VIDEO" = "Video";
-"AUDIO" = "Audio";
+"VIDEO" = "Download video";
+"AUDIO" = "Download audio";
 "RENAME" = "Rename";
 "RENAME_FILE" = "Rename File";
 "RENAME_NEW_NAME" = "Enter the new name for the file:";
