@@ -9,6 +9,7 @@
 /* downloding global switch */
 "DOWNLOADING" = "启用下载功能";
 "GLOBAL_DOWNLOADING_SWITCH" = "在视频上添加下载按钮";
+"glob_overlay_button" = "播放器内显示的按钮";
 
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "预设下载画质";
@@ -27,48 +28,48 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Overlay Button Symlink";
-"overlay_player" = "Overlay Player";
-"speed_index" = "Playback Speed";
-"pip_player" = "PiP Player";
-"short_player" = "Shorts Player";
+"overlay_button" = "播放界面按钮";
+"overlay_player" = "播放器";
+"speed_index" = "播放速度";
+"pip_player" = "画中画";
+"short_player" = "短视频播放器";
 
-"yt_video_quality_wifi" = "YT Video Quality On Wifi";
-"yt_video_quality_celluar" = "YT Video Quality On Cellular";
-"auto" = "Auto";
-"highest_quality" = "Highest Quality";
-"yt_speed_playback" = "Default Playback Speed";
-"normal" = "Normal";
-"default" = "Default";
+"yt_video_quality_wifi" = "WiFi网络播放画质";
+"yt_video_quality_celluar" = "蜂窝网络播放画质";
+"auto" = "自动";
+"highest_quality" = "最好画质";
+"yt_speed_playback" = "默认播放速度";
+"normal" = "正常";
+"default" = "默认";
 
-"image" = "Image";
-"information" = "Information";
-"copy_title" = "Copy Title";
-"copy_describtion" = "Copy Description";
-"copied" = "Copied";
+"image" = "图片";
+"information" = "信息";
+"copy_title" = "复制标题";
+"copy_describtion" = "复制描述";
+"copied" = "已复制";
 
-"save_pfP" = "Save Profile Image";
-"copy_ptext" = "Copy Post Text";
-"save_img" = "Save Image";
-"copy_comment" = "Copy Comment";
-"pip_mode" = "PiP";
-"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"save_pfP" = "保存个人资料图片";
+"copy_ptext" = "复制帖子文本";
+"save_img" = "保存图片";
+"copy_comment" = "复制评论";
+"pip_mode" = "画中画";
+"pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
 
-"short_fullscreen" = "Shorts Fullscreen";
-"short_auto_skip" = "Shorts Auto Skip";
-"USE_PREM_LOGO" = "use Premium Logo";
-"cast_confirm" = "Cast Confirmation";
-"video_available" = "Video Available";
-"videos_available" = "Videos Available";
-"audio_available" = "Audio Available";
-"audios_available" = "Audios Available";
-"short_available" = "Short Available";
-"shorts_available" = "Shorts Available";
+"short_fullscreen" = "短视频全屏";
+"short_auto_skip" = "短视频自动跳过";
+"USE_PREM_LOGO" = "启用 Premium Logo";
+"cast_confirm" = "投送确认";
+"video_available" = "视频可用";
+"videos_available" = "视频可用";
+"audio_available" = "音频可用";
+"audios_available" = "音频可用";
+"short_available" = "短视频可用";
+"shorts_available" = "短视频可用";
 
-"cancel_downloading" = "Cancel downloading..?";
-"action_undone" = "This action cannot be undone!";
-"retry" = "Retry";
-"retry_disc" = "Please try Sign In again";
+"cancel_downloading" = "取消下载..？";
+"action_undone" = "此操作无法撤消！";
+"retry" = "重试";
+"retry_disc" = "请尝试重新登录";
 
 /* general section */
 "VIDEO_PLAYER" = "视频播放器选项";
@@ -95,10 +96,11 @@
 "DISABLE_CAPTIONS" = "停用字幕功能";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "參考看看我的其他作品！";
+"OTHER_TWEAKS" = "查看其他作品！";
 "CREDITS" = "鸣谢";
 "SPECIAL_THANK" = "特别感谢：";
 "LOCALIZATION" = "本地化翻译：";
+"Icon By:" = "图标设计：";
 "DEVELOPER" = "开发者：";
 "WELCOM_ALERT" = "要修改设置，请转到选项卡栏YTKPlus图标，然后点击齿轮图标。";
 
@@ -198,8 +200,9 @@
 "STICKY_NAV_BAR" = "隐藏导航栏下方的类别";
 "SHOW_YTKPLUS_ICON" = "显示YTKillerPlus按钮";
 "HIDE_ITEMS_NAV_BAR" = "隐藏导航栏项目";
+"SHOW_YTKPlus_Icon" = "显示YTKPlus图标";
 "HIDE_YT_LOGO" = "隐藏YouTube Logo";
-"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮";
+"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮🔕";
 "HIDE_ACCOUNT" = "隐藏账号按钮";
 "HIDE_SEARCH" = "隐藏搜索按钮";
 "HIDE_CAST_BUTTON" = "隐藏投射按钮";
@@ -223,7 +226,7 @@
 "HIDE_DOWNLOAD_BUTTON" = "隐藏下载按钮";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "隐藏YouTube原生下载按钮";
 "DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "禁止下载视频过期";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用于YouTube原生下载功能所下载的使用";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用于YouTube原生下载功能所下载的视频";
 "DOWNLOAD_SECTION_INFO" = "1.如果有多个相同品质(仅越狱用户)，请启用上面的选项。2.本地下载模式将内容直接存储到照片应用程序。3.原生长按视频手势将被禁用。4.若启用4K UHD画质，此功能将失效。";
 
 
@@ -320,6 +323,7 @@
 
 "AFTER_DONE" = "下载完成后!";
 "SAVE_OR_SHARE" = "保存或分享";
+"save or share" = "保存或分享";
 "SAVE_OR_SHARE_DISC" = "想将视频保存到您的相册、下载还是分享？";
 "SAVE_TO_PHOTOS" = "保存到照片";
 "SAVE_TO_DOWNLOAD" = "保存到下载";
@@ -332,3 +336,4 @@
 
 
 /* other stuff */
+
