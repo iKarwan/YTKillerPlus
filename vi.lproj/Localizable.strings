@@ -7,20 +7,20 @@
 /* LƯU Ý 2 !!! Vui lòng thêm quốc gia cụ thể của bạn sau khi dịch. en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Kích hoạt";
 "GLOBAL_ENABLED_SWITCH" = "Nhấn vào nút trên cùng bên phải để áp dụng các thay đổi.";
 
-/* downloding global switch */
-"DOWNLOADING" = "Bật tính năng tải xuống:";
+/* downloading global switch */
+"DOWNLOADING" = "Kích hoạt tải xuống";
 "GLOBAL_DOWNLOADING_SWITCH" = "Thêm nút tải xuống vào trình phát video.";
 
 /* Default Download Quality section */
-"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
-"ALWAYS_ASK" = "Always Ask";
-"AUDIO_ONLY" = "Audio Only";
+"DEFAULT_DOWNLOAD_QUALITY" = "Chất lượng tải xuống mặc định";
+"ALWAYS_ASK" = "Luôn hỏi";
+"AUDIO_ONLY" = "Chỉ âm thanh";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Trang khởi động";
+"STARTUP_PAGE" = "Trang khởi động mặc định";
 "DEFAULT_PAGE" = "Trang chủ";
 
 "HOME" = "Trang chủ";
@@ -30,165 +30,165 @@
 "LIBRARY" = "Thư viện";
 
 /* defaults */
-"overlay_button" = "Overlay Button Symlink";
-"overlay_player" = "Overlay Player";
-"speed_index" = "Playback Speed";
-"pip_player" = "PiP Player";
-"short_player" = "Shorts Player";
+"overlay_button" = "Lớp phủ nút liên kết";
+"overlay_player" = "Lớp phủ trình phát video";
+"speed_index" = "Tốc độ phát lại";
+"pip_player" = "Trình phát PiP";
+"short_player" = "Trình phát Shorts";
 
-"yt_video_quality_wifi" = "YT Video Quality On Wifi";
-"yt_video_quality_celluar" = "YT Video Quality On Cellular";
-"auto" = "Auto";
-"highest_quality" = "Highest Quality";
-"yt_speed_playback" = "Default Playback Speed";
-"normal" = "Normal";
-"default" = "Default";
+"yt_video_quality_wifi" = "Chất lượng video qua mạng Wi-Fi";
+"yt_video_quality_celluar" = "Chất lượng video qua mạng di động";
+"auto" = "Tự động";
+"highest_quality" = "Chất lượng cao nhất";
+"yt_speed_playback" = "Tốc độ phát lại mặc định";
+"normal" = "Bình thường";
+"default" = "Mặc định";
 
-"image" = "Image";
-"information" = "Information";
-"copy_title" = "Copy Title";
-"copy_describtion" = "Copy Description";
-"copied" = "Copied";
+"image" = "Lưu hình ảnh";
+"information" = "Sao chép thông tin";
+"copy_title" = "Sao chép tiêu đề";
+"copy_describtion" = "Sao chép mô tả";
+"copied" = "Đã sao chép";
 
-"save_pfP" = "Save Profile Image";
-"copy_ptext" = "Copy Post Text";
-"save_img" = "Save Image";
-"copy_comment" = "Copy Comment";
-"pip_mode" = "PiP";
-"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"save_pfP" = "Lưu ảnh hồ sơ";
+"copy_ptext" = "Sao chép nội dung bài viết";
+"save_img" = "Lưu ảnh";
+"copy_comment" = "Sao chép bình luận";
+"pip_mode" = "Chế độ PiP";
+"pip_mode_desc" = "Bạn phải bật 'Phát lại trong nền' trong Cài đặt để kích hoạt PiP";
 
-"short_fullscreen" = "Shorts Fullscreen";
-"short_auto_skip" = "Shorts Auto Skip";
-"USE_PREM_LOGO" = "use Premium Logo";
-"cast_confirm" = "Cast Confirmation";
-"video_available" = "Video Available";
-"videos_available" = "Videos Available";
-"audio_available" = "Audio Available";
-"audios_available" = "Audios Available";
-"short_available" = "Short Available";
-"shorts_available" = "Shorts Available";
+"short_fullscreen" = "Toàn màn hình Shorts";
+"short_auto_skip" = "Tự động bỏ qua Shorts";
+"USE_PREM_LOGO" = "sử dụng logo Premium";
+"cast_confirm" = "Xác nhận truyền phát";
+"video_available" = "Video khả dụng";
+"videos_available" = "Các video khả dụng";
+"audio_available" = "Âm thanh khả dụng";
+"audios_available" = "Các âm thanh khả dụng";
+"short_available" = "Short khả dụng";
+"shorts_available" = "Shorts khả dụng";
 
-"cancel_downloading" = "Cancel downloading..?";
-"action_undone" = "This action cannot be undone!";
-"retry" = "Retry";
-"retry_disc" = "Please try Sign In again";
+"cancel_downloading" = "Huỷ tải xuống?";
+"action_undone" = "Không thể hoàn tác hành động này!";
+"retry" = "Thử lại";
+"retry_disc" = "Vui lòng thử đăng nhập lại";
 
 /* general section */
-"VIDEO_PLAYER" = "Tùy chọn bố cục video";
-"OVERLAY_OPTIONS" = "Tùy chọn Trình phát";
-"STREAM_OPTIONS" = "Tùy chọn luồng";
+"VIDEO_PLAYER" = "Tùy chọn trình phát video";
+"OVERLAY_OPTIONS" = "Tùy chọn lớp nền";
+"STREAM_OPTIONS" = "Tùy chọn phát trực tiếp";
 "IPAD_OPTIONS" = "Tùy chọn iPad";
-"NAVIGATION_BAR" = "Tùy chọn Thanh điều hướng";
+"NAVIGATION_BAR" = "Tùy chọn thanh điều hướng";
 "SHORTS_OPTION" = "Tùy chọn Shorts";
-"DOWNLOAD_OPTIONS" = "Tùy chọn Tải xuống bổ sung";
-"TAB_BAR_OPTIONS" = "Tùy chọn Thanh tab";
+"DOWNLOAD_OPTIONS" = "Tùy chọn tải xuống bổ sung";
+"TAB_BAR_OPTIONS" = "Tùy chọn thanh tab";
 "MISCELLANEOUS" = "Tùy chọn khác";
 
 /* general section switch */
 "APP_LOCK" = "Khoá ứng dụng";
-"LOCK_APP_VIA_PASSWORD" = "dùng mật khẩu hệ thống";
+"LOCK_APP_VIA_PASSWORD" = "với mật khẩu hệ thống";
 "UHD_UNLOCK" = "Mở khoá UHD";
 "UHD_UNLOCK_INFO" = "Mở khoá 4K trên iPA";
 "OLED_DARK_MODE" = "Chế độ tối OLED";
 "PLAY_IN_BACKGROUND" = "Phát trong nền";
 "NO_ADVERTISMENT" = "Không quảng cáo";
 "NO_AGE_RESTRICTION" = "Không giới hạn độ tuổi";
-"HIDE_YT_STORIES" = "Ẩn tất cả bài đăng của cộng đồng";
-"HIDE_YT_SHORTS" = "Ẩn tất cả Shorts video";
+"HIDE_YT_STORIES" = "Ẩn Stories trong nguồn cấp dữ liệu";
+"HIDE_YT_SHORTS" = "Ẩn Shorts trong nguồn cấp dữ liệu";
 "DISABLE_CAPTIONS" = "Tắt phụ đề";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Tìm hiểu các dự án khác của tôi:";
-"CREDITS" = "Tham gia:";
-"SPECIAL_THANK" = "Đặt biệt Cảm ơn:";
-"LOCALIZATION" = "Bản dịch:";
-"DEVELOPER" = "Nhà phát triển:";
-"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
+"OTHER_TWEAKS" = "Các dự án khác";
+"CREDITS" = "Đóng góp";
+"SPECIAL_THANK" = "Đặc biệt cảm ơn";
+"LOCALIZATION" = "Bản địa hoá";
+"DEVELOPER" = "Nhà phát triển";
+"WELCOM_ALERT" = "để thay đổi cài đặt, đi chuyển đến biểu tượng thanh tab (YTKPlus) sau đó nhấp vào biểu tượng bánh răng phía trên";
 
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "Trình phát video";
-"HIDE_SUGGESTED_VIDEO" = "Ẩn video đề xuất";
+"VIDEO_PLAYER_SECTION" = "trình phát video";
+"HIDE_SUGGESTED_VIDEO" = "Ẩn video được đề xuất";
 "COMMENTS" = "Bình luận";
 "HIDE_COMMENTS" = "Ẩn bình luận";
 "HIDE_COMMENTS_PREVIEW" = "Ẩn xem trước bình luận";
 "HIDE_COMMENTS_PREVIEW_INFO" = "Không còn bình luận xem trước dưới video!";
-"HIDE_COMMENTS_GUIDLINES" = "Ẩn nguyên tắt cộng đồng";
+"HIDE_COMMENTS_GUIDLINES" = "Ẩn nguyên tắc cộng đồng";
 "HIDE_COMMUNITY_TEXT_INFO" = "Ẩn nguyên tắc cộng đồng ở trên cùng!";
 
 
 /* overlay options section */
 "OVERLAY_SECTION" = "Lớp phủ";
 "SHOW_STATUS_BAR_IN_OVERLAY" = "Hiển thị thanh trạng thái trong lớp phủ";
-"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Thiết bị có notch & kiểu iPad không được hỗ trợ!";
-"DISABLE_DOUBLE_TAP" = "Tắt nhấn đúp";
-"DISABLE_CONTINUE_WATCHING" = "Tắt tự động phát";
-"DISABLE_CONTINUE_WATCHING_INFO" = "Xuất hiện khi xem hết một video.";
-"HIDE_OVERLAY_QUICK_ACTION" = "Ẩn hành động nhanh của lớp phủ";
-"HIDE_PLAYERBAR_WAVE" = "Ẩn sóng sau dòng thời gian";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Ẩn Bản đồ đã xem khi cuộn trên dòng thời gian";
-"SWIPE_TO_HIDE_PANEL" = "Vuốt để ẩn chế độ xem bảng điều khiển";
-"SWIPE_TO_HIDE_PANEL_INFO" = "Vuốt từ trái sang phải trên chế độ xem toàn màn hình";
-"DISABLE_PINCH_TO_ZOOM" = "Tắt chụm để thu phóng";
-"MEDIA_CONTROLLER" = "tùy chỉnh lớp phủ";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "Hiển thị Nút Phát/Tạm dừng";
-"SHOW_MEDIA_CONTROLLER" = "Luôn hiển thị tất cả bộ điều khiển lớp phủ";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Thiết bị có notch & iPad không được hỗ trợ!";
+"DISABLE_DOUBLE_TAP" = "Tắt nhấn đúp màn hình";
+"DISABLE_CONTINUE_WATCHING" = "Tắt thông báo 'Video đã tạm dừng. Tiếp tục xem?'";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Xuất hiện khi bạn không hoạt động hoặc tương tác trong một khoảng thời gian xem video.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Ẩn lớp phủ hành động nhanh";
+"HIDE_PLAYERBAR_WAVE" = "Ẩn đường gợn sóng sau dòng thời gian";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Ẩn biểu đồ nhiệt về lượt phát khi cuộn trên dòng thời gian";
+"SWIPE_TO_HIDE_PANEL" = "Vuốt để ẩn bảng điều khiển";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Vuốt từ trái sang phải để xem toàn màn hình";
+"DISABLE_PINCH_TO_ZOOM" = "Tắt chạm để thu phóng";
+"MEDIA_CONTROLLER" = "lớp phủ bộ điều khiển video";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Luôn hiển thị Nút Phát/Tạm dừng";
+"SHOW_MEDIA_CONTROLLER" = "Luôn hiển thị tất cả bộ điều khiển của lớp phủ";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Ẩn nền tối của lớp phủ";
 "KEEP_CAPTION_ON" = "Bật phụ đề";
 "KEEP_CAPTION_ON_INFO" = "Tự động hiển thị phụ đề khi phát video";
-"PREVIUOS_AND_NEXT_BUTTON" = "nút trước và tiếp theo";
+"PREVIUOS_AND_NEXT_BUTTON" = "Nút trước và Nút tiếp theo";
 "DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Tắt nút Trước và Tiếp theo";
 "PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Thu gọn nút Trước và Tiếp theo";
-"PLAYER_BAR_NEXT_BUTTON" = "Thêm Tiếp theo sau thời gian video";
+"PLAYER_BAR_NEXT_BUTTON" = "Thêm một nút Tiếp theo bên cạnh dấu thời gian";
 "HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Ẩn nút Trước và Tiếp theo";
 "HIDE_BACK_BUTTON_SHADOW" = "Ẩn nền đen nút Trước và Tiếp theo";
 "REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Thay thế nút Trước và Tiếp theo";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Thay thế Trước và Tiếp theo bằng tua lui và tua tới!";
-"HIDE_ITEMS" = "Ẩn mục";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Thay thế bằng nút Tua đi và Tua lại!";
+"HIDE_ITEMS" = "Ẩn các mục/công cụ";
 "HIDE_VOLUME_BAR" = "Ẩn thanh âm lượng";
-"HIDE_VOLUME_BAR_INFO" = "Ẩn thanh âm lượng của YT trong chế độ ngang";
-"HIDE_INFO_CARD" = "Ẩn Thẻ thông tin";
+"HIDE_VOLUME_BAR_INFO" = "Ẩn thanh âm lượng màu trắng trong chế độ ngang";
+"HIDE_INFO_CARD" = "Ẩn thẻ thông tin";
 "HIDE_WATER_MARK" = "Ẩn Watermark";
-"HIDE_AUTOPLAY_BUTTON" = "Ẩn nút Tự động phát";
-"HIDE_CAPTIONS_BUTTON" = "Ẩn nút Phụ đề";
+"HIDE_AUTOPLAY_BUTTON" = "Ẩn nút tự động phát";
+"HIDE_CAPTIONS_BUTTON" = "Ẩn nút phụ đề";
 "HIDE_PLAY_PUASE" = "Ẩn Phát/Tạm dừng";
-"HIDE_MORE_GEAR_ICON" = "Ẩn Thêm/Biểu tượng bánh răng";
-"HIDE_CHAT_BUTTON_IN_STREAM" = "Ẩn nút trò chuyện trong stream";
-"HIDE_CAST_BUTTON" = "Ẩn nút Truyền";
+"HIDE_MORE_GEAR_ICON" = "Ẩn biểu tượng bánh răng";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Ẩn nút trò chuyện trong luồng phát";
+"HIDE_CAST_BUTTON" = "Ẩn nút truyền phát (Cast)";
 "HIDE_ENDSCREEN_VIDEOS" = "Ẩn màn hình kết thúc video";
-"HIDE_RELATED_VIDEOS" = "Ẩn Video Liên quan";
-"HIDE_LANDSCAPE_COMMENTS" = "Tắt bình luận Livestream";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "Phần bình luận sẽ bị tắt hoàn toàn trong Livestream";
-"SHOW_PROGRESS_BAR" = "Hiển thị thanh tiến trình trong Livestream";
-"SHOW_PROGRESS_BAR_INFO" = "Vuốt để hiển thị video liên quan sẽ bị tắt";
+"HIDE_RELATED_VIDEOS" = "Ẩn các video có liên quan";
+"HIDE_LANDSCAPE_COMMENTS" = "Tắt phát bình luận trực tiếp";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Phần bình luận sẽ bị tắt hoàn toàn trong livestream";
+"SHOW_PROGRESS_BAR" = "Tiếp tục hiển thị thanh tiến trình trong livestream";
+"SHOW_PROGRESS_BAR_INFO" = "Vô hiệu hoá vuốt để hiển thị các video liên quan";
 
 
 /* streaming section */
-"LEGACY_QUALITY_MODE" = "Bật chế độ Chất lượng video cũ";
-"LEGACY_QUALITY_MODE_INFO" = "Khôi phục các lựa chọn chất lượng video cũ!";
-"PICTURE_IN_PICTURE_PIP" = "Hình trong hình (PiP)";
-"ENABLE_PIP" = "Bật tính năng PiP";
-"ENABLE_PIP_INFO" = "Thêm biểu tượng PiP trong trình phát video";
-"DOUBLE_TAP" = "Tùy chọn Nhấn đúp";
-"CUSTOM_SKIP_DURATION" = "Tùy chỉnh thời gian bỏ qua";
-"VALUE_CHANGES_JB" = "Giây: %.Nếu";
+"LEGACY_QUALITY_MODE" = "Kích hoạt chế độ chất lượng video cổ điển";
+"LEGACY_QUALITY_MODE_INFO" = "Hoàn nguyên về bộ chọn kiểu cũ có thể thay đổi chất lượng video mong muốn";
+"PICTURE_IN_PICTURE_PIP" = "Hình trong Hình (PiP)";
+"ENABLE_PIP" = "Kích hoạt tính năng PiP";
+"ENABLE_PIP_INFO" = "Thêm biểu tượng PiP trong lớp phủ video";
+"DOUBLE_TAP" = "Tùy chọn nhấn đúp màn hình";
+"CUSTOM_SKIP_DURATION" = "Tuỳ chỉnh chuyển tiếp thời gian";
+"VALUE_CHANGES_JB" = "Giây: %.lf";
 "VALUE_CHANGES" = "Giây: 10";
-"STREAMING_SECTION" = "Truyền trực tuyến";
-"PLAYBACK_SPEED" = "Thêm tùy chọn tốc độ phát";
-"PLAYBACK_SPEED_INFO" = "Lớp phủ video -> Nút cài đặt -> Tốc độ phát lại";
+"STREAMING_SECTION" = "Truyền phát trực tuyến";
+"PLAYBACK_SPEED" = "Thêm tùy chọn tốc độ phát lại bổ sung";
+"PLAYBACK_SPEED_INFO" = "Lớp phủ video -> Nút bánh răng -> Tốc độ phát lại";
 "DISABLE_AUTOPLAY_VIDEOS" = "Tắt tự động phát video";
-"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Phát Video HD Trên 3G/4G/5G";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Phát video HD qua 3G/4G/5G";
 
 
 /* ipad section */
 "IPAD_SECION" = "Chế độ iPad";
-"IPADOS_MODE" = "Bật chế độ iPadOS";
-"DISABLE_DRAG_AND_DROP" = "Vô hiệu Kéo & Thả";
-"HIDE_CHANNEL_CIRCLES" = "Ẩn Biểu tượng Kênh Vòng tròn";
-"HIDE_CHANNEL_CIRCLES_INFO" = "Đăng ký -> Biểu tượng kênh bên dưới thanh điều hướng.";
-"MINI_PLAYER_ASPECT_RATIO" = "Tuỳ chỉnh trình phát thu nhỏ";
+"IPADOS_MODE" = "Kích hoạt chế độ iPadOS";
+"DISABLE_DRAG_AND_DROP" = "Vô hiệu hoá Kéo & Thả";
+"HIDE_CHANNEL_CIRCLES" = "Ẩn vòng tròn biểu tượng kênh";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Đăng ký -> Biểu tượng kênh dưới thanh điều hướng.";
+"MINI_PLAYER_ASPECT_RATIO" = "Tỉ lệ khung hình trình phát thu nhỏ";
 "USE_ASPECT_RATIO" = "Sử dụng toàn bộ khung hình";
-"USE_ASPECT_RATIO_INFO" = "Không hỗ trợ Trình phát mini kiểu iPad bên dưới.";
+"USE_ASPECT_RATIO_INFO" = "Không hỗ trợ trình phát thu nhỏ kiểu iPad bên dưới.";
 "MINI_PLAYER" = "Trình phát thu nhỏ kiểu iPad";
 "REDEFIND_MINI_PLAYER" = "Trình phát thu nhỏ ở giữa";
 "MINI_PLAYER_IPAD_MODE" = "Trình phát thu nhỏ bên phải";
@@ -197,21 +197,21 @@
 /* navbar section */
 "STATUS_BAR" = "Thanh trạng thái";
 "HIDE_STATUS_BAR" = "Ẩn thanh trạng thái";
-"CHANNEL_SECTIONS" = "Trong phần Kênh";
-"STICKY_NAV_BAR" = "Ẩn Danh mục bên dưới Thanh Điều hướng";
-"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
-"HIDE_ITEMS_NAV_BAR" = "Ẩn Mục";
+"CHANNEL_SECTIONS" = "Trong phần kênh";
+"STICKY_NAV_BAR" = "Ẩn danh mục bên dưới thanh điều hướng";
+"SHOW_YTKPLUS_ICON" = "Hiển thị biểu tượng YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "Ẩn các mục trên thanh điều hướng";
 "HIDE_YT_LOGO" = "Ẩn biểu tượng YT";
-"HIDE_NOTIFICATIONS_BILL" = "Ẩn thông báo";
+"HIDE_NOTIFICATIONS_BILL" = "Ẩn thông báo 🔕";
 "HIDE_ACCOUNT" = "Ẩn Tài khoản";
 "HIDE_SEARCH" = "Ẩn Tìm kiếm";
-"HIDE_CAST_BUTTON" = "Ẩn nút Truyền video";
+"HIDE_CAST_BUTTON" = "Ẩn nút Truyền phát";
 
 
 /* shorts section */
 "SHORTS_SECTION" = "Shorts";
-"ENABLE_PLAYER_BAR" = "Bật thanh tiến trình ở dưới cùng";
-"HIDE_ELEMNTS" = "Ẩn các nút";
+"ENABLE_PLAYER_BAR" = "Kích hoạt thanh tiến trình phía dưới cùng";
+"HIDE_ELEMNTS" = "Ẩn các thành phần trên Shorts";
 "HIDE_LIKE_BUTTON" = "Ẩn nút Thích";
 "HIDE_DISLIKE_BUTTON" = "Ẩn nút Không thích";
 "HIDE_COMMENTS_BUTTON" = "Ẩn nút Bình luận";
@@ -220,112 +220,112 @@
 
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "Tùy chọn Tải xuống Bổ sung";
-"LOCAL_DOWNLOADING" = "Bật Chế độ Tải xuống Cục bộ";
-"LOCAL_DOWNLOADING_INFO" = "Nhấn giữ vào trình phát video để kích hoạt!";
+"DOWNLOAD_SECTION" = "Tùy chọn tải xuống bổ sung";
+"LOCAL_DOWNLOADING" = "Bật chế độ tải xuống cục bộ";
+"LOCAL_DOWNLOADING_INFO" = "Nhấn giữ vào trình phát video để kích hoạt menu tải xuống!";
 "HIDE_DOWNLOAD_BUTTON" = "Ẩn nút Tải xuống";
 "HIDE_DOWNLOAD_BUTTON_INFO" = "Ẩn nút tải xuống mặc định của YT!";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Vô hiệu hóa Video Tải xuống Hết hạn";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Video được tải xuống bằng trình tải xuống mặc định YT!";
-"DOWNLOAD_SECTION_INFO" = "Lưu ý: 1. Nếu có nhiều chất lượng giống nhau (chỉ xảy ra với người dùng đã Bẻ khóa), vui lòng chọn chất lượng cao hơn. 2. Nội dung tải xuống cục bộ lưu trữ trực tiếp vào ứng dụng Ảnh. 3. Nhấn và giữ mặc định trên video để di chuyển cử chỉ tiến độ sẽ bị vô hiệu hóa. 4. Nếu bạn bật mở khoá UHD thì tính năng tải xuống này sẽ bị vô hiệu hóa.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Vô hiệu hóa video tải xuống đã hết hạn";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Video được tải xuống bằng trình tải xuống mặc định của YT!";
+"DOWNLOAD_SECTION_INFO" = "Lưu ý: 1. Nếu có nhiều chất lượng giống nhau (chỉ xảy ra với người dùng đã Jailbreak), vui lòng chọn chất lượng cao hơn. 2. Nội dung tải xuống cục bộ lưu trữ trực tiếp vào ứng dụng Ảnh. 3. Thao tác nhấn và giữ mặc định trên video để di chuyển thanh tiến trình sẽ bị vô hiệu hóa. 4. Nếu bạn bật trình hỗ trợ 4K (mở khoá UHD) thì tính năng tải xuống này sẽ bị vô hiệu hóa.";
 
 
 /* tabbar section */
 "TAB_BAR_SECTION" = "Thanh tab";
-"TABS_SHRINKED_BUTTOM" = "Tab thu nhỏ (Dưới cùng)";
-"TABS_SHRINKED_SMART" = "Tab Thu nhỏ (Thông minh)";
+"TABS_SHRINKED_BUTTOM" = "Thu nhỏ tab (Dưới)";
+"TABS_SHRINKED_SMART" = "Thu nhỏ tab (Thông minh)";
 "DISABLE_CREATE_BUTTON" = "Vô hiệu hóa Tạo (+)";
 "HIDE_TAB_LABELS" = "Ẩn nhãn tab";
-"PREVENT_OPEN_IN_SHORTS" = "Ngăn tự động chạy Shorts";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "Xảy ra sau khi bạn vào YT ở trong Thẻ Shorts!";
-"REPLACE_SHORTS_WITH_EXPLORE" = "Thay Shorts Bằng Khám phá";
-"HIDE_TABS" = "Ẩn Tabs";
+"PREVENT_OPEN_IN_SHORTS" = "Ngăn tự động mở Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Xảy ra sau khi bạn thoát YT ở tab Shorts!";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Thay thế Shorts bằng Khám phá (Explore)";
+"HIDE_TABS" = "Ẩn các tab";
 "HIDE_EXPLORE_TAB" = "Ẩn Khám phá";
 "HIDE_SHORTS_TAB" = "Ẩn Shorts";
 "HIDE_CREATE_TAB" = "Ẩn Tạo (+)";
 "HIDE_SUBSCRIPTION_TAB" = "Ẩn Đăng ký";
 "HIDE_LIBRARY_TAB" = "Ẩn Thư viện";
-"HIDE_ALL_TAB" = "Ẩn tất cả Tabs";
+"HIDE_ALL_TAB" = "Ẩn tất cả tab";
 
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Cài đặt khác";
-"USE_STOCK_VOLUME_HUD" = "Sử dụng System/Stock VolumeHUD";
+"USE_STOCK_VOLUME_HUD" = "Sử dụng HUD âm lượng mặc định của hệ thống";
 "USE_STOCK_VOLUME_HUD_INFO" = "Chỉ hoạt động ở chế độ ngang";
-"HIDE_SEARCHED_HISTORY" = "Ẩn Lịch sử tìm kiếm";
+"HIDE_SEARCHED_HISTORY" = "Ẩn lịch sử tìm kiếm";
 "NOT_TOPIC_SECTION" = "Không có phần chủ đề";
-"HIDE_PREMIUM_POPUP" = "Ẩn Premium Pop-Up";
-"HIDE_YT_UPDATE_POPUP" = "Ẩn Pop-Up cập nhật YT";
-"HIDE_YT_UPDATE_POPUP_INFO" = "Ẩn thông báo buộc cập nhật/thoát ứng dụng gây phiền nhiễu!";
-"ENABLE_MINI_PLAYER_VIDEOS" = "Bật Trình phát Mini cho tất cả video";
+"HIDE_PREMIUM_POPUP" = "Ẩn pop-pup Premium";
+"HIDE_YT_UPDATE_POPUP" = "Ẩn pop-up cập nhật YT";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Ẩn thông báo buộc cập nhật/thoát ứng dụng gây khó chịu!";
+"ENABLE_MINI_PLAYER_VIDEOS" = "Kích hoạt trình phát thu nhỏ cho tất cả video";
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Sử dụng trình phát thu nhỏ trên video dành cho trẻ em";
 "HIDE_HUD_ALERTS" = "Ẩn các cảnh báo";
-"HIDE_HUD_ALERTS_INFO" = "Ẩn tất cả cảnh báo bật lên như video không thích/trẻ em";
-"CLASSIC_SHARE" = "Bảng chia sẻ kiểu cũ được hiển thị";
-"HIDE_LINE_SEPERATOR" = "Ẩn dấu tách dòng trong thư viện";
-"ROUND_ALL_VIEW_CORNERS" = "Làm Tròn Tất Cả Góc Cạnh";
+"HIDE_HUD_ALERTS_INFO" = "Ẩn tất cả cảnh báo bật lên như video dành cho trẻ em";
+"CLASSIC_SHARE" = "Bảng chia sẻ kiểu cũ";
+"HIDE_LINE_SEPERATOR" = "Ẩn dấu phân cách dòng trong thư viện";
+"ROUND_ALL_VIEW_CORNERS" = "Bo góc tất cả các góc";
 "DISABLE_DARK_MODE" = "Tất chế độ tối";
-"HIDE_INCLUDE_PAID_PROMO" = "Ẩn quảng cáo P-Promotion";
-"DARK_KEYBOARDS" = "Chế độ bàn phím tối";
+"HIDE_INCLUDE_PAID_PROMO" = "Ẩn nhãn quảng cáo trả phí";
+"DARK_KEYBOARDS" = "Chế độ tối trên bàn phím";
 "DISABLE_RTL" = "Tắt ngôn ngữ RTL";
-"OTHERS" = "Dữ liệu trên Trang chủ";
+"OTHERS" = "Nguồn cấp dữ liệu trang chủ";
 "HIDE_PLAYLIST" = "Ẩn danh sách phát";
 "PLAYLIST_INFO" = "Không hỗ trợ kiểu iPad!";
-"HIDE_COVID_NEWS" = "Ẩn Covid & Tin tức";
-"COVID_NEWS_INFO" = "Ẩn covid & tin tức hiển thị trên trang chủ";
-"HIDE_FILTER_TAGS" = "Ẩn Bộ lọc Chủ đề Ở Trên cùng";
+"HIDE_COVID_NEWS" = "Ẩn Covid & tin tức";
+"COVID_NEWS_INFO" = "Ẩn Covid & tin tức hiển thị trên bảng tin trang chủ";
+"HIDE_FILTER_TAGS" = "Ẩn bộ lọc chủ đề ở trên cùng";
 
 
 /* global action title */
 "OK" = "OK";
-"YES" = "Đồng ý";
+"YES" = "Có";
 "NO" = "Không";
 "ERROR" = "Lỗi";
-"APP_RESTART_REQUIRED" = "app restart required";
+"APP_RESTART_REQUIRED" = "yêu cầu khởi động lại ứng dụng";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
-"NO_DATA" = "Không có dữ liệu.";
+"NO_DATA" = "Không có dữ liệu";
 "CANCEL" = "Huỷ";
 "DISMISS" = "Bỏ qua";
 "DELETED" = "Đã xoá";
 "DOWNLOADING_START" = "Đang tải xuống";
 "VIDEO_DWD_PROGRESS" = "Video(1/2)";
 "AUDIO_DWD_PROGRESS" = "Âm thanh(2/2)";
-"CANCEL_HUD" = "Huỷ";
+"CANCEL_HUD" = "huỷ";
 "SAVED" = "Đã lưu";
 "SUCCESS" = "Thành công";
-"SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
+"SHOW_ALL_QUALITY" = "Hiển thị tất cả chất lượng";
+"SHOW_ALL_QUALITY_INFO" = "Hiểu thị tất cả chất lượng video và âm thanh!";
 "SELECT_VIDEO_QUALITY" = "Chọn chất lượng video";
-"NOT_SUPPORTED_FORMAT" = "Trình tải xuống không hỗ trợ video này Vui lòng thử chất lượng tải xuống khác";
-"VIDEO" = "Video";
-"AUDIO" = "Âm thanh";
+"NOT_SUPPORTED_FORMAT" = "Chất lượng video bạn đã chọn không khả dụng! Vui lòng thử chất lượng tải xuống khác";
+"VIDEO" = "Tải xuống video";
+"AUDIO" = "Tải xuống âm thanh";
 "RENAME" = "Đổi tên";
-"RENAME_FILE" = "Rename File";
-"RENAME_NEW_NAME" = "Enter the new name for the file:";
-"RENAME_PLACEHOLDER" = "Enter new video name";
-"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
-"PLAY" = "Play";
+"RENAME_FILE" = "Đổi tên tập tin";
+"RENAME_NEW_NAME" = "Nhập tên mới cho tập tin:";
+"RENAME_PLACEHOLDER" = "Nhập tên video mới";
+"RENAME_PLACEHOLDER_AUDIO" = "Nhập tên âm thanh mới";
+"PLAY" = "Phát";
 "SHARE" = "Chia sẻ";
 "VIEW_IN_FILZA" = "Xem trong Filza";
 "DELETE" = "Xoá";
 "MORE_OPTION" = "Tùy chọn khác";
-"MAIN_OPTION" = "Quay lại";
+"MAIN_OPTION" = "Tuỳ chọn chính";
 "DELETE_ALL" = "Xoá tất cả";
-"SAVE_ARTWORK" = "Lưu ảnh thu nhỏ";
+"SAVE_ARTWORK" = "Lưu hình thu nhỏ";
 "SAVE_TO_PHOTOS" = "Lưu vào Ảnh";
-"ARE_YOU_SURE" = "Bạn có chắc chắn muốn Xóa Tất cả Mục không?";
+"ARE_YOU_SURE" = "Bạn có chắc chắn muốn xoá tất cả các mục?";
 "NOTE" = "Ghi chú!";
-"SAVE_FAILED" = "Lưu Thất bại!";
-"SAVE_TO_PHOTOS_FAILED" = "Lưu vào ảnh không thành công Đảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong ứng dụng Cài đặt iOS";
-"DELETING_VIDEO" = "Đang xoá Video?";
-"DELETING_AUDIO" = "Đang xoá Âm thanh?";
+"SAVE_FAILED" = "Lưu thất bại!";
+"SAVE_TO_PHOTOS_FAILED" = "Lưu vào Ảnh không thành công. Đảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong cài đặt ứng dụng của iOS";
+"DELETING_VIDEO" = "Xoá Video?";
+"DELETING_AUDIO" = "Xoá Âm thanh?";
 
-"AFTER_DONE" = "After Download Done!";
-"SAVE_OR_SHARE" = "Save or Share";
-"SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
-"SAVE_TO_PHOTOS" = "Save to Photos";
-"SAVE_TO_DOWNLOAD" = "Save to Download";
+"AFTER_DONE" = "Sau khi hoàn thành tải xuống!";
+"SAVE_OR_SHARE" = "Lưu hoặc chia sẻ";
+"SAVE_OR_SHARE_DISC" = "Tải xuống, lưu video vào album Ảnh hoặc chia sẻ video bạn muốn";
+"SAVE_TO_PHOTOS" = "Lưu vào Ảnh";
+"SAVE_TO_DOWNLOAD" = "Lưu vào danh sách tải xuống";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Quản lý Tải xuống";
