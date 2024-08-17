@@ -59,7 +59,7 @@
 
 "short_fullscreen" = "Toàn màn hình Shorts";
 "short_auto_skip" = "Tự động bỏ qua Shorts";
-"USE_PREM_LOGO" = "sử dụng logo Premium";
+"USE_PREM_LOGO" = "Sử dụng logo Premium";
 "cast_confirm" = "Xác nhận truyền phát";
 "video_available" = "Video khả dụng";
 "videos_available" = "Các video khả dụng";
@@ -103,11 +103,11 @@
 "SPECIAL_THANK" = "Đặc biệt cảm ơn";
 "LOCALIZATION" = "Bản địa hoá";
 "DEVELOPER" = "Nhà phát triển";
-"WELCOM_ALERT" = "để thay đổi cài đặt, đi chuyển đến biểu tượng thanh tab (YTKPlus) sau đó nhấp vào biểu tượng bánh răng phía trên";
+"WELCOM_ALERT" = "Để thay đổi cài đặt, đi chuyển đến biểu tượng thanh tab (YTKPlus) sau đó nhấp vào biểu tượng bánh răng phía trên";
 
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "trình phát video";
+"VIDEO_PLAYER_SECTION" = "Trình phát video";
 "HIDE_SUGGESTED_VIDEO" = "Ẩn video được đề xuất";
 "COMMENTS" = "Bình luận";
 "HIDE_COMMENTS" = "Ẩn bình luận";
@@ -130,7 +130,7 @@
 "SWIPE_TO_HIDE_PANEL" = "Vuốt để ẩn bảng điều khiển";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Vuốt từ trái sang phải để xem toàn màn hình";
 "DISABLE_PINCH_TO_ZOOM" = "Tắt chạm để thu phóng";
-"MEDIA_CONTROLLER" = "lớp phủ bộ điều khiển video";
+"MEDIA_CONTROLLER" = "Lớp phủ bộ điều khiển video";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Luôn hiển thị Nút Phát/Tạm dừng";
 "SHOW_MEDIA_CONTROLLER" = "Luôn hiển thị tất cả bộ điều khiển của lớp phủ";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Ẩn nền tối của lớp phủ";
@@ -281,7 +281,7 @@
 "YES" = "Có";
 "NO" = "Không";
 "ERROR" = "Lỗi";
-"APP_RESTART_REQUIRED" = "yêu cầu khởi động lại ứng dụng";
+"APP_RESTART_REQUIRED" = "Yêu cầu khởi động lại ứng dụng";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt trên thiết bị này.";
 "NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
 "NO_DATA" = "Không có dữ liệu";
