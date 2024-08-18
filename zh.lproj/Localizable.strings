@@ -334,6 +334,46 @@
 "AUDIO_TAB_BAR" = "音频";
 "SHORTS_TAB_BAR" = "短视频";
 
+/* promptForActivation */
+"license_option" = "License Options";
+"license_option_disc" = "Choose an option:";
+"activate_new_license" = "Activate New License";
+"restore_license" = "Restore License";
+"renew_license" = "Renew License";
+"buy_license" = "Buy License";
+"activate_new_license_disc" = "Please enter your email and license key.";
+"email" = "Email";
+"license_key" = "License Key";
+"activate" = "Activate";
+"invalid_email" = "Invalid Email";
+"invalid_email_disc" = "Please enter a valid email address.";
+"invalid_license" = "Invalid License";
+"license_key_empty" = "License key cannot be empty.";
+"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+
+/* promptForRestore */
+"restore_license_disc" = "Please enter the email associated with your license.";
+"restore" = "Restore";
+"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
+"license_restored" = "License Restored";
+"restore_failed" = "Restore Failed";
+
+/* enter license prompt */
+"enter_license_key" = "Enter License Key";
+"enter_license_key_disc" = "Please enter your license key to authenticate.";
+"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
+"authentication_successful" = "Authentication Successful";
+"key_used_on_another_device" = "License already activated on another device";
+"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
+"email_associated_with_another_key" = "Email already associated with another license";
+"authentication_failed" = "Authentication Failed";
+"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
+"key_expired" = "Key has expired";
+"license_expired" = "License Expired";
+"license_expired_disc" = "Your license key has expired. Please renew.";
+"license_verification_failed" = "License Verification Failed";
+"no_internet" = "No Internet";
+"no_internet_disc" = "You need an internet connection to authenticate.";
+"license_disc" = "The license key you entered is not valid.";
 
 /* other stuff */
-

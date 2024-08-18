@@ -7,7 +7,7 @@
 
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "Taste oben rechts antippen, um die Einstellungen zu übernehmen.";
 
 /* downloding global switch */
@@ -98,11 +98,11 @@
 "DISABLE_CAPTIONS" = "Untertitel deaktivieren";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an:";
-"CREDITS" = "Mitwirkende:";
-"SPECIAL_THANK" = "Besonderen Dank an:";
-"LOCALIZATION" = "Übersetzung:";
-"DEVELOPER" = "Entwickler:";
+"OTHER_TWEAKS" = "Schau dir meine anderen Projekte an";
+"CREDITS" = "Mitwirkende";
+"SPECIAL_THANK" = "Besonderen Dank an";
+"LOCALIZATION" = "Übersetzung";
+"DEVELOPER" = "Entwickler";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 
@@ -302,7 +302,7 @@
 "AUDIO" = "Audio";
 "RENAME" = "Umbenennen";
 "RENAME_FILE" = "Rename File";
-"RENAME_NEW_NAME" = "Enter the new name for the file:";
+"RENAME_NEW_NAME" = "Enter the new name for the file";
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Wiedergabe";
@@ -333,8 +333,49 @@
 "AUDIO_TAB_BAR" = "Audio";
 "SHORTS_TAB_BAR" = "Shorts";
 
+/* promptForActivation */
+"license_option" = "License Options";
+"license_option_disc" = "Choose an option:";
+"activate_new_license" = "Activate New License";
+"restore_license" = "Restore License";
+"renew_license" = "Renew License";
+"buy_license" = "Buy License";
+"activate_new_license_disc" = "Please enter your email and license key.";
+"email" = "Email";
+"license_key" = "License Key";
+"activate" = "Activate";
+"invalid_email" = "Invalid Email";
+"invalid_email_disc" = "Please enter a valid email address.";
+"invalid_license" = "Invalid License";
+"license_key_empty" = "License key cannot be empty.";
+"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+
+/* promptForRestore */
+"restore_license_disc" = "Please enter the email associated with your license.";
+"restore" = "Restore";
+"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
+"license_restored" = "License Restored";
+"restore_failed" = "Restore Failed";
+
+/* enter license prompt */
+"enter_license_key" = "Enter License Key";
+"enter_license_key_disc" = "Please enter your license key to authenticate.";
+"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
+"authentication_successful" = "Authentication Successful";
+"key_used_on_another_device" = "License already activated on another device";
+"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
+"email_associated_with_another_key" = "Email already associated with another license";
+"authentication_failed" = "Authentication Failed";
+"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
+"key_expired" = "Key has expired";
+"license_expired" = "License Expired";
+"license_expired_disc" = "Your license key has expired. Please renew.";
+"license_verification_failed" = "License Verification Failed";
+"no_internet" = "No Internet";
+"no_internet_disc" = "You need an internet connection to authenticate.";
+"license_disc" = "The license key you entered is not valid.";
 
 /* other stuff */
 /* Thank you for this incredible Tweak! */
-/* Country Specific: de */
-/* Username for Credits: @serious.xi */
+/* Country Specific de */
+/* Username for Credits @serious.xi */

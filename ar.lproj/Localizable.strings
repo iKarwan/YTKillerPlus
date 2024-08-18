@@ -333,4 +333,46 @@
 "AUDIO_TAB_BAR" = "صوت";
 "SHORTS_TAB_BAR" = "Shorts";
 
+/* promptForActivation */
+"license_option" = "خيارات الترخيص";
+"license_option_disc" = "اختر خيارًا:";
+"activate_new_license" = "تفعيل ترخيص جديد";
+"restore_license" = "استعادة الترخيص";
+"renew_license" = "تجديد الترخيص";
+"buy_license" = "شراء ترخيص";
+"activate_new_license_disc" = "يرجى إدخال بريدك الإلكتروني ومفتاح الترخيص.";
+"email" = "البريد الإلكتروني";
+"license_key" = "مفتاح الترخيص";
+"activate" = "تفعيل";
+"invalid_email" = "بريد إلكتروني غير صالح";
+"invalid_email_disc" = "يرجى إدخال عنوان بريد إلكتروني صالح.";
+"invalid_license" = "ترخيص غير صالح";
+"license_key_empty" = "لا يمكن أن يكون مفتاح الترخيص فارغًا.";
+"license_key_length_wrong" = "طول مفتاح الترخيص غير صحيح\nيرجى إدخال مفتاح ترخيص صالح.";
+
+/* promptForRestore */
+"restore_license_disc" = "يرجى إدخال البريد الإلكتروني المرتبط بترخيصك.";
+"restore" = "استعادة";
+"license_restored_successfully" = "تمت استعادة الترخيص بنجاح.\nالمفتاح: %@\nينتهي في: %@";
+"license_restored" = "تمت استعادة الترخيص";
+"restore_failed" = "فشلت الاستعادة";
+
+/* enter license prompt */
+"enter_license_key" = "أدخل مفتاح الترخيص";
+"enter_license_key_disc" = "يرجى إدخال مفتاح الترخيص الخاص بك للتحقق من صحته.";
+"license_key_authenticated" = "تم التحقق من صحة مفتاح الترخيص بنجاح. ينتهي في: %@";
+"authentication_successful" = "تم التحقق بنجاح";
+"key_used_on_another_device" = "تم تفعيل الترخيص بالفعل على جهاز آخر";
+"key_is_in_use_on_another_device" = "هذا الترخيص مستخدم بالفعل على جهاز آخر. يرجى استخدام مفتاح ترخيص مختلف.";
+"email_associated_with_another_key" = "البريد الإلكتروني مرتبط بالفعل بترخيص آخر";
+"authentication_failed" = "فشل التحقق";
+"email_associated_with_defferent_key" = "هذا البريد الإلكتروني مرتبط بالفعل بترخيص مختلف. يرجى استخدام بريد إلكتروني أو مفتاح ترخيص مختلف.";
+"key_expired" = "انتهت صلاحية المفتاح";
+"license_expired" = "انتهت صلاحية الترخيص";
+"license_expired_disc" = "انتهت صلاحية مفتاح الترخيص الخاص بك. يرجى التجديد.";
+"license_verification_failed" = "فشل التحقق من الترخيص";
+"no_internet" = "لا يوجد اتصال بالإنترنت";
+"no_internet_disc" = "تحتاج إلى اتصال بالإنترنت للتحقق من الصحة.";
+"license_disc" = "مفتاح الترخيص الذي أدخلته غير صالح.";
+
 /* other stuff */
