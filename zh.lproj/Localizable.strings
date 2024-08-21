@@ -335,45 +335,45 @@
 "SHORTS_TAB_BAR" = "短视频";
 
 /* promptForActivation */
-"license_option" = "License Options";
-"license_option_disc" = "Choose an option:";
-"activate_new_license" = "Activate New License";
-"restore_license" = "Restore License";
-"renew_license" = "Renew License";
-"buy_license" = "Buy License";
-"activate_new_license_disc" = "Please enter your email and license key.";
-"email" = "Email";
-"license_key" = "License Key";
-"activate" = "Activate";
-"invalid_email" = "Invalid Email";
-"invalid_email_disc" = "Please enter a valid email address.";
-"invalid_license" = "Invalid License";
-"license_key_empty" = "License key cannot be empty.";
-"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+"license_option" = "许可证选项";
+"license_option_disc" = "选择一个选项：";
+"activate_new_license" = "激活新许可证";
+"restore_license" = "恢复许可证";
+"renew_license" = "续订许可证";
+"buy_license" = "购买许可证";
+"activate_new_license_disc" = "请输入您的电子邮件和许可证密钥。";
+"email" = "电子邮件";
+"license_key" = "许可证密钥";
+"activate" = "激活";
+"invalid_email" = "电子邮件无效";
+"invalid_email_disc" = "请输入有效的电子邮件地址。";
+"invalid_license" = "许可证密钥无效";
+"license_key_empty" = "许可证密钥不能为空。";
+"license_key_length_wrong" = "许可证密钥长度错误\n请输入有效的许可证密钥。";
 
 /* promptForRestore */
-"restore_license_disc" = "Please enter the email associated with your license.";
-"restore" = "Restore";
-"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
-"license_restored" = "License Restored";
-"restore_failed" = "Restore Failed";
+"restore_license_disc" = "输入与您的许可证关联的电子邮件。";
+"restore" = "恢复";
+"license_restored_successfully" = "许可证恢复成功。\n密钥：%@\n有效期：%@";
+"license_restored" = "许可证已恢复";
+"restore_failed" = "恢复失败";
 
 /* enter license prompt */
-"enter_license_key" = "Enter License Key";
-"enter_license_key_disc" = "Please enter your license key to authenticate.";
-"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
-"authentication_successful" = "Authentication Successful";
-"key_used_on_another_device" = "License already activated on another device";
-"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
-"email_associated_with_another_key" = "Email already associated with another license";
-"authentication_failed" = "Authentication Failed";
-"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
-"key_expired" = "Key has expired";
-"license_expired" = "License Expired";
-"license_expired_disc" = "Your license key has expired. Please renew.";
-"license_verification_failed" = "License Verification Failed";
-"no_internet" = "No Internet";
-"no_internet_disc" = "You need an internet connection to authenticate.";
-"license_disc" = "The license key you entered is not valid.";
+"enter_license_key" = "输入许可证密钥";
+"enter_license_key_disc" = "请输入您的许可证密钥进行验证。";
+"license_key_authenticated" = "许可证密钥已成功验证。到期日期：%@";
+"authentication_successful" = "身份验证成功";
+"key_used_on_another_device" = "许可证已在另一台设备上激活";
+"key_is_in_use_on_another_device" = "此许可证已在其他设备上使用。请使用其他许可证密钥。";
+"email_associated_with_another_key" = "电子邮件已经与另一个许可证关联";
+"authentication_failed" = "身份验证失败";
+"email_associated_with_defferent_key" = "此电子邮件已与其他许可证关联。请使用其他电子邮件或许可证密钥。";
+"key_expired" = "密钥已过期";
+"license_expired" = "许可证已过期";
+"license_expired_disc" = "您的许可证密钥已过期。请续订。";
+"license_verification_failed" = "许可证验证失败";
+"no_internet" = "无法联网";
+"no_internet_disc" = "您需要互联网连接来进行身份验证。";
+"license_disc" = "您输入的许可证密钥无效。";
 
 /* other stuff */
