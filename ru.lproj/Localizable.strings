@@ -54,6 +54,21 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"floating_mini_player" = "Floating Mini Player";
+
+/* backup */
+"cretae_a_backup" = "Create a backup";
+"create_a_backup_disc" = "Export a backup to the 'Files' app containing all your downloaded videos and audios in your YTKPlus library.";
+"restore_backup" = "Restore a backup";
+"restore_backup_disc" = "The backup can only be restored from the 'Files' app.";
+"backup_prepared" = "Backup is being prepared";
+"create_failed" = "Backup Failed";
+"failed_create_disc" = "Failed to create backup. Please try again.";
+"restoring_backup" = "Restoring backup";
+"restore_complete" = "Restore Complete";
+"restore_complete_disc" = "YTKPlus backup has been successfully restored.";
+"restore_failed_disc" = "Failed to restore backup. Please try again.";
+"restore_failed" = "Restore Failed";
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";
