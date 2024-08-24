@@ -68,6 +68,10 @@
 "restore_complete_disc" = "YTKPlus backup has been successfully restored.";
 "restore_failed_disc" = "Failed to restore backup. Please try again.";
 "restore_failed" = "Restore Failed";
+"restore_backup_confirm" = "Restore";
+"create" = "Create";
+"create_backup" = "Do you want to create a backup?";
+"restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
 
 "short_fullscreen" = "Cortos Completa";
 "short_auto_skip" = "Cortos Auto Skip";

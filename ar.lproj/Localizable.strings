@@ -70,6 +70,10 @@
 "restore_complete_disc" = "تمت استعادة نسخة YTKPlus الاحتياطية بنجاح.";
 "restore_failed_disc" = "فشل في استعادة النسخة الاحتياطية. يرجى المحاولة مرة أخرى.";
 "restore_failed" = "فشل الاستعادة";
+"restore_backup_confirm" = "استعادة";
+"create" = "إنشاء";
+"create_backup" = "هل تريد إنشاء نسخة احتياطية؟";
+"restore_backup_confirm_disc" = "هل تريد استعادة هذه النسخة الاحتياطية\nYTKPlus_Backup.zip\nلا يمكن التراجع عن هذا الإجراء!";
 
 "short_fullscreen" = "Shorts شاشة كاملة";
 "short_auto_skip" = "Shorts تخطي تلقائي";
