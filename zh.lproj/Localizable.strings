@@ -57,6 +57,7 @@
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
+"backup_and_restore" = "Backup and Restore";
 "cretae_a_backup" = "Create a backup";
 "create_a_backup_disc" = "Export a backup to the 'Files' app containing all your downloaded videos and audios in your YTKPlus library.";
 "restore_backup" = "Restore a backup";
@@ -73,6 +74,17 @@
 "create" = "Create";
 "create_backup" = "Do you want to create a backup?";
 "restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
+"invalid_backup_file" = "Invalid Backup File";
+"invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+
+/* import Media */
+"import_media" = "Import Media";
+"import_media_disc" = "Import video or audio files to YTKPlus library.\n you can select multiple files from 'Files' app.";
+"choose_media_type" = "Choose media type to import";
+"successfully_imported_files" = "Successfully imported files: %@";
+"failed_to_import_files" = "Failed to import files: %@";
+"import_result" = "Import Result";
+
 
 "short_fullscreen" = "短视频全屏";
 "short_auto_skip" = "短视频自动跳过";

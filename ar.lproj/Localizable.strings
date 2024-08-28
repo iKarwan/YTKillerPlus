@@ -58,6 +58,7 @@
 "floating_mini_player" = "مشغل صغير عائم";
 
 /* backup */
+"backup_and_restore" = "النسخ الاحتياطي والاستعادة";
 "cretae_a_backup" = "إنشاء نسخة احتياطية";
 "create_a_backup_disc" = "قم بتصدير نسخة احتياطية إلى تطبيق 'الملفات' تحتوي على جميع مقاطع الفيديو والصوتيات التي تم تنزيلها في مكتبتك YTKPlus.";
 "restore_backup" = "استعادة نسخة احتياطية";
@@ -74,6 +75,17 @@
 "create" = "إنشاء";
 "create_backup" = "هل تريد إنشاء نسخة احتياطية؟";
 "restore_backup_confirm_disc" = "هل تريد استعادة هذه النسخة الاحتياطية\nYTKPlus_Backup.zip\nلا يمكن التراجع عن هذا الإجراء!";
+"invalid_backup_file" = "ملف النسخة الاحتياطية غير صالح";
+"invalid_backup_file_disc" = "يرجى تحديد ملف YTKPlus_Backup.zip.";
+
+/* import Media */
+"import_media" = "استيراد الوسائط";
+"import_media_disc" = "استيراد ملفات الفيديو أو الصوت إلى مكتبة YTKPlus.\nيمكنك تحديد ملفات متعددة من تطبيق 'الملفات'.";
+"choose_media_type" = "اختر نوع الوسائط للاستيراد";
+"successfully_imported_files" = "تم استيراد الملفات بنجاح: %@";
+"failed_to_import_files" = "فشل في استيراد الملفات: %@";
+"import_result" = "نتيجة الاستيراد";
+
 
 "short_fullscreen" = "Shorts شاشة كاملة";
 "short_auto_skip" = "Shorts تخطي تلقائي";
