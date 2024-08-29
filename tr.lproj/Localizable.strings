@@ -83,7 +83,7 @@
 
 /* import Media */
 "import_media" = "Import Media";
-"import_media_disc" = "Import video or audio files to YTKPlus library.\n you can select multiple files from 'Files' app.";
+"import_media_disc" = "Import video and audio files into the YTKPlus library. You can select multiple files, including thumbnails or artwork, directly from the 'Files' app.";
 "choose_media_type" = "Choose media type to import";
 "successfully_imported_files" = "Successfully imported files: %@";
 "failed_to_import_files" = "Failed to import files: %@";
