@@ -30,7 +30,7 @@
 "LIBRARY" = "Thư viện";
 
 /* defaults */
-"overlay_button" = "Lớp phủ nút liên kết";
+"overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Lớp phủ trình phát video";
 "speed_index" = "Tốc độ phát lại";
 "pip_player" = "Trình phát PiP";

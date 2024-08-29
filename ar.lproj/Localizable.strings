@@ -29,7 +29,7 @@
 
 /* defaults */
 /* defaults */
-"overlay_button" = "تراكب ازرار الارتباط";
+"overlay_button" = "عناصر التحكم والاختصارات";
 "overlay_player" = "المشغل";
 "speed_index" = "سرعة التشغيل";
 "pip_player" = "صورة فـ صورة";

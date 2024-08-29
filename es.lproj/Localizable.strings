@@ -27,7 +27,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Botón de superposición Symlink";
+"overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Reproductor superpuesto";
 "speed_index" = "Velocidad de reproducción";
 "pip_player" = "Reproductor PiP";

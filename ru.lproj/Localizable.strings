@@ -28,7 +28,7 @@
 "LIBRARY" = "Библиотека";
 
 /* defaults */
-"overlay_button" = "Overlay Button Symlink";
+"overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Overlay Player";
 "speed_index" = "Playback Speed";
 "pip_player" = "PiP Player";

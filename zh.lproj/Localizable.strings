@@ -28,7 +28,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "播放界面按钮";
+"overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "播放器";
 "speed_index" = "播放速度";
 "pip_player" = "画中画";
