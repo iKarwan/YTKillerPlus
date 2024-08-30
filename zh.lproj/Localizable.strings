@@ -28,7 +28,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Overlay Controls & Shortcuts";
+"overlay_button" = "播放器控件和快捷";
 "overlay_player" = "播放器";
 "speed_index" = "播放速度";
 "pip_player" = "画中画";
@@ -54,36 +54,36 @@
 "copy_comment" = "复制评论";
 "pip_mode" = "画中画";
 "pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
-"floating_mini_player" = "Floating Mini Player";
+"floating_mini_player" = "悬浮迷你播放器";
 
 /* backup */
-"backup_and_restore" = "Backup and Restore";
-"cretae_a_backup" = "Create a backup";
-"create_a_backup_disc" = "Export a backup to the 'Files' app containing all your downloaded videos and audios in your YTKPlus library.";
-"restore_backup" = "Restore a backup";
-"restore_backup_disc" = "The backup can only be restored from the 'Files' app.";
-"backup_prepared" = "Backup is being prepared";
-"create_failed" = "Backup Failed";
-"failed_create_disc" = "Failed to create backup. Please try again.";
-"restoring_backup" = "Restoring backup";
-"restore_complete" = "Restore Complete";
-"restore_complete_disc" = "YTKPlus backup has been successfully restored.";
-"restore_failed_disc" = "Failed to restore backup. Please try again.";
-"restore_failed" = "Restore Failed";
-"restore_backup_confirm" = "Restore";
-"create" = "Create";
-"create_backup" = "Do you want to create a backup?";
-"restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
-"invalid_backup_file" = "Invalid Backup File";
-"invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+"backup_and_restore" = "备份和恢复";
+"cretae_a_backup" = "创建备份";
+"create_a_backup_disc" = "将YTKPlus库中所有下载的视频和音频的备份导出到“文件”程序。";
+"restore_backup" = "恢复备份";
+"restore_backup_disc" = "只能从“文件程序恢复备份。";
+"backup_prepared" = "正在准备备份";
+"create_failed" = "备份失败";
+"failed_create_disc" = "无法创建备份，请重试。";
+"restoring_backup" = "恢复备份中";
+"restore_complete" = "恢复完成";
+"restore_complete_disc" = "YTKPlus备份已成功恢复。";
+"restore_failed_disc" = "无法恢复备份，请重试。";
+"restore_failed" = "恢复失败";
+"restore_backup_confirm" = "恢复";
+"create" = "创建";
+"create_backup" = "您想要创建备份吗？";
+"restore_backup_confirm_disc" = "是否要恢复此备份\nYTKPlus_Backup.zip\n此操作无法撤消！";
+"invalid_backup_file" = "备份文件无效";
+"invalid_backup_file_disc" = "请选择YTKPlus_Backup.zip文件。";
 
 /* import Media */
-"import_media" = "Import Media";
-"import_media_disc" = "Import video and audio files into the YTKPlus library. You can select multiple files, including thumbnails or artwork, directly from the 'Files' app.";
-"choose_media_type" = "Choose media type to import";
-"successfully_imported_files" = "Successfully imported files: %@";
-"failed_to_import_files" = "Failed to import files: %@";
-"import_result" = "Import Result";
+"import_media" = "导入媒体";
+"import_media_disc" = "将视频和音频文件导入YTKPlus库。您可以直接从“文件”应用中选择多个文件，包括缩略图或封面。";
+"choose_media_type" = "选择要导入的媒体类型";
+"successfully_imported_files" = "成功导入文件：%@";
+"failed_to_import_files" = "无法导入文件：%@";
+"import_result" = "导入结果";
 
 
 "short_fullscreen" = "短视频全屏";
@@ -408,3 +408,4 @@
 "license_disc" = "您输入的许可证密钥无效。";
 
 /* other stuff */
+
