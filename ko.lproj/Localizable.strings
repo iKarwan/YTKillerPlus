@@ -355,6 +355,15 @@
 "DELETING_VIDEO" = "비디오 삭제?";
 "DELETING_AUDIO" = "오디오 삭제?";
 
+"month_ago" = "%ld month%@ ago";
+"week_ago" = "%ld week%@ ago";
+"day_ago" = "%ld day%@ ago";
+"hour_ago" = "%ld hour%@ ago";
+"minute_ago" = "%ld minute%@ ago";
+"s" = "";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
 "AFTER_DONE" = "다운로드 완료 후";
 "SAVE_OR_SHARE" = "저장 또는 공유";
 "SAVE_OR_SHARE_DISC" = "비디오를 공유, 또는 사진첩이나 다운로드 폴더에 저장하시겠습니까?";

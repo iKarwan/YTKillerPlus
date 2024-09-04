@@ -354,6 +354,15 @@
 "DELETING_VIDEO" = "Xoá Video?";
 "DELETING_AUDIO" = "Xoá Âm thanh?";
 
+"month_ago" = "%ld month%@ ago";
+"week_ago" = "%ld week%@ ago";
+"day_ago" = "%ld day%@ ago";
+"hour_ago" = "%ld hour%@ ago";
+"minute_ago" = "%ld minute%@ ago";
+"s" = "";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
 "AFTER_DONE" = "Sau khi hoàn thành tải xuống!";
 "SAVE_OR_SHARE" = "Lưu hoặc chia sẻ";
 "SAVE_OR_SHARE_DISC" = "Tải xuống, lưu video vào album Ảnh hoặc chia sẻ video bạn muốn";
