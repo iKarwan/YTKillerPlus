@@ -30,6 +30,8 @@
 "overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Reproductor superpuesto";
 "speed_index" = "Velocidad de reproducción";
+"default_speed_index" = "Default Playback Speed";
+"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
 "pip_player" = "Reproductor PiP";
 "short_player" = "Reproductor Cortos";
 

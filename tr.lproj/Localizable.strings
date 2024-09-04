@@ -35,6 +35,8 @@
 "overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Overlay Player";
 "speed_index" = "Playback Speed";
+"default_speed_index" = "Default Playback Speed";
+"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
 "pip_player" = "PiP Player";
 "short_player" = "Shorts Player";
 

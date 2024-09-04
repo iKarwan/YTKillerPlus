@@ -31,6 +31,8 @@
 "overlay_button" = "播放器控件和快捷";
 "overlay_player" = "播放器";
 "speed_index" = "播放速度";
+"default_speed_index" = "Default Playback Speed";
+"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
 "pip_player" = "画中画";
 "short_player" = "短视频播放器";
 
@@ -408,4 +410,3 @@
 "license_disc" = "您输入的许可证密钥无效。";
 
 /* other stuff */
-

@@ -33,6 +33,8 @@
 "overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Lớp phủ trình phát video";
 "speed_index" = "Tốc độ phát lại";
+"default_speed_index" = "Default Playback Speed";
+"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
 "pip_player" = "Trình phát PiP";
 "short_player" = "Trình phát Shorts";
 

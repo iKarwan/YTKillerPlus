@@ -33,6 +33,8 @@
 "overlay_button" = "Overlay Controls & Shortcuts";
 "overlay_player" = "Overlay Player";
 "speed_index" = "Playback Speed";
+"default_speed_index" = "Default Playback Speed";
+"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
 "pip_player" = "PiP Player";
 "short_player" = "Shorts Player";
 
@@ -293,7 +295,7 @@
 "ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Use miniplayer on video made for children";
 "HIDE_HUD_ALERTS" = "Hide Hud Alerts";
 "HIDE_HUD_ALERTS_INFO" = "Hide all pop-up alerts like disliking/children videos";
-"CLASSIC_SHARE" = "Classic Share Sheet";
+"CLASSIC_SHARE" = "Classic context menus";
 "HIDE_LINE_SEPERATOR" = "Hide Line Seperators In Library";
 "ROUND_ALL_VIEW_CORNERS" = "Rounde All View Corners";
 "DISABLE_DARK_MODE" = "Disable Dark Mode";

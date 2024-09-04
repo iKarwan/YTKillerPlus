@@ -32,6 +32,8 @@
 "overlay_button" = "عناصر التحكم والاختصارات";
 "overlay_player" = "المشغل";
 "speed_index" = "سرعة التشغيل";
+"default_speed_index" = "سرعة التشغيل الافتراضية";
+"default_speed_index_disc" = "مفتاح لتحديد سرعة التشغيل الافتراضية لمنع التعارض مع زر سرعة التشغيل داخل المشغل.";
 "pip_player" = "صورة فـ صورة";
 "short_player" = "مشغل الـ Short";
 
