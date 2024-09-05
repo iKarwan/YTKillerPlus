@@ -3,7 +3,7 @@
 
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "全局启用:";
+"GLOB_ENABLED" = "全局功能开关";
 "GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用所有改动";
 
 /* downloding global switch */
@@ -28,11 +28,11 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "播放器控件和快捷";
+"overlay_button" = "播放器控件与快捷";
 "overlay_player" = "播放器";
 "speed_index" = "播放速度";
-"default_speed_index" = "Default Playback Speed";
-"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
+"default_speed_index" = "默认速度开关";
+"default_speed_index_disc" = "默认播放速度的开关，防止与播放界面上的速度按钮冲突。";
 "pip_player" = "画中画";
 "short_player" = "短视频播放器";
 
@@ -56,6 +56,7 @@
 "copy_comment" = "复制评论";
 "pip_mode" = "画中画";
 "pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
+"mini player" = "迷你播放器";
 "floating_mini_player" = "悬浮迷你播放器";
 
 /* backup */
@@ -105,37 +106,37 @@
 "retry_disc" = "请尝试重新登录";
 
 /* general section */
-"VIDEO_PLAYER" = "视频播放器选项";
-"OVERLAY_OPTIONS" = "视频播放界面选项";
-"STREAM_OPTIONS" = "流媒体选项";
+"VIDEO_PLAYER" = "播放器的选项";
+"OVERLAY_OPTIONS" = "播放界面选项";
+"STREAM_OPTIONS" = "流媒体的选项";
 "IPAD_OPTIONS" = "iPad风格选项";
-"NAVIGATION_BAR" = "顶部导航栏选项";
-"SHORTS_OPTION" = "短视频选项";
-"DOWNLOAD_OPTIONS" = "扩展下载功能选项";
-"TAB_BAR_OPTIONS" = "底部选项卡选项";
-"MISCELLANEOUS" = "其他功能";
+"NAVIGATION_BAR" = "顶部导航选项";
+"SHORTS_OPTION" = "短视频的选项";
+"DOWNLOAD_OPTIONS" = "扩展下载选项";
+"TAB_BAR_OPTIONS" = "底部标签选项";
+"MISCELLANEOUS" = "其它拓展功能";
 
 /* general section switch */
 "APP_LOCK" = "启用锁定App功能";
 "LOCK_APP_VIA_PASSWORD" = "使用设备密码锁定";
 "UHD_UNLOCK" = "启用4K UHD画质";
 "UHD_UNLOCK_INFO" = "解除视频画质限制";
-"OLED_DARK_MODE" = "启用OLED深色主题";
+"OLED_DARK_MODE" = "OLED深色模式";
 "PLAY_IN_BACKGROUND" = "启用后台播放";
 "NO_ADVERTISMENT" = "去除广告";
-"NO_AGE_RESTRICTION" = "去除观看年龄限制";
-"HIDE_YT_STORIES" = "隐藏推送视频中的付费区域";
-"HIDE_YT_SHORTS" = "隐藏推送视频中的短视频区域";
+"NO_AGE_RESTRICTION" = "去除年龄限制";
+"HIDE_YT_STORIES" = "隐藏付费板块";
+"HIDE_YT_SHORTS" = "隐藏视频流中的短视频";
 "DISABLE_CAPTIONS" = "停用字幕功能";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "查看其他作品！";
-"CREDITS" = "鸣谢";
+"CREDITS" = "致谢名单";
 "SPECIAL_THANK" = "特别感谢：";
 "LOCALIZATION" = "本地化翻译：";
 "Icon By:" = "图标设计：";
 "DEVELOPER" = "开发者：";
-"WELCOM_ALERT" = "要修改设置，请转到选项卡栏YTKPlus图标，然后点击齿轮图标。";
+"WELCOM_ALERT" = "要修改设置，请转到底部标签栏YTKPlus图标，然后点击齿轮图标。";
 
 
 /* video player section */
@@ -264,15 +265,15 @@
 
 
 /* tabbar section */
-"TAB_BAR_SECTION" = "底部选项卡";
+"TAB_BAR_SECTION" = "底部标签栏";
 "TABS_SHRINKED_BUTTOM" = "标签收缩(底部)";
 "TABS_SHRINKED_SMART" = "标签收缩(智能)";
 "DISABLE_CREATE_BUTTON" = "禁用创作(+)按钮";
-"HIDE_TAB_LABELS" = "隐藏选项卡标签";
-"PREVENT_OPEN_IN_SHORTS" = "防止选项卡中自动启动短视频";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "当在短视频选项卡中杀死YouTube后会发生";
+"HIDE_TAB_LABELS" = "隐藏选项标签名";
+"PREVENT_OPEN_IN_SHORTS" = "防止自动启动短视频";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "当在短视频标签中杀死YouTube后会发生";
 "REPLACE_SHORTS_WITH_EXPLORE" = "使用探索替代短视频";
-"HIDE_TABS" = "隐藏选项卡";
+"HIDE_TABS" = "隐藏标签栏";
 "HIDE_EXPLORE_TAB" = "隐藏探索";
 "HIDE_SHORTS_TAB" = "隐藏短视频";
 "HIDE_CREATE_TAB" = "隐藏创作(+)";
@@ -354,16 +355,16 @@
 "DELETING_VIDEO" = "确定删除视频？";
 "DELETING_AUDIO" = "确定删除音频？";
 
-"month_ago" = "%ld month%@ ago";
-"week_ago" = "%ld week%@ ago";
-"day_ago" = "%ld day%@ ago";
-"hour_ago" = "%ld hour%@ ago";
-"minute_ago" = "%ld minute%@ ago";
+"month_ago" = "%ld %@ 个月前";
+"week_ago" = "%ld %@ 周前";
+"day_ago" = "%ld %@ 天前";
+"hour_ago" = "%ld %@ 小时前";
+"minute_ago" = "%ld %@ 分钟前";
 "s" = "";
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
-"AFTER_DONE" = "下载完成后!";
+"AFTER_DONE" = "下载完成后的操作";
 "SAVE_OR_SHARE" = "保存或分享";
 "save or share" = "保存或分享";
 "SAVE_OR_SHARE_DISC" = "想将视频保存到您的相册、下载还是分享？";
