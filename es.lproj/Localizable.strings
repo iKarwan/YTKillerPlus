@@ -55,6 +55,7 @@
 "copy_comment" = "Copiar Comentario";
 "pip_mode" = "Jugar en PiP";
 "pip_mode_desc" = "Debes activar la opción 'Reproducción en segundo plano' en la configuración para poder utilizar PiP.";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -132,6 +133,7 @@
 "CREDITS" = "Créditos";
 "SPECIAL_THANK" = "Agradecimientos especiales";
 "LOCALIZATION" = "Localizaciones";
+"icon_by" = "icon by";
 "DEVELOPER" = "Desarrollador";
 "WELCOM_ALERT" = "Para modificar la configuración, ve a la pestaña de la barra de iconos (YTKPlus), luego haz clic en el icono de engranaje superior";
 

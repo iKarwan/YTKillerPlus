@@ -58,6 +58,7 @@
 "copy_comment" = "Sao chép bình luận";
 "pip_mode" = "Chế độ PiP";
 "pip_mode_desc" = "Bạn phải bật 'Phát lại trong nền' trong Cài đặt để kích hoạt PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -135,6 +136,7 @@
 "CREDITS" = "Đóng góp";
 "SPECIAL_THANK" = "Đặc biệt cảm ơn";
 "LOCALIZATION" = "Bản địa hoá";
+"icon_by" = "icon by";
 "DEVELOPER" = "Nhà phát triển";
 "WELCOM_ALERT" = "Để thay đổi cài đặt, đi chuyển đến biểu tượng thanh tab (YTKPlus) sau đó nhấp vào biểu tượng bánh răng phía trên";
 

@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "全域開關，請點擊右上角按鈕以快速套用所有更動。";
 
 /* downloding global switch */
@@ -56,6 +56,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "迷你播放器";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -131,9 +132,10 @@
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "參考看看我的其他作品！";
 "CREDITS" = "鳴謝";
-"SPECIAL_THANK" = "特別感謝：";
-"LOCALIZATION" = "在地翻譯：";
-"DEVELOPER" = "開發者：";
+"SPECIAL_THANK" = "特別感謝";
+"LOCALIZATION" = "在地翻譯";
+"icon_by" = "图标设计";
+"DEVELOPER" = "開發者";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 

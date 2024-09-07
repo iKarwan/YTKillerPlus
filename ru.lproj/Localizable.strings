@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "Активирует твик";
 
 /* downloding global switch */
@@ -56,6 +56,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -132,8 +133,9 @@
 "OTHER_TWEAKS" = "Наши проекты";
 "CREDITS" = "О нас";
 "SPECIAL_THANK" = "Особая благодарность";
-"LOCALIZATION" = "Перевод:"; // in case if you add it
-"DEVELOPER" = "Разработчик:";
+"LOCALIZATION" = "Перевод"; // in case if you add it
+"icon_by" = "icon by";
+"DEVELOPER" = "Разработчик";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
 
 

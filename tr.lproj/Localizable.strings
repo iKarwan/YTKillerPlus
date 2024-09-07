@@ -5,7 +5,7 @@
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 
 "APP_LOCK"="Uygulamayı Kilitle";
 "ARE_YOU_SURE"="Tüm Öğeleri Silmek İstediğinize Emin misiniz?";
@@ -16,7 +16,7 @@
 "CLEAN_SHARE_SHEET"="Paylaşım Sayfasında İptal Düğmesini Gizle";
 "COMMENTS"="Yorumlar";
 "COVID_NEWS_INFO"="Anasayfa akışlarında Covid ve Haberleri gizle";
-"CREDITS"="Destekleyenler:";
+"CREDITS"="Destekleyenler";
 "CUSTOM_SKIP_DURATION"="Özel Atlama Süresi";
 "DARK_KEYBOARDS"="Dark Mode Klavye";
 "DEFAULT_PAGE"="Anasayfa";
@@ -69,6 +69,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -117,7 +118,8 @@
 "retry" = "Retry";
 "retry_disc" = "Please try Sign In again";
 
-"DEVELOPER"="Geliştirici:";
+"icon_by" = "icon by";
+"DEVELOPER"="Geliştirici";
 "DISABLE_AUTOPLAY_VIDEOS"="Otomatik Video Oynatmayı Devredışı Bırak";
 "DISABLE_CAPTIONS"="Altyazıları Devredışı Bırak";
 "DISABLE_CONTINUE_WATCHING"="İzlemeye Devam Etmeyi Devre Dışı Bırak";

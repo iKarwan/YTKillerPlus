@@ -7,7 +7,7 @@
 /* NOTA 2 !!! Si prega di aggiungere dopo la traduzione il vostro paese specifico ad esempio: en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Globale Abilitato:";
+"GLOB_ENABLED" = "Globale Abilitato";
 "GLOBAL_ENABLED_SWITCH" = "Tocca il pulsante in alto a destra per applicare le modifiche.";
 
 /* downloding global switch */
@@ -59,6 +59,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -132,11 +133,12 @@
 "DISABLE_CAPTIONS" = "Disattiva le Didascalie";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "Scopri i Miei Altri Progetti:";
-"CREDITS" = "Crediti:";
-"SPECIAL_THANK" = "Ringraziamenti Speciali:";
-"LOCALIZATION" = "Localizzazioni:";
-"DEVELOPER" = "Sviluppatore:";
+"OTHER_TWEAKS" = "Scopri i Miei Altri Progetti";
+"CREDITS" = "Crediti";
+"SPECIAL_THANK" = "Ringraziamenti Speciali";
+"LOCALIZATION" = "Localizzazioni";
+"icon_by" = "icon by";
+"DEVELOPER" = "Sviluppatore";
 "WELCOM_ALERT" = "Per modificare le impostazioni vai sull'icona (YTKPlus) della barra delle schede, e fai clic sull'icona dell’ ingranaggio in alto";
 
 

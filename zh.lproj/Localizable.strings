@@ -56,7 +56,7 @@
 "copy_comment" = "复制评论";
 "pip_mode" = "画中画";
 "pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
-"mini player" = "迷你播放器";
+"mini_player2" = "迷你播放器";
 "floating_mini_player" = "悬浮迷你播放器";
 
 /* backup */
@@ -132,10 +132,10 @@
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "查看其他作品！";
 "CREDITS" = "致谢名单";
-"SPECIAL_THANK" = "特别感谢：";
-"LOCALIZATION" = "本地化翻译：";
-"Icon By:" = "图标设计：";
-"DEVELOPER" = "开发者：";
+"SPECIAL_THANK" = "特别感谢";
+"LOCALIZATION" = "本地化翻译";
+"icon_by" = "图标设计";
+"DEVELOPER" = "开发者";
 "WELCOM_ALERT" = "要修改设置，请转到底部标签栏YTKPlus图标，然后点击齿轮图标。";
 
 

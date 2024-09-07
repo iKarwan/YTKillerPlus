@@ -58,6 +58,7 @@
 "copy_comment" = "نسخ التعليق";
 "pip_mode" = "التشغيل في وضع PiP";
 "pip_mode_desc" = "يجب تمكين 'التشغيل في الخلفية' في الإعدادات لاستخدام وضع PiP";
+"mini_player2" = "المشغل المصغر";
 "floating_mini_player" = "المشغل المصغر العائم";
 
 
@@ -136,6 +137,7 @@
 "CREDITS" = "الشكر والتقدير";
 "SPECIAL_THANK" = "شكر خاص";
 "LOCALIZATION" = "الترجمات";
+"icon_by" = "الايقونة بواسطة";
 "DEVELOPER" = "المطور";
 "WELCOM_ALERT" = "لتعديل الإعدادات، اذهب إلى أيقونة شريط التبويب (YTKPlus) ثم انقر على أيقونة الترس في الأعلى";
 
@@ -368,7 +370,7 @@
 "DOWNLOAD_MANAGER" = "مدير التنزيل";
 "VIDEO_TAB_BAR" = "فيديو";
 "AUDIO_TAB_BAR" = "صوت";
-"SHORTS_TAB_BAR" = "Shorts";
+"SHORTS_TAB_BAR" = "م قصيرة";
 
 
 /* promptForActivation */

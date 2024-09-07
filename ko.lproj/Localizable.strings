@@ -6,7 +6,7 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled:";
+"GLOB_ENABLED" = "Global Enabled";
 "GLOBAL_ENABLED_SWITCH" = "변경 사항을 적용하기 위해 오른쪽 상단 버튼을 탭하세요.";
 
 /* downloding global switch */
@@ -58,6 +58,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup */
@@ -131,11 +132,12 @@
 "DISABLE_CAPTIONS" = "캡션 비활성화";
 
 /* other || credits translation & links */
-"OTHER_TWEAKS" = "내 다른 프로젝트들:";
-"CREDITS" = "학점:";
-"SPECIAL_THANK" = "특별 감사:";
-"LOCALIZATION" = "현지화:";
-"DEVELOPER" = "개발자:";
+"OTHER_TWEAKS" = "내 다른 프로젝트들";
+"CREDITS" = "학점";
+"SPECIAL_THANK" = "특별 감사";
+"LOCALIZATION" = "현지화";
+"icon_by" = "icon by";
+"DEVELOPER" = "개발자";
 "WELCOM_ALERT" = "설정을 수정하려면 탭 표시줄 아이콘(YTKPlus)으로 이동한 다음 위의 톱니바퀴 아이콘을 클릭하세요.";
 
 

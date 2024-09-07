@@ -58,6 +58,7 @@
 "copy_comment" = "Copy Comment";
 "pip_mode" = "Play in PiP";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
+"mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
 
 /* backup and restore */
@@ -135,6 +136,7 @@
 "CREDITS" = "Credits";
 "SPECIAL_THANK" = "Special Thanks";
 "LOCALIZATION" = "Localizations";
+"icon_by" = "icon by";
 "DEVELOPER" = "Developer";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon (YTKPlus) then click on the gear icon above";
 
