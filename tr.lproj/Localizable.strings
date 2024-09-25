@@ -254,6 +254,8 @@
 "OVERLAY_SECTION"="Overlay";
 "PICTURE_IN_PICTURE_PIP"="Picture In Picture (PiP)";
 "PLAY"="Oynat";
+"VIDEO_INFO" = "Video Info";
+"AUDIO_INFO" = "Audio Info";
 "PLAYBACK_SPEED"="Ekstra Oynatma Hızı Seçenekleri Ekleyin";
 "PLAYBACK_SPEED_INFO"="Video overlay -> Gear Butonu -> Playback Hızı";
 "PLAYER_BAR_NEXT_BUTTON"="Zaman Kodlarının Yanına Sonraki Düğmesi Ekleyin";

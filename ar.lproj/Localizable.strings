@@ -1,6 +1,6 @@
 /* created on 25/10/2022 */
 /* by iKarwan */
-/* arabic by FayezDev & iKarwan */
+/* arabic by iKarwan */
 
 /* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
 
@@ -336,6 +336,8 @@
 "RENAME_PLACEHOLDER" = "أدخل اسم الفيديو الجديد";
 "RENAME_PLACEHOLDER_AUDIO" = "أدخل اسم الصوت الجديد";
 "PLAY" = "تشغيل";
+"VIDEO_INFO" = "معلومات الفيديو";
+"AUDIO_INFO" = "معلومات الصوت";
 "SHARE" = "مشاركة";
 "VIEW_IN_FILZA" = "عرض في Filza";
 "DELETE" = "حذف";

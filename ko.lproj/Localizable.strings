@@ -342,6 +342,8 @@
 "RENAME_PLACEHOLDER" = "동영상 이름 입력";
 "RENAME_PLACEHOLDER_AUDIO" = "오디오 이름 입력";
 "PLAY" = "재생";
+"VIDEO_INFO" = "Video Info";
+"AUDIO_INFO" = "Audio Info";
 "SHARE" = "공유";
 "VIEW_IN_FILZA" = "Filza에서 보기";
 "DELETE" = "삭제";

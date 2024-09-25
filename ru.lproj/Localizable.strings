@@ -339,6 +339,8 @@
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Воспроизвести";
+"VIDEO_INFO" = "Video Info";
+"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Поделиться";
 "VIEW_IN_FILZA" = "Открыть в Filza";
 "DELETE" = "Удалить";

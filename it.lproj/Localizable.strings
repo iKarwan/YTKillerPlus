@@ -343,6 +343,8 @@
 "RENAME_PLACEHOLDER" = "Inserire il nuovo nome del video";
 "RENAME_PLACEHOLDER_AUDIO" = "Inserire il nuovo nome dell'audio";
 "PLAY" = "Avvia";
+"VIDEO_INFO" = "Video Info";
+"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Condividi";
 "VIEW_IN_FILZA" = "Visualizza in Filza";
 "DELETE" = "Elimina";
