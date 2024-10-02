@@ -340,8 +340,8 @@
 "RENAME_PLACEHOLDER" = "输入视频的新名称";
 "RENAME_PLACEHOLDER_AUDIO" = "输入音频的新名称";
 "PLAY" = "播放";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
+"VIDEO_INFO" = "视频信息";
+"AUDIO_INFO" = "音频信息";
 "SHARE" = "分享";
 "VIEW_IN_FILZA" = "在Filza中查看";
 "DELETE" = "删除";
