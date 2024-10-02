@@ -340,8 +340,6 @@
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "播放";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "分享";
 "VIEW_IN_FILZA" = "在Filza中查看";
 "DELETE" = "删除";
@@ -356,6 +354,20 @@
 "SAVE_TO_PHOTOS_FAILED" = "無法儲存到照片 請在設定App中確認是否有給予YouTube照片的取用權限";
 "DELETING_VIDEO" = "確定要刪除影片嗎？";
 "DELETING_AUDIO" = "確定要刪除音訊嗎？";
+
+"play_next" = "播放下一个";
+"close" = "关闭";
+"VIDEO_INFO" = "视频信息";
+"FILE_SIZE" = "文件大小";
+"DURATION" = "时长";
+"DIMENSIONS" = "尺寸";
+"BITRATE" = "比特率";
+"FRAME_RATE" = "帧率";
+"CREATED" = "创建时间";
+"AUDIO_INFO" = "音频信息";
+"FORMAT" = "格式";
+"SAMPLE_RATE" = "采样率";
+"CHANNELS" = "声道";
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

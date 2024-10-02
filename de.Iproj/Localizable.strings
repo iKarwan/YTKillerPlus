@@ -341,8 +341,6 @@
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Wiedergabe";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Teilen";
 "VIEW_IN_FILZA" = "In Filza öffnen";
 "DELETE" = "Löschen";
@@ -357,6 +355,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "Speichern in Fotos fehlgeschlagen Hat YouTube Zugriff auf deine Fotos?";
 "DELETING_VIDEO" = "Video wirklich löschen?";
 "DELETING_AUDIO" = "Audio wirklich löschen?";
+
+"play_next" = "Nächster Titel";
+"close" = "Schließen";
+"VIDEO_INFO" = "Videoinformationen";
+"FILE_SIZE" = "Dateigröße";
+"DURATION" = "Dauer";
+"DIMENSIONS" = "Abmessungen";
+"BITRATE" = "Bitrate";
+"FRAME_RATE" = "Bildrate";
+"CREATED" = "Erstellt";
+"AUDIO_INFO" = "Audioinformationen";
+"FORMAT" = "Format";
+"SAMPLE_RATE" = "Abtastrate";
+"CHANNELS" = "Kanäle";
+
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

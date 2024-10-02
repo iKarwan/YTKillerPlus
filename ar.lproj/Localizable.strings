@@ -336,8 +336,6 @@
 "RENAME_PLACEHOLDER" = "أدخل اسم الفيديو الجديد";
 "RENAME_PLACEHOLDER_AUDIO" = "أدخل اسم الصوت الجديد";
 "PLAY" = "تشغيل";
-"VIDEO_INFO" = "معلومات الفيديو";
-"AUDIO_INFO" = "معلومات الصوت";
 "SHARE" = "مشاركة";
 "VIEW_IN_FILZA" = "عرض في Filza";
 "DELETE" = "حذف";
@@ -352,6 +350,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "فشل الحفظ إلى الصور. تأكد من منح تطبيق YouTube الإذن لتطبيق الصور في إعدادات iOS";
 "DELETING_VIDEO" = "حذف الفيديو؟";
 "DELETING_AUDIO" = "حذف الصوت؟";
+
+"play_next" = "تشغيل التالي";
+"close" = "اغلاق";
+
+"VIDEO_INFO" = "معلومات الفيديو";
+"FILE_SIZE" = "حجم الملف";
+"DURATION" = "المدة";
+"DIMENSIONS" = "الأبعاد";
+"BITRATE" = "معدل البت";
+"FRAME_RATE" = "معدل الإطارات";
+"CREATED" = "تم الإنشاء";
+"AUDIO_INFO" = "معلومات الصوت";
+"FORMAT" = "الصيغة";
+"SAMPLE_RATE" = "معدل العينة";
+"CHANNELS" = "القنوات";
 
 "month_ago" = "منذ %ld شهر%@";
 "week_ago" = "منذ %ld أسبوع%@";

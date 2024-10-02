@@ -254,8 +254,6 @@
 "OVERLAY_SECTION"="Overlay";
 "PICTURE_IN_PICTURE_PIP"="Picture In Picture (PiP)";
 "PLAY"="Oynat";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "PLAYBACK_SPEED"="Ekstra Oynatma Hızı Seçenekleri Ekleyin";
 "PLAYBACK_SPEED_INFO"="Video overlay -> Gear Butonu -> Playback Hızı";
 "PLAYER_BAR_NEXT_BUTTON"="Zaman Kodlarının Yanına Sonraki Düğmesi Ekleyin";
@@ -334,6 +332,20 @@
 "SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
 "ERROR" = "Error";
 "WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
+
+"play_next" = "Sonrakini Oynat";
+"close" = "Kapat";
+"VIDEO_INFO" = "Video Bilgisi";
+"FILE_SIZE" = "Dosya Boyutu";
+"DURATION" = "Süre";
+"DIMENSIONS" = "Boyutlar";
+"BITRATE" = "Bit Hızı";
+"FRAME_RATE" = "Kare Hızı";
+"CREATED" = "Oluşturulma";
+"AUDIO_INFO" = "Ses Bilgisi";
+"FORMAT" = "Format";
+"SAMPLE_RATE" = "Örnekleme Hızı";
+"CHANNELS" = "Kanallar";
 
 
 /* promptForActivation */

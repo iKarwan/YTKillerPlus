@@ -341,8 +341,6 @@
 "RENAME_PLACEHOLDER" = "Nhập tên video mới";
 "RENAME_PLACEHOLDER_AUDIO" = "Nhập tên âm thanh mới";
 "PLAY" = "Phát";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Chia sẻ";
 "VIEW_IN_FILZA" = "Xem trong Filza";
 "DELETE" = "Xoá";
@@ -357,6 +355,22 @@
 "SAVE_TO_PHOTOS_FAILED" = "Lưu vào Ảnh không thành công. Đảm bảo cấp quyền cho ứng dụng Ảnh cho YouTube trong cài đặt ứng dụng của iOS";
 "DELETING_VIDEO" = "Xoá Video?";
 "DELETING_AUDIO" = "Xoá Âm thanh?";
+
+
+"play_next" = "Phát tiếp theo";
+"close" = "Đóng";
+"VIDEO_INFO" = "Thông tin video";
+"FILE_SIZE" = "Kích thước tập tin";
+"DURATION" = "Thời lượng";
+"DIMENSIONS" = "Kích thước";
+"BITRATE" = "Tốc độ bit";
+"FRAME_RATE" = "Tốc độ khung hình";
+"CREATED" = "Đã tạo";
+"AUDIO_INFO" = "Thông tin âm thanh";
+"FORMAT" = "Định dạng";
+"SAMPLE_RATE" = "Tần số lấy mẫu";
+"CHANNELS" = "Kênh";
+
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

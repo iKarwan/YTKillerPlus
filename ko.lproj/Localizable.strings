@@ -342,8 +342,6 @@
 "RENAME_PLACEHOLDER" = "동영상 이름 입력";
 "RENAME_PLACEHOLDER_AUDIO" = "오디오 이름 입력";
 "PLAY" = "재생";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "공유";
 "VIEW_IN_FILZA" = "Filza에서 보기";
 "DELETE" = "삭제";
@@ -358,6 +356,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "사진첩에 저장하지 못했습니다. iOS 설정 앱에서 사진 앱에 YouTube에 대한 권한을 부여해야 합니다.";
 "DELETING_VIDEO" = "비디오 삭제?";
 "DELETING_AUDIO" = "오디오 삭제?";
+
+
+"play_next" = "다음 재생";
+"close" = "닫기";
+"VIDEO_INFO" = "비디오 정보";
+"FILE_SIZE" = "파일 크기";
+"DURATION" = "재생 시간";
+"DIMENSIONS" = "해상도";
+"BITRATE" = "비트레이트";
+"FRAME_RATE" = "프레임률";
+"CREATED" = "생성일";
+"AUDIO_INFO" = "오디오 정보";
+"FORMAT" = "형식";
+"SAMPLE_RATE" = "샘플링 레이트";
+"CHANNELS" = "채널";
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

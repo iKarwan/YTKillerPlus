@@ -343,8 +343,6 @@
 "RENAME_PLACEHOLDER" = "Inserire il nuovo nome del video";
 "RENAME_PLACEHOLDER_AUDIO" = "Inserire il nuovo nome dell'audio";
 "PLAY" = "Avvia";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Condividi";
 "VIEW_IN_FILZA" = "Visualizza in Filza";
 "DELETE" = "Elimina";
@@ -359,6 +357,22 @@
 "SAVE_TO_PHOTOS_FAILED" = "Salvataggio su foto non riuscito assicurati di dare all'app l'autorizzazione per salvare foto nelle impostazioni di iOS";
 "DELETING_VIDEO" = "Cancellare un video?";
 "DELETING_AUDIO" = "Cancellare l'audio?";
+
+
+"play_next" = "Riproduci successivo";
+"close" = "Chiudi";
+"VIDEO_INFO" = "Informazioni video";
+"FILE_SIZE" = "Dimensione file";
+"DURATION" = "Durata";
+"DIMENSIONS" = "Dimensioni";
+"BITRATE" = "Bitrate";
+"FRAME_RATE" = "Frequenza fotogrammi";
+"CREATED" = "Creato";
+"AUDIO_INFO" = "Informazioni audio";
+"FORMAT" = "Formato";
+"SAMPLE_RATE" = "Frequenza di campionamento";
+"CHANNELS" = "Canali";
+
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

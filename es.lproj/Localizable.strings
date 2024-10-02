@@ -331,16 +331,12 @@
 "SHOW_ALL_QUALITY_INFO" = "Mostrar toda la calidad y audio";
 "SELECT_VIDEO_QUALITY" = "Seleccionar calidad de video";
 "NOT_SUPPORTED_FORMAT" = "Este video no es compatible con el descargador. Por favor, intenta una calidad de descarga diferente";
-"VIDEO" = "Descargar video";
-"AUDIO" = "Descargar audio";
 "RENAME" = "Renombrar";
 "RENAME_FILE" = "Renombrar archivo";
 "RENAME_NEW_NAME" = "Ingrese el nuevo nombre para el archivo:";
 "RENAME_PLACEHOLDER" = "Ingrese nuevo nombre de video";
 "RENAME_PLACEHOLDER_AUDIO" = "Ingrese nuevo nombre de audio";
 "PLAY" = "Reproducir";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Compartir";
 "VIEW_IN_FILZA" = "Ver en Filza";
 "DELETE" = "Eliminar";
@@ -355,6 +351,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "Guardar en Fotos fallido. Asegúrate de dar permiso a la aplicación Fotos en la configuración de iOS";
 "DELETING_VIDEO" = "¿Eliminar video?";
 "DELETING_AUDIO" = "¿Eliminar audio?";
+
+"play_next" = "Reproducir siguiente";
+"close" = "Cerrar";
+"VIDEO_INFO" = "Información del video";
+"FILE_SIZE" = "Tamaño del archivo";
+"DURATION" = "Duración";
+"DIMENSIONS" = "Dimensiones";
+"BITRATE" = "Tasa de bits";
+"FRAME_RATE" = "Velocidad de fotogramas";
+"CREATED" = "Creado";
+"AUDIO_INFO" = "Información de audio";
+"FORMAT" = "Formato";
+"SAMPLE_RATE" = "Frecuencia de muestreo";
+"CHANNELS" = "Canales";
+
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

@@ -339,8 +339,6 @@
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Воспроизвести";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Поделиться";
 "VIEW_IN_FILZA" = "Открыть в Filza";
 "DELETE" = "Удалить";
@@ -355,6 +353,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "Произошла ошибка при сохранении.\nУбедитесь, что разрешили YouTube-у доступ к Фото в системных настройках";
 "DELETING_VIDEO" = "Удалить видео?";
 "DELETING_AUDIO" = "Удалить аудио?";
+
+"play_next" = "Воспроизвести следующее";
+"close" = "Закрыть";
+"VIDEO_INFO" = "Информация о видео";
+"FILE_SIZE" = "Размер файла";
+"DURATION" = "Продолжительность";
+"DIMENSIONS" = "Размеры";
+"BITRATE" = "Битрейт";
+"FRAME_RATE" = "Частота кадров";
+"CREATED" = "Создано";
+"AUDIO_INFO" = "Информация об аудио";
+"FORMAT" = "Формат";
+"SAMPLE_RATE" = "Частота дискретизации";
+"CHANNELS" = "Каналы";
+
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

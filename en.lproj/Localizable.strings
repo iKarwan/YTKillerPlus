@@ -342,8 +342,6 @@
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
 "PLAY" = "Default Player";
-"VIDEO_INFO" = "Video Info";
-"AUDIO_INFO" = "Audio Info";
 "SHARE" = "Share";
 "VIEW_IN_FILZA" = "View In Filza";
 "DELETE" = "Delete";
@@ -358,6 +356,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed Make Sure To Give Photos app Permission To YouTube In The iOS Settings App";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
+
+"play_next" = "Play Next";
+"close" = "Close";
+
+"VIDEO_INFO" = "Video Info";
+"FILE_SIZE" = "File Size";
+"DURATION" = "Duration";
+"DIMENSIONS" = "Dimensions";
+"BITRATE" = "Bitrate";
+"FRAME_RATE" = "Frame Rate";
+"CREATED" = "Created";
+"AUDIO_INFO" = "Audio Info";
+"FORMAT" = "Format";
+"SAMPLE_RATE" = "Sample Rate";
+"CHANNELS" = "Channels";
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";

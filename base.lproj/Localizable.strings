@@ -35,7 +35,7 @@
 "speed_index" = "Playback Speed";
 "default_speed_index" = "Default Playback Speed";
 "default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
-"pip_player" = "PiP Player";
+"pip_player" = "Play in PiP";
 "short_player" = "Shorts Player";
 
 "yt_video_quality_wifi" = "YT Video Quality On Wifi";
@@ -56,7 +56,7 @@
 "copy_ptext" = "Copy Post Text";
 "save_img" = "Save Image";
 "copy_comment" = "Copy Comment";
-"pip_mode" = "Play in PiP";
+"pip_mode" = "Play in external Player";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
 "mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
@@ -341,7 +341,7 @@
 "RENAME_NEW_NAME" = "Enter the new name for the file:";
 "RENAME_PLACEHOLDER" = "Enter new video name";
 "RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
-"PLAY" = "Play";
+"PLAY" = "Default Player";
 "SHARE" = "Share";
 "VIEW_IN_FILZA" = "View In Filza";
 "DELETE" = "Delete";
@@ -356,6 +356,21 @@
 "SAVE_TO_PHOTOS_FAILED" = "Save To Photos Failed Make Sure To Give Photos app Permission To YouTube In The iOS Settings App";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
+
+"play_next" = "Play Next";
+"close" = "Close";
+
+"VIDEO_INFO" = "Video Info";
+"FILE_SIZE" = "File Size";
+"DURATION" = "Duration";
+"DIMENSIONS" = "Dimensions";
+"BITRATE" = "Bitrate";
+"FRAME_RATE" = "Frame Rate";
+"CREATED" = "Created";
+"AUDIO_INFO" = "Audio Info";
+"FORMAT" = "Format";
+"SAMPLE_RATE" = "Sample Rate";
+"CHANNELS" = "Channels";
 
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";
