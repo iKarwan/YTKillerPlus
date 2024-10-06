@@ -356,6 +356,14 @@
 "DELETING_VIDEO" = "Video wirklich löschen?";
 "DELETING_AUDIO" = "Audio wirklich löschen?";
 
+"toast_downloading" = "Wird heruntergeladen...";
+"toast_downloading_audio" = "Audio wird heruntergeladen";
+"toast_downloading_video" = "Video wird heruntergeladen";
+"toast_merging" = "Wird zusammengeführt...";
+"toast_preparing" = "Wird vorbereitet... : 0%";
+"toast_multi_D_not_supported" = "Mehrfache Downloads werden noch nicht unterstützt";
+"toast_download_cancelled" = "Download abgebrochen";
+
 "play_next" = "Nächster Titel";
 "close" = "Schließen";
 "VIDEO_INFO" = "Videoinformationen";

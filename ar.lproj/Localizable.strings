@@ -351,6 +351,14 @@
 "DELETING_VIDEO" = "حذف الفيديو؟";
 "DELETING_AUDIO" = "حذف الصوت؟";
 
+"toast_downloading" = "جاري التنزيل...";
+"toast_downloading_audio" = "جارٍ تنزيل الصوت";
+"toast_downloading_video" = "جارٍ تنزيل الفيديو";
+"toast_merging" = "جاري الدمج...";
+"toast_preparing" = "جاري التحضير... : 0٪";
+"toast_multi_D_not_supported" = "التنزيلات المتعددة غير مدعومة حاليًا";
+"toast_download_cancelled" = "تم إلغاء التنزيل";
+
 "play_next" = "تشغيل التالي";
 "close" = "اغلاق";
 

@@ -354,6 +354,14 @@
 "DELETING_VIDEO" = "Удалить видео?";
 "DELETING_AUDIO" = "Удалить аудио?";
 
+"toast_downloading" = "Загрузка...";
+"toast_downloading_audio" = "Загрузка аудио";
+"toast_downloading_video" = "Загрузка видео";
+"toast_merging" = "Объединение...";
+"toast_preparing" = "Подготовка... : 0%";
+"toast_multi_D_not_supported" = "Множественные загрузки пока не поддерживаются";
+"toast_download_cancelled" = "Загрузка отменена";
+
 "play_next" = "Воспроизвести следующее";
 "close" = "Закрыть";
 "VIDEO_INFO" = "Информация о видео";

@@ -359,6 +359,14 @@
 "DELETING_AUDIO" = "Cancellare l'audio?";
 
 
+"toast_downloading" = "Scaricamento in corso...";
+"toast_downloading_audio" = "Download audio in corso";
+"toast_downloading_video" = "Download video in corso";
+"toast_merging" = "Unione in corso...";
+"toast_preparing" = "Preparazione in corso... : 0%";
+"toast_multi_D_not_supported" = "Download multipli non ancora supportati";
+"toast_download_cancelled" = "Download annullato";
+
 "play_next" = "Riproduci successivo";
 "close" = "Chiudi";
 "VIDEO_INFO" = "Informazioni video";

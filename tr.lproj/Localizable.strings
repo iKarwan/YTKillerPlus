@@ -322,6 +322,15 @@
 "NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
 "UHD_UNLOCK" = "UHD Unlocker";
 "UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
+
+"toast_downloading" = "İndiriliyor...";
+"toast_downloading_audio" = "Ses dosyası indiriliyor";
+"toast_downloading_video" = "Video indiriliyor";
+"toast_merging" = "Birleştiriliyor...";
+"toast_preparing" = "Hazırlanıyor... : %0";
+"toast_multi_D_not_supported" = "Çoklu indirmeler henüz desteklenmiyor";
+"toast_download_cancelled" = "İndirme iptal edildi";
+
 /* Default Download Quality section */
 "DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
 "ALWAYS_ASK" = "Always Ask";

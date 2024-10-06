@@ -356,6 +356,13 @@
 "DELETING_VIDEO" = "Xoá Video?";
 "DELETING_AUDIO" = "Xoá Âm thanh?";
 
+"toast_downloading" = "Đang tải xuống...";
+"toast_downloading_audio" = "Đang tải xuống âm thanh";
+"toast_downloading_video" = "Đang tải xuống video";
+"toast_merging" = "Đang hợp nhất...";
+"toast_preparing" = "Đang chuẩn bị... : 0%";
+"toast_multi_D_not_supported" = "Tải xuống nhiều tệp chưa được hỗ trợ";
+"toast_download_cancelled" = "Đã hủy tải xuống";
 
 "play_next" = "Phát tiếp theo";
 "close" = "Đóng";

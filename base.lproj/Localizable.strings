@@ -357,6 +357,14 @@
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 
+"toast_downloading" = "Downloading...";
+"toast_downloading_audio" = "Downloading audio";
+"toast_downloading_video" = "Downloading video";
+"toast_merging" = "Merging...";
+"toast_preparing" = "Preparing... : 0%";
+"toast_multi_D_not_supported" = "Multi downloads not supported yet";
+"toast_download_cancelled" = "Download cancelled";
+
 "play_next" = "Play Next";
 "close" = "Close";
 

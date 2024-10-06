@@ -355,6 +355,14 @@
 "DELETING_VIDEO" = "确定删除视频？";
 "DELETING_AUDIO" = "确定删除音频？";
 
+"toast_downloading" = "正在下载...";
+"toast_downloading_audio" = "正在下载音频";
+"toast_downloading_video" = "正在下载视频";
+"toast_merging" = "正在合并...";
+"toast_preparing" = "正在准备... : 0%";
+"toast_multi_D_not_supported" = "暂不支持多重下载";
+"toast_download_cancelled" = "下载已取消";
+
 "play_next" = "播放下一个";
 "close" = "关闭";
 "VIDEO_INFO" = "视频信息";
