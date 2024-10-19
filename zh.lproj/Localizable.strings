@@ -54,7 +54,12 @@
 "copy_ptext" = "复制帖子文本";
 "save_img" = "保存图片";
 "copy_comment" = "复制评论";
-"pip_mode" = "画中画";
+"pip_mode" = "在外部播放器中播放";
+"ios_system_player" = "iOS 系统播放器";
+"infuse_player" = "Infuse 播放器";
+"vlc_player" = "VLC 播放器";
+"infuse_not_installed" = "未安装 Infuse";
+"vlc_not_installed" = "未安装 VLC";
 "pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
 "mini_player2" = "迷你播放器";
 "floating_mini_player" = "悬浮迷你播放器";
@@ -398,6 +403,11 @@
 "VIDEO_TAB_BAR" = "视频";
 "AUDIO_TAB_BAR" = "音频";
 "SHORTS_TAB_BAR" = "短视频";
+
+"the_changelog" = "更新日志";
+"skip_version" = "跳过此版本";
+"updates_available" = "有可用更新";
+"new_version_available" = "YTKillerPlus (%@) 的新版本已可用。建议始终保持更新到最新版本。";
 
 /* promptForActivation */
 "license_option" = "许可证选项";

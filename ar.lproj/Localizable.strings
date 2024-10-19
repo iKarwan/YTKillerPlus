@@ -56,7 +56,12 @@
 "copy_ptext" = "نسخ نص المنشور";
 "save_img" = "حفظ الصورة";
 "copy_comment" = "نسخ التعليق";
-"pip_mode" = "التشغيل في وضع PiP";
+"pip_mode" = "التشغيل في مشغل خارجي";
+"ios_system_player" = "مشغل نظام iOS";
+"infuse_player" = "مشغل Infuse";
+"vlc_player" = "مشغل VLC";
+"infuse_not_installed" = "Infuse غير مثبت";
+"vlc_not_installed" = "VLC غير مثبت";
 "pip_mode_desc" = "يجب تمكين 'التشغيل في الخلفية' في الإعدادات لاستخدام وضع PiP";
 "mini_player2" = "المشغل المصغر";
 "floating_mini_player" = "المشغل المصغر العائم";
@@ -394,6 +399,11 @@
 "VIDEO_TAB_BAR" = "فيديو";
 "AUDIO_TAB_BAR" = "صوت";
 "SHORTS_TAB_BAR" = "م قصيرة";
+
+"the_changelog" = "سجل التغييرات";
+"skip_version" = "تخطي هذا الإصدار";
+"updates_available" = "تحديث متاح";
+"new_version_available" = "يتوفر إصدار جديد من YTKillerPlus (%@). يُوصى دائمًا بالبقاء على أحدث إصدار.";
 
 
 /* promptForActivation */

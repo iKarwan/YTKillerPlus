@@ -56,7 +56,12 @@
 "copy_ptext" = "Copy Post Text";
 "save_img" = "Save Image";
 "copy_comment" = "Copy Comment";
-"pip_mode" = "PiP";
+"pip_mode" = "외부 플레이어에서 재생";
+"ios_system_player" = "iOS 시스템 플레이어";
+"infuse_player" = "Infuse 플레이어";
+"vlc_player" = "VLC 플레이어";
+"infuse_not_installed" = "Infuse가 설치되지 않았습니다";
+"vlc_not_installed" = "VLC가 설치되지 않았습니다";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
 "mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
@@ -399,6 +404,12 @@
 "VIDEO_TAB_BAR" = "비디오";
 "AUDIO_TAB_BAR" = "오디오";
 "SHORTS_TAB_BAR" = "Shorts";
+
+"the_changelog" = "변경 로그";
+"skip_version" = "이 버전 건너뛰기";
+"updates_available" = "업데이트 가능";
+"new_version_available" = "YTKillerPlus (%@)의 새 버전이 제공됩니다. 항상 최신 버전으로 유지하는 것이 좋습니다.";
+
 
 /* promptForActivation */
 "license_option" = "License Options";

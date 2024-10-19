@@ -54,7 +54,12 @@
 "copy_ptext" = "Copy Post Text";
 "save_img" = "Save Image";
 "copy_comment" = "Copy Comment";
-"pip_mode" = "PiP";
+"pip_mode" = "Воспроизвести во внешнем плеере";
+"ios_system_player" = "Системный плеер iOS";
+"infuse_player" = "Плеер Infuse";
+"vlc_player" = "Плеер VLC";
+"infuse_not_installed" = "Infuse не установлен";
+"vlc_not_installed" = "VLC не установлен";
 "pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
 "mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
@@ -397,6 +402,11 @@
 "VIDEO_TAB_BAR" = "Видео";
 "AUDIO_TAB_BAR" = "Аудио";
 "SHORTS_TAB_BAR" = "Shorts";
+
+"the_changelog" = "Список изменений";
+"skip_version" = "Пропустить эту версию";
+"updates_available" = "Доступно обновление";
+"new_version_available" = "Доступна новая версия YTKillerPlus (%@). Рекомендуется всегда использовать последнюю версию.";
 
 /* promptForActivation */
 "license_option" = "License Options";

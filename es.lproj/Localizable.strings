@@ -53,7 +53,12 @@
 "copy_ptext" = "Copiar texto";
 "save_img" = "Guardar imagen";
 "copy_comment" = "Copiar Comentario";
-"pip_mode" = "Jugar en PiP";
+"pip_mode" = "Reproducir en reproductor externo";
+"ios_system_player" = "Reproductor del sistema iOS";
+"infuse_player" = "Reproductor Infuse";
+"vlc_player" = "Reproductor VLC";
+"infuse_not_installed" = "Infuse no está instalado";
+"vlc_not_installed" = "VLC no está instalado";
 "pip_mode_desc" = "Debes activar la opción 'Reproducción en segundo plano' en la configuración para poder utilizar PiP.";
 "mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
@@ -396,6 +401,10 @@
 "AUDIO_TAB_BAR" = "Audio";
 "SHORTS_TAB_BAR" = "Cortos";
 
+"the_changelog" = "Registro de cambios";
+"skip_version" = "Omitir esta versión";
+"updates_available" = "Actualización disponible";
+"new_version_available" = "Una nueva versión de YTKillerPlus (%@) está disponible. Se recomienda mantenerse siempre actualizado a la última versión.";
 
 /* promptForActivation */
 "license_option" = "License Options";

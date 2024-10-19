@@ -56,7 +56,12 @@
 "copy_ptext" = "Sao chép nội dung bài viết";
 "save_img" = "Lưu ảnh";
 "copy_comment" = "Sao chép bình luận";
-"pip_mode" = "Chế độ PiP";
+"pip_mode" = "Phát trong trình phát ngoài";
+"ios_system_player" = "Trình phát hệ thống iOS";
+"infuse_player" = "Trình phát Infuse";
+"vlc_player" = "Trình phát VLC";
+"infuse_not_installed" = "Infuse chưa được cài đặt";
+"vlc_not_installed" = "VLC chưa được cài đặt";
 "pip_mode_desc" = "Bạn phải bật 'Phát lại trong nền' trong Cài đặt để kích hoạt PiP";
 "mini_player2" = "Mini Player";
 "floating_mini_player" = "Floating Mini Player";
@@ -400,6 +405,10 @@
 "AUDIO_TAB_BAR" = "Âm thanh";
 "SHORTS_TAB_BAR" = "Shorts";
 
+"the_changelog" = "Nhật ký thay đổi";
+"skip_version" = "Bỏ qua phiên bản này";
+"updates_available" = "Cập nhật có sẵn";
+"new_version_available" = "Phiên bản mới của YTKillerPlus (%@) đã có sẵn. Khuyến nghị luôn cập nhật lên phiên bản mới nhất.";
 
 /* promptForActivation */
 "license_option" = "License Options";
