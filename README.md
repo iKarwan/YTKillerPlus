@@ -4,7 +4,7 @@
 ## Screenshots
 | ![1](https://github.com/user-attachments/assets/12187de6-a3c1-4a10-a8bc-25c25241a32e) | ![9](https://github.com/user-attachments/assets/6b99ca20-5275-4f20-9fa1-dc42e784e4df) | ![10](https://github.com/user-attachments/assets/e605867c-707b-42d3-881d-9831499be3b6) |
 |---|---|---|
-| |![3](https://github.com/user-attachments/assets/a895cd62-f114-44e7-be8d-cd5176a60398) | ![4](https://github.com/user-attachments/assets/a896e359-5f08-433f-85ab-2758fea61d38) | ![7](https://github.com/user-attachments/assets/6111bc74-6d1b-47bb-94d9-9e6b526c825f) |
+| ![3](https://github.com/user-attachments/assets/e93caf9f-d500-43a0-bfbf-2b17b37061ea) | ![4](https://github.com/user-attachments/assets/aec35c1b-9623-4a16-a480-2cff03c31b34) | ![7](https://github.com/user-attachments/assets/f80f342a-59a1-402f-b747-bc58402760c6) |
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 13.0 / iOS iPadOS 18.x ...
