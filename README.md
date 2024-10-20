@@ -47,23 +47,23 @@
 ### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
-* download the YouTube app from link above and grab the YouTube app to sideloadly app & put your apple id account and sign it.
+* Download the YouTube app from the link above, drag the YouTube app into the Sideloadly app, enter your Apple ID account, and sign it.
 
 
-### TrollStore tipa
+### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* copy this link [here](https://ikghd.site/ipa/YouTube_19.41_YTKillerPlus_3.2.32_TrollStore.tipa) and paste it to (install from URL) option in TrollStore:
+* Copy this link [here](https://ikghd.site/ipa/YouTube_19.41_YTKillerPlus_3.2.32_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
-### Telegram channel
-* u can download the ipa always on our telegram channel from the link [here](https://t.me/ikghdiPA)
+### Telegram Channel
+* You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikghdiPA).
 
 
-## Localization..
-* YTKillerPlus fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail ) to be add in future update .
-* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits .
+## Localization
+* YTKillerPlus fully supports localization. If you'd like to add your language, please download the base file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
+**NOTE:** You have the right to request a copy of YTKillerPlus after translation and be credited.
 
-### Donation
-* donation always appreciated to keep the project on go!
+### Donations
+* Donations are always appreciated to keep the project going!
 * [Paypal](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW)
 * [Buy me a coffe](https://www.buymeacoffee.com/ikghd)
