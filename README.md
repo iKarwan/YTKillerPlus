@@ -2,8 +2,6 @@
 * a whole new YouTube Experience!
 
 ## Screenshots
-![9](https://github.com/user-attachments/assets/3d459653-fa50-4765-8d8e-796c16d03da8)|
-![1](https://github.com/user-attachments/assets/60d30d0b-06f3-4be3-96f6-fcf2616f4e00)|
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 13.0 / iOS iPadOS 18.x ...
