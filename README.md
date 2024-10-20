@@ -1,6 +1,12 @@
 # YTKillerPlus
 * a whole new YouTube Experience!
 
+## Screenshots
+![1](https://github.com/user-attachments/assets/25b62996-0e74-4068-aa1f-a55338dadbdd)
+![2](https://github.com/user-attachments/assets/6c852b9d-fa5b-45ac-9cd0-386794d98257)
+![3](https://github.com/user-attachments/assets/94a46b4d-96c3-4d57-aa7a-48b910953f8d)
+![4](https://github.com/user-attachments/assets/53416f1b-20c8-4aa1-ad16-ddd508083322)
+
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 13.0 / iOS iPadOS 18.x ...
 * YouTube v18.x to 19.20.2 is for iOS 14 ...
