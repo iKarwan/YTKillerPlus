@@ -1,0 +1,69 @@
+name: Create YouTube Plus app
+
+on:
+  workflow_dispatch:
+    inputs:
+      ipa_url:
+        description: "The direct URL to the decrypted IPA file"
+        default: ""
+        required: true
+        type: string
+
+      tweak_version:
+        description: "The version of the tweak to use. Enter the version manually from dayanch96/YTLite/releases or leave default"
+        default: "5.0.2"
+        required: true
+        type: string
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: 
+    runs-on: macos-12
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Main
+        uses: actions/checkout@v4.1.1
+        with:
+          path: main
+          submodules: recursive
+
+      - name: Set PATH environment variable
+        run: echo "$(brew --prefix make)/libexec/gnubin" >> $GITHUB_PATH
+
+      - name: Install cyan
+        run: pip install https://github.com/asdfzxcvbn/pyzule-rw/archive/main.zip
+
+      - name: Download YouTube
+        id: download_youtube
+        run: wget "${{ inputs.ipa_url }}" --no-verbose -O ${{ github.workspace }}/youtube.ipa
+
+      - name: Download YouTube Plus
+        id: download_ytp
+        run: |
+          deb_url="https://github.com/dayanch96/YTLite/releases/download/v${{ inputs.tweak_version }}/com.dvntm.ytlite_${{ inputs.tweak_version }}_iphoneos-arm.deb"
+          wget "$deb_url" --no-verbose -O ${{ github.workspace }}/ytplus.deb
+
+      - name: Clone Open in YouTube (Safari extension)
+        run: |
+          git clone --quiet -n --depth=1 --filter=tree:0 https://github.com/CokePokes/YoutubeExtensions/
+          cd YoutubeExtensions
+          git sparse-checkout set --no-cone OpenYoutubeSafariExtension.appex
+          git checkout
+          mv *.appex ${{ github.workspace }}
+
+      - name: Inject tweak into IPA
+        run: cyan -i youtube.ipa -o YouTubePlus_${{ inputs.tweak_version }}.ipa -uwf ytplus.deb OpenYoutubeSafariExtension.appex
+
+      - name: Upload to GitHub Releases
+        uses: softprops/action-gh-release@v2.0.1
+        with:
+          tag_name: v${{ github.run_number }}
+          name: YouTubePlus v${{ inputs.tweak_version }} (${{ github.run_number }})
+          files: YouTubePlus_${{ inputs.tweak_version }}.ipa
+          draft: true
