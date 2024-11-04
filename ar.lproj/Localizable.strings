@@ -379,6 +379,7 @@
 "SAMPLE_RATE" = "معدل العينة";
 "CHANNELS" = "القنوات";
 
+"year_ago" = "منذ %ld سنة%@";
 "month_ago" = "منذ %ld شهر%@";
 "week_ago" = "منذ %ld أسبوع%@";
 "day_ago" = "منذ %ld يوم%@";

@@ -384,6 +384,7 @@
 "SAMPLE_RATE" = "샘플링 레이트";
 "CHANNELS" = "채널";
 
+"year_ago" = "%ld year%@ ago";
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";
 "day_ago" = "%ld day%@ ago";

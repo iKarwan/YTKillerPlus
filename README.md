@@ -7,8 +7,8 @@
 | ![3](https://github.com/user-attachments/assets/e93caf9f-d500-43a0-bfbf-2b17b37061ea) | ![4](https://github.com/user-attachments/assets/aec35c1b-9623-4a16-a480-2cff03c31b34) | ![7](https://github.com/user-attachments/assets/f80f342a-59a1-402f-b747-bc58402760c6) |
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
-* iOS iPadOS 13.0 / iOS iPadOS 18.x ...
-* YouTube v18.x to 19.20.2 is for iOS 14 ...
+* iOS iPadOS 14.0 / iOS iPadOS 18.x ...
+* YouTube v19.20.2 is for iOS 14 ...
 * YouTube v19.21x and newer is for iOS 15.x and above...
 
 
@@ -23,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_19.43_YTKillerPlus_3.2.33.ipa) | com.google.ios.youtube | 19.43 | 3.2.33 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.43_YTKillerPlus_3.2.33_TrollStore.tipa) | com.google.ios.youtube | 19.43| 3.2.33 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_19.44_YTKillerPlus_3.2.34.ipa) | com.google.ios.youtube | 19.44 | 3.2.34 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.44_YTKillerPlus_3.2.34_TrollStore.tipa) | com.google.ios.youtube | 19.44| 3.2.34 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YTKillerPlus v19.43](https://tinyurl.com/ctynwbjz) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YTKillerPlus v19.44](https://tinyurl.com/yuynyc49) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -52,7 +52,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_19.43_YTKillerPlus_3.2.33_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_19.44_YTKillerPlus_3.2.34_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel

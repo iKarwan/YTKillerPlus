@@ -25,6 +25,7 @@
 "DELETING_AUDIO"="Ses Silinsin mi?";
 "DELETING_VIDEO"="Deleting Video?";
 
+"year_ago" = "%ld year%@ ago";
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";
 "day_ago" = "%ld day%@ ago";

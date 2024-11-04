@@ -381,7 +381,7 @@
 "SAMPLE_RATE" = "Частота дискретизации";
 "CHANNELS" = "Каналы";
 
-
+"year_ago" = "%ld year%@ ago";
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";
 "day_ago" = "%ld day%@ ago";

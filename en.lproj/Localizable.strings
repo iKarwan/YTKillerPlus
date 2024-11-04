@@ -385,6 +385,7 @@
 "SAMPLE_RATE" = "Sample Rate";
 "CHANNELS" = "Channels";
 
+"year_ago" = "%ld year%@ ago";
 "month_ago" = "%ld month%@ ago";
 "week_ago" = "%ld week%@ ago";
 "day_ago" = "%ld day%@ ago";

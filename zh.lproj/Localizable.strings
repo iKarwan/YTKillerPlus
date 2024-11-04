@@ -382,6 +382,7 @@
 "SAMPLE_RATE" = "采样率";
 "CHANNELS" = "声道";
 
+"year_ago" = "%ld %@ 年前";
 "month_ago" = "%ld %@ 个月前";
 "week_ago" = "%ld %@ 周前";
 "day_ago" = "%ld %@ 天前";
