@@ -92,6 +92,18 @@
 "failed_to_import_files" = "Failed to import files: %@";
 "import_result" = "Import Result";
 
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "Comportamiento";
+"SB_SKIP" = "Saltar";
+"SB_ASK" = "Preguntar";
+"sub_value" = "Duración de la alerta: %.lf";
+"UNSKIP" = "Deshacer salto";
+"SKIP" = "Saltar";
+"SEGMENT_SKIPPED" = "Segmento de patrocinio saltado";
+"FOUND_SEGMENT" = "Segmento de patrocinio detectado";
+"AudioNotificationOnSkip" = "Reproducir sonido al saltar";
+
 
 "short_fullscreen" = "Cortos Completa";
 "short_auto_skip" = "Cortos Auto Skip";

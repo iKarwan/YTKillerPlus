@@ -96,6 +96,18 @@
 "failed_to_import_files" = "فشل في استيراد الملفات: %@";
 "import_result" = "نتيجة الاستيراد";
 
+/* sponsorBlock */
+"SPONSORBLOCK" = "سبونسر بلوك";
+"SB_BEHAVIOR" = "سلوك المنع";
+"SB_SKIP" = "تخطي";
+"SB_ASK" = "اسأل";
+"sub_value" = "مدة التنبيه: %.lf";
+"UNSKIP" = "إلغاء التخطي";
+"SKIP" = "تخطي";
+"SEGMENT_SKIPPED" = "تم تخطي مقطع الإعلان";
+"FOUND_SEGMENT" = "تم اكتشاف مقطع إعلاني";
+"AudioNotificationOnSkip" = "تشغيل صوت عند التخطي";
+
 
 "short_fullscreen" = "تشغيل المقاطع القصيرة في ملء الشاشة";
 "short_auto_skip" = "تخطي المقاطع القصيرة تلقائيًا";

@@ -107,6 +107,17 @@
 "failed_to_import_files" = "Failed to import files: %@";
 "import_result" = "Import Result";
 
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "Davranış";
+"SB_SKIP" = "Atla";
+"SB_ASK" = "Sor";
+"sub_value" = "Uyarı Süresi: %.lf";
+"UNSKIP" = "Atlamayı Geri Al";
+"SKIP" = "Atla";
+"SEGMENT_SKIPPED" = "Sponsor bölümü atlandı";
+"FOUND_SEGMENT" = "Sponsor bölümü tespit edildi";
+"AudioNotificationOnSkip" = "Atlarken ses çal";
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

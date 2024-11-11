@@ -95,6 +95,18 @@
 "failed_to_import_files" = "Failed to import files: %@";
 "import_result" = "Import Result";
 
+/* sponsorBlock */
+"SPONSORBLOCK" = "스폰서블록";
+"SB_BEHAVIOR" = "동작 방식";
+"SB_SKIP" = "건너뛰기";
+"SB_ASK" = "물어보기";
+"sub_value" = "알림 지속 시간: %.lf";
+"UNSKIP" = "건너뛰기 취소";
+"SKIP" = "건너뛰기";
+"SEGMENT_SKIPPED" = "스폰서 구간을 건너뛰었습니다";
+"FOUND_SEGMENT" = "스폰서 구간이 감지되었습니다";
+"AudioNotificationOnSkip" = "건너뛸 때 소리 재생";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

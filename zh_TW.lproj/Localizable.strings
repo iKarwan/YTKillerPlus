@@ -93,6 +93,17 @@
 "failed_to_import_files" = "Failed to import files: %@";
 "import_result" = "Import Result";
 
+/* sponsorBlock */
+"SPONSORBLOCK" = "跳过赞助";
+"SB_BEHAVIOR" = "行为";
+"SB_SKIP" = "跳过";
+"SB_ASK" = "询问";
+"sub_value" = "提示持续时间: %.lf";
+"UNSKIP" = "取消跳过";
+"SKIP" = "跳过";
+"SEGMENT_SKIPPED" = "已跳过赞助片段";
+"FOUND_SEGMENT" = "检测到赞助片段";
+"AudioNotificationOnSkip" = "跳过时播放声音";
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";
