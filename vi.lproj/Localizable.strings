@@ -107,6 +107,11 @@
 "FOUND_SEGMENT" = "Đã phát hiện phần tài trợ";
 "AudioNotificationOnSkip" = "Phát âm thanh khi bỏ qua";
 
+"clearonstartup" = "Xóa khi khởi động"; // Vietnamese (vi)
+"clearcache" = "Xóa bộ nhớ đệm";
+"On" = "Bật";
+"Off" = "Tắt";
+
 
 "short_fullscreen" = "Toàn màn hình Shorts";
 "short_auto_skip" = "Tự động bỏ qua Shorts";

@@ -107,6 +107,12 @@
 "FOUND_SEGMENT" = "Sponsor-Segment erkannt";
 "AudioNotificationOnSkip" = "Ton beim Überspringen abspielen";
 
+/* clearCaches */
+"clearonstartup" = "Beim Start löschen"; // German (de)
+"clearcache" = "Cache löschen";
+"On" = "Ein";
+"Off" = "Aus";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

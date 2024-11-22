@@ -107,6 +107,11 @@
 "FOUND_SEGMENT" = "스폰서 구간이 감지되었습니다";
 "AudioNotificationOnSkip" = "건너뛸 때 소리 재생";
 
+"clearonstartup" = "시작 시 지우기"; // Korean (ko)
+"clearcache" = "캐시 지우기";
+"On" = "켜짐";
+"Off" = "꺼짐";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

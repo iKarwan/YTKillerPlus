@@ -119,6 +119,11 @@
 "FOUND_SEGMENT" = "Sponsor bölümü tespit edildi";
 "AudioNotificationOnSkip" = "Atlarken ses çal";
 
+"clearonstartup" = "Başlangıçta Temizle"; // Turkish (tr)
+"clearcache" = "Önbelleği Temizle";
+"On" = "Açık";
+"Off" = "Kapalı";
+
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";
 "USE_PREM_LOGO" = "use Premium Logo";

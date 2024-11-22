@@ -108,6 +108,12 @@
 "FOUND_SEGMENT" = "Sponsor segment detected";
 "AudioNotificationOnSkip" = "Play audio on skip";
 
+/* clearCaches */
+"clearonstartup" = "Clear on startup";
+"clearcache" = "Clear cache";
+"On" = "On";
+"Off" = "Off";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

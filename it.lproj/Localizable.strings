@@ -108,6 +108,11 @@
 "FOUND_SEGMENT" = "Segmento sponsor rilevato";
 "AudioNotificationOnSkip" = "Riproduci audio al salto";
 
+"clearonstartup" = "Cancella all'avvio"; // Italian (it)
+"clearcache" = "Cancella cache";
+"On" = "Acceso";
+"Off" = "Spento";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

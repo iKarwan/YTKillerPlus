@@ -105,6 +105,11 @@
 "FOUND_SEGMENT" = "检测到赞助片段";
 "AudioNotificationOnSkip" = "跳过时播放声音";
 
+"clearonstartup" = "启动时清除"; // Chinese (Simplified, zh)
+"clearcache" = "清除缓存";
+"On" = "开";
+"Off" = "关";
+
 "short_fullscreen" = "短视频全屏";
 "short_auto_skip" = "短视频自动跳过";
 "USE_PREM_LOGO" = "启用 Premium Logo";

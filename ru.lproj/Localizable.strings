@@ -105,6 +105,11 @@
 "FOUND_SEGMENT" = "Обнаружен сегмент спонсора";
 "AudioNotificationOnSkip" = "Проигрывать звук при пропуске";
 
+"clearonstartup" = "Очистить при запуске"; // Russian (ru)
+"clearcache" = "Очистить кеш";
+"On" = "Вкл";
+"Off" = "Выкл";
+
 
 "short_fullscreen" = "Shorts Fullscreen";
 "short_auto_skip" = "Shorts Auto Skip";

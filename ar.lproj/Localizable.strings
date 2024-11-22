@@ -108,6 +108,11 @@
 "FOUND_SEGMENT" = "تم اكتشاف مقطع إعلاني";
 "AudioNotificationOnSkip" = "تشغيل صوت عند التخطي";
 
+/* clearCaches */
+"clearonstartup" = "مسح عند بدء التشغيل";
+"clearcache" = "مسح ذاكرة التخزين المؤقت";
+"On" = "تشغيل";
+"Off" = "إيقاف";
 
 "short_fullscreen" = "تشغيل المقاطع القصيرة في ملء الشاشة";
 "short_auto_skip" = "تخطي المقاطع القصيرة تلقائيًا";

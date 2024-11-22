@@ -105,6 +105,12 @@
 "AudioNotificationOnSkip" = "Reproducir sonido al saltar";
 
 
+"clearonstartup" = "Borrar al iniciar"; // Spanish (es)
+"clearcache" = "Borrar caché";
+"On" = "Encendido";
+"Off" = "Apagado";
+
+
 "short_fullscreen" = "Cortos Completa";
 "short_auto_skip" = "Cortos Auto Skip";
 "USE_PREM_LOGO" = "utilizar el logotipo Premium";
