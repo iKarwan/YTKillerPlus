@@ -86,6 +86,8 @@
 "restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
 "invalid_backup_file" = "Invalid Backup File";
 "invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+"Backup_saved" = "Sao lưu đã được lưu thành công vào ứng dụng Tệp"; // Vietnamese (vi)
+"Backup_not_saved" = "Cảnh báo: Sao lưu không được lưu trong ứng dụng Tệp";
 
 /* import Media */
 "import_media" = "Import Media";

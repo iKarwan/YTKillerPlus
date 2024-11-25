@@ -98,6 +98,8 @@
 "restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
 "invalid_backup_file" = "Invalid Backup File";
 "invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+"Backup_saved" = "Yedekleme başarıyla Dosyalar uygulamasına kaydedildi"; // Turkish (tr)
+"Backup_not_saved" = "Uyarı: Yedekleme Dosyalar uygulamasına kaydedilmedi";
 
 /* import Media */
 "import_media" = "Import Media";

@@ -84,6 +84,8 @@
 "restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
 "invalid_backup_file" = "Invalid Backup File";
 "invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+"Backup_saved" = "Резервная копия успешно сохранена в приложении «Файлы»"; // Russian (ru)
+"Backup_not_saved" = "Предупреждение: Резервная копия не сохранена в приложении «Файлы»";
 
 /* import Media */
 "import_media" = "Import Media";

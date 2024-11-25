@@ -87,6 +87,8 @@
 "restore_backup_confirm_disc" = "هل تريد استعادة هذه النسخة الاحتياطية\nYTKPlus_Backup.zip\nلا يمكن التراجع عن هذا الإجراء!";
 "invalid_backup_file" = "ملف النسخة الاحتياطية غير صالح";
 "invalid_backup_file_disc" = "يرجى تحديد ملف YTKPlus_Backup.zip.";
+"Backup_saved" = "تم حفظ النسخة الاحتياطية في تطبيق الملفات بنجاح"; // Arabic (ar)
+"Backup_not_saved" = "تحذير: لم يتم حفظ النسخة الاحتياطية في تطبيق الملفات";
 
 /* import Media */
 "import_media" = "استيراد الوسائط";

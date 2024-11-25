@@ -87,6 +87,8 @@
 "restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
 "invalid_backup_file" = "Invalid Backup File";
 "invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
+"Backup_saved" = "Backup salvato con successo nell'app File"; // Italian (it)
+"Backup_not_saved" = "Avviso: Il backup non è stato salvato nell'app File";
 
 /* import Media */
 "import_media" = "Import Media";

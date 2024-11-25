@@ -84,6 +84,8 @@
 "restore_backup_confirm_disc" = "是否要恢复此备份\nYTKPlus_Backup.zip\n此操作无法撤消！";
 "invalid_backup_file" = "备份文件无效";
 "invalid_backup_file_disc" = "请选择YTKPlus_Backup.zip文件。";
+"Backup_saved" = "备份已成功保存到文件应用";
+"Backup_not_saved" = "警告：备份未保存到文件应用";
 
 /* import Media */
 "import_media" = "导入媒体";
