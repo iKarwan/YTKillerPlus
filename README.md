@@ -23,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.41.ipa) | com.google.ios.youtube | 19.47 | 3.2.41 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.41_TrollStore.tipa) | com.google.ios.youtube | 19.47| 3.2.41 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42.ipa) | com.google.ios.youtube | 19.47 | 3.2.42 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42_TrollStore.tipa) | com.google.ios.youtube | 19.47| 3.2.42 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -40,7 +40,7 @@
 * Right click on the AltServer icon with your phone connected and choose "Install Altstore", then the name of your phone. When prompted sign in with your Apple ID. Two-factor Authentication is supported, app-specific passwords are not.
 
     * install via AltStore.
-    * [Open In AltStore YTKillerPlus v19.47](https://tinyurl.com/2ntpbkwe) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
+    * [Open In AltStore YTKillerPlus v19.47](https://tinyurl.com/259rdkxs) this will take some time as it altstore need to download the iPA and it depending on the internet connection speed .
 
 
 
@@ -52,7 +52,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.41_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
