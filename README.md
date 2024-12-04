@@ -37,12 +37,12 @@
 ### AltStore
 * Download and install AltServer from [here](https://altstore.io).
 
-    * You can copy and add this source to your source list in AltStore
+    * You can copy and add this source to your source list in AltStore ..
     * [ https://ikghd.site/repo.json
 
 
 ### Installing with third party AppStore
-
+*
     * You can copy and add this source to your source list AltStore, Esign, Gbox, etc ..
     * [ https://ikghd.site/repo.json
 
