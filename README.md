@@ -23,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42.ipa) | com.google.ios.youtube | 19.47 | 3.2.42 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42_TrollStore.tipa) | com.google.ios.youtube | 19.47| 3.2.42 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_19.49_YTKillerPlus_3.2.45.ipa) | com.google.ios.youtube | 19.49 | 3.2.45 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_19.49_YTKillerPlus_3.2.45_TrollStore.tipa) | com.google.ios.youtube | 19.49| 3.2.45 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -41,21 +41,22 @@
     * [ https://ikghd.site/repo.json
 
 
-### Installing with third party AppStore
-*
-    * You can copy and add this source to your source list AltStore, Esign, Gbox, etc ..
-    * [ https://ikghd.site/repo.json
-
-
 ### Sideloadly
 * Download and install Sideloadly from [here](https://sideloadly.io).
 
 * Download the YouTube app from the link above, drag the YouTube app into the Sideloadly app, enter your Apple ID account, and sign it.
 
 
+### Installing with third party AppStore
+*
+    * You can copy and add this source to your source list AltStore, Feather, Esign, Gbox, etc ..
+    * [ https://ikghd.site/repo.json
+
+
+
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_19.47_YTKillerPlus_3.2.42_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_19.49_YTKillerPlus_3.2.45_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
