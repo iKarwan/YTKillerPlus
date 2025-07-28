@@ -24,8 +24,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_20.28_YTKillerPlus_3.2.80.ipa) | com.google.ios.youtube | 20.28 | 3.2.80 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_20.28_YTKillerPlus_3.2.80_TrollStore.tipa) | com.google.ios.youtube | 20.28 | 3.2.80 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_20.30_YTKillerPlus_3.2.81.ipa) | com.google.ios.youtube | 20.30 | 3.2.81 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_20.30_YTKillerPlus_3.2.81_TrollStore.tipa) | com.google.ios.youtube | 20.30 | 3.2.81 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -57,7 +57,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_20.28_YTKillerPlus_3.2.80_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_20.30_YTKillerPlus_3.2.81_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
