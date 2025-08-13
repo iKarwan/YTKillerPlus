@@ -7,7 +7,7 @@
 
 /* YTKillerPlus global switch */
 "GLOB_ENABLED" = "Global Enabled weew";
-"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
+"GLOBAL_ENABLED_SWITCH" = "testing...Tap the top-right button to apply changes.";
 
 /* downloding global switch */
 "DOWNLOADING" = "Enable Download Feature";
