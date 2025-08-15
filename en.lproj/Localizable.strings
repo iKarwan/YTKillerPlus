@@ -6,8 +6,8 @@
 /* NOTE 2 !!! Please after translation add your country specific like.  en - ar - zh ext... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabledqw";
-"GLOBAL_ENABLED_SWITCH" = "dwqTap the top-right button to apply changes.";
+"GLOB_ENABLED" = "Global Enabled";
+"GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloding global switch */
 "DOWNLOADING" = "Enable Download Feature";
