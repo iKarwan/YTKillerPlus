@@ -1,0 +1,482 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "چالاککردنی گشتی";
+"GLOBAL_ENABLED_SWITCH" = "کرتە بکە لە گوشەی ڕاستی سەرەوە بۆ جێبەجێکردنی گۆڕانکاریەکان.";
+
+/* downloading global switch */
+"DOWNLOADING" = "چالاککردنی تایبەتمەندی دابەزاندن";
+"glob_overlay_button" = "دوگمەکان کە پیشان دەدرێن لە نێو پەخشەکەر.";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "بەڕێوەبەری دابەزاندن";
+"VIDEO_TAB_BAR" = "ڤیدیۆ";
+"AUDIO_TAB_BAR" = "دەنگ";
+"SHORTS_TAB_BAR" = "Shorts";
+
+/* Startup page section */
+"STARTUP_PAGE" = "پەیجی سەرەتایی بنەڕەتی";
+"DEFAULT_PAGE" = "ماڵەوە";
+
+"HOME" = "ماڵەوە";
+"EXPLORE" = "دەرهێنان";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "بەشداربوونەکان";
+"LIBRARY" = "کتێبخانە";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "کۆنترۆڵی پەخشەکەر و گۆڕان";
+"overlay_player" = "پەخشەکەری Overlay";
+"speed_index" = "خێرایی پەخش";
+"default_speed_index" = "خێرایی بنەڕەتی پەخش";
+"default_speed_index_disc" = "خێرایی پەخشەکەت پاراستە بەبێ کێشە لەگەڵ دوگمەکانی overlay.";
+"pip_player" = "پەخش لە PiP";
+"short_player" = "پەخشکەری Shorts";
+"loop_toggle" = "زیادکردنی دووبارەکردنەوە";
+
+/* quality & playback */
+"yt_video_quality_wifi" = "کوالێتی ڤیدیۆ لە Wi-Fi";
+"yt_video_quality_celluar" = "کوالێتی ڤیدیۆ لە موبایل";
+"auto" = "خۆکار";
+"yt_speed_playback" = "خێرایی بنەڕەتی پەخش";
+"normal" = "ئاسایی";
+"default" = "بنەڕەتی";
+
+/* copy / save */
+"image" = "پاشەکەوتکردنی وێنە";
+"information" = "کۆپی زانیاری";
+"copy_title" = "کۆپی ناونیشان";
+"copy_describtion" = "کۆپی وەسف";
+"copied" = "کۆپی کرا بۆ کلیپبۆرد";
+
+"save_pfP" = "پاشەکەوتی وێنەی پرۆفایل";
+"copy_ptext" = "کۆپی دەق";
+"save_img" = "پاشەکەوتی وێنە";
+"copy_comment" = "کۆپی سەرنج";
+"pip_mode" = "پەخش لە پەخشکەری دەرەکی";
+"ios_system_player" = "پەخشکەری سیستەم";
+"infuse_player" = "پەخشکەری Infuse";
+"vlc_player" = "پەخشکەری VLC";
+"infuse_not_installed" = "Infuse دامەزرابێت";
+"vlc_not_installed" = "VLC دامەزرابێت";
+"pip_mode_desc" = "پێویستە 'پەخش لە پشتەوە' چالاک بکەیت بۆ بەکارهێنانی PiP.";
+"mini_player2" = "پەخشکەری بچووک";
+"floating_mini_player" = "پەخشکەری بچووک بەشاردراو";
+
+/* backup and restore */
+"backup_and_restore" = "پاشەکەوت و گەڕاندنەوە";
+"cretae_a_backup" = "دروستکردنی پاشەکەوت";
+"create_a_backup_disc" = "هەموو ڤیدیۆ و دەنگە دابەزراوەکان بۆ 'فایلەکان' دەهێنێت.";
+"restore_backup" = "گەڕاندنەوەی پاشەکەوت";
+"restore_backup_disc" = "پاشەکەوتەکان لە 'فایلەکان' دەگەڕێندرێنەوە.";
+"backup_prepared" = "پاشەکەوت ئامادە دەکرێت...";
+"create_failed" = "پاشەکەوت سەرکەوتوو نەبوو";
+"failed_create_disc" = "نەیتوانرا پاشەکەوت دروست بکرێت. تکایە دووبارە هەوڵبدە.";
+"restoring_backup" = "گەڕاندنەوەی پاشەکەوت...";
+"restore_complete" = "گەڕاندنەوە تەواو بوو";
+"restore_complete_disc" = "کتێبخانەی YTKPlus بە سەرکەوتوویی گەڕێندرایەوە.";
+"restore_failed_disc" = "گەڕاندنەوەی پاشەکەوت سەرکەوتوو نەبوو.";
+"restore_failed" = "گەڕاندنەوە سەرکەوتوو نەبوو";
+"restore_backup_confirm" = "گەڕاندنەوە";
+"create" = "دروستکردن";
+"create_backup" = "دەتەوێت پاشەکەوت دروست بکەیت؟";
+"restore_backup_confirm_disc" = "دەتەوێت YTKPlus_Backup.zip گەڕێنیتەوە؟\nئەم کردارە ناتوانرێت پاشگەزبکرێتەوە!";
+"invalid_backup_file" = "پەڕگەی پاشەکەوت نادروستە";
+"invalid_backup_file_disc" = "تکایە پەڕگەی YTKPlus_Backup.zip هەڵبژێرە.";
+"Backup_saved" = "پاشەکەوت بە سەرکەوتوویی پاشەکەوت کرا.";
+"Backup_not_saved" = "ئاگاداری: پاشەکەوت نەکرا.";
+
+/* import media */
+"import_media" = "هاوردنی میدیا";
+"import_media_disc" = "ڤیدیۆ و دەنگەکان بخە بە کتێبخانەی YTKPlus لە 'فایلەکان'. دەتوانیت چەندین پەڕگە هەڵبژێریت.";
+"choose_media_type" = "جۆری میدیا هەڵبژێرە";
+"successfully_imported_files" = "پەڕگەکانی سەرکەوتووی هاوردرا: %@";
+"failed_to_import_files" = "پەڕگەکانی نەهاتە هاوردن: %@";
+"import_result" = "ئەنجامی هاوردن";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "ڕەفتاری پەیوەندیدار";
+"SB_SKIP" = "پەڕینەوە";
+"SB_ASK" = "پرسیارکردن";
+"sub_value" = "ماوەی ئاگاداری: %.lf";
+/* popup */
+"UNSKIP" = "پەڕینەوەی نا";
+"SKIP" = "پەڕینەوە";
+"SEGMENT_SKIPPED" = "بەشی سپۆنسەر پەڕی";
+"FOUND_SEGMENT" = "بەشی سپۆنسەر دۆزرایەوە";
+"AudioNotificationOnSkip" = "لە پەڕینەوەدا ئاواز پێشاندان";
+
+/* shorts */
+"short_fullscreen" = "پڕ شاشە";
+"short_auto_skip" = "پەڕینەوەی خۆکارانەی Shorts";
+"USE_PREM_LOGO" = "بەکارهێنانی نیشانی Premium";
+"cast_confirm" = "دڵنیابوونی Cast";
+"video_available" = "ڤیدیۆ بەردەستە";
+"videos_available" = "ڤیدیۆکان بەردەستن";
+"audio_available" = "دەنگ بەردەستە";
+"audios_available" = "دەنگەکان بەردەستن";
+"short_available" = "Short بەردەستە";
+"shorts_available" = "Shorts بەردەستن";
+
+/* general section */
+"VIDEO_PLAYER" = "هەڵبژاردەکانی پەخشکەری ڤیدیۆ";
+"OVERLAY_OPTIONS" = "هەڵبژاردەکانی Overlay";
+"STREAM_OPTIONS" = "هەڵبژاردەکانی پەخش";
+"IPAD_OPTIONS" = "هەڵبژاردەکانی iPad";
+"NAVIGATION_BAR" = "هەڵبژاردەکانی ڕێنیشاندەر";
+"SHORTS_OPTION" = "هەڵبژاردەکانی Shorts";
+"DOWNLOAD_OPTIONS" = "هەڵبژاردەکانی دابەزاندن";
+"TAB_BAR_OPTIONS" = "هەڵبژاردەکانی تابلۆ";
+"MISCELLANEOUS" = "گشتی";
+
+/* switches */
+"OLED_DARK_MODE" = "شێوەی تاریکی OLED";
+"PLAY_IN_BACKGROUND" = "پەخش لە پشتەوە";
+"NO_ADVERTISMENT" = "لابردنی ڕیکلام";
+"NO_AGE_RESTRICTION" = "لابردنی سنورە سنییەکان";
+"HIDE_YT_SHORTS" = "شاردنەوەی Shorts لە فید";
+"DISABLE_CAPTIONS" = "ناچالاککردنی نووسراوەکان";
+
+/* video player */
+"VIDEO_PLAYER_SECTION" = "پەخشکەری ڤیدیۆ";
+"HIDE_SUGGESTED_VIDEO" = "شاردنەوەی ڤیدیۆی پێشنیارکراو";
+"COMMENTS" = "سەرنجەکان";
+"HIDE_COMMENTS" = "شاردنەوەی سەرنجەکان";
+"HIDE_COMMENTS_PREVIEW" = "شاردنەوەی پێشبینینی سەرنج";
+"HIDE_COMMENTS_PREVIEW_INFO" = "لابردنی سەرنجەکانی سپۆیلەر.";
+"HIDE_COMMENTS_GUIDLINES" = "شاردنەوەی ڕێنمایی سەرنج";
+"HIDE_COMMUNITY_TEXT_INFO" = "شاردنەوەی نووسینی کۆمەڵگە لەسەرەوە.";
+
+/* overlay */
+"OVERLAY_SECTION" = "Overlay";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "پیشاندانی بارەی دۆخ لە Overlay";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "لەسەر ئامێرەکانی notch یان iPad-style کارناکات.";
+"DISABLE_DOUBLE_TAP" = "قەدەغەکردنی دوو کرتە";
+"DISABLE_CONTINUE_WATCHING" = "قەدەغەکردنی بەردەوامبوون لە تماشا";
+"DISABLE_CONTINUE_WATCHING_INFO" = "پیشان دەدرێت کاتێک ڤیدیۆی درێژ دەبینیت.";
+"HIDE_OVERLAY_QUICK_ACTION" = "شاردنەوەی کردارە خێراکان";
+"HIDE_PLAYERBAR_WAVE" = "شاردنەوەی موجی ڕێکەوتەکانی ڤیدیۆ";
+"HIDE_PLAYERBAR_WAVE_INFO" = "لابردنی نیشانی بینراوی لەسەر ڕێکەوتەکە.";
+"SWIPE_TO_HIDE_PANEL" = "سوایپ بۆ شاردنەوەی پەیج";
+"SWIPE_TO_HIDE_PANEL_INFO" = "لە پڕشاشەدا لە چەپ بۆ ڕاست بکە بۆ شاردنەوە.";
+"DISABLE_PINCH_TO_ZOOM" = "قەدەغەکردنی Zoom بە قپاندن";
+"MEDIA_CONTROLLER" = "کۆنترۆڵەکانی Overlay";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "هەمیشە پیشاندانی دوگمەی پەخش/وەستان";
+"SHOW_MEDIA_CONTROLLER" = "پیشاندانی هەموو کۆنترۆڵەکان";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "شاردنەوەی پشتەوەی تاریک";
+"KEEP_CAPTION_ON" = "هەمیشە نووسراوەکان چالاک بەهێڵە";
+"KEEP_CAPTION_ON_INFO" = "نووسراوەکان بە شێوەی خۆکار پێشاندەدرێن.";
+"PREVIUOS_AND_NEXT_BUTTON" = "دوگمەی پێشووتر و داهاتوو";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "ناچالاککردنی پێشووتر و داهاتوو";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "دوگمەی پێشووتر و داهاتوو بچووکبکە";
+"PLAYER_BAR_NEXT_BUTTON" = "زیادکردنی دوگمەی داهاتوو لە نزیک کاتی ڤیدیۆ";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "شاردنەوەی پێشووتر و داهاتوو";
+"HIDE_BACK_BUTTON_SHADOW" = "شاردنەوەی سێبەری دوگمەکان";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "گۆڕینیان بە دوگمەی پێشەوە/پاشەوە";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "دوگمەکان دەگۆڕێت بە خێرابەڕەوە و گەڕانەوەی خێرا.";
+"HIDE_ITEMS" = "شاردنەوەی تەنیشتەکان";
+"HIDE_VOLUME_BAR" = "شاردنەوەی هێڵی دەنگ";
+"HIDE_VOLUME_BAR_INFO" = "هێڵی سپی دەنگ لە شاشەی پارچە شاردەوە.";
+"HIDE_INFO_CARD" = "شاردنەوەی کارتەی زانیاری";
+"HIDE_WATER_MARK" = "شاردنەوەی نیشانی YouTube";
+"HIDE_AUTOPLAY_BUTTON" = "شاردنەوەی دوگمەی پەخشە خۆکارانە";
+"HIDE_CAPTIONS_BUTTON" = "شاردنەوەی دوگمەی نووسراوەکان";
+"HIDE_PLAY_PUASE" = "شاردنەوەی پەخش/وەستان";
+"HIDE_MORE_GEAR_ICON" = "شاردنەوەی دوگمەی زیادە/ڕێکخستن";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "شاردنەوەی دوگمەی چات لە پەخشی ڕاستەوخۆ";
+"HIDE_CAST_BUTTON" = "شاردنەوەی دوگمەی Cast";
+"HIDE_ENDSCREEN_VIDEOS" = "شاردنەوەی ڤیدیۆی کۆتایی";
+"HIDE_RELATED_VIDEOS" = "شاردنەوەی ڤیدیۆی پەیوەندیدار";
+"HIDE_LANDSCAPE_COMMENTS" = "ناچالاککردنی سەرنجەکان لە شاشەی پارچە";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "بەشی سەرنج بە تەواوی لە دۆخی پارچە ناچالاک دەبێت.";
+"SHOW_PROGRESS_BAR" = "هێڵی پێشکەوتن هەمیشە پیشان بدە";
+"SHOW_PROGRESS_BAR_INFO" = "سوایپ بۆ ڤیدیۆی پەیوەندیدار ناچالاک دەبێت.";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "چالاککردنی دۆخی کوالێتی کۆن";
+"LEGACY_QUALITY_MODE_INFO" = "گەڕاندنەوەی لیستی کوالێتی کۆنەکە.";
+"PICTURE_IN_PICTURE_PIP" = "وێنە لە نێو وێنە (PiP)";
+"ENABLE_PIP" = "چالاککردنی PiP";
+"ENABLE_PIP_INFO" = "دوگمەی PiP زیاد دەکات لە Overlay.";
+"DOUBLE_TAP" = "هەڵبژاردەکانی دوو کرتە";
+"CUSTOM_SKIP_DURATION" = "ماوەی تایبەتی پەڕینەوە";
+"VALUE_CHANGES_JB" = "چرکە: %.lf";
+"VALUE_CHANGES" = "چرکە: 10";
+"STREAMING_SECTION" = "پەخش";
+"PLAYBACK_SPEED" = "هەڵبژاردەی خێرایی پەخش";
+"PLAYBACK_SPEED_INFO" = "Overlay → Gear → Playback Speed";
+"DISABLE_AUTOPLAY_VIDEOS" = "قەدەغەکردنی پەخشە خۆکارانەکان";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "پەخشکردنی HD لەسەر مۆبایل";
+
+/* iPad section */
+"IPAD_SECION" = "دۆخی iPad";
+"IPADOS_MODE" = "چالاککردنی دۆخی iPadOS";
+"DISABLE_DRAG_AND_DROP" = "قەدەغەکردنی ڕاکێشان و دانان";
+"HIDE_CHANNEL_CIRCLES" = "شاردنەوەی دایرەی چەناڵەکان";
+"HIDE_CHANNEL_CIRCLES_INFO" = "لە بەشەی بەشداربوونەکان، نیشانەکانی چەناڵ لە ژێر ڕێنیشاندەر شاردەوە.";
+"MINI_PLAYER_ASPECT_RATIO" = "ڕێژەی پەخشکەری بچووک";
+"USE_ASPECT_RATIO" = "بەکارهێنانی پڕ ڕێژە";
+"USE_ASPECT_RATIO_INFO" = "لە دۆخی iPad-style پشتیوانی ناکات.";
+"MINI_PLAYER" = "پەخشکەری بچووک بە شێوەی iPad";
+"REDEFIND_MINI_PLAYER" = "پەخشکەری بچووک لە ناوەڕاست";
+"MINI_PLAYER_IPAD_MODE" = "پەخشکەری بچووک لە ڕاست";
+
+/* navbar section */
+"STATUS_BAR" = "بارەی دۆخ";
+"HIDE_STATUS_BAR" = "شاردنەوەی بارەی دۆخ";
+"CHANNEL_SECTIONS" = "بەشی چەناڵ";
+"STICKY_NAV_BAR" = "شاردنەوەی هاوپۆلەکان لە ژێر ڕێنیشاندەر";
+"SHOW_YTKPLUS_ICON" = "پیشاندانی نیشانی YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "شاردنەوەی تەنیشتەکان";
+"SHOW_YTKPlus_Icon" = "پیشاندانی نیشانی YTKPlus";
+"HIDE_YT_LOGO" = "شاردنەوەی نیشانی YouTube";
+"HIDE_NOTIFICATIONS_BILL" = "شاردنەوەی ئاگادارکردنەوەکان";
+"HIDE_ACCOUNT" = "شاردنەوەی ئەکاونت";
+"HIDE_SEARCH" = "شاردنەوەی گەڕان";
+"HIDE_CAST_BUTTON" = "شاردنەوەی دوگمەی Cast";
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "چالاککردنی بارەی پەخش لە خوارەوە";
+"HIDE_ELEMNTS" = "شاردنەوەی تەنیشتەکان";
+"HIDE_PAUSE_CARD" = "شاردنەوەی کارتەی وەستان";
+"HIDE_LIKE_BUTTON" = "شاردنەوەی دوگمەی دڵخۆشی";
+"HIDE_DISLIKE_BUTTON" = "شاردنەوەی دوگمەی نەخۆشی";
+"HIDE_COMMENTS_BUTTON" = "شاردنەوەی دوگمەی سەرنجەکان";
+"HIDE_SHARE_BUTTON" = "شاردنەوەی دوگمەی هاوبەشکردن";
+"HIDE_REMIX_BUTTON" = "شاردنەوەی دوگمەی Remix";
+"HIDE_AVATAR_BUTTON" = "شاردنەوەی وێنەی بەکارهێنەر";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "هەڵبژاردەکانی دابەزاندنی زیادە";
+"LOCAL_DOWNLOADING" = "چالاککردنی دابەزاندنی ناوخۆیی";
+"LOCAL_DOWNLOADING_INFO" = "کرتەی درێژ بکە لەسەر ڤیدیۆ بۆ کردنەوەی لیستی دابەزاندن.";
+"HIDE_DOWNLOAD_BUTTON" = "شاردنەوەی دوگمەی دابەزاندن";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "دوگمەی دابەزاندنی YouTube شاردەوە.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "لابردنی سنووری بەسەرچوونی ڤیدیۆی دابەزاندراو";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "بۆ ڤیدیۆیەکانی دابەزاندنی بنچینەی YouTube.";
+"DOWNLOAD_SECTION_INFO" = "تێبینی: ئەگەر چەندین کوالێتی هاوشێوە ببینیت، یەکەی سەرەوە هەڵبژێرە. دابەزاندنی ناوخۆیی دەچێت بۆ وێنەکان. قەدەغەی کرتەی درێژ بۆ گواستنەوەی پڕۆگرێس. چالاککردنی 4K ئەم تایبەتمەندییە ناچالاک دەکات.";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "تاب بار";
+"TABS_SHRINKED_BUTTOM" = "تابەکان بچووکبکە (خوار)";
+"TABS_SHRINKED_SMART" = "تابەکان بچووکبکە (زیرەکانە)";
+"DISABLE_CREATE_BUTTON" = "قەدەغەکردنی دروستکردن (+)";
+"HIDE_TAB_LABELS" = "شاردنەوەی ناوی تابەکان";
+"PREVENT_OPEN_IN_SHORTS" = "ڕێگرتن لە کردنەوەی Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "کاتێک YouTube لە Shorts داخرا.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "گۆڕینی Shorts بە Explore";
+"HIDE_TABS" = "شاردنەوەی تابەکان";
+"HIDE_EXPLORE_TAB" = "شاردنەوەی تابەی Explore";
+"HIDE_SHORTS_TAB" = "شاردنەوەی تابەی Shorts";
+"HIDE_CREATE_TAB" = "شاردنەوەی تابەی دروستکردن";
+"HIDE_SUBSCRIPTION_TAB" = "شاردنەوەی تابەی بەشداربوون";
+"HIDE_LIBRARY_TAB" = "شاردنەوەی تابەی کتێبخانە";
+"HIDE_ALL_TAB" = "شاردنەوەی هەموو تابەکان";
+
+/* miscellaneous */
+"MISCELLANEOUS_SECTION" = "گشتی";
+"USE_STOCK_VOLUME_HUD" = "بەکارهێنانی سیستەمی دەنگی بنچینەیی";
+"USE_STOCK_VOLUME_HUD_INFO" = "تەنها لە شاشەی پارچە کاردەکات.";
+"HIDE_SEARCHED_HISTORY" = "شاردنەوەی مێژووی گەڕان";
+"NOT_TOPIC_SECTION" = "بێ بەشی بابەت";
+"HIDE_PREMIUM_POPUP" = "شاردنەوەی پاپەپی Premium";
+"HIDE_YT_UPDATE_POPUP" = "شاردنەوەی پاپەپی نوێکردنەوەی YouTube";
+"HIDE_YT_UPDATE_POPUP_INFO" = "لابردنی ئاگاداریی نوێکردنەوەی بە زۆرکردن.";
+"ENABLE_MINI_PLAYER_VIDEOS" = "چالاککردنی پەخشکەری بچووک بۆ هەموو ڤیدیۆکان";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "پەخشکەری بچووک بەکاربێنە هەتا بۆ ڤیدیۆی منداڵان.";
+"HIDE_HUD_ALERTS" = "شاردنەوەی ئاگاداریی HUD";
+"HIDE_HUD_ALERTS_INFO" = "لابردنی پاپەپەکانی وەک دڵخۆشی/نەخۆشی.";
+"CLASSIC_SHARE" = "پێکهاتەی هاوبەشکردنی کلاسیکی";
+"HIDE_LINE_SEPERATOR" = "شاردنەوەی هێڵە جیاکەرەوەکان لە کتێبخانە";
+"ROUND_ALL_VIEW_CORNERS" = "گێڕخستنەوەی هەموو گۆشەکان";
+"DISABLE_DARK_MODE" = "ناچالاککردنی دۆخی تاریک";
+"HIDE_INCLUDE_PAID_PROMO" = "شاردنەوەی پەیامی پڕۆمۆی پارەدار";
+"DISABLE_RTL" = "ناچالاککردنی زمانە RTL";
+"OTHERS" = "فیدی ماڵەوە";
+"HIDE_PLAYLIST" = "شاردنەوەی لیستی پەخش";
+"PLAYLIST_INFO" = "شێوەی iPad-style پشتیوانی ناکات.";
+"HIDE_COVID_NEWS" = "شاردنەوەی هەواڵی COVID و هەواڵ";
+"COVID_NEWS_INFO" = "لابردنی بەشەکانی COVID و هەواڵ لە ماڵەوە.";
+"HIDE_FILTER_TAGS" = "شاردنەوەی تاگەکانی سەرەوە";
+
+/* global action titles */
+"OK" = "باشە";
+"YES" = "بەڵێ";
+"NO" = "نەخێر";
+"ERROR" = "هەڵە";
+"APP_RESTART_REQUIRED" = "پێویستە YouTube دووبارە بکەیتەوە بۆ جێبەجێکردنی گۆڕانکاریەکان.";
+"FILZA_NOT_INSTALLED_ALERT" = "ئەم ئەپە لەسەر ئامێرەکەت دامەزرابوو نییە.";
+"NO_DATA" = "هیچ داتایەک نییە";
+"CANCEL" = "پاشگەزبوونەوە";
+"DISMISS" = "داخستن";
+"DELETED" = "سڕایەوە";
+"SAVED" = "پاشەکەوت کرا";
+"SUCCESS" = "سەرکەوتوو";
+"VIDEO" = "دابەزاندنی ڤیدیۆ";
+"AUDIO" = "دابەزاندنی دەنگ";
+"RENAME" = "گۆڕینی ناو";
+"RENAME_FILE" = "گۆڕینی ناوی پەڕگە";
+"RENAME_NEW_NAME" = "ناوی نوێ بنووسە:";
+"RENAME_PLACEHOLDER" = "ناوی نوێی ڤیدیۆ بنووسە";
+"RENAME_PLACEHOLDER_AUDIO" = "ناوی نوێی دەنگ بنووسە";
+"PLAY" = "پەخشکەری بنەڕەتی";
+"SHARE" = "هاوبەشکردن";
+"VIEW_IN_FILZA" = "پیشاندن لە Filza";
+"DELETE" = "سڕینەوە";
+"MORE_OPTION" = "هەڵبژاردەی زیاتر";
+"MAIN_OPTION" = "هەڵبژاردەی سەرەکی";
+"DELETE_ALL" = "سڕینەوەی هەموو";
+"SAVE_ARTWORK" = "پاشەکەوتی وێنەی کاور";
+"SAVE_TO_PHOTOS" = "پاشەکەوتکردن بۆ وێنەکان";
+"ARE_YOU_SURE" = "دڵنیایت کە دەتەوێت هەموو پەڕگەکان بسڕیتەوە؟";
+"NOTE" = "تێبینی!";
+"SAVE_FAILED" = "پاشەکەوت سەرکەوتوو نەبوو!";
+"SAVE_TO_PHOTOS_FAILED" = "پاشەکەوتکردن بۆ وێنەکان سەرکەوتوو نەبوو. ڕێگەی ڕوونی وێنە بدە لە ڕێکخستنەکان.";
+"DELETING_VIDEO" = "سڕینەوەی ڤیدیۆ؟";
+"DELETING_AUDIO" = "سڕینەوەی دەنگ؟";
+"SELECT_LANGUAGE" = "زمان هەڵبژێرە";
+"FAQ" = "پرسیار و وەڵام";
+"action_undone" = "ئەم کردارە ناتوانرێت پاشگەزبکرێتەوە!";
+
+/* toast messages */
+"toast_downloading" = "دەدابەزێت...";
+"toast_downloading_audio" = "دەنگ دەدابەزێت...";
+"toast_downloading_video" = "ڤیدیۆ دەدابەزێت...";
+"toast_merging" = "یەکدەکات...";
+"toast_preparing" = "ئامادەکردن... : 0%";
+"toast_download_cancelled" = "دابەزاندن هەڵوەشاوە";
+
+"video_saved" = "✓ ڤیدیۆ پاشەکەوت کرا - %@";
+"video_downloaded" = "🎬 ✓ ڤیدیۆ دابەزێت: %@";
+"audio_saved" = "✓ دەنگ پاشەکەوت کرا - %@";
+"audio_downloaded" = "🎵 ✓ دەنگ دابەزێت: %@";
+"shorts_downloaded" = "🎬 ✓ Shorts دابەزێت";
+"queued" = "📥 زیاد کرا بۆ لیست: ";
+"video_queuad" = "🎬 📥 ڤیدیۆ زیاد کرا بۆ لیست: ";
+"audio_queuad" = "🎵 📥 دەنگ زیاد کرا بۆ لیست: ";
+"starting" = "🔄 دەست پێدەکات: %@";
+"audio_progress" = "🎵 دەنگ: %@";
+"video_progress" = "🎬 ڤیدیۆ: %@";
+"converting" = "⚙️ گۆڕین: %@";
+"merging" = "⚙️ تێکەڵکردن: %@";
+"download_cancelled" = "❌ دابەزاندن هەڵوەشاوە: %@";
+"quea_cancelled" = "❌ لە لیستەکە سڕایەوە";
+"cancelled" = "❌ هەڵوەشاوە: %@";
+"loop_disabled" = "🔁 دووبارەکردنەوە ناچالاک کرا";
+"loop_enabled" = "🔂 دووبارەکردنەوە چالاک کرا";
+"Auto_Skip" = "پەڕینەوەی خۆکار";
+"Exit_Fullscreen" = "چوونە دەر لە پڕشاشە";
+
+/* info */
+"play_next" = "پەخشکردنی داهاتوو";
+"close" = "داخستن";
+
+"VIDEO_INFO" = "زانیاریی ڤیدیۆ";
+"FILE_SIZE" = "قەبارەی پەڕگە";
+"DURATION" = "ماوە";
+"DIMENSIONS" = "ئەندازە";
+"BITRATE" = "بیتڕەیت";
+"FRAME_RATE" = "ڕێژەی فریم";
+"CREATED" = "دروستکرا";
+"AUDIO_INFO" = "زانیاریی دەنگ";
+"FORMAT" = "فۆرمات";
+"SAMPLE_RATE" = "ڕێژەی نموونە";
+"CHANNELS" = "چەنەلەکان";
+
+/* time ago */
+"year_ago" = "%ld ساڵ پێش";
+"month_ago" = "%ld مانگ پێش";
+"week_ago" = "%ld هەفتە پێش";
+"day_ago" = "%ld ڕۆژ پێش";
+"hour_ago" = "%ld کاتژمێر پێش";
+"minute_ago" = "%ld خولەک پێش";
+"s" = "s";
+"kilo_byte" = "%@    %*s    %.0f کیلوبایت";
+"mega_byte" = "%@    %*s    %.1f مێگابایت";
+
+/* gestures */
+"gestures_control" = "کۆنترۆڵی گەشتەکان";
+"brightness" = "ڕووناکی";
+"left" = "چەپ";
+"right" = "ڕاست";
+"disabled" = "ناچالاک";
+"volume" = "دەنگ";
+"hold_to_seek" = "بگرە بۆ گەڕان";
+"seek_duration" = "ماوەی گەڕان";
+"seconds" = "%.0f چرکە";
+"volume_brightness_gesture" = "گەشتەی دەنگ و ڕووناکی";
+"seek_settings" = "ڕێکخستنی گەڕان";
+"gestures_config_description" = "دیاری بکە کام لا دەنگ و ڕووناکی کۆنترۆڵ دەکات.\n\nتێبینی:\n١. لە دۆخی ڕاستەقینەدا، لە هەردوو لا سوایپ بەخوارەوە بکە.\n٢. لە پڕشاشەدا، لە ژێرەوە سوایپ بکە بۆ کارکردنی گەشتەی YouTube.";
+"hold_to_seek_description" = "لا چەپ یان ڕاست بگرە بۆ گەڕانی بەردەوام. ماوەی هەنگاوەکان دابنێ.";
+"brightness_gesture_left" = "ڕووناکی";
+"gesture_left_side" = "گەشتەی لا چەپ";
+"cancel" = "پاشگەزبوونەوە";
+"volume_gesture_right" = "دەنگ";
+"gesture_right_side" = "گەشتەی لا ڕاست";
+
+/* credits */
+"OTHER_TWEAKS" = "پڕۆژەی تر";
+"CREDITS" = "پێزانینەکان";
+"SPECIAL_THANK" = "سوپاسە تایبەتی";
+"LOCALIZATION" = "وەرگێڕانەکان";
+"icon_by" = "نیشانە لەلایەن";
+"DEVELOPER" = "پەرەپێدەر";
+"WELCOM_ALERT" = "بۆ گۆڕینی ڕێکخستنەکان، بچۆ بۆ تابی YTKPlus و کرتە بکە لەسەر دوگمەی ڕێکخستنەکان.";
+
+/* clearCaches */
+"clearonstartup" = "پاککردنەوە لە کاتی دەستپێکردن";
+"clearcache" = "پاککردنەوەی کاش";
+"On" = "چالاک";
+"Off" = "ناچالاک";
+
+"CLEARING_CACHE" = "کاش دەسڕێتەوە...";
+"PLEASE_WAIT" = "تکایە چاوه‌ڕێ بکە...";
+"CACHE_CLEARED" = "کاش بە سەرکەوتوویی سڕایەوە!";
+"CLEAR_CACHE" = "پاککردنەوەی کاش";
+"CALCULATING" = "ژمێرەکردن...";
+
+/* checkForUpdates */
+"the_changelog" = "گۆڕانەکان";
+"skip_version" = "پەڕینەوەی ئەم وەشانە";
+"updates_available" = "نوێکردنەوە بەردەستە";
+"new_version_available" = "وەشانی نوێی YTKillerPlus (%@) بەردەستە. پێشنیار دەکرێت هەمیشە بە نوێترین وەشان بمێنیت.";
+
+/* license section */
+"license_option" = "هەڵبژاردەی مۆڵەت";
+"license_option_disc" = "هەڵبژێرە:";
+"activate_new_license" = "چالاککردنی مۆڵەتی نوێ";
+"restore_license" = "گەڕاندنەوەی مۆڵەت";
+"renew_license" = "نوێکردنەوەی مۆڵەت";
+"buy_license" = "کڕینی مۆڵەت";
+"activate_new_license_disc" = "ئیمەیڵ و کۆدی مۆڵەت بنووسە.";
+"email" = "ئیمەیڵ";
+"license_key" = "کۆدی مۆڵەت";
+"activate" = "چالاککردن";
+"invalid_email" = "ئیمەیڵ نادروستە";
+"invalid_email_disc" = "تکایە ئیمەیڵێکی دروست بنووسە.";
+"invalid_license" = "مۆڵەت نادروستە";
+"license_key_empty" = "کۆدی مۆڵەت نابێت بەتاڵ بێت.";
+"license_key_length_wrong" = "درێژی کۆد نادروستە.\nتکایە کۆدی دروست بنووسە.";
+"restore_license_disc" = "ئیمەیڵی پەیوەست بە مۆڵەت بنووسە.";
+"restore" = "گەڕاندنەوە";
+"license_restored_successfully" = "مۆڵەت بە سەرکەوتوویی گەڕێندرایەوە.";
+"license_restored" = "مۆڵەت گەڕێندرایەوە";
+"restore_failed" = "گەڕاندنەوە سەرکەوتوو نەبوو";
+"enter_license_key" = "کۆدی مۆڵەت بنووسە";
+"enter_license_key_disc" = "کۆدی مۆڵەت بنووسە بۆ دڵنیاکردنەوە.";
+"license_key_authenticated" = "مۆڵەت دڵنیایی کرا. بەسەر دەچێت لە: %@";
+"authentication_successful" = "پشتڕاستکردنەوە سەرکەوتوو بوو";
+"authentication_failed" = "پشتڕاستکردنەوە سەرکەوتوو نەبوو";
+"key_expired" = "کۆدەکە بەسەرچووە";
+"license_expired" = "مۆڵەت بەسەرچووە";
+"license_expired_disc" = "مۆڵەتەکەت بەسەرچووە. تکایە نوێی بکەوە.";
+"license_verification_failed" = "پشتڕاستکردنەوەی مۆڵەت سەرکەوتوو نەبوو";
+"no_internet" = "ئینتەرنێت نییە";
+"no_internet_disc" = "پێویستە پەیوەندی ئینتەرنێت هەبێت بۆ پشتڕاستکردنەوە.";
+"license_disc" = "کۆدی مۆڵەت نادروستە.";
+
+/* other stuff */

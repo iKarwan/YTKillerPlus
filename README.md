@@ -25,8 +25,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_20.44_YTKillerPlus_3.3.4.ipa) | com.google.ios.youtube | 20.44 | 3.3.4 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_20.44_YTKillerPlus_3.3.4_TrollStore.tipa) | com.google.ios.youtube | 20.44 | 3.3.4 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_20.45_YTKillerPlus_3.3.6.ipa) | com.google.ios.youtube | 20.45 | 3.3.6 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_20.45_YTKillerPlus_3.3.6_TrollStore.tipa) | com.google.ios.youtube | 20.45 | 3.3.6 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -58,7 +58,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_20.44_YTKillerPlus_3.3.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_20.45_YTKillerPlus_3.3.6_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
@@ -66,8 +66,7 @@
 
 
 ## Localization
-* YTKillerPlus fully supports localization. If you'd like to add your language, please download the base file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
-**NOTE:** You have the right to request a copy of YTKillerPlus after translation and be credited.
+* YTKillerPlus fully supports localization. If you'd like to add your language, please download the English file, translate it completely, then open a pull request or send it via email to (ikghd3@gmail) to be added in a future update.
 
 ### Donations
 * Donations are always appreciated to keep the project going!

@@ -1,397 +1,381 @@
 /* created on 25/10/2022 */
 /* by iKarwan */
-/* Russian by dayanch96 */
-
-/* NOTE!!! you have right to request a copy of YTKillerPlus after translation and add to credits */
+/* Russian by dayanch96 & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled";
-"GLOBAL_ENABLED_SWITCH" = "Активирует твик";
+"GLOB_ENABLED" = "Глобальное включение";
+"GLOBAL_ENABLED_SWITCH" = "Нажмите в правом верхнем углу, чтобы применить изменения.";
 
-/* downloding global switch */
-"DOWNLOADING" = "Скачивание";
-"GLOBAL_DOWNLOADING_SWITCH" = "Активирует функцию скачивания";
+/* downloading global switch */
+"DOWNLOADING" = "Включить загрузку";
+"glob_overlay_button" = "Кнопки, отображаемые в плеере.";
 
-/* Default Download Quality section */
-"DEFAULT_DOWNLOAD_QUALITY" = "Set Download Quality";
-"ALWAYS_ASK" = "Always Ask";
-"AUDIO_ONLY" = "Audio Only";
+/* download manager section */
+"DOWNLOAD_MANAGER" = "Менеджер загрузок";
+"VIDEO_TAB_BAR" = "Видео";
+"AUDIO_TAB_BAR" = "Аудио";
+"SHORTS_TAB_BAR" = "Шорты";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Начальная страница";
+"STARTUP_PAGE" = "Стартовая страница";
 "DEFAULT_PAGE" = "Главная";
 
 "HOME" = "Главная";
-"EXPLORE" = "Навигация";
-"SHORTS" = "Shorts";
+"EXPLORE" = "Обзор";
+"SHORTS" = "Шорты";
 "SUBSCRIPTIONS" = "Подписки";
 "LIBRARY" = "Библиотека";
+"YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Overlay Controls & Shortcuts";
-"overlay_player" = "Overlay Player";
-"speed_index" = "Playback Speed";
-"default_speed_index" = "Default Playback Speed";
-"default_speed_index_disc" = "A switch for Default playback speed to prevent conflicts with speed playback button on overlay.";
-"pip_player" = "PiP Player";
-"short_player" = "Shorts Player";
+"overlay_button" = "Элементы управления плеером";
+"overlay_player" = "Оверлей-плеер";
+"speed_index" = "Скорость воспроизведения";
+"default_speed_index" = "Скорость по умолчанию";
+"default_speed_index_disc" = "Удерживает выбранную скорость, предотвращая сбои.";
+"pip_player" = "PiP режим";
+"short_player" = "Плеер Shorts";
+"loop_toggle" = "Добавить повтор";
 
-"yt_video_quality_wifi" = "YT Video Quality On Wifi";
-"yt_video_quality_celluar" = "YT Video Quality On Cellular";
-"auto" = "Auto";
-"highest_quality" = "Highest Quality";
-"yt_speed_playback" = "Default Playback Speed";
-"normal" = "Normal";
-"default" = "Default";
+"yt_video_quality_wifi" = "Качество видео по Wi-Fi";
+"yt_video_quality_celluar" = "Качество видео по мобильной сети";
+"auto" = "Авто";
+"yt_speed_playback" = "Скорость по умолчанию";
+"normal" = "Обычная";
+"default" = "По умолчанию";
 
-"image" = "Image";
-"information" = "Information";
-"copy_title" = "Copy Title";
-"copy_describtion" = "Copy Description";
-"copied" = "Copied";
+"image" = "Сохранить изображение";
+"information" = "Копировать информацию";
+"copy_title" = "Копировать заголовок";
+"copy_describtion" = "Копировать описание";
+"copied" = "Скопировано в буфер обмена";
 
-"save_pfP" = "Save Profile Image";
-"copy_ptext" = "Copy Post Text";
-"save_img" = "Save Image";
-"copy_comment" = "Copy Comment";
-"pip_mode" = "Воспроизвести во внешнем плеере";
+"save_pfP" = "Сохранить аватар";
+"copy_ptext" = "Копировать текст поста";
+"save_img" = "Сохранить изображение";
+"copy_comment" = "Копировать комментарий";
+"pip_mode" = "Внешний плеер";
 "ios_system_player" = "Системный плеер iOS";
 "infuse_player" = "Плеер Infuse";
 "vlc_player" = "Плеер VLC";
 "infuse_not_installed" = "Infuse не установлен";
 "vlc_not_installed" = "VLC не установлен";
-"pip_mode_desc" = "You must enable 'Background Playback' in settings in order to use PiP";
-"mini_player2" = "Mini Player";
-"floating_mini_player" = "Floating Mini Player";
+"pip_mode_desc" = "Для использования PiP включите 'Фоновое воспроизведение'.";
+"mini_player2" = "Мини-плеер";
+"floating_mini_player" = "Плавающий мини-плеер";
 
-/* backup */
-"backup_and_restore" = "Backup and Restore";
-"cretae_a_backup" = "Create a backup";
-"create_a_backup_disc" = "Export a backup to the 'Files' app containing all your downloaded videos and audios in your YTKPlus library.";
-"restore_backup" = "Restore a backup";
-"restore_backup_disc" = "The backup can only be restored from the 'Files' app.";
-"backup_prepared" = "Backup is being prepared";
-"create_failed" = "Backup Failed";
-"failed_create_disc" = "Failed to create backup. Please try again.";
-"restoring_backup" = "Restoring backup";
-"restore_complete" = "Restore Complete";
-"restore_complete_disc" = "YTKPlus backup has been successfully restored.";
-"restore_failed_disc" = "Failed to restore backup. Please try again.";
-"restore_failed" = "Restore Failed";
-"restore_backup_confirm" = "Restore";
-"create" = "Create";
-"create_backup" = "Do you want to create a backup?";
-"restore_backup_confirm_disc" = "Do you want to restore this backup\nYTKPlus_Backup.zip\nthis action cannot be undone!";
-"invalid_backup_file" = "Invalid Backup File";
-"invalid_backup_file_disc" = "Please select the YTKPlus_Backup.zip file.";
-"Backup_saved" = "Резервная копия успешно сохранена в приложении «Файлы»"; // Russian (ru)
-"Backup_not_saved" = "Предупреждение: Резервная копия не сохранена в приложении «Файлы»";
+/* backup and restore */
+"backup_and_restore" = "Резервное копирование и восстановление";
+"cretae_a_backup" = "Создать резервную копию";
+"create_a_backup_disc" = "Экспортирует все ваши видео и аудио в приложение 'Файлы'.";
+"restore_backup" = "Восстановить резервную копию";
+"restore_backup_disc" = "Восстановление возможно только через приложение 'Файлы'.";
+"backup_prepared" = "Подготовка резервной копии...";
+"create_failed" = "Ошибка резервного копирования";
+"failed_create_disc" = "Не удалось создать резервную копию. Попробуйте снова.";
+"restoring_backup" = "Восстановление...";
+"restore_complete" = "Восстановление завершено";
+"restore_complete_disc" = "Библиотека YTKPlus успешно восстановлена.";
+"restore_failed_disc" = "Не удалось восстановить. Попробуйте снова.";
+"restore_failed" = "Ошибка восстановления";
+"restore_backup_confirm" = "Восстановить";
+"create" = "Создать";
+"create_backup" = "Создать резервную копию?";
+"restore_backup_confirm_disc" = "Восстановить файл YTKPlus_Backup.zip?\nЭто действие нельзя отменить!";
+"invalid_backup_file" = "Недопустимый файл";
+"invalid_backup_file_disc" = "Выберите файл YTKPlus_Backup.zip.";
+"Backup_saved" = "Резервная копия сохранена в приложении 'Файлы'.";
+"Backup_not_saved" = "Внимание: резервная копия не была сохранена.";
 
 /* import Media */
-"import_media" = "Import Media";
-"import_media_disc" = "Import video and audio files into the YTKPlus library. You can select multiple files, including thumbnails or artwork, directly from the 'Files' app.";
-"choose_media_type" = "Choose media type to import";
-"successfully_imported_files" = "Successfully imported files: %@";
-"failed_to_import_files" = "Failed to import files: %@";
-"import_result" = "Import Result";
+"import_media" = "Импорт медиа";
+"import_media_disc" = "Импортируйте видео и аудио в библиотеку YTKPlus прямо из приложения 'Файлы'.";
+"choose_media_type" = "Выберите тип медиа для импорта";
+"successfully_imported_files" = "Импортировано файлов: %@";
+"failed_to_import_files" = "Не удалось импортировать файлы: %@";
+"import_result" = "Результат импорта";
 
 /* sponsorBlock */
 "SPONSORBLOCK" = "SponsorBlock";
 "SB_BEHAVIOR" = "Поведение";
 "SB_SKIP" = "Пропустить";
 "SB_ASK" = "Спросить";
-"sub_value" = "Длительность уведомления: %.lf";
-"UNSKIP" = "Отменить пропуск";
+"sub_value" = "Время уведомления: %.lf";
+/* popup */
+"UNSKIP" = "Отменить";
 "SKIP" = "Пропустить";
-"SEGMENT_SKIPPED" = "Сегмент спонсора пропущен";
-"FOUND_SEGMENT" = "Обнаружен сегмент спонсора";
+"SEGMENT_SKIPPED" = "Рекламный сегмент пропущен";
+"FOUND_SEGMENT" = "Рекламный сегмент найден";
 "AudioNotificationOnSkip" = "Проигрывать звук при пропуске";
 
-"clearonstartup" = "Очистить при запуске"; // Russian (ru)
-"clearcache" = "Очистить кеш";
-"On" = "Вкл";
-"Off" = "Выкл";
-
-
-"short_fullscreen" = "Shorts Fullscreen";
-"short_auto_skip" = "Shorts Auto Skip";
-"USE_PREM_LOGO" = "use Premium Logo";
-"cast_confirm" = "Cast Confirmation";
-"video_available" = "Video Available";
-"videos_available" = "Videos Available";
-"audio_available" = "Audio Available";
-"audios_available" = "Audios Available";
-"short_available" = "Short Available";
-"shorts_available" = "Shorts Available";
+/* shorts section */
+"short_fullscreen" = "На весь экран";
+"short_auto_skip" = "Автоматический пропуск Shorts";
+"USE_PREM_LOGO" = "Использовать премиум-логотип";
+"cast_confirm" = "Подтверждение трансляции";
+"video_available" = "Видео доступно";
+"videos_available" = "Доступно видео";
+"audio_available" = "Аудио доступно";
+"audios_available" = "Доступно аудио";
+"short_available" = "Short доступен";
+"shorts_available" = "Shorts доступны";
 
 /* general section */
-"VIDEO_PLAYER" = "Настройки плеера";
+"VIDEO_PLAYER" = "Настройки видео";
 "OVERLAY_OPTIONS" = "Настройки оверлея";
-"STREAM_OPTIONS" = "Настройки воспроизведения";
-"IPAD_OPTIONS" = "Настройки iPad";
-"NAVIGATION_BAR" = "Настройки панели навигации";
+"STREAM_OPTIONS" = "Настройки стриминга";
+"IPAD_OPTIONS" = "Опции iPad";
+"NAVIGATION_BAR" = "Панель навигации";
 "SHORTS_OPTION" = "Настройки Shorts";
-"DOWNLOAD_OPTIONS" = "Настройки загрузок";
-"TAB_BAR_OPTIONS" = "Настройки панели вкладок";
-"MISCELLANEOUS" = "Другое";
-
-"cancel_downloading" = "Cancel downloading..?";
-"action_undone" = "This action cannot be undone!";
-"retry" = "Retry";
-"retry_disc" = "Please try Sign In again";
+"DOWNLOAD_OPTIONS" = "Доп. параметры загрузки";
+"TAB_BAR_OPTIONS" = "Панель вкладок";
+"MISCELLANEOUS" = "Общее";
 
 /* general section switch */
-"APP_LOCK" = "Блокировка паролем";
-"LOCK_APP_VIA_PASSWORD" = "Защищает вход в приложение паролем";
-"UHD_UNLOCK" = "UHD Unlocker";
-"UHD_UNLOCK_INFO" = "Unlock 4K on iPA";
-"OLED_DARK_MODE" = "Темный режим для OLED";
+"OLED_DARK_MODE" = "OLED-темная тема";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
-"NO_ADVERTISMENT" = "Убрать рекламу";
-"NO_AGE_RESTRICTION" = "Отключить возрастные ограничения";
-"HIDE_YT_STORIES" = "Скрыть истории";
-"HIDE_YT_SHORTS" = "Скрыть Shorts";
+"NO_ADVERTISMENT" = "Без рекламы";
+"NO_AGE_RESTRICTION" = "Без возрастных ограничений";
+"HIDE_YT_SHORTS" = "Скрыть Shorts из ленты";
 "DISABLE_CAPTIONS" = "Отключить субтитры";
 
-/* other || credits translation & links */
-"OTHER_TWEAKS" = "Наши проекты";
-"CREDITS" = "О нас";
-"SPECIAL_THANK" = "Особая благодарность";
-"LOCALIZATION" = "Перевод"; // in case if you add it
-"icon_by" = "icon by";
-"DEVELOPER" = "Разработчик";
-"WELCOM_ALERT" = "to modify the settings go to the tab bar icon YTKPlus then click on the gear icon above";
-
-
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "Видеоплеер";
+"VIDEO_PLAYER_SECTION" = "Видео-плеер";
 "HIDE_SUGGESTED_VIDEO" = "Скрыть рекомендации";
 "COMMENTS" = "Комментарии";
 "HIDE_COMMENTS" = "Скрыть комментарии";
 "HIDE_COMMENTS_PREVIEW" = "Скрыть предпросмотр комментариев";
-"HIDE_COMMENTS_PREVIEW_INFO" = "Скрывает секцию с популярным комментарием";
-"HIDE_COMMENTS_GUIDLINES" = "Скрыть гайдлайны";
-"HIDE_COMMUNITY_TEXT_INFO" = "Скрывает секцию следования правилам сообщества";
-
+"HIDE_COMMENTS_PREVIEW_INFO" = "Больше никаких спойлеров!";
+"HIDE_COMMENTS_GUIDLINES" = "Скрыть правила комментариев";
+"HIDE_COMMUNITY_TEXT_INFO" = "Скрыть текст сообщества сверху.";
 
 /* overlay options section */
 "OVERLAY_SECTION" = "Оверлей";
-"SHOW_STATUS_BAR_IN_OVERLAY" = "Отображать статус-бар в оверлее";
-"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Не поддерживается в режиме iPad и на экранах с вырезом";
-"DISABLE_DOUBLE_TAP" = "Отключить двойной тап";
-"DISABLE_CONTINUE_WATCHING" = "Отключить «Продолжить просмотр»";
-"DISABLE_CONTINUE_WATCHING_INFO" = "Данное сообщение всплывает при повторном открытии длинного видео";
-"HIDE_OVERLAY_QUICK_ACTION" = "Скрыть ярлыки с оверлея";
-"HIDE_PLAYERBAR_WAVE" = "Скрыть волну популярности";
-"HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает волны популярных моментов при перемотке ползунком";
-"SWIPE_TO_HIDE_PANEL" = "Скрыть панель свайпом";
-"SWIPE_TO_HIDE_PANEL_INFO" = "Скрывает панель с описанием в полноэкранном режиме, если свайпнуть слева направо";
-"DISABLE_PINCH_TO_ZOOM" = "Отключить щипок для масштабирования";
-"MEDIA_CONTROLLER" = "Управление плеером";
-"SHOW_OVERLAY_CONTROLLER_SMART" = "Отображать умное управление оверлеем"; //have no idea what is this
-"SHOW_MEDIA_CONTROLLER" = "Отображать кнопки управления плеером";
-"HIDE_DARK_OVERLAY_BACKGROUND" = "Скрыть темный фон оверлея";
-"KEEP_CAPTION_ON" = "Не скрывать название";
-"KEEP_CAPTION_ON_INFO" = "Отображает название видео при его воспроизведении";
-"PREVIUOS_AND_NEXT_BUTTON" = "Кнопки «След.» и «Пред.»";
-"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Скрыть кнопки «След.» и «Пред.» в плеере";
-"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Скрыть кнопки «След.» и «Пред.» в плейлистах";
-"PLAYER_BAR_NEXT_BUTTON" = "Кнопки мини-плеера";
-"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Скрыть «След.» и «Пред.» в мини-плеере";
-"HIDE_BACK_BUTTON_SHADOW" = "Скрыть тень кнопки «Назад»";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Кнопки перемотки вместо «След.» и «Пред.»";
-"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Заменяет переключатели «След.» и «Пред.» на перемотку видео на 10 сек.";
-"HIDE_ITEMS" = "Управление элементами плеера";
-"HIDE_VOLUME_BAR" = "Скрыть панель громкости";
-"HIDE_VOLUME_BAR_INFO" = "Скрывает белую панель громкости в ландшафтном режиме";
-"HIDE_INFO_CARD" = "Скрыть подсказки";
-"HIDE_WATER_MARK" = "Скрыть ватермарки";
-"HIDE_AUTOPLAY_BUTTON" = "Скрыть «Автовоспроизведение»";
-"HIDE_CAPTIONS_BUTTON" = "Скрыть кнопку «Субтитры»";
-"HIDE_PLAY_PUASE" = "Скрыть кнопку «Паузы/Воспроизведение»";
-"HIDE_MORE_GEAR_ICON" = "Скрыть кнопку «Еще» (Шестеренка)";
-"HIDE_CHAT_BUTTON_IN_STREAM" = "Скрыть кнопку чата в эфирах";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "Показывать статус-бар";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Не поддерживается на устройствах с вырезом.";
+"DISABLE_DOUBLE_TAP" = "Отключить двойное касание";
+"DISABLE_CONTINUE_WATCHING" = "Отключить 'Продолжить просмотр'";
+"DISABLE_CONTINUE_WATCHING_INFO" = "Появляется при очень длинных видео.";
+"HIDE_OVERLAY_QUICK_ACTION" = "Скрыть быстрые действия";
+"HIDE_PLAYERBAR_WAVE" = "Скрыть волны за таймлайном";
+"HIDE_PLAYERBAR_WAVE_INFO" = "Скрывает тепловую карту просмотров.";
+"SWIPE_TO_HIDE_PANEL" = "Свайп для скрытия панели";
+"SWIPE_TO_HIDE_PANEL_INFO" = "Свайп справа налево в полноэкранном режиме.";
+"DISABLE_PINCH_TO_ZOOM" = "Отключить масштабирование";
+"MEDIA_CONTROLLER" = "Медиа-контроллер";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "Всегда показывать Play/Pause";
+"SHOW_MEDIA_CONTROLLER" = "Всегда показывать все элементы";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "Скрыть тёмный фон";
+"KEEP_CAPTION_ON" = "Оставлять субтитры включёнными";
+"KEEP_CAPTION_ON_INFO" = "Показывать субтитры автоматически при воспроизведении.";
+"PREVIUOS_AND_NEXT_BUTTON" = "Кнопки 'Назад/Вперёд'";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "Отключить эти кнопки";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "Компактные кнопки";
+"PLAYER_BAR_NEXT_BUTTON" = "Добавить кнопку 'Следующее' рядом со временем";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "Скрыть эти кнопки";
+"HIDE_BACK_BUTTON_SHADOW" = "Скрыть тень кнопки";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "Заменить на перемотку";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "Заменяет на кнопки вперед/назад.";
+"HIDE_ITEMS" = "Скрыть элементы";
+"HIDE_VOLUME_BAR" = "Скрыть полосу громкости";
+"HIDE_VOLUME_BAR_INFO" = "Убирает белую полосу громкости в альбомной ориентации.";
+"HIDE_INFO_CARD" = "Скрыть карточки";
+"HIDE_WATER_MARK" = "Скрыть водяной знак";
+"HIDE_AUTOPLAY_BUTTON" = "Скрыть кнопку автоплея";
+"HIDE_CAPTIONS_BUTTON" = "Скрыть кнопку субтитров";
+"HIDE_PLAY_PUASE" = "Скрыть Play/Pause";
+"HIDE_MORE_GEAR_ICON" = "Скрыть кнопку 'Настройки'";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "Скрыть чат на стриме";
 "HIDE_CAST_BUTTON" = "Скрыть кнопку трансляции";
-"HIDE_ENDSCREEN_VIDEOS" = "Скрыть рекомендации в конце видео";
+"HIDE_ENDSCREEN_VIDEOS" = "Скрыть конечные видео";
 "HIDE_RELATED_VIDEOS" = "Скрыть похожие видео";
-"HIDE_LANDSCAPE_COMMENTS" = "Скрыть комменты в ландшафтном режиме";
-"HIDE_LANDSCAPE_COMMENTS_INFO" = "Скрывает отображение комментариев в полноэкранном режиме";
-"SHOW_PROGRESS_BAR" = "Отображать прогресс-бар";
-"SHOW_PROGRESS_BAR_INFO" = "Будет всегда отображать прогресс-бар в ландшафтном режиме";
-
+"HIDE_LANDSCAPE_COMMENTS" = "Отключить комментарии в альбомном режиме";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "Полностью отключает комментарии в альбомном режиме.";
+"SHOW_PROGRESS_BAR" = "Показывать прогресс-бар";
+"SHOW_PROGRESS_BAR_INFO" = "Отключает свайп к похожим видео.";
 
 /* streaming section */
-"LEGACY_QUALITY_MODE" = "Старый выбор качества";
-"LEGACY_QUALITY_MODE_INFO" = "Возвращает прежний стиль выбора качества видео";
-"PICTURE_IN_PICTURE_PIP" = "Картинка-в-Картинке (PiP)";
+"LEGACY_QUALITY_MODE" = "Классический режим качества";
+"LEGACY_QUALITY_MODE_INFO" = "Возвращает старый стиль выбора качества.";
+"PICTURE_IN_PICTURE_PIP" = "Картинка в картинке (PiP)";
 "ENABLE_PIP" = "Включить PiP";
-"ENABLE_PIP_INFO" = "добавить значок пипса в оверлей";
-"DOUBLE_TAP" = "Настройки двойного тапа";
-"CUSTOM_SKIP_DURATION" = "Интервал перемотки";
-"VALUE_CHANGES_JB" = "В секундах: %.lf";
-"VALUE_CHANGES" = "В секундах: 10";
-"STREAMING_SECTION" = "Воспроизведение";
-"PLAYBACK_SPEED" = "Скорость воспроизведения";
-"PLAYBACK_SPEED_INFO" = "Добавляет дополнительные режимы воспроизведения";
-"DISABLE_AUTOPLAY_VIDEOS" = "Отключить автовоспроизведение роликов";
-"PLAY_HD_VIDEOS_OVER_CELLULAR" = "Разрешить HD качество по мобильной сети";
+"ENABLE_PIP_INFO" = "Добавляет иконку PiP в плеере.";
+"DOUBLE_TAP" = "Настройки двойного касания";
+"CUSTOM_SKIP_DURATION" = "Пользовательская перемотка";
+"VALUE_CHANGES_JB" = "Секунд: %.lf";
+"VALUE_CHANGES" = "Секунд: 10";
+"STREAMING_SECTION" = "Потоковое воспроизведение";
+"PLAYBACK_SPEED" = "Дополнительные скорости";
+"PLAYBACK_SPEED_INFO" = "Настройки плеера → Скорость воспроизведения";
+"DISABLE_AUTOPLAY_VIDEOS" = "Отключить автозапуск видео";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "HD по мобильной сети";
 
-
-/* ipad section */
+/* iPad section */
 "IPAD_SECION" = "Режим iPad";
-"IPADOS_MODE" = "Интерфейс как в iPadOS";
+"IPADOS_MODE" = "Включить стиль iPadOS";
 "DISABLE_DRAG_AND_DROP" = "Отключить перетаскивание";
-"HIDE_CHANNEL_CIRCLES" = "Скрыть круглые аватарки";
-"HIDE_CHANNEL_CIRCLES_INFO" = "скрыть круглые значки каналов на вкладке подписки в навигационной панели!";
-"MINI_PLAYER_ASPECT_RATIO" = "Соотношение сторон мини-плеера";
-"USE_ASPECT_RATIO" = "Заполнить экран";
-"USE_ASPECT_RATIO_INFO" = "Не совместим с мини-плеером";
-"MINI_PLAYER" = "Мини-плеер";
-"REDEFIND_MINI_PLAYER" = "Переопределить мини-плеер";
-"MINI_PLAYER_IPAD_MODE" = "Мини-плеер в стиле iPad";
-
+"HIDE_CHANNEL_CIRCLES" = "Скрыть иконки каналов";
+"HIDE_CHANNEL_CIRCLES_INFO" = "Подписки → иконки под панелью навигации.";
+"MINI_PLAYER_ASPECT_RATIO" = "Формат мини-плеера";
+"USE_ASPECT_RATIO" = "Использовать полный формат";
+"USE_ASPECT_RATIO_INFO" = "Не поддерживается в стиле iPad.";
+"MINI_PLAYER" = "Мини-плеер (iPad)";
+"REDEFIND_MINI_PLAYER" = "Мини-плеер по центру";
+"MINI_PLAYER_IPAD_MODE" = "Мини-плеер справа";
 
 /* navbar section */
-"STATUS_BAR" = "Настройки статус-бара";
+"STATUS_BAR" = "Статус-бар";
 "HIDE_STATUS_BAR" = "Скрыть статус-бар";
-"CHANNEL_SECTIONS" = "Секция каналов";
-"STICKY_NAV_BAR" = "Закрепить верхнюю панель";
-"SHOW_YTKPLUS_ICON" = "Show YTKPlus Icon";
-"HIDE_ITEMS_NAV_BAR" = "Настройки элементов";
+"CHANNEL_SECTIONS" = "Секция канала";
+"STICKY_NAV_BAR" = "Скрыть категории под навигацией";
+"SHOW_YTKPLUS_ICON" = "Показать иконку YTKPlus";
+"HIDE_ITEMS_NAV_BAR" = "Скрыть элементы";
+"SHOW_YTKPlus_Icon" = "Показать иконку YTKPlus";
 "HIDE_YT_LOGO" = "Скрыть логотип YouTube";
-"HIDE_NOTIFICATIONS_BILL" = "Скрыть кнопку «Уведомления»";
-"HIDE_ACCOUNT" = "Скрыть кнопку «Учетная запись»";
-"HIDE_SEARCH" = "Скрыть кнопку «Поиск»";
-"HIDE_CAST_BUTTON" = "Скрыть кнопку «Транслировать»";
-
+"HIDE_NOTIFICATIONS_BILL" = "Скрыть уведомления 🔕";
+"HIDE_ACCOUNT" = "Скрыть аккаунт";
+"HIDE_SEARCH" = "Скрыть поиск";
+"HIDE_CAST_BUTTON" = "Скрыть кнопку трансляции";
 
 /* shorts section */
-"SHORTS_SECTION" = "Настройки Shorts";
-"ENABLE_PLAYER_BAR" = "Отображать ползунок";
-"HIDE_ELEMNTS" = "Настройки элементов";
-"HIDE_LIKE_BUTTON" = "Скрыть кнопку «Понравилось»";
-"HIDE_DISLIKE_BUTTON" = "Скрыть кнопку «Дизлайк»";
-"HIDE_COMMENTS_BUTTON" = "Скрыть кнопку «Комментарии»";
-"HIDE_SHARE_BUTTON" = "Скрыть кнопку «Поделиться»";
-"HIDE_MORE_BUTTON" = "Скрыть кнопку «Больше»";
-
+"SHORTS_SECTION" = "Шорты";
+"ENABLE_PLAYER_BAR" = "Включить полосу прогресса";
+"HIDE_ELEMNTS" = "Скрыть элементы";
+"HIDE_PAUSE_CARD" = "Скрыть карточку паузы";
+"HIDE_LIKE_BUTTON" = "Скрыть кнопку лайка";
+"HIDE_DISLIKE_BUTTON" = "Скрыть кнопку дизлайка";
+"HIDE_COMMENTS_BUTTON" = "Скрыть кнопку комментариев";
+"HIDE_SHARE_BUTTON" = "Скрыть кнопку 'Поделиться'";
+"HIDE_REMIX_BUTTON" = "Скрыть кнопку 'Ремикс'";
+"HIDE_AVATAR_BUTTON" = "Скрыть аватар";
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "Настройки скачивания";
-"LOCAL_DOWNLOADING" = "Скачивать в галерею";
-"LOCAL_DOWNLOADING_INFO" = "Долгий тап по видео сохранит его в Галерею";
-"HIDE_DOWNLOAD_BUTTON" = "Скрыть кнопку «Скачать»";
-"HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает кнопку «Скачать» от YouTube Premium";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Запретить истечение срока видео";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Запрещает истечение срока видео, загруженных с помощью YouTube Premium";
-"DOWNLOAD_SECTION_INFO" = "Note: 1. If there are multiple same qualities (only happens on Jailbroken users), please choose the upper one. 2. Local download stores contents directly to Photo app. 3. The default long pressing on video to move progress gesture will be disabled. 4. if u enabled the 4K enabler on ( MAIN SECTION ) this download feature will be disabled.";
-
+"DOWNLOAD_SECTION" = "Дополнительные параметры загрузки";
+"LOCAL_DOWNLOADING" = "Локальный режим загрузки";
+"LOCAL_DOWNLOADING_INFO" = "Долгое нажатие на видео открывает меню загрузки.";
+"HIDE_DOWNLOAD_BUTTON" = "Скрыть кнопку загрузки";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "Скрывает стандартную кнопку YouTube.";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "Отключить истечение загруженных видео";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "Относится к стандартным загрузкам YouTube.";
+"DOWNLOAD_SECTION_INFO" = "Примечание: при одинаковом качестве выбирайте верхний вариант. Файлы сохраняются в Фото. Жест долгого нажатия будет отключен. Если включён 4K, функция загрузки отключится.";
 
 /* tabbar section */
-"TAB_BAR_SECTION" = "Панель навигации";
-"TABS_SHRINKED_BUTTOM" = "Уменьшить нижнюю панель (Кнопки)";
-"TABS_SHRINKED_SMART" = "Уменьшить нижнюю панель (Smart)";
-"DISABLE_CREATE_BUTTON" = "Скрыть кнопку «Загрузить» (+)";
-"HIDE_TAB_LABELS" = "Скрыть названия вкладок";
-"PREVENT_OPEN_IN_SHORTS" = "Запретить запуск с Shorts";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "Это происходит, если закрыть YouTube при просмотре Shorts";
-"REPLACE_SHORTS_WITH_EXPLORE" = "Вкладка «Навигация» вместо «Shorts»";
-"HIDE_TABS" = "Настройки вкладок";
-"HIDE_EXPLORE_TAB" = "Скрыть вкладку «Навигация»";
-"HIDE_SHORTS_TAB" = "Скрыть вкладку «Shorts»";
-"HIDE_CREATE_TAB" = "Скрыть вкладку «Загрузить» (+)";
-"HIDE_SUBSCRIPTION_TAB" = "Скрыть вкладку «Подписки»";
-"HIDE_LIBRARY_TAB" = "Скрыть вкладку «Библиотека»";
+"TAB_BAR_SECTION" = "Панель вкладок";
+"TABS_SHRINKED_BUTTOM" = "Компактные вкладки (внизу)";
+"TABS_SHRINKED_SMART" = "Умные компактные вкладки";
+"DISABLE_CREATE_BUTTON" = "Отключить кнопку '+'";
+"HIDE_TAB_LABELS" = "Скрыть подписи вкладок";
+"PREVENT_OPEN_IN_SHORTS" = "Не открывать в Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "Возникает, если закрыть YouTube в разделе Shorts.";
+"REPLACE_SHORTS_WITH_EXPLORE" = "Заменить Shorts на Обзор";
+"HIDE_TABS" = "Скрыть вкладки";
+"HIDE_EXPLORE_TAB" = "Скрыть 'Обзор'";
+"HIDE_SHORTS_TAB" = "Скрыть 'Shorts'";
+"HIDE_CREATE_TAB" = "Скрыть 'Создать'";
+"HIDE_SUBSCRIPTION_TAB" = "Скрыть 'Подписки'";
+"HIDE_LIBRARY_TAB" = "Скрыть 'Библиотеку'";
 "HIDE_ALL_TAB" = "Скрыть все вкладки";
 
-
 /* miscellaneous section */
-"MISCELLANEOUS_SECTION" = "Остальные настройки";
-"USE_STOCK_VOLUME_HUD" = "Системный бар громкости";
-"USE_STOCK_VOLUME_HUD_INFO" = "Отображать системный бар в полноэкранном режиме";
+"MISCELLANEOUS_SECTION" = "Прочее";
+"USE_STOCK_VOLUME_HUD" = "Использовать системную громкость";
+"USE_STOCK_VOLUME_HUD_INFO" = "Работает только в альбомном режиме.";
 "HIDE_SEARCHED_HISTORY" = "Скрыть историю поиска";
-"NOT_TOPIC_SECTION" = "Скрыть секцию с топиками";
-"HIDE_PREMIUM_POPUP" = "Не рекомендовать Premium";
-"HIDE_YT_UPDATE_POPUP" = "Скрыть уведомление об обновлении";
-"HIDE_YT_UPDATE_POPUP_INFO" = "Скрывает раздражающее окошко с требованием обновить YouTube";
+"NOT_TOPIC_SECTION" = "Скрыть раздел тем";
+"HIDE_PREMIUM_POPUP" = "Скрыть Premium-предложение";
+"HIDE_YT_UPDATE_POPUP" = "Скрыть всплывающее обновление YouTube";
+"HIDE_YT_UPDATE_POPUP_INFO" = "Убирает навязчивое окно 'Обновить приложение'.";
 "ENABLE_MINI_PLAYER_VIDEOS" = "Мини-плеер для всех видео";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Принудительно активирует мини-плеер для всех видео";
-"HIDE_HUD_ALERTS" = "Скрыть сообщения плеера";
-"HIDE_HUD_ALERTS_INFO" = "Скрывает надписи YouTube, появляющиеся поверх видео";
-"CLASSIC_SHARE" = "Классический заполненный общий лист при вызове";
-"HIDE_LINE_SEPERATOR" = "Скрыть разделитель";
-"ROUND_ALL_VIEW_CORNERS" = "Закруглись все углы";
-"DISABLE_DARK_MODE" = "Запретить темный режим";
-"HIDE_INCLUDE_PAID_PROMO" = "Скрыть «Есть реклама»";
-"DARK_KEYBOARDS" = "Клавиатура в темном режиме";
-"DISABLE_RTL" = "Disable RTL language";
-"OTHERS" = "Другое";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "Работает даже для детских видео.";
+"HIDE_HUD_ALERTS" = "Скрыть всплывающие уведомления";
+"HIDE_HUD_ALERTS_INFO" = "Скрывает все уведомления типа 'Не нравится'.";
+"CLASSIC_SHARE" = "Классическое меню 'Поделиться'";
+"HIDE_LINE_SEPERATOR" = "Скрыть разделительные линии";
+"ROUND_ALL_VIEW_CORNERS" = "Закруглить углы интерфейса";
+"DISABLE_DARK_MODE" = "Отключить тёмный режим";
+"HIDE_INCLUDE_PAID_PROMO" = "Скрыть 'Оплачено рекламой'";
+"DISABLE_RTL" = "Отключить RTL-языки";
+"OTHERS" = "Главная лента";
 "HIDE_PLAYLIST" = "Скрыть плейлисты";
-"PLAYLIST_INFO" = "Не поддерживается в режиме iPad";
-"HIDE_COVID_NEWS" = "Скрыть новости";
-"COVID_NEWS_INFO" = "Скрывает новости и информацию про COVID с главного экрана";
-"HIDE_FILTER_TAGS" = "Скрыть тэги";
-
+"PLAYLIST_INFO" = "Не поддерживается в стиле iPad.";
+"HIDE_COVID_NEWS" = "Скрыть COVID/Новости";
+"COVID_NEWS_INFO" = "Удаляет COVID и новости из ленты.";
+"HIDE_FILTER_TAGS" = "Скрыть фильтры сверху";
 
 /* global action title */
 "OK" = "ОК";
 "YES" = "Да";
 "NO" = "Нет";
-"ERROR" = "Error";
-"APP_RESTART_REQUIRED" = "app restart required";
-"FILZA_NOT_INSTALLED_ALERT" = "The app is not installed on this device.";
-"NO_DATA" = "No data available.";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "Enabling this feature will disable local downloading! iPA sideloaded version only";
+"ERROR" = "Ошибка";
+"APP_RESTART_REQUIRED" = "Перезапустите YouTube для применения изменений.";
+"FILZA_NOT_INSTALLED_ALERT" = "Приложение не установлено.";
+"NO_DATA" = "Нет загрузок";
 "CANCEL" = "Отмена";
-"DISMISS" = "Скрыть";
+"DISMISS" = "Закрыть";
 "DELETED" = "Удалено";
-"DOWNLOADING_START" = "Загрузка";
-"VIDEO_DWD_PROGRESS" = "Video(1/2)";
-"AUDIO_DWD_PROGRESS" = "Audio(2/2)";
-"CANCEL_HUD" = "cancel";
 "SAVED" = "Сохранено";
-"SUCCESS" = "Готово";
-"SHOW_ALL_QUALITY" = "Show All Quality";
-"SHOW_ALL_QUALITY_INFO" = "Show all quality & audio!";
-"SELECT_VIDEO_QUALITY" = "Выберите качество";
-"NOT_SUPPORTED_FORMAT" = "Данное видео не поддерживается загрузчиком. Попробуйте выбрать другое качество для загрузки";
-"VIDEO" = "Видео";
-"AUDIO" = "Аудио";
+"SUCCESS" = "Успешно";
+"VIDEO" = "Скачать видео";
+"AUDIO" = "Скачать аудио";
 "RENAME" = "Переименовать";
-"RENAME_FILE" = "Rename File";
-"RENAME_NEW_NAME" = "Enter the new name for the file:";
-"RENAME_PLACEHOLDER" = "Enter new video name";
-"RENAME_PLACEHOLDER_AUDIO" = "Enter new audio name";
-"PLAY" = "Воспроизвести";
+"RENAME_FILE" = "Новое имя файла";
+"RENAME_NEW_NAME" = "Введите новое имя:";
+"RENAME_PLACEHOLDER" = "Имя видео";
+"RENAME_PLACEHOLDER_AUDIO" = "Имя аудио";
+"PLAY" = "Стандартный плеер";
 "SHARE" = "Поделиться";
 "VIEW_IN_FILZA" = "Открыть в Filza";
 "DELETE" = "Удалить";
-"MORE_OPTION" = "Больше";
-"MAIN_OPTION" = "Main Options";
-"DELETE_ALL" = "Удалить все";
-"SAVE_ARTWORK" = "Save Artwork/thumbnails";
+"MORE_OPTION" = "Доп. опции";
+"MAIN_OPTION" = "Основные опции";
+"DELETE_ALL" = "Удалить всё";
+"SAVE_ARTWORK" = "Сохранить обложку";
 "SAVE_TO_PHOTOS" = "Сохранить в Фото";
-"ARE_YOU_SURE" = "Вы уверены?";
-"NOTE" = "Тут ничего нет";
-"SAVE_FAILED" = "Не удалось сохранить";
-"SAVE_TO_PHOTOS_FAILED" = "Произошла ошибка при сохранении.\nУбедитесь, что разрешили YouTube-у доступ к Фото в системных настройках";
+"ARE_YOU_SURE" = "Удалить все элементы?";
+"NOTE" = "Примечание";
+"SAVE_FAILED" = "Ошибка сохранения!";
+"SAVE_TO_PHOTOS_FAILED" = "Проверьте разрешения приложения Фото.";
 "DELETING_VIDEO" = "Удалить видео?";
 "DELETING_AUDIO" = "Удалить аудио?";
+"SELECT_LANGUAGE" = "Выбор языка";
+"FAQ" = "FAQ";
+"action_undone" = "Это действие нельзя отменить!";
 
 "toast_downloading" = "Загрузка...";
-"toast_downloading_audio" = "Загрузка аудио";
-"toast_downloading_video" = "Загрузка видео";
+"toast_downloading_audio" = "Загрузка аудио...";
+"toast_downloading_video" = "Загрузка видео...";
 "toast_merging" = "Объединение...";
 "toast_preparing" = "Подготовка... : 0%";
-"toast_multi_D_not_supported" = "Множественные загрузки пока не поддерживаются";
-"toast_download_cancelled" = "Загрузка отменена";
+"toast_download_cancelled" = "Загрузка отменена.";
 
-"play_next" = "Воспроизвести следующее";
+"video_saved" = "✓ Видео сохранено - %@";
+"video_downloaded" = "🎬 ✓ Видео загружено: %@";
+"audio_saved" = "✓ Аудио сохранено - %@";
+"audio_downloaded" = "🎵 ✓ Аудио загружено: %@";
+"shorts_downloaded" = "🎬 ✓ Shorts загружены";
+"queued" = "📥 В очереди: ";
+"video_queuad" = "🎬 📥 Видео в очереди: ";
+"audio_queuad" = "🎵 📥 Аудио в очереди: ";
+"starting" = "🔄 Запуск: %@";
+"audio_progress" = "🎵 Аудио: %@";
+"video_progress" = "🎬 Видео: %@";
+"converting" = "⚙️ Конвертация: %@";
+"merging" = "⚙️ Объединение: %@";
+"download_cancelled" = "❌ Загрузка отменена: %@";
+"quea_cancelled" = "❌ Удалено из очереди";
+"cancelled" = "❌ Отменено: %@";
+"loop_disabled" = "🔁 Повтор выключен";
+"loop_enabled" = "🔂 Повтор включен";
+"Auto_Skip" = "Автопропуск";
+"Exit_Fullscreen" = "Выйти из полноэкранного";
+
+"play_next" = "Следующее воспроизведение";
 "close" = "Закрыть";
+
 "VIDEO_INFO" = "Информация о видео";
 "FILE_SIZE" = "Размер файла";
-"DURATION" = "Продолжительность";
-"DIMENSIONS" = "Размеры";
+"DURATION" = "Длительность";
+"DIMENSIONS" = "Разрешение";
 "BITRATE" = "Битрейт";
 "FRAME_RATE" = "Частота кадров";
 "CREATED" = "Создано";
@@ -400,73 +384,105 @@
 "SAMPLE_RATE" = "Частота дискретизации";
 "CHANNELS" = "Каналы";
 
-"year_ago" = "%ld year%@ ago";
-"month_ago" = "%ld month%@ ago";
-"week_ago" = "%ld week%@ ago";
-"day_ago" = "%ld day%@ ago";
-"hour_ago" = "%ld hour%@ ago";
-"minute_ago" = "%ld minute%@ ago";
-"s" = "";
-"kilo_byte" = "%@    %*s    %.0f KB";
-"mega_byte" = "%@    %*s    %.1f MB";
+"year_ago" = "%ld год%@ назад";
+"month_ago" = "%ld месяц%@ назад";
+"week_ago" = "%ld недел%@ назад";
+"day_ago" = "%ld день%@ назад";
+"hour_ago" = "%ld час%@ назад";
+"minute_ago" = "%ld минут%@ назад";
+"s" = "с";
+"kilo_byte" = "%@    %*s    %.0f КБ";
+"mega_byte" = "%@    %*s    %.1f МБ";
 
-"AFTER_DONE" = "After Download Done!";
-"SAVE_OR_SHARE" = "Save or Share";
-"SAVE_OR_SHARE_DISC" = "Do you want to save the video to your Photos album, Downloads or share it?";
-"SAVE_TO_PHOTOS" = "Save to Photos";
-"SAVE_TO_DOWNLOAD" = "Save to Download";
+/* gestures */
+"gestures_control" = "Жесты управления";
+"brightness" = "Яркость";
+"left" = "Лево";
+"right" = "Право";
+"disabled" = "Отключено";
+"volume" = "Громкость";
+"hold_to_seek" = "Удерживать для перемотки";
+"seek_duration" = "Интервал перемотки";
+"seconds" = "%.0f секунд";
+"volume_brightness_gesture" = "Жесты громкости и яркости";
+"seek_settings" = "Настройки перемотки";
+"gestures_config_description" = "Установите, какая сторона управляет громкостью и яркостью.\n\nСоветы:\n1. В портретном режиме проведите вниз.\n2. В полноэкранном — свайп снизу вверх.";
+"hold_to_seek_description" = "Удерживайте левую или правую сторону для быстрой перемотки.";
+"brightness_gesture_left" = "Яркость";
+"gesture_left_side" = "Левая сторона";
+"cancel" = "Отмена";
+"volume_gesture_right" = "Громкость";
+"gesture_right_side" = "Правая сторона";
 
-/* download manager section */
-"DOWNLOAD_MANAGER" = "Загрузки";
-"VIDEO_TAB_BAR" = "Видео";
-"AUDIO_TAB_BAR" = "Аудио";
-"SHORTS_TAB_BAR" = "Shorts";
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "Другие проекты";
+"CREDITS" = "Авторы";
+"SPECIAL_THANK" = "Особая благодарность";
+"LOCALIZATION" = "Локализация";
+"icon_by" = "Иконка от";
+"DEVELOPER" = "Разработчик";
+"WELCOM_ALERT" = "Чтобы изменить настройки, откройте вкладку YTKPlus и нажмите на значок шестерёнки.";
 
+/* clearCaches */
+"clearonstartup" = "Очищать при запуске";
+"clearcache" = "Очистить кэш";
+"On" = "Вкл";
+"Off" = "Выкл";
+
+"CLEARING_CACHE" = "Очистка кэша...";
+"PLEASE_WAIT" = "Пожалуйста, подождите...";
+"CACHE_CLEARED" = "Кэш успешно очищен!";
+"CLEAR_CACHE" = "Очистить кэш";
+"CALCULATING" = "Подсчёт...";
+
+/* checkForUpdates */
 "the_changelog" = "Список изменений";
-"skip_version" = "Пропустить эту версию";
+"skip_version" = "Пропустить версию";
 "updates_available" = "Доступно обновление";
-"new_version_available" = "Доступна новая версия YTKillerPlus (%@). Рекомендуется всегда использовать последнюю версию.";
+"new_version_available" = "Доступна новая версия YTKillerPlus (%@). Рекомендуется обновиться.";
 
-/* promptForActivation */
-"license_option" = "License Options";
-"license_option_disc" = "Choose an option:";
-"activate_new_license" = "Activate New License";
-"restore_license" = "Restore License";
-"renew_license" = "Renew License";
-"buy_license" = "Buy License";
-"activate_new_license_disc" = "Please enter your email and license key.";
-"email" = "Email";
-"license_key" = "License Key";
-"activate" = "Activate";
-"invalid_email" = "Invalid Email";
-"invalid_email_disc" = "Please enter a valid email address.";
-"invalid_license" = "Invalid License";
-"license_key_empty" = "License key cannot be empty.";
-"license_key_length_wrong" = "License key length is wrong\nplease enter valid license key.";
+/* license prompt */
+"license_option" = "Параметры лицензии";
+"license_option_disc" = "Выберите опцию:";
+"activate_new_license" = "Активировать новую лицензию";
+"restore_license" = "Восстановить лицензию";
+"renew_license" = "Продлить лицензию";
+"buy_license" = "Купить лицензию";
+"activate_new_license_disc" = "Введите e-mail и лицензионный ключ.";
+"email" = "E-mail";
+"license_key" = "Лицензионный ключ";
+"activate" = "Активировать";
+"invalid_email" = "Неверный e-mail";
+"invalid_email_disc" = "Введите правильный e-mail.";
+"invalid_license" = "Неверная лицензия";
+"license_key_empty" = "Ключ не может быть пустым.";
+"license_key_length_wrong" = "Неверная длина ключа.\nВведите действительный ключ.";
 
-/* promptForRestore */
-"restore_license_disc" = "Please enter the email associated with your license.";
-"restore" = "Restore";
-"license_restored_successfully" = "License restored successfully.\nKey: %@\nExpires: %@";
-"license_restored" = "License Restored";
-"restore_failed" = "Restore Failed";
+"restore_license_disc" = "Введите e-mail, связанный с лицензией.";
+"restore" = "Восстановить";
+"copy_license_key" = "Копировать ключ";
+"license_key_copied_to_clipboard" = "Ключ скопирован.";
+"license_details" = "Детали лицензии";
+"license_details_disc" = "Ключ: %@\n\nИстекает: %@\n\n%@";
+"license_restored_successfully" = "Лицензия успешно восстановлена.";
+"license_restored" = "Лицензия восстановлена";
+"restore_failed" = "Ошибка восстановления";
 
-/* enter license prompt */
-"enter_license_key" = "Enter License Key";
-"enter_license_key_disc" = "Please enter your license key to authenticate.";
-"license_key_authenticated" = "License key authenticated successfully. Expires on: %@";
-"authentication_successful" = "Authentication Successful";
-"key_used_on_another_device" = "License already activated on another device";
-"key_is_in_use_on_another_device" = "This license is already in use on another device. Please use a different license key.";
-"email_associated_with_another_key" = "Email already associated with another license";
-"authentication_failed" = "Authentication Failed";
-"email_associated_with_defferent_key" = "This email is already associated with a different license. Please use a different email or license key.";
-"key_expired" = "Key has expired";
-"license_expired" = "License Expired";
-"license_expired_disc" = "Your license key has expired. Please renew.";
-"license_verification_failed" = "License Verification Failed";
-"no_internet" = "No Internet";
-"no_internet_disc" = "You need an internet connection to authenticate.";
-"license_disc" = "The license key you entered is not valid.";
+"enter_license_key" = "Введите ключ";
+"enter_license_key_disc" = "Введите лицензионный ключ для авторизации.";
+"license_key_authenticated" = "Ключ успешно подтверждён. Истекает: %@";
+"authentication_successful" = "Успешная авторизация";
+"key_used_on_another_device" = "Ключ уже активирован на другом устройстве.";
+"key_is_in_use_on_another_device" = "Этот ключ используется на другом устройстве.";
+"email_associated_with_another_key" = "E-mail связан с другой лицензией.";
+"authentication_failed" = "Ошибка авторизации";
+"email_associated_with_defferent_key" = "E-mail связан с другим ключом.";
+"key_expired" = "Ключ истёк";
+"license_expired" = "Лицензия истекла";
+"license_expired_disc" = "Ваша лицензия истекла. Продлите её.";
+"license_verification_failed" = "Ошибка проверки лицензии";
+"no_internet" = "Нет интернета";
+"no_internet_disc" = "Требуется подключение к интернету.";
+"license_disc" = "Введённый ключ недействителен.";
 
 /* other stuff */

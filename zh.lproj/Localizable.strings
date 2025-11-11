@@ -1,177 +1,153 @@
-/* YTKPlus by iKarwan */
-/* Simplified Chinese By Stalker(YaoDao) */
-
+/* created on 25/10/2022 */
+/* by iKarwan */
+/* Simplified Chinese By Stalker(YaoDao) & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "全局功能开关";
-"GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用所有改动";
+"GLOB_ENABLED" = "全局启用";
+"GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用更改。";
 
-/* downloding global switch */
+/* downloading global switch */
 "DOWNLOADING" = "启用下载功能";
-"GLOBAL_DOWNLOADING_SWITCH" = "在视频上添加下载按钮";
-"glob_overlay_button" = "播放器内显示的按钮";
+"glob_overlay_button" = "显示在播放器中的按钮。";
 
-/* Default Download Quality section */
-"DEFAULT_DOWNLOAD_QUALITY" = "预设下载画质";
-"ALWAYS_ASK" = "总是询问";
-"AUDIO_ONLY" = "只有音频";
+/* download manager section */
+"DOWNLOAD_MANAGER" = "下载管理器";
+"VIDEO_TAB_BAR" = "视频";
+"AUDIO_TAB_BAR" = "音频";
+"SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "YouTube启动页面";
-"DEFAULT_PAGE" = "首页";
+"STARTUP_PAGE" = "默认启动页面";
+"DEFAULT_PAGE" = "主页";
 
-"HOME" = "首页";
+"HOME" = "主页";
 "EXPLORE" = "探索";
-"SHORTS" = "短视频";
-"SUBSCRIPTIONS" = "订阅内容";
-"LIBRARY" = "媒体库";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "订阅";
+"LIBRARY" = "资料库";
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "播放器控件与快捷";
-"overlay_player" = "播放器";
+"overlay_button" = "播放器控制";
+"overlay_player" = "悬浮播放器";
 "speed_index" = "播放速度";
-"default_speed_index" = "默认速度开关";
-"default_speed_index_disc" = "默认播放速度的开关，防止与播放界面上的速度按钮冲突。";
-"pip_player" = "画中画";
-"short_player" = "短视频播放器";
+"default_speed_index" = "默认播放速度";
+"default_speed_index_disc" = "防止播放速度设置冲突。";
+"pip_player" = "画中画播放";
+"short_player" = "Shorts 播放器";
+"loop_toggle" = "添加循环按钮";
 
-"yt_video_quality_wifi" = "WiFi网络播放画质";
-"yt_video_quality_celluar" = "蜂窝网络播放画质";
+"yt_video_quality_wifi" = "Wi-Fi 下的视频画质";
+"yt_video_quality_celluar" = "移动网络下的视频画质";
 "auto" = "自动";
-"highest_quality" = "最好画质";
 "yt_speed_playback" = "默认播放速度";
 "normal" = "正常";
 "default" = "默认";
 
-"image" = "图片";
-"information" = "信息";
+"image" = "保存图片";
+"information" = "复制信息";
 "copy_title" = "复制标题";
 "copy_describtion" = "复制描述";
-"copied" = "已复制";
+"copied" = "已复制到剪贴板";
 
-"save_pfP" = "保存个人资料图片";
-"copy_ptext" = "复制帖子文本";
+"save_pfP" = "保存头像";
+"copy_ptext" = "复制帖子文字";
 "save_img" = "保存图片";
 "copy_comment" = "复制评论";
-"pip_mode" = "在外部播放器中播放";
+"pip_mode" = "使用外部播放器播放";
 "ios_system_player" = "iOS 系统播放器";
 "infuse_player" = "Infuse 播放器";
 "vlc_player" = "VLC 播放器";
 "infuse_not_installed" = "未安装 Infuse";
 "vlc_not_installed" = "未安装 VLC";
-"pip_mode_desc" = "必须在设置中启用“后台播放”才能使用画中画";
+"pip_mode_desc" = "启用“后台播放”后即可使用 PiP 功能。";
 "mini_player2" = "迷你播放器";
 "floating_mini_player" = "悬浮迷你播放器";
 
-/* backup */
-"backup_and_restore" = "备份和恢复";
+/* backup and restore */
+"backup_and_restore" = "备份与恢复";
 "cretae_a_backup" = "创建备份";
-"create_a_backup_disc" = "将YTKPlus库中所有下载的视频和音频的备份导出到“文件”程序。";
+"create_a_backup_disc" = "将所有已下载的视频和音频导出到“文件”应用中。";
 "restore_backup" = "恢复备份";
-"restore_backup_disc" = "只能从“文件程序恢复备份。";
-"backup_prepared" = "正在准备备份";
+"restore_backup_disc" = "仅可从“文件”应用中恢复备份。";
+"backup_prepared" = "正在准备备份...";
 "create_failed" = "备份失败";
 "failed_create_disc" = "无法创建备份，请重试。";
-"restoring_backup" = "恢复备份中";
+"restoring_backup" = "正在恢复...";
 "restore_complete" = "恢复完成";
-"restore_complete_disc" = "YTKPlus备份已成功恢复。";
-"restore_failed_disc" = "无法恢复备份，请重试。";
+"restore_complete_disc" = "YTKPlus 备份已成功恢复。";
+"restore_failed_disc" = "恢复失败，请重试。";
 "restore_failed" = "恢复失败";
 "restore_backup_confirm" = "恢复";
 "create" = "创建";
-"create_backup" = "您想要创建备份吗？";
-"restore_backup_confirm_disc" = "是否要恢复此备份\nYTKPlus_Backup.zip\n此操作无法撤消！";
-"invalid_backup_file" = "备份文件无效";
-"invalid_backup_file_disc" = "请选择YTKPlus_Backup.zip文件。";
-"Backup_saved" = "备份已成功保存到文件应用";
-"Backup_not_saved" = "警告：备份未保存到文件应用";
+"create_backup" = "是否要创建备份？";
+"restore_backup_confirm_disc" = "是否恢复 YTKPlus_Backup.zip？\n此操作无法撤销！";
+"invalid_backup_file" = "无效的备份文件";
+"invalid_backup_file_disc" = "请选择正确的 YTKPlus_Backup.zip 文件。";
+"Backup_saved" = "备份已成功保存到文件应用。";
+"Backup_not_saved" = "警告：备份未保存。";
 
 /* import Media */
 "import_media" = "导入媒体";
-"import_media_disc" = "将视频和音频文件导入YTKPlus库。您可以直接从“文件”应用中选择多个文件，包括缩略图或封面。";
-"choose_media_type" = "选择要导入的媒体类型";
-"successfully_imported_files" = "成功导入文件：%@";
-"failed_to_import_files" = "无法导入文件：%@";
+"import_media_disc" = "从“文件”应用导入视频和音频，可一次选择多个文件（含缩略图或封面）。";
+"choose_media_type" = "选择导入类型";
+"successfully_imported_files" = "成功导入文件: %@";
+"failed_to_import_files" = "导入失败的文件: %@";
 "import_result" = "导入结果";
 
 /* sponsorBlock */
-"SPONSORBLOCK" = "跳过赞助";
-"SB_BEHAVIOR" = "行为";
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "行为设置";
 "SB_SKIP" = "跳过";
 "SB_ASK" = "询问";
-"sub_value" = "提示持续时间: %.lf";
+"sub_value" = "提示时长: %.lf";
+/* popup */
 "UNSKIP" = "取消跳过";
 "SKIP" = "跳过";
-"SEGMENT_SKIPPED" = "已跳过赞助片段";
+"SEGMENT_SKIPPED" = "赞助片段已跳过";
 "FOUND_SEGMENT" = "检测到赞助片段";
-"AudioNotificationOnSkip" = "跳过时播放声音";
+"AudioNotificationOnSkip" = "跳过时播放提示音";
 
-"clearonstartup" = "启动时清除"; // Chinese (Simplified, zh)
-"clearcache" = "清除缓存";
-"On" = "开";
-"Off" = "关";
-
-"short_fullscreen" = "短视频全屏";
-"short_auto_skip" = "短视频自动跳过";
-"USE_PREM_LOGO" = "启用 Premium Logo";
-"cast_confirm" = "投送确认";
-"video_available" = "视频可用";
-"videos_available" = "视频可用";
-"audio_available" = "音频可用";
-"audios_available" = "音频可用";
-"short_available" = "短视频可用";
-"shorts_available" = "短视频可用";
-
-"cancel_downloading" = "取消下载..？";
-"action_undone" = "此操作无法撤消！";
-"retry" = "重试";
-"retry_disc" = "请尝试重新登录";
+/* shorts section */
+"short_fullscreen" = "全屏";
+"short_auto_skip" = "Shorts 自动跳过";
+"USE_PREM_LOGO" = "使用 Premium 标志";
+"cast_confirm" = "投屏确认";
+"video_available" = "可用视频";
+"videos_available" = "可用视频";
+"audio_available" = "可用音频";
+"audios_available" = "可用音频";
+"short_available" = "可用短片";
+"shorts_available" = "可用 Shorts";
 
 /* general section */
-"VIDEO_PLAYER" = "播放器的选项";
-"OVERLAY_OPTIONS" = "播放界面选项";
-"STREAM_OPTIONS" = "流媒体的选项";
-"IPAD_OPTIONS" = "iPad风格选项";
-"NAVIGATION_BAR" = "顶部导航选项";
-"SHORTS_OPTION" = "短视频的选项";
-"DOWNLOAD_OPTIONS" = "扩展下载选项";
-"TAB_BAR_OPTIONS" = "底部标签选项";
-"MISCELLANEOUS" = "其它拓展功能";
+"VIDEO_PLAYER" = "视频播放器设置";
+"OVERLAY_OPTIONS" = "界面叠加选项";
+"STREAM_OPTIONS" = "流媒体设置";
+"IPAD_OPTIONS" = "iPad 设置";
+"NAVIGATION_BAR" = "导航栏设置";
+"SHORTS_OPTION" = "Shorts 设置";
+"DOWNLOAD_OPTIONS" = "下载扩展选项";
+"TAB_BAR_OPTIONS" = "标签栏设置";
+"MISCELLANEOUS" = "其他";
 
 /* general section switch */
-"APP_LOCK" = "启用锁定App功能";
-"LOCK_APP_VIA_PASSWORD" = "使用设备密码锁定";
-"UHD_UNLOCK" = "启用4K UHD画质";
-"UHD_UNLOCK_INFO" = "解除视频画质限制";
-"OLED_DARK_MODE" = "OLED深色模式";
-"PLAY_IN_BACKGROUND" = "启用后台播放";
-"NO_ADVERTISMENT" = "去除广告";
-"NO_AGE_RESTRICTION" = "去除年龄限制";
-"HIDE_YT_STORIES" = "隐藏付费板块";
-"HIDE_YT_SHORTS" = "隐藏视频流中的短视频";
-"DISABLE_CAPTIONS" = "停用字幕功能";
-
-/* other || credits translation & links */
-"OTHER_TWEAKS" = "查看其他作品！";
-"CREDITS" = "致谢名单";
-"SPECIAL_THANK" = "特别感谢";
-"LOCALIZATION" = "本地化翻译";
-"icon_by" = "图标设计";
-"DEVELOPER" = "开发者";
-"WELCOM_ALERT" = "要修改设置，请转到底部标签栏YTKPlus图标，然后点击齿轮图标。";
-
+"OLED_DARK_MODE" = "OLED 深色模式";
+"PLAY_IN_BACKGROUND" = "后台播放";
+"NO_ADVERTISMENT" = "无广告";
+"NO_AGE_RESTRICTION" = "无年龄限制";
+"HIDE_YT_SHORTS" = "隐藏 Shorts";
+"DISABLE_CAPTIONS" = "禁用字幕";
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "视频播放页面";
-"HIDE_SUGGESTED_VIDEO" = "隐藏评论区下面的推荐视频";
-"COMMENTS" = "评论区";
-"HIDE_COMMENTS" = "隐藏评论区";
+"VIDEO_PLAYER_SECTION" = "视频播放器";
+"HIDE_SUGGESTED_VIDEO" = "隐藏推荐视频";
+"COMMENTS" = "评论";
+"HIDE_COMMENTS" = "隐藏评论";
 "HIDE_COMMENTS_PREVIEW" = "隐藏评论预览";
-"HIDE_COMMENTS_PREVIEW_INFO" = "不受剧透的困扰";
-"HIDE_COMMENTS_GUIDLINES" = "隐藏社区准则";
-"HIDE_COMMUNITY_TEXT_INFO" = "隐藏顶部的社区准则";
-
+"HIDE_COMMENTS_PREVIEW_INFO" = "避免剧透评论。";
+"HIDE_COMMENTS_GUIDLINES" = "隐藏评论指南";
+"HIDE_COMMUNITY_TEXT_INFO" = "隐藏顶部社区文字。";
 
 /* overlay options section */
 "OVERLAY_SECTION" = "播放界面";
@@ -221,253 +197,293 @@
 
 /* streaming section */
 "LEGACY_QUALITY_MODE" = "启用旧版画质模式";
-"LEGACY_QUALITY_MODE_INFO" = "恢复旧的画质质量选择";
-"PICTURE_IN_PICTURE_PIP" = "画中画";
-"ENABLE_PIP" = "启用画中画";
-"ENABLE_PIP_INFO" = "在视频上添加画中画按钮";
+"LEGACY_QUALITY_MODE_INFO" = "恢复旧的画质选择界面。";
+"PICTURE_IN_PICTURE_PIP" = "画中画 (PiP)";
+"ENABLE_PIP" = "启用 PiP 功能";
+"ENABLE_PIP_INFO" = "在视频播放器中添加 PiP 图标。";
 "DOUBLE_TAP" = "双击选项";
-"CUSTOM_SKIP_DURATION" = "自定义跳过时间";
-"VALUE_CHANGES_JB" = "秒: %.lf";
-"VALUE_CHANGES" = "秒: 10";
-"STREAMING_SECTION" = "流媒体";
-"PLAYBACK_SPEED" = "添加额外的播放速度选项";
-"PLAYBACK_SPEED_INFO" = "视频播放界面-> 齿轮按钮 -> 播放速度";
-"DISABLE_AUTOPLAY_VIDEOS" = "禁用自动播放视频";
-"PLAY_HD_VIDEOS_OVER_CELLULAR" = "在3G/4G/5G网络播放高清视频";
+"CUSTOM_SKIP_DURATION" = "自定义快进时长";
+"VALUE_CHANGES_JB" = "秒数: %.lf";
+"VALUE_CHANGES" = "秒数: 10";
+"STREAMING_SECTION" = "流媒体播放";
+"PLAYBACK_SPEED" = "添加更多播放速度";
+"PLAYBACK_SPEED_INFO" = "设置 → 播放速度菜单";
+"DISABLE_AUTOPLAY_VIDEOS" = "关闭自动播放";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "在移动网络下播放高清视频";
 
-
-/* ipad section */
-"IPAD_SECION" = "iPad风格";
-"IPADOS_MODE" = "启用iPad风格";
-"DISABLE_DRAG_AND_DROP" = "禁用拖放";
-"HIDE_CHANNEL_CIRCLES" = "隐藏订阅频道图标";
-"HIDE_CHANNEL_CIRCLES_INFO" = "订阅内容->导航栏下方的已订阅的频道图标";
-"MINI_PLAYER_ASPECT_RATIO" = "纵横比风格迷你播放器";
-"USE_ASPECT_RATIO" = "使用全部纵横比特性";
-"USE_ASPECT_RATIO_INFO" = "不支持下方的iPad风格迷你播放器";
-"MINI_PLAYER" = "iPad风格迷你播放器";
-"REDEFIND_MINI_PLAYER" = "中置的迷你播放器";
-"MINI_PLAYER_IPAD_MODE" = "右置的迷你播放器";
-
+/* iPad section */
+"IPAD_SECION" = "iPad 模式";
+"IPADOS_MODE" = "启用 iPadOS 模式";
+"DISABLE_DRAG_AND_DROP" = "禁用拖放功能";
+"HIDE_CHANNEL_CIRCLES" = "隐藏频道图标";
+"HIDE_CHANNEL_CIRCLES_INFO" = "隐藏订阅页顶部的频道图标。";
+"MINI_PLAYER_ASPECT_RATIO" = "迷你播放器比例";
+"USE_ASPECT_RATIO" = "使用完整比例";
+"USE_ASPECT_RATIO_INFO" = "iPad 样式的迷你播放器不支持此功能。";
+"MINI_PLAYER" = "iPad 样式迷你播放器";
+"REDEFIND_MINI_PLAYER" = "将迷你播放器居中";
+"MINI_PLAYER_IPAD_MODE" = "将迷你播放器移至右侧";
 
 /* navbar section */
 "STATUS_BAR" = "状态栏";
 "HIDE_STATUS_BAR" = "隐藏状态栏";
 "CHANNEL_SECTIONS" = "频道部分";
-"STICKY_NAV_BAR" = "隐藏导航栏下方的类别";
-"SHOW_YTKPLUS_ICON" = "显示YTKillerPlus按钮";
-"HIDE_ITEMS_NAV_BAR" = "隐藏导航栏项目";
-"SHOW_YTKPlus_Icon" = "显示YTKPlus图标";
-"HIDE_YT_LOGO" = "隐藏YouTube Logo";
-"HIDE_NOTIFICATIONS_BILL" = "隐藏通知按钮🔕";
-"HIDE_ACCOUNT" = "隐藏账号按钮";
-"HIDE_SEARCH" = "隐藏搜索按钮";
-"HIDE_CAST_BUTTON" = "隐藏投射按钮";
-
+"STICKY_NAV_BAR" = "隐藏导航栏下的分类";
+"SHOW_YTKPLUS_ICON" = "显示 YTKPlus 图标";
+"HIDE_ITEMS_NAV_BAR" = "隐藏项目";
+"SHOW_YTKPlus_Icon" = "显示 YTKPlus 图标";
+"HIDE_YT_LOGO" = "隐藏 YouTube 标志";
+"HIDE_NOTIFICATIONS_BILL" = "隐藏通知 🔕";
+"HIDE_ACCOUNT" = "隐藏账户";
+"HIDE_SEARCH" = "隐藏搜索";
+"HIDE_CAST_BUTTON" = "隐藏投屏按钮";
 
 /* shorts section */
-"SHORTS_SECTION" = "短视频";
+"SHORTS_SECTION" = "Shorts";
 "ENABLE_PLAYER_BAR" = "启用底部进度条";
-"HIDE_ELEMNTS" = "隐藏短视频项目";
-"HIDE_LIKE_BUTTON" = "隐藏喜欢按钮";
-"HIDE_DISLIKE_BUTTON" = "隐藏不喜欢按钮";
+"HIDE_ELEMNTS" = "隐藏元素";
+"HIDE_PAUSE_CARD" = "隐藏暂停卡片";
+"HIDE_LIKE_BUTTON" = "隐藏点赞按钮";
+"HIDE_DISLIKE_BUTTON" = "隐藏点踩按钮";
 "HIDE_COMMENTS_BUTTON" = "隐藏评论按钮";
 "HIDE_SHARE_BUTTON" = "隐藏分享按钮";
-"HIDE_MORE_BUTTON" = "隐藏更多按钮";
-
+"HIDE_REMIX_BUTTON" = "隐藏 Remix 按钮";
+"HIDE_AVATAR_BUTTON" = "隐藏头像按钮";
 
 /* downloading section */
-"DOWNLOAD_SECTION" = "扩展下载功能";
+"DOWNLOAD_SECTION" = "扩展下载选项";
 "LOCAL_DOWNLOADING" = "启用本地下载模式";
-"LOCAL_DOWNLOADING_INFO" = "长按播放视频即可触发下载菜单";
+"LOCAL_DOWNLOADING_INFO" = "长按视频以打开下载菜单。";
 "HIDE_DOWNLOAD_BUTTON" = "隐藏下载按钮";
-"HIDE_DOWNLOAD_BUTTON_INFO" = "隐藏YouTube原生下载按钮";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "禁止下载视频过期";
-"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "作用于YouTube原生下载功能所下载的视频";
-"DOWNLOAD_SECTION_INFO" = "1.如果有多个相同品质(仅越狱用户)，请启用上面的选项。2.本地下载模式将内容直接存储到照片应用程序。3.原生长按视频手势将被禁用。4.若启用4K UHD画质，此功能将失效。";
-
+"HIDE_DOWNLOAD_BUTTON_INFO" = "隐藏 YouTube 默认的下载按钮。";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "禁用下载视频过期";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "适用于 YouTube 官方下载的视频。";
+"DOWNLOAD_SECTION_INFO" = "提示：如有多个相同画质，请选择上方的选项。文件保存至“照片”。启用 4K 模式时将禁用下载功能。";
 
 /* tabbar section */
-"TAB_BAR_SECTION" = "底部标签栏";
-"TABS_SHRINKED_BUTTOM" = "标签收缩(底部)";
-"TABS_SHRINKED_SMART" = "标签收缩(智能)";
-"DISABLE_CREATE_BUTTON" = "禁用创作(+)按钮";
-"HIDE_TAB_LABELS" = "隐藏选项标签名";
-"PREVENT_OPEN_IN_SHORTS" = "防止自动启动短视频";
-"PREVENT_OPEN_IN_SHORTS_INFO" = "当在短视频标签中杀死YouTube后会发生";
-"REPLACE_SHORTS_WITH_EXPLORE" = "使用探索替代短视频";
-"HIDE_TABS" = "隐藏标签栏";
-"HIDE_EXPLORE_TAB" = "隐藏探索";
-"HIDE_SHORTS_TAB" = "隐藏短视频";
-"HIDE_CREATE_TAB" = "隐藏创作(+)";
-"HIDE_SUBSCRIPTION_TAB" = "隐藏订阅内容";
-"HIDE_LIBRARY_TAB" = "隐藏媒体库";
-"HIDE_ALL_TAB" = "隐藏所有";
-
+"TAB_BAR_SECTION" = "标签栏";
+"TABS_SHRINKED_BUTTOM" = "底部紧凑标签";
+"TABS_SHRINKED_SMART" = "智能紧凑标签";
+"DISABLE_CREATE_BUTTON" = "禁用创建 (+) 按钮";
+"HIDE_TAB_LABELS" = "隐藏标签文字";
+"PREVENT_OPEN_IN_SHORTS" = "防止在 Shorts 中打开";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "当 YouTube 在 Shorts 标签页关闭时会出现此问题。";
+"REPLACE_SHORTS_WITH_EXPLORE" = "将 Shorts 替换为“探索”";
+"HIDE_TABS" = "隐藏标签";
+"HIDE_EXPLORE_TAB" = "隐藏探索标签";
+"HIDE_SHORTS_TAB" = "隐藏 Shorts 标签";
+"HIDE_CREATE_TAB" = "隐藏创建标签";
+"HIDE_SUBSCRIPTION_TAB" = "隐藏订阅标签";
+"HIDE_LIBRARY_TAB" = "隐藏资料库标签";
+"HIDE_ALL_TAB" = "隐藏所有标签";
 
 /* miscellaneous section */
-"MISCELLANEOUS_SECTION" = "其他功能";
-"USE_STOCK_VOLUME_HUD" = "使用系统原生音量HUD";
-"USE_STOCK_VOLUME_HUD_INFO" = "仅作用于横屏模式";
+"MISCELLANEOUS_SECTION" = "其他";
+"USE_STOCK_VOLUME_HUD" = "使用系统音量条";
+"USE_STOCK_VOLUME_HUD_INFO" = "仅在横屏下有效。";
 "HIDE_SEARCHED_HISTORY" = "隐藏搜索记录";
-"NOT_TOPIC_SECTION" = "无主题部分";
-"HIDE_PREMIUM_POPUP" = "隐藏升级Premium弹窗";
-"HIDE_YT_UPDATE_POPUP" = "隐藏更新App版本弹窗";
-"HIDE_YT_UPDATE_POPUP_INFO" = "烦人的强制更新/退出应用程序弹窗";
+"NOT_TOPIC_SECTION" = "隐藏主题部分";
+"HIDE_PREMIUM_POPUP" = "隐藏 Premium 弹窗";
+"HIDE_YT_UPDATE_POPUP" = "隐藏 YouTube 更新弹窗";
+"HIDE_YT_UPDATE_POPUP_INFO" = "移除烦人的强制更新提示。";
 "ENABLE_MINI_PLAYER_VIDEOS" = "为所有视频启用迷你播放器";
-"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "在儿童视频上使用迷你播放器";
-"HIDE_HUD_ALERTS" = "隐藏所有弹窗";
-"HIDE_HUD_ALERTS_INFO" = "隐藏所有弹窗，例如不喜欢/儿童视频等。";
-"CLASSIC_SHARE" = "使用旧版填充式分享表";
-"HIDE_LINE_SEPERATOR" = "隐藏媒体库分割线";
-"ROUND_ALL_VIEW_CORNERS" = "所有视图圆角";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "包括儿童视频也可使用。";
+"HIDE_HUD_ALERTS" = "隐藏 HUD 提示";
+"HIDE_HUD_ALERTS_INFO" = "隐藏点赞/不喜欢等弹出提示。";
+"CLASSIC_SHARE" = "使用经典分享菜单";
+"HIDE_LINE_SEPERATOR" = "隐藏分隔线";
+"ROUND_ALL_VIEW_CORNERS" = "界面圆角化";
 "DISABLE_DARK_MODE" = "禁用深色模式";
-"HIDE_INCLUDE_PAID_PROMO" = "隐藏付费宣传/促销";
-"DARK_KEYBOARDS" = "深色风格键盘";
-"DISABLE_RTL" = "禁用RTL语言";
-"OTHERS" = "主页相关";
+"HIDE_INCLUDE_PAID_PROMO" = "隐藏“包含推广”标签";
+"DISABLE_RTL" = "禁用从右到左语言";
+"OTHERS" = "主页";
 "HIDE_PLAYLIST" = "隐藏播放列表";
-"PLAYLIST_INFO" = "不支持iPad风格";
-"HIDE_COVID_NEWS" = "隐藏COVID-19提示";
-"COVID_NEWS_INFO" = "主页隐藏COVID-19疫情相关";
-"HIDE_FILTER_TAGS" = "隐藏顶部的主题过滤器(直播、游戏等)";
-
+"PLAYLIST_INFO" = "不支持 iPad 样式。";
+"HIDE_COVID_NEWS" = "隐藏 COVID / 新闻";
+"COVID_NEWS_INFO" = "隐藏主页中的疫情和新闻。";
+"HIDE_FILTER_TAGS" = "隐藏顶部过滤标签";
 
 /* global action title */
-"OK" = "好的";
+"OK" = "确定";
 "YES" = "是";
 "NO" = "否";
 "ERROR" = "错误";
-"APP_RESTART_REQUIRED" = "程序需要重启";
-"FILZA_NOT_INSTALLED_ALERT" = "此设备没有发现Filza";
-"NO_DATA" = "无可用数据";
-"NOTE_UHD_LOCAL_DOWNLOAD" = "启用此功能将禁用本地下载模式，仅Sideloadly iPA版本。";
+"APP_RESTART_REQUIRED" = "请重启 YouTube 应用以应用更改。";
+"FILZA_NOT_INSTALLED_ALERT" = "此设备未安装 Filza。";
+"NO_DATA" = "暂无下载";
 "CANCEL" = "取消";
-"DISMISS" = "撤销";
-"DELETED" = "已刪除";
-"DOWNLOADING_START" = "下载中";
-"VIDEO_DWD_PROGRESS" = "视频(1/2)";
-"AUDIO_DWD_PROGRESS" = "音频(2/2)";
-"CANCEL_HUD" = "取消下载";
+"DISMISS" = "关闭";
+"DELETED" = "已删除";
 "SAVED" = "已保存";
 "SUCCESS" = "成功";
-"SHOW_ALL_QUALITY" = "显示所有画质";
-"SHOW_ALL_QUALITY_INFO" = "显示所有画质和音频";
-"SELECT_VIDEO_QUALITY" = "选择视频画质";
-"NOT_SUPPORTED_FORMAT" = "下载器不支持该视频，请选择其他画质。";
-"VIDEO" = "视频";
-"AUDIO" = "音频";
+"VIDEO" = "下载视频";
+"AUDIO" = "下载音频";
 "RENAME" = "重命名";
-"RENAME_FILE" = "重新命名文件";
-"RENAME_NEW_NAME" = "输入文件的新名称：";
-"RENAME_PLACEHOLDER" = "输入视频的新名称";
-"RENAME_PLACEHOLDER_AUDIO" = "输入音频的新名称";
-"PLAY" = "播放";
+"RENAME_FILE" = "重命名文件";
+"RENAME_NEW_NAME" = "输入新名称:";
+"RENAME_PLACEHOLDER" = "视频名称";
+"RENAME_PLACEHOLDER_AUDIO" = "音频名称";
+"PLAY" = "默认播放器";
 "SHARE" = "分享";
-"VIEW_IN_FILZA" = "在Filza中查看";
+"VIEW_IN_FILZA" = "在 Filza 中查看";
 "DELETE" = "删除";
 "MORE_OPTION" = "更多选项";
 "MAIN_OPTION" = "主要选项";
-"DELETE_ALL" = "刪除全部";
-"SAVE_ARTWORK" = "保存预览图";
-"SAVE_TO_PHOTOS" = "保存到照片App";
-"ARE_YOU_SURE" = "是否确实要删除所有项目？";
-"NOTE" = "提示！";
+"DELETE_ALL" = "全部删除";
+"SAVE_ARTWORK" = "保存封面";
+"SAVE_TO_PHOTOS" = "保存到相册";
+"ARE_YOU_SURE" = "确定要删除所有内容？";
+"NOTE" = "提示";
 "SAVE_FAILED" = "保存失败！";
-"SAVE_TO_PHOTOS_FAILED" = "保存到照片失败，请确保在iOS设置中授予YouTube访问照片的权限。";
-"DELETING_VIDEO" = "确定删除视频？";
-"DELETING_AUDIO" = "确定删除音频？";
+"SAVE_TO_PHOTOS_FAILED" = "请在设置中授权 YouTube 访问“照片”。";
+"DELETING_VIDEO" = "删除视频？";
+"DELETING_AUDIO" = "删除音频？";
+"SELECT_LANGUAGE" = "选择语言";
+"FAQ" = "常见问题";
+"action_undone" = "此操作无法撤销！";
 
 "toast_downloading" = "正在下载...";
-"toast_downloading_audio" = "正在下载音频";
-"toast_downloading_video" = "正在下载视频";
+"toast_downloading_audio" = "正在下载音频...";
+"toast_downloading_video" = "正在下载视频...";
 "toast_merging" = "正在合并...";
-"toast_preparing" = "正在准备... : 0%";
-"toast_multi_D_not_supported" = "暂不支持多重下载";
-"toast_download_cancelled" = "下载已取消";
+"toast_preparing" = "准备中... : 0%";
+"toast_download_cancelled" = "下载已取消。";
+
+"video_saved" = "✓ 视频已保存 - %@";
+"video_downloaded" = "🎬 ✓ 视频已下载: %@";
+"audio_saved" = "✓ 音频已保存 - %@";
+"audio_downloaded" = "🎵 ✓ 音频已下载: %@";
+"shorts_downloaded" = "🎬 ✓ Shorts 已下载";
+"queued" = "📥 已加入队列: ";
+"video_queuad" = "🎬 📥 视频已加入队列: ";
+"audio_queuad" = "🎵 📥 音频已加入队列: ";
+"starting" = "🔄 开始: %@";
+"audio_progress" = "🎵 音频: %@";
+"video_progress" = "🎬 视频: %@";
+"converting" = "⚙️ 转换中: %@";
+"merging" = "⚙️ 合并中: %@";
+"download_cancelled" = "❌ 下载已取消: %@";
+"quea_cancelled" = "❌ 已从队列中移除";
+"cancelled" = "❌ 已取消: %@";
+"loop_disabled" = "🔁 循环已关闭";
+"loop_enabled" = "🔂 循环已开启";
+"Auto_Skip" = "自动跳过";
+"Exit_Fullscreen" = "退出全屏";
 
 "play_next" = "播放下一个";
 "close" = "关闭";
+
 "VIDEO_INFO" = "视频信息";
 "FILE_SIZE" = "文件大小";
 "DURATION" = "时长";
-"DIMENSIONS" = "尺寸";
+"DIMENSIONS" = "分辨率";
 "BITRATE" = "比特率";
 "FRAME_RATE" = "帧率";
 "CREATED" = "创建时间";
 "AUDIO_INFO" = "音频信息";
 "FORMAT" = "格式";
 "SAMPLE_RATE" = "采样率";
-"CHANNELS" = "声道";
+"CHANNELS" = "声道数";
 
-"year_ago" = "%ld %@ 年前";
-"month_ago" = "%ld %@ 个月前";
-"week_ago" = "%ld %@ 周前";
-"day_ago" = "%ld %@ 天前";
-"hour_ago" = "%ld %@ 小时前";
-"minute_ago" = "%ld %@ 分钟前";
-"s" = "";
+"year_ago" = "%ld 年%@前";
+"month_ago" = "%ld 月%@前";
+"week_ago" = "%ld 周%@前";
+"day_ago" = "%ld 天%@前";
+"hour_ago" = "%ld 小时%@前";
+"minute_ago" = "%ld 分钟%@前";
+"s" = "秒";
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
-"AFTER_DONE" = "下载完成后的操作";
-"SAVE_OR_SHARE" = "保存或分享";
-"save or share" = "保存或分享";
-"SAVE_OR_SHARE_DISC" = "想将视频保存到您的相册、下载还是分享？";
-"SAVE_TO_PHOTOS" = "保存到照片";
-"SAVE_TO_DOWNLOAD" = "保存到下载";
+/* gestures */
+"gestures_control" = "手势控制";
+"brightness" = "亮度";
+"left" = "左侧";
+"right" = "右侧";
+"disabled" = "已禁用";
+"volume" = "音量";
+"hold_to_seek" = "长按快进";
+"seek_duration" = "快进时长";
+"seconds" = "%.0f 秒";
+"volume_brightness_gesture" = "音量与亮度手势";
+"seek_settings" = "快进设置";
+"gestures_config_description" = "设置屏幕左右两侧分别控制亮度和音量。\n\n提示:\n1. 竖屏模式下从角落下滑。\n2. 全屏时从底部滑动。";
+"hold_to_seek_description" = "长按屏幕左右两侧可快速拖动进度。";
+"brightness_gesture_left" = "亮度";
+"gesture_left_side" = "左侧手势";
+"cancel" = "取消";
+"volume_gesture_right" = "音量";
+"gesture_right_side" = "右侧手势";
 
-/* download manager section */
-"DOWNLOAD_MANAGER" = "下载管理器";
-"VIDEO_TAB_BAR" = "视频";
-"AUDIO_TAB_BAR" = "音频";
-"SHORTS_TAB_BAR" = "短视频";
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "其他项目";
+"CREDITS" = "贡献者";
+"SPECIAL_THANK" = "特别感谢";
+"LOCALIZATION" = "本地化";
+"icon_by" = "图标设计";
+"DEVELOPER" = "开发者";
+"WELCOM_ALERT" = "进入设置请打开 YTKPlus 标签并点击右上角齿轮图标。";
 
+/* clearCaches */
+"clearonstartup" = "启动时清除缓存";
+"clearcache" = "清除缓存";
+"On" = "开";
+"Off" = "关";
+
+"CLEARING_CACHE" = "正在清理缓存...";
+"PLEASE_WAIT" = "请稍候...";
+"CACHE_CLEARED" = "缓存已成功清除！";
+"CLEAR_CACHE" = "清除缓存";
+"CALCULATING" = "计算中...";
+
+/* checkForUpdates */
 "the_changelog" = "更新日志";
 "skip_version" = "跳过此版本";
 "updates_available" = "有可用更新";
-"new_version_available" = "YTKillerPlus (%@) 的新版本已可用。建议始终保持更新到最新版本。";
+"new_version_available" = "YTKillerPlus (%@) 新版本可用，建议保持最新。";
 
-/* promptForActivation */
-"license_option" = "许可证选项";
-"license_option_disc" = "选择一个选项：";
-"activate_new_license" = "激活新许可证";
-"restore_license" = "恢复许可证";
-"renew_license" = "续订许可证";
-"buy_license" = "购买许可证";
-"activate_new_license_disc" = "请输入您的电子邮件和许可证密钥。";
-"email" = "电子邮件";
-"license_key" = "许可证密钥";
+/* license prompt */
+"license_option" = "许可选项";
+"license_option_disc" = "请选择一个操作：";
+"activate_new_license" = "激活新许可";
+"restore_license" = "恢复许可";
+"renew_license" = "续订许可";
+"buy_license" = "购买许可";
+"activate_new_license_disc" = "请输入您的邮箱和许可密钥。";
+"email" = "邮箱";
+"license_key" = "许可密钥";
 "activate" = "激活";
-"invalid_email" = "电子邮件无效";
-"invalid_email_disc" = "请输入有效的电子邮件地址。";
-"invalid_license" = "许可证密钥无效";
-"license_key_empty" = "许可证密钥不能为空。";
-"license_key_length_wrong" = "许可证密钥长度错误\n请输入有效的许可证密钥。";
+"invalid_email" = "邮箱无效";
+"invalid_email_disc" = "请输入有效的邮箱地址。";
+"invalid_license" = "无效许可";
+"license_key_empty" = "许可密钥不能为空。";
+"license_key_length_wrong" = "密钥长度错误，请输入正确的密钥。";
 
-/* promptForRestore */
-"restore_license_disc" = "输入与您的许可证关联的电子邮件。";
+"restore_license_disc" = "请输入与许可绑定的邮箱。";
 "restore" = "恢复";
-"license_restored_successfully" = "许可证恢复成功。\n密钥：%@\n有效期：%@";
-"license_restored" = "许可证已恢复";
+"copy_license_key" = "复制许可密钥";
+"license_key_copied_to_clipboard" = "许可密钥已复制。";
+"license_details" = "许可详情";
+"license_details_disc" = "许可密钥: %@\n\n到期日期: %@\n\n%@";
+"license_restored_successfully" = "许可已成功恢复。";
+"license_restored" = "许可已恢复";
 "restore_failed" = "恢复失败";
 
-/* enter license prompt */
-"enter_license_key" = "输入许可证密钥";
-"enter_license_key_disc" = "请输入您的许可证密钥进行验证。";
-"license_key_authenticated" = "许可证密钥已成功验证。到期日期：%@";
-"authentication_successful" = "身份验证成功";
-"key_used_on_another_device" = "许可证已在另一台设备上激活";
-"key_is_in_use_on_another_device" = "此许可证已在其他设备上使用。请使用其他许可证密钥。";
-"email_associated_with_another_key" = "电子邮件已经与另一个许可证关联";
-"authentication_failed" = "身份验证失败";
-"email_associated_with_defferent_key" = "此电子邮件已与其他许可证关联。请使用其他电子邮件或许可证密钥。";
+"enter_license_key" = "输入许可密钥";
+"enter_license_key_disc" = "请输入许可密钥以进行验证。";
+"license_key_authenticated" = "验证成功，有效期至: %@";
+"authentication_successful" = "验证成功";
+"key_used_on_another_device" = "该密钥已在其他设备上激活。";
+"key_is_in_use_on_another_device" = "此许可正在其他设备上使用。";
+"email_associated_with_another_key" = "邮箱已绑定其他许可。";
+"authentication_failed" = "验证失败";
+"email_associated_with_defferent_key" = "该邮箱已关联不同密钥。";
 "key_expired" = "密钥已过期";
-"license_expired" = "许可证已过期";
-"license_expired_disc" = "您的许可证密钥已过期。请续订。";
-"license_verification_failed" = "许可证验证失败";
-"no_internet" = "无法联网";
-"no_internet_disc" = "您需要互联网连接来进行身份验证。";
-"license_disc" = "您输入的许可证密钥无效。";
+"license_expired" = "许可已过期";
+"license_expired_disc" = "您的许可已过期，请续订。";
+"license_verification_failed" = "许可验证失败";
+"no_internet" = "无网络连接";
+"no_internet_disc" = "需要网络连接以验证许可。";
+"license_disc" = "输入的许可密钥无效。";
 
 /* other stuff */
