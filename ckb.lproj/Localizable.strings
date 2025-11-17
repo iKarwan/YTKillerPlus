@@ -338,6 +338,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "پاشەکەوتکردن بۆ وێنەکان سەرکەوتوو نەبوو. ڕێگەی ڕوونی وێنە بدە لە ڕێکخستنەکان.";
 "DELETING_VIDEO" = "سڕینەوەی ڤیدیۆ؟";
 "DELETING_AUDIO" = "سڕینەوەی دەنگ؟";
+"AUTO_LANGUAGE" = "خۆکار";
 "SELECT_LANGUAGE" = "زمان هەڵبژێرە";
 "FAQ" = "پرسیار و وەڵام";
 "action_undone" = "ئەم کردارە ناتوانرێت پاشگەزبکرێتەوە!";
@@ -394,9 +395,22 @@
 "day_ago" = "%ld ڕۆژ پێش";
 "hour_ago" = "%ld کاتژمێر پێش";
 "minute_ago" = "%ld خولەک پێش";
-"s" = "s";
+"s" = "";
 "kilo_byte" = "%@    %*s    %.0f کیلوبایت";
 "mega_byte" = "%@    %*s    %.1f مێگابایت";
+
+"sleep_timer" = "كاتژمێری خەو";
+"time_calculater" = "%ld خولەك";
+"5_min" = "٥ خولەك";
+"10_min" = "١٠ خولەك";
+"15_min" = "١٥ خولەك";
+"20_min" = "٢٠ خولەك";
+"30_min" = "٣٠ خولەك";
+"45_min" = "٤٥ خولەك";
+"1_hour" = "١ کاتژمێر";
+"end_of_track" = "کۆتایی تراک";
+"min_left" = "%ld خولەك ماوە";
+"sleep_timer_activated" = "كاتژمێری خەو چالاک کرا - پەخش وەستێنرا";
 
 /* gestures */
 "gestures_control" = "کۆنترۆڵی گەشتەکان";
@@ -417,6 +431,31 @@
 "cancel" = "پاشگەزبوونەوە";
 "volume_gesture_right" = "دەنگ";
 "gesture_right_side" = "گەشتەی لا ڕاست";
+
+/* icon themes */
+"icon_changed" = "تۆ ئایكۆنی\n\"YouTube\" گۆڕی.";
+"select_icon_theme" = "هەڵبژاردنی ڕووخساری ئایكۆن";
+
+/* fake location */
+"fake_location" = "شوێنی ساختە";
+"save" = "هەڵگرتن";
+"location_name" = "ناوی شوێن";
+"enter_location_name" = "وڵات: %@\nناوی ئەم شوێنە بنوسە";
+"unknown" = "نەزانراو";
+"save_location" = "هەڵگرتنی شوێن";
+"getting_location_info" = "وەرگرتنی زانیاری شوێن...";
+"loading" = "لە باركردن...";
+"selected_location" = "شوێنی هەڵبژێراو";
+"delete" = "سڕینەوە";
+"saved_location_disc" = "شوێنە هەڵگراوەکان بەڕێوەببە و یەكێکیان وەک شوێنی كارای خۆت دیاری بكە. بە سوور بچۆ سڕینەوە.";
+"enable_fake_location_disc" = "شوێنێكی ساختەت بخە ناو YouTube لەبری شوێنی ڕاستەقینە. دوگمەیەک زیاد دەکات بۆ گۆڕینی خێرا لە نەخشەی هاوڕێکان.";
+"SAVED_LOCATIONS" = "شوێنە هەڵگراوەکان";
+"search_places" = "گەڕان بۆ شوێن";
+"select_location" = "شوێن هەڵبژێرە";
+"custom_location" = "شوێنی تایبەت";
+"system_default" = "بنەڕەتی سیستەم";
+"current_location" = "شوێنی ئێستا";
+"enable_fake_location" = "چالاککردنی شوێنی ساختە";
 
 /* credits */
 "OTHER_TWEAKS" = "پڕۆژەی تر";
@@ -445,14 +484,14 @@
 "updates_available" = "نوێکردنەوە بەردەستە";
 "new_version_available" = "وەشانی نوێی YTKillerPlus (%@) بەردەستە. پێشنیار دەکرێت هەمیشە بە نوێترین وەشان بمێنیت.";
 
-/* license section */
-"license_option" = "هەڵبژاردەی مۆڵەت";
+/* promptForActivation */
+"license_option" = "هەڵبژاردەکانی مۆڵەت";
 "license_option_disc" = "هەڵبژێرە:";
 "activate_new_license" = "چالاککردنی مۆڵەتی نوێ";
 "restore_license" = "گەڕاندنەوەی مۆڵەت";
 "renew_license" = "نوێکردنەوەی مۆڵەت";
 "buy_license" = "کڕینی مۆڵەت";
-"activate_new_license_disc" = "ئیمەیڵ و کۆدی مۆڵەت بنووسە.";
+"activate_new_license_disc" = "پۆستی ئەلیکترۆنی و کۆدی مۆڵەت بنووسە.";
 "email" = "ئیمەیڵ";
 "license_key" = "کۆدی مۆڵەت";
 "activate" = "چالاککردن";
@@ -461,22 +500,35 @@
 "invalid_license" = "مۆڵەت نادروستە";
 "license_key_empty" = "کۆدی مۆڵەت نابێت بەتاڵ بێت.";
 "license_key_length_wrong" = "درێژی کۆد نادروستە.\nتکایە کۆدی دروست بنووسە.";
+
+/* promptForRestore */
 "restore_license_disc" = "ئیمەیڵی پەیوەست بە مۆڵەت بنووسە.";
 "restore" = "گەڕاندنەوە";
+"copy_license_key" = "کۆپی کۆدی مۆڵەت";
+"license_key_copied_to_clipboard" = "کۆدی مۆڵەت کۆپی کرا.";
+"license_details" = "وردەکارییەکانی مۆڵەت";
+"license_details_disc" = "کۆدی مۆڵەت: %@\n\nبەسەرچوون: %@\n\n%@";
 "license_restored_successfully" = "مۆڵەت بە سەرکەوتوویی گەڕێندرایەوە.";
 "license_restored" = "مۆڵەت گەڕێندرایەوە";
 "restore_failed" = "گەڕاندنەوە سەرکەوتوو نەبوو";
+"copied_key" = "کۆپی کرا بۆ کلیپبۆرد";
+
+/* enter license prompt */
 "enter_license_key" = "کۆدی مۆڵەت بنووسە";
 "enter_license_key_disc" = "کۆدی مۆڵەت بنووسە بۆ دڵنیاکردنەوە.";
-"license_key_authenticated" = "مۆڵەت دڵنیایی کرا. بەسەر دەچێت لە: %@";
+"license_key_authenticated" = "مۆڵەت پشتڕاستکراوە. بەسەر دەچێت لە: %@";
 "authentication_successful" = "پشتڕاستکردنەوە سەرکەوتوو بوو";
+"key_used_on_another_device" = "مۆڵەتەکە لەسەر ئامێرێکی تر چالاک کراوە.";
+"key_is_in_use_on_another_device" = "ئەم مۆڵەتە لە ئامێرێکی تر بەکارهاتووە. تکایە کۆدی تر بەکاربهێنە.";
+"email_associated_with_another_key" = "ئیمەیڵەکە پەیوەستە بە مۆڵەتی تر.";
 "authentication_failed" = "پشتڕاستکردنەوە سەرکەوتوو نەبوو";
+"email_associated_with_defferent_key" = "ئیمەیڵەکە پەیوەستە بە کۆدی تر. تکایە ئیمەیڵ یان کۆدی تر بەکاربهێنە.";
 "key_expired" = "کۆدەکە بەسەرچووە";
 "license_expired" = "مۆڵەت بەسەرچووە";
-"license_expired_disc" = "مۆڵەتەکەت بەسەرچووە. تکایە نوێی بکەوە.";
+"license_expired_disc" = "مۆڵەتەکەت بەسەرچووە. تکایە نوێی بکەرەوە.";
 "license_verification_failed" = "پشتڕاستکردنەوەی مۆڵەت سەرکەوتوو نەبوو";
-"no_internet" = "ئینتەرنێت نییە";
-"no_internet_disc" = "پێویستە پەیوەندی ئینتەرنێت هەبێت بۆ پشتڕاستکردنەوە.";
+"no_internet" = "بێ ئینتەرنێت";
+"no_internet_disc" = "پێویستە بە پەیوەندی ئینتەرنێت بۆ پشتڕاستکردنەوە.";
 "license_disc" = "کۆدی مۆڵەت نادروستە.";
 
 /* other stuff */

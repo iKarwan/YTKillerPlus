@@ -338,6 +338,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "请在设置中授权 YouTube 访问“照片”。";
 "DELETING_VIDEO" = "删除视频？";
 "DELETING_AUDIO" = "删除音频？";
+"AUTO_LANGUAGE" = "自动";
 "SELECT_LANGUAGE" = "选择语言";
 "FAQ" = "常见问题";
 "action_undone" = "此操作无法撤销！";
@@ -395,6 +396,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
+"sleep_timer" = "睡眠定时器";
+"time_calculater" = "%ld 分钟";
+"5_min" = "5 分钟";
+"10_min" = "10 分钟";
+"15_min" = "15 分钟";
+"20_min" = "20 分钟";
+"30_min" = "30 分钟";
+"45_min" = "45 分钟";
+"1_hour" = "1 小时";
+"end_of_track" = "曲目结束";
+"min_left" = "剩余 %ld 分钟";
+"sleep_timer_activated" = "睡眠定时器已激活 - 播放已暂停";
+
 /* gestures */
 "gestures_control" = "手势控制";
 "brightness" = "亮度";
@@ -414,6 +428,31 @@
 "cancel" = "取消";
 "volume_gesture_right" = "音量";
 "gesture_right_side" = "右侧手势";
+
+/* icon themes */
+"icon_changed" = "你已更改\n“YouTube”的图标。";
+"select_icon_theme" = "选择图标主题";
+
+/* fake location */
+"fake_location" = "虚拟位置";
+"save" = "保存";
+"location_name" = "位置名称";
+"enter_location_name" = "国家：%@\n请输入此位置的名称";
+"unknown" = "未知";
+"save_location" = "保存位置";
+"getting_location_info" = "正在获取位置信息...";
+"loading" = "加载中...";
+"selected_location" = "已选择的位置";
+"delete" = "删除";
+"saved_location_disc" = "管理你的已保存位置，并将其中一个设为当前使用的地点。滑动即可删除。";
+"enable_fake_location_disc" = "在 YouTube 中模拟一个自定义位置，而不是你的真实位置。会在好友地图中添加快速切换按钮。";
+"SAVED_LOCATIONS" = "已保存的位置";
+"search_places" = "搜索地点";
+"select_location" = "选择位置";
+"custom_location" = "自定义位置";
+"system_default" = "系统默认";
+"current_location" = "当前位置";
+"enable_fake_location" = "启用虚拟位置";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "其他项目";

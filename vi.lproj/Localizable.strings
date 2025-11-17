@@ -338,6 +338,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "Hãy cấp quyền truy cập Ảnh cho YouTube.";
 "DELETING_VIDEO" = "Xóa video?";
 "DELETING_AUDIO" = "Xóa âm thanh?";
+"AUTO_LANGUAGE" = "Tự động";
 "SELECT_LANGUAGE" = "Chọn ngôn ngữ";
 "FAQ" = "Câu hỏi thường gặp";
 "action_undone" = "Không thể hoàn tác hành động này!";
@@ -395,6 +396,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
+"sleep_timer" = "Hẹn giờ ngủ";
+"time_calculater" = "%ld phút";
+"5_min" = "5 phút";
+"10_min" = "10 phút";
+"15_min" = "15 phút";
+"20_min" = "20 phút";
+"30_min" = "30 phút";
+"45_min" = "45 phút";
+"1_hour" = "1 giờ";
+"end_of_track" = "Kết thúc bài";
+"min_left" = "Còn %ld phút";
+"sleep_timer_activated" = "Đã kích hoạt hẹn giờ ngủ - phát tạm dừng";
+
 /* gestures */
 "gestures_control" = "Điều khiển cử chỉ";
 "brightness" = "Độ sáng";
@@ -414,6 +428,31 @@
 "cancel" = "Hủy";
 "volume_gesture_right" = "Âm lượng";
 "gesture_right_side" = "Bên phải";
+
+/* icon themes */
+"icon_changed" = "Bạn đã thay đổi\nbiểu tượng cho \"YouTube\".";
+"select_icon_theme" = "Chọn chủ đề biểu tượng";
+
+/* fake location */
+"fake_location" = "Vị trí giả";
+"save" = "Lưu";
+"location_name" = "Tên vị trí";
+"enter_location_name" = "Quốc gia: %@\nNhập tên cho vị trí này";
+"unknown" = "Không rõ";
+"save_location" = "Lưu vị trí";
+"getting_location_info" = "Đang lấy thông tin vị trí...";
+"loading" = "Đang tải...";
+"selected_location" = "Vị trí đã chọn";
+"delete" = "Xóa";
+"saved_location_disc" = "Quản lý các vị trí đã lưu và đặt một vị trí làm vị trí hiện tại. Vuốt để xóa.";
+"enable_fake_location_disc" = "Giả lập một vị trí tùy chỉnh trong YouTube thay vì vị trí thật. Thêm nút chuyển nhanh trên bản đồ Bạn bè.";
+"SAVED_LOCATIONS" = "VỊ TRÍ ĐÃ LƯU";
+"search_places" = "Tìm kiếm địa điểm";
+"select_location" = "Chọn vị trí";
+"custom_location" = "Vị trí tùy chỉnh";
+"system_default" = "Mặc định hệ thống";
+"current_location" = "Vị trí hiện tại";
+"enable_fake_location" = "Bật vị trí giả";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Dự án khác";

@@ -394,6 +394,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
+"sleep_timer" = "Timer di spegnimento";
+"time_calculater" = "%ld min";
+"5_min" = "5 minuti";
+"10_min" = "10 minuti";
+"15_min" = "15 minuti";
+"20_min" = "20 minuti";
+"30_min" = "30 minuti";
+"45_min" = "45 minuti";
+"1_hour" = "1 ora";
+"end_of_track" = "Fine traccia";
+"min_left" = "%ld min rimanenti";
+"sleep_timer_activated" = "Timer di spegnimento attivato - riproduzione in pausa";
+
 /* gestures */
 "gestures_control" = "Gebarenbediening";
 "brightness" = "Helderheid";
@@ -413,6 +426,31 @@
 "cancel" = "Annuleren";
 "volume_gesture_right" = "Volume";
 "gesture_right_side" = "Rechterkant-gebaar";
+
+/* icon themes */
+"icon_changed" = "Hai cambiato l’icona\nper \"YouTube\".";
+"select_icon_theme" = "Seleziona tema icona";
+
+/* fake location */
+"fake_location" = "Posizione Falsa";
+"save" = "Salva";
+"location_name" = "Nome posizione";
+"enter_location_name" = "Paese: %@\nInserisci un nome per questa posizione";
+"unknown" = "Sconosciuto";
+"save_location" = "Salva posizione";
+"getting_location_info" = "Recupero informazioni sulla posizione...";
+"loading" = "Caricamento...";
+"selected_location" = "Posizione selezionata";
+"delete" = "Elimina";
+"saved_location_disc" = "Gestisci le posizioni salvate e imposta una come posizione attiva. Scorri per eliminarla.";
+"enable_fake_location_disc" = "Simula una posizione personalizzata su YouTube al posto di quella reale. Aggiunge un pulsante sulla mappa degli amici per un cambio rapido.";
+"SAVED_LOCATIONS" = "POSIZIONI SALVATE";
+"search_places" = "Cerca luoghi";
+"select_location" = "Seleziona posizione";
+"custom_location" = "Posizione personalizzata";
+"system_default" = "Predefinito di sistema";
+"current_location" = "Posizione attuale";
+"enable_fake_location" = "Abilita posizione falsa";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Andere projecten";

@@ -340,6 +340,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "Saving to Photos failed. Grant Photos access to YouTube in Settings.";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
+"AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Select Language";
 "FAQ" = "FAQ";
 "action_undone" = "This action cannot be undone!";
@@ -400,7 +401,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
-/* English */
+"sleep_timer" = "Sleep Timer";
+"time_calculater" = "%ld min";
+"5_min" = "5 minutes";
+"10_min" = "10 minutes";
+"15_min" = "15 minutes";
+"20_min" = "20 minutes";
+"30_min" = "30 minutes";
+"45_min" = "45 minutes";
+"1_hour" = "1 hour";
+"end_of_track" = "End of track";
+"min_left" = "%ld min left";
+"sleep_timer_activated" = "Sleep timer activated - playback paused";
+
 "gestures_control" = "Gestures Control";
 "brightness" = "Brightness";
 "left" = "Left";
@@ -419,6 +432,31 @@
 "cancel" = "Cancel";
 "volume_gesture_right" = "Volume";
 "gesture_right_side" = "Right Side Gesture";
+
+/* icon themes */
+"icon_changed" = "You have changed the\nicon for \"YouTube\".";
+"select_icon_theme" = "Select Icon Theme";
+
+/* fake location */
+"fake_location" = "Fake Location";
+"save" = "Save";
+"location_name" = "Location Name";
+"enter_location_name" = "Country: %@\nEnter a name for this location";
+"unknown" = "Unknown";
+"save_location" = "Save Location";
+"getting_location_info" = "Getting location info...";
+"loading" = "Loading...";
+"selected_location" = "Selected Location";
+"delete" = "Delete";
+"saved_location_disc" = "Manage your saved locations and set one as your active location. Swipe to remove any saved entry.";
+"enable_fake_location_disc" = "Simulate a custom location within YouTube instead of your actual one. Adds a convenient button on the Friends Map to quickly switch locations.";
+"SAVED_LOCATIONS" = "SAVED LOCATIONS";
+"search_places" = "Search places";
+"select_location" = "Select Location";
+"custom_location" = "Custom Location";
+"system_default" = "System Default";
+"current_location" = "Current Location";
+"enable_fake_location" = "Enable Fake Location";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Other Projects";

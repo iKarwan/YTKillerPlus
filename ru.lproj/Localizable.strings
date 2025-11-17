@@ -337,6 +337,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "Проверьте разрешения приложения Фото.";
 "DELETING_VIDEO" = "Удалить видео?";
 "DELETING_AUDIO" = "Удалить аудио?";
+"AUTO_LANGUAGE" = "Авто";
 "SELECT_LANGUAGE" = "Выбор языка";
 "FAQ" = "FAQ";
 "action_undone" = "Это действие нельзя отменить!";
@@ -394,6 +395,19 @@
 "kilo_byte" = "%@    %*s    %.0f КБ";
 "mega_byte" = "%@    %*s    %.1f МБ";
 
+"sleep_timer" = "Таймер сна";
+"time_calculater" = "%ld мин";
+"5_min" = "5 минут";
+"10_min" = "10 минут";
+"15_min" = "15 минут";
+"20_min" = "20 минут";
+"30_min" = "30 минут";
+"45_min" = "45 минут";
+"1_hour" = "1 час";
+"end_of_track" = "Конец трека";
+"min_left" = "Осталось %ld мин";
+"sleep_timer_activated" = "Таймер сна активирован — воспроизведение приостановлено";
+
 /* gestures */
 "gestures_control" = "Жесты управления";
 "brightness" = "Яркость";
@@ -413,6 +427,31 @@
 "cancel" = "Отмена";
 "volume_gesture_right" = "Громкость";
 "gesture_right_side" = "Правая сторона";
+
+/* icon themes */
+"icon_changed" = "Вы изменили\nзначок для \"YouTube\".";
+"select_icon_theme" = "Выбрать тему значка";
+
+/* fake location */
+"fake_location" = "Фальшивая геолокация";
+"save" = "Сохранить";
+"location_name" = "Название локации";
+"enter_location_name" = "Страна: %@\nВведите название для этой локации";
+"unknown" = "Неизвестно";
+"save_location" = "Сохранить локацию";
+"getting_location_info" = "Получение данных о местоположении...";
+"loading" = "Загрузка...";
+"selected_location" = "Выбранная локация";
+"delete" = "Удалить";
+"saved_location_disc" = "Управляйте сохранёнными локациями и выберите одну в качестве активной. Смахните, чтобы удалить.";
+"enable_fake_location_disc" = "Имитируйте собственную локацию в YouTube вместо реальной. Добавляет кнопку на карте друзей для быстрого переключения.";
+"SAVED_LOCATIONS" = "СОХРАНЕННЫЕ ЛОКАЦИИ";
+"search_places" = "Поиск мест";
+"select_location" = "Выбрать локацию";
+"custom_location" = "Пользовательская локация";
+"system_default" = "Системные настройки";
+"current_location" = "Текущее местоположение";
+"enable_fake_location" = "Включить фальшивую локацию";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Другие проекты";

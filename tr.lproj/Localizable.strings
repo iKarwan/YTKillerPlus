@@ -337,6 +337,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "Fotoğraflar uygulamasına izin verildiğinden emin olun.";
 "DELETING_VIDEO" = "Video Silinsin mi?";
 "DELETING_AUDIO" = "Ses Silinsin mi?";
+"AUTO_LANGUAGE" = "Otomatik";
 "SELECT_LANGUAGE" = "Dil Seçin";
 "FAQ" = "SSS";
 "action_undone" = "Bu işlem geri alınamaz!";
@@ -394,6 +395,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
+"sleep_timer" = "Uyku Zamanlayıcısı";
+"time_calculater" = "%ld dk";
+"5_min" = "5 dakika";
+"10_min" = "10 dakika";
+"15_min" = "15 dakika";
+"20_min" = "20 dakika";
+"30_min" = "30 dakika";
+"45_min" = "45 dakika";
+"1_hour" = "1 saat";
+"end_of_track" = "Parça sonu";
+"min_left" = "%ld dakika kaldı";
+"sleep_timer_activated" = "Uyku zamanlayıcı etkin - oynatma duraklatıldı";
+
 /* gestures */
 "gestures_control" = "Hareket Kontrolü";
 "brightness" = "Parlaklık";
@@ -413,6 +427,31 @@
 "cancel" = "İptal";
 "volume_gesture_right" = "Ses";
 "gesture_right_side" = "Sağ Taraf";
+
+/* icon themes */
+"icon_changed" = "“YouTube” için\noù değiştirildi.";
+"select_icon_theme" = "Simge temasını seç";
+
+/* fake location */
+"fake_location" = "Sahte Konum";
+"save" = "Kaydet";
+"location_name" = "Konum Adı";
+"enter_location_name" = "Ülke: %@\nBu konum için bir ad girin";
+"unknown" = "Bilinmiyor";
+"save_location" = "Konumu Kaydet";
+"getting_location_info" = "Konum bilgisi alınıyor...";
+"loading" = "Yükleniyor...";
+"selected_location" = "Seçilen Konum";
+"delete" = "Sil";
+"saved_location_disc" = "Kaydedilen konumlarını yönet ve birini aktif konum olarak ayarla. Silmek için kaydır.";
+"enable_fake_location_disc" = "Gerçek konumun yerine YouTube içinde özel bir konum simüle eder. Arkadaş Haritasına hızlı geçiş için bir buton ekler.";
+"SAVED_LOCATIONS" = "KAYDEDİLEN KONUMLAR";
+"search_places" = "Yer ara";
+"select_location" = "Konum seç";
+"custom_location" = "Özel Konum";
+"system_default" = "Sistem Varsayılanı";
+"current_location" = "Mevcut Konum";
+"enable_fake_location" = "Sahte Konumu Etkinleştir";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Diğer Projeler";

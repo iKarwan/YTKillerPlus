@@ -336,6 +336,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "فشل الحفظ في الصور، تحقق من صلاحيات التطبيق.";
 "DELETING_VIDEO" = "حذف الفيديو؟";
 "DELETING_AUDIO" = "حذف الصوت؟";
+"AUTO_LANGUAGE" = "تلقائي";
 "SELECT_LANGUAGE" = "اختيار اللغة";
 "FAQ" = "الأسئلة الشائعة";
 "action_undone" = "لا يمكن التراجع عن هذا الإجراء!";
@@ -389,9 +390,22 @@
 "day_ago" = "منذ %ld يوم%@";
 "hour_ago" = "منذ %ld ساعة%@";
 "minute_ago" = "منذ %ld دقيقة%@";
-"s" = "ث";
+"s" = "";
 "kilo_byte" = "%@    %*s    %.0f كيلوبايت";
 "mega_byte" = "%@    %*s    %.1f ميجابايت";
+
+"sleep_timer" = "مؤقت النوم";
+"time_calculater" = "%ld دقيقة";
+"5_min" = "٥ دقائق";
+"10_min" = "١٠ دقائق";
+"15_min" = "١٥ دقيقة";
+"20_min" = "٢٠ دقيقة";
+"30_min" = "٣٠ دقيقة";
+"45_min" = "٤٥ دقيقة";
+"1_hour" = "ساعة واحدة";
+"end_of_track" = "نهاية المقطع";
+"min_left" = "متبقي %ld دقيقة";
+"sleep_timer_activated" = "تم تفعيل مؤقت النوم - تم إيقاف التشغيل مؤقتًا";
 
 /* gestures */
 "gestures_control" = "تحكم الإيماءات";
@@ -412,6 +426,31 @@
 "cancel" = "إلغاء";
 "volume_gesture_right" = "الصوت";
 "gesture_right_side" = "الجهة اليمنى";
+
+/* icon themes */
+"icon_changed" = "لقد قمت بتغيير\nأيقونة \"YouTube\".";
+"select_icon_theme" = "اختر نمط الأيقونة";
+
+/* fake location */
+"fake_location" = "موقع وهمي";
+"save" = "حفظ";
+"location_name" = "اسم الموقع";
+"enter_location_name" = "الدولة: %@\nأدخل اسمًا لهذا الموقع";
+"unknown" = "غير معروف";
+"save_location" = "حفظ الموقع";
+"getting_location_info" = "جارٍ الحصول على معلومات الموقع...";
+"loading" = "جارٍ التحميل...";
+"selected_location" = "الموقع المحدد";
+"delete" = "حذف";
+"saved_location_disc" = "إدارة المواقع المحفوظة وتعيين أحدها كموقع نشط. اسحب لحذف أي موقع.";
+"enable_fake_location_disc" = "قم بمحاكاة موقع مخصص داخل يوتيوب بدلًا من موقعك الحقيقي. يضيف زرًا في خريطة الأصدقاء للتبديل السريع.";
+"SAVED_LOCATIONS" = "المواقع المحفوظة";
+"search_places" = "ابحث عن الأماكن";
+"select_location" = "اختر موقعًا";
+"custom_location" = "موقع مخصص";
+"system_default" = "إعدادات النظام";
+"current_location" = "الموقع الحالي";
+"enable_fake_location" = "تفعيل الموقع الوهمي";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "مشاريع أخرى";

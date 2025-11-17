@@ -337,6 +337,7 @@
 "SAVE_TO_PHOTOS_FAILED" = "Error al guardar en Fotos. Da permiso a YouTube en Ajustes.";
 "DELETING_VIDEO" = "¿Eliminar video?";
 "DELETING_AUDIO" = "¿Eliminar audio?";
+"AUTO_LANGUAGE" = "Automático";
 "SELECT_LANGUAGE" = "Seleccionar idioma";
 "FAQ" = "Preguntas frecuentes";
 "action_undone" = "¡Esta acción no se puede deshacer!";
@@ -394,6 +395,19 @@
 "kilo_byte" = "%@    %*s    %.0f KB";
 "mega_byte" = "%@    %*s    %.1f MB";
 
+"sleep_timer" = "Temporizador de sueño";
+"time_calculater" = "%ld min";
+"5_min" = "5 minutos";
+"10_min" = "10 minutos";
+"15_min" = "15 minutos";
+"20_min" = "20 minutos";
+"30_min" = "30 minutos";
+"45_min" = "45 minutos";
+"1_hour" = "1 hora";
+"end_of_track" = "Fin de la pista";
+"min_left" = "%ld min restantes";
+"sleep_timer_activated" = "Temporizador de sueño activado - reproducción pausada";
+
 /* gestures */
 "gestures_control" = "Control por gestos";
 "brightness" = "Brillo";
@@ -413,6 +427,31 @@
 "cancel" = "Cancelar";
 "volume_gesture_right" = "Volumen";
 "gesture_right_side" = "Lado derecho";
+
+/* icon themes */
+"icon_changed" = "Has cambiado el ícono\npara \"YouTube\".";
+"select_icon_theme" = "Seleccionar tema de ícono";
+
+/* fake location */
+"fake_location" = "Ubicación falsa";
+"save" = "Guardar";
+"location_name" = "Nombre de la ubicación";
+"enter_location_name" = "País: %@\nIngresa un nombre para esta ubicación";
+"unknown" = "Desconocido";
+"save_location" = "Guardar ubicación";
+"getting_location_info" = "Obteniendo información de ubicación...";
+"loading" = "Cargando...";
+"selected_location" = "Ubicación seleccionada";
+"delete" = "Eliminar";
+"saved_location_disc" = "Administra tus ubicaciones guardadas y establece una como activa. Desliza para eliminar.";
+"enable_fake_location_disc" = "Simula una ubicación personalizada en YouTube en lugar de la real. Añade un botón en el mapa de amigos para cambiar rápidamente.";
+"SAVED_LOCATIONS" = "UBICACIONES GUARDADAS";
+"search_places" = "Buscar lugares";
+"select_location" = "Seleccionar ubicación";
+"custom_location" = "Ubicación personalizada";
+"system_default" = "Predeterminado del sistema";
+"current_location" = "Ubicación actual";
+"enable_fake_location" = "Activar ubicación falsa";
 
 /* other || credits translation & links */
 "OTHER_TWEAKS" = "Otros proyectos";
