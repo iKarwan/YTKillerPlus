@@ -7,11 +7,8 @@
 | ![3](https://github.com/user-attachments/assets/e93caf9f-d500-43a0-bfbf-2b17b37061ea) | ![4](https://github.com/user-attachments/assets/aec35c1b-9623-4a16-a480-2cff03c31b34) | ![7](https://github.com/user-attachments/assets/f80f342a-59a1-402f-b747-bc58402760c6) |
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
-* iOS iPadOS 14.0 / iOS iPadOS 26.x ...
-* YouTube v19.20.2 is for iOS 14.x ...
-* YouTube v19.21x and newer is for iOS 15.x ...
-* YouTube v20.33x and newer is for iOS 16.x and above... (Recommended)!
-* [visit telegram for older version](https://t.me/ikgipa)
+* iOS iPadOS 16.0 / iOS iPadOS 26.x ...
+* YouTube v20.33x and newer is for iOS 16.x and above!
 
 
 ## Depiction Page
