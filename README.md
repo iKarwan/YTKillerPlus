@@ -8,7 +8,7 @@
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 16.0 / iOS iPadOS 26.x ...
-* YouTube v20.33x and newer is for iOS 16.x and above!
+* YouTube v20.33x and newer !
 
 
 ## Depiction Page
