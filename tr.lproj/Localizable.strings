@@ -497,6 +497,8 @@
 "license_key_empty" = "Lisans anahtarı boş olamaz.";
 "license_key_length_wrong" = "Anahtar uzunluğu hatalı.\nLütfen geçerli bir anahtar girin.";
 
+"restore_notice" = "Kurtarma Süreci Güncellendi";
+"restore_notice_desc" = "Kurtarma süreci değişti. Lisansını geri yükledikten sonra anahtarını kopyalayıp aktivasyon ekranına dönmelisin ve e-posta ile anahtarı tekrar kullanarak etkinleştirmelisin.";
 "restore_license_disc" = "Lisansla ilişkili e-postayı girin.";
 "restore" = "Geri Yükle";
 "copy_license_key" = "Anahtarı Kopyala";

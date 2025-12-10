@@ -498,6 +498,8 @@
 "license_key_empty" = "Mã giấy phép không được để trống.";
 "license_key_length_wrong" = "Độ dài mã không hợp lệ.\nVui lòng nhập đúng mã.";
 
+"restore_notice" = "Quy trình khôi phục đã được cập nhật";
+"restore_notice_desc" = "Quy trình khôi phục đã thay đổi. Sau khi khôi phục giấy phép, bạn phải sao chép khóa của mình và quay lại màn hình kích hoạt để kích hoạt lại bằng email và khóa.";
 "restore_license_disc" = "Nhập email gắn với giấy phép.";
 "restore" = "Khôi phục";
 "copy_license_key" = "Sao chép mã";

@@ -497,6 +497,8 @@
 "license_key_empty" = "라이선스 키를 입력해야 합니다.";
 "license_key_length_wrong" = "잘못된 길이입니다.\n올바른 키를 입력하세요.";
 
+"restore_notice" = "복원 과정이 업데이트되었습니다";
+"restore_notice_desc" = "복원 과정이 변경되었습니다. 라이선스를 복원한 후, 키를 복사한 뒤 활성화 화면으로 돌아가 이메일과 키를 사용해 다시 활성화해야 합니다.";
 "restore_license_disc" = "라이선스와 연결된 이메일을 입력하세요.";
 "restore" = "복원";
 "copy_license_key" = "키 복사";

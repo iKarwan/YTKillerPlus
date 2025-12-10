@@ -498,6 +498,8 @@
 "license_key_empty" = "许可密钥不能为空。";
 "license_key_length_wrong" = "密钥长度错误，请输入正确的密钥。";
 
+"restore_notice" = "恢复流程已更新";
+"restore_notice_desc" = "恢复流程已更改。恢复许可证后，你必须复制密钥并返回激活界面，使用邮箱和密钥重新激活。";
 "restore_license_disc" = "请输入与许可绑定的邮箱。";
 "restore" = "恢复";
 "copy_license_key" = "复制许可密钥";

@@ -503,6 +503,8 @@
 "license_key_length_wrong" = "License key length is incorrect.\nPlease enter a valid key.";
 
 /* promptForRestore */
+"restore_notice" = "Restore Process Updated";
+"restore_notice_desc" = "The restore process has changed. After restoring your license, you must copy your key and return to the activation screen to activate using your email and key again.";
 "restore_license_disc" = "Enter the email linked to your license.";
 "restore" = "Restore";
 "copy_license_key" = "Copy License Key";

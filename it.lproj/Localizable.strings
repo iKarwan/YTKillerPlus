@@ -500,6 +500,8 @@
 "license_key_length_wrong" = "La lunghezza della chiave è errata.\nInserisci una chiave valida.";
 
 /* promptForRestore */
+"restore_notice" = "Processo di ripristino aggiornato";
+"restore_notice_desc" = "Il processo di ripristino è cambiato. Dopo aver ripristinato la tua licenza, devi copiare la chiave e tornare alla schermata di attivazione per attivare nuovamente usando la tua email e la chiave.";
 "restore_license_disc" = "Inserisci l’email collegata alla tua licenza.";
 "restore" = "Ripristina";
 "copy_license_key" = "Copia Chiave Licenza";

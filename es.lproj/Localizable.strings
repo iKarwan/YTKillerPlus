@@ -497,6 +497,8 @@
 "license_key_empty" = "La clave no puede estar vacía.";
 "license_key_length_wrong" = "Longitud incorrecta.\nIntroduce una clave válida.";
 
+"restore_notice" = "Proceso de restauración actualizado";
+"restore_notice_desc" = "El proceso de restauración ha cambiado. Después de restaurar tu licencia, debes copiar tu clave y volver a la pantalla de activación para activar nuevamente usando tu correo y clave.";
 "restore_license_disc" = "Introduce el correo asociado a tu licencia.";
 "restore" = "Restaurar";
 "copy_license_key" = "Copiar clave";
