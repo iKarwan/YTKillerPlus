@@ -2,7 +2,7 @@
 /* by marcinmajsc */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Włączone globalnie";
+"GLOB_ENABLED" = "Rozszerzenie aktywne";
 "GLOBAL_ENABLED_SWITCH" = "Stuknij przycisk w prawym górnym rogu, aby zastosować zmiany.";
 
 /* downloading global switch */
@@ -27,8 +27,8 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Elementy sterujące i przełącznik";
-"overlay_player" = "Odtwarzacz nakładkowy";
+"overlay_button" = "Ustawienia ogólne & ";
+"overlay_player" = "Ustawienia odtwarzacza";
 "speed_index" = "Prędkość odtwarzania";
 "default_speed_index" = "Domyślna prędkość odtwarzania";
 "default_speed_index_disc" = "Utrzymuje wybraną prędkość bez konfliktu z kontrolkami nakładki.";
@@ -121,8 +121,8 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Opcje odtwarzacza wideo";
-"OVERLAY_OPTIONS" = "Opcje nakładki";
-"STREAM_OPTIONS" = "Opcje przesyłania";
+"OVERLAY_OPTIONS" = "Opcje odtwarzacza";
+"STREAM_OPTIONS" = "Opcje strumienia";
 "IPAD_OPTIONS" = "Opcje iPada";
 "NAVIGATION_BAR" = "Opcje paska nawigacji";
 "SHORTS_OPTION" = "Opcje Shorts";
@@ -139,7 +139,7 @@
 "DISABLE_CAPTIONS" = "Wyłącz napisy";
 
 /* video player section */
-"VIDEO_PLAYER_SECTION" = "Odtwarzacz wideo";
+"VIDEO_PLAYER_SECTION" = "Ekran odtwarzania wideo";
 "HIDE_SUGGESTED_VIDEO" = "Ukryj sugerowane filmy";
 "COMMENTS" = "Komentarze";
 "HIDE_COMMENTS" = "Ukryj komentarze";
@@ -149,7 +149,7 @@
 "HIDE_COMMUNITY_TEXT_INFO" = "Ukryj tekst społeczności na górze.";
 
 /* overlay options section */
-"OVERLAY_SECTION" = "Nakładka";
+"OVERLAY_SECTION" = "Odtwarzacz";
 "SHOW_STATUS_BAR_IN_OVERLAY" = "Pokaż pasek statusu w nakładce";
 "SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "Nieobsługiwane na urządzeniach z notchem ani w stylu iPada.";
 "DISABLE_DOUBLE_TAP" = "Wyłącz podwójne stuknięcie";
@@ -161,7 +161,7 @@
 "SWIPE_TO_HIDE_PANEL" = "Przesuń, aby ukryć panel";
 "SWIPE_TO_HIDE_PANEL_INFO" = "Przeciągnij z lewej do prawej na panelu pełnoekranowym.";
 "DISABLE_PINCH_TO_ZOOM" = "Wyłącz powiększanie gestem";
-"MEDIA_CONTROLLER" = "Kontroler nakładki";
+"MEDIA_CONTROLLER" = "Kontroler odtwarzacza";
 "SHOW_OVERLAY_CONTROLLER_SMART" = "Zawsze pokazuj przycisk Odtwórz/Pauza";
 "SHOW_MEDIA_CONTROLLER" = "Zawsze pokazuj wszystkie elementy sterujące";
 "HIDE_DARK_OVERLAY_BACKGROUND" = "Ukryj ciemne tło nakładki";
