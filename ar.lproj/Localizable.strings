@@ -430,6 +430,8 @@
 /* icon themes */
 "icon_changed" = "لقد قمت بتغيير\nأيقونة \"YouTube\".";
 "select_icon_theme" = "اختر نمط الأيقونة";
+"icon_not_available" = "الرموز المخصصة غير متوفرة";
+"icon_not_available_disc" = "الرموز المخصصة غير مضمّنة في تطبيق يوتيوب هذا. تحتاج إلى تثبيت ملف IPA لتغيير أيقونة التطبيق.";
 
 /* fake location */
 "fake_location" = "موقع وهمي";

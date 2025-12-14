@@ -431,6 +431,8 @@
 /* icon themes */
 "icon_changed" = "“YouTube” için\noù değiştirildi.";
 "select_icon_theme" = "Simge temasını seç";
+"icon_not_available" = "Özel simgeler kullanılamıyor";
+"icon_not_available_disc" = "Bu YouTube uygulamasında özel simgeler bulunmuyor. Uygulama simgesini değiştirmek için IPA yüklemeniz gerekir.";
 
 /* fake location */
 "fake_location" = "Sahte Konum";

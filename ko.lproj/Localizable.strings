@@ -431,6 +431,8 @@
 /* icon themes */
 "icon_changed" = "“YouTube” 아이콘을\n변경했습니다.";
 "select_icon_theme" = "아이콘 테마 선택";
+"icon_not_available" = "사용자 지정 아이콘을 사용할 수 없습니다";
+"icon_not_available_disc" = "이 YouTube 앱에는 사용자 지정 아이콘이 포함되어 있지 않습니다. 앱 아이콘을 변경하려면 IPA를 설치해야 합니다.";
 
 /* fake location */
 "fake_location" = "가짜 위치";

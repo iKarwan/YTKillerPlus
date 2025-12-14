@@ -432,6 +432,8 @@
 /* icon themes */
 "icon_changed" = "Bạn đã thay đổi\nbiểu tượng cho \"YouTube\".";
 "select_icon_theme" = "Chọn chủ đề biểu tượng";
+"icon_not_available" = "Không có biểu tượng tùy chỉnh";
+"icon_not_available_disc" = "Ứng dụng YouTube này không hỗ trợ biểu tượng tùy chỉnh. Bạn cần cài đặt IPA để thay đổi biểu tượng ứng dụng.";
 
 /* fake location */
 "fake_location" = "Vị trí giả";

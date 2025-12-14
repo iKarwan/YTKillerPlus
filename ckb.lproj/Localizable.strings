@@ -435,6 +435,8 @@
 /* icon themes */
 "icon_changed" = "تۆ ئایكۆنی\n\"YouTube\" گۆڕی.";
 "select_icon_theme" = "هەڵبژاردنی ڕووخساری ئایكۆن";
+"icon_not_available" = "ئایکۆنی دەستکاریکراو بەردەست نییە";
+"icon_not_available_disc" = "ئایکۆنی دەستکاریکراو لەم بەرهەمه‌ یوتوبەدا نییە. پێویستە IPA دابگریت بۆ گۆڕینی ئایکۆنی ئەپەکە.";
 
 /* fake location */
 "fake_location" = "شوێنی ساختە";

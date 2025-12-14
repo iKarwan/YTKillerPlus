@@ -436,6 +436,9 @@
 /* icon themes */
 "icon_changed" = "You have changed the\nicon for \"YouTube\".";
 "select_icon_theme" = "Select Icon Theme";
+"icon_not_available" = "Custom Icons Not Available";
+"icon_not_available_disc" = "Custom icons are not included in this YouTube app. You need to install the IPA to change the app icon.";
+
 
 /* fake location */
 "fake_location" = "Fake Location";

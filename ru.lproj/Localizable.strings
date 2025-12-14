@@ -431,6 +431,8 @@
 /* icon themes */
 "icon_changed" = "Вы изменили\nзначок для \"YouTube\".";
 "select_icon_theme" = "Выбрать тему значка";
+"icon_not_available" = "Пользовательские иконки недоступны";
+"icon_not_available_disc" = "Пользовательские иконки не включены в это приложение YouTube. Чтобы изменить иконку приложения, необходимо установить IPA.";
 
 /* fake location */
 "fake_location" = "Фальшивая геолокация";

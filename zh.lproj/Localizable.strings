@@ -432,6 +432,8 @@
 /* icon themes */
 "icon_changed" = "你已更改\n“YouTube”的图标。";
 "select_icon_theme" = "选择图标主题";
+"icon_not_available" = "自定义图标不可用";
+"icon_not_available_disc" = "此 YouTube 应用不包含自定义图标。需安装 IPA 才能更改应用图标。";
 
 /* fake location */
 "fake_location" = "虚拟位置";

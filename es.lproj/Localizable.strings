@@ -431,6 +431,8 @@
 /* icon themes */
 "icon_changed" = "Has cambiado el ícono\npara \"YouTube\".";
 "select_icon_theme" = "Seleccionar tema de ícono";
+"icon_not_available" = "Iconos personalizados no disponibles";
+"icon_not_available_disc" = "Los iconos personalizados no están incluidos en esta aplicación de YouTube. Debes instalar el archivo IPA para cambiar el icono de la app.";
 
 /* fake location */
 "fake_location" = "Ubicación falsa";
