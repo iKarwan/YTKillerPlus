@@ -306,6 +306,7 @@
 "YES" = "Tak";
 "NO" = "Nie";
 "ERROR" = "Błąd";
+"loading_pip" = "Ładowanie PiP...";
 "APP_RESTART_REQUIRED" = "Zrestartuj YouTube, aby zastosować zmiany.";
 "FILZA_NOT_INSTALLED_ALERT" = "Ta aplikacja nie jest zainstalowana na Twoim urządzeniu.";
 "NO_DATA" = "Brak pobrań";
@@ -433,6 +434,8 @@
 /* icon themes */
 "icon_changed" = "Zmieniono ikonę\ndla \"YouTube\".";
 "select_icon_theme" = "Wybierz motyw ikony";
+"icon_not_available" = "Niestandardowe ikony są niedostępne";
+"icon_not_available_disc" = "Niestandardowe ikony nie są zawarte w tej aplikacji YouTube. Aby zmienić ikonę aplikacji, musisz zainstalować plik IPA.";
 
 /* fake location */
 "fake_location" = "Fałszywa lokalizacja";

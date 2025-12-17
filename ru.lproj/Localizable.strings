@@ -307,6 +307,7 @@
 "YES" = "Да";
 "NO" = "Нет";
 "ERROR" = "Ошибка";
+"loading_pip" = "Загрузка PiP...";
 "APP_RESTART_REQUIRED" = "Перезапустите YouTube для применения изменений.";
 "FILZA_NOT_INSTALLED_ALERT" = "Приложение не установлено.";
 "NO_DATA" = "Нет загрузок";

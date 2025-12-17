@@ -306,6 +306,7 @@
 "YES" = "نعم";
 "NO" = "لا";
 "ERROR" = "خطأ";
+"loading_pip" = "جارٍ تحميل وضع PiP...";
 "APP_RESTART_REQUIRED" = "أعد تشغيل YouTube لتطبيق التغييرات.";
 "FILZA_NOT_INSTALLED_ALERT" = "التطبيق غير مثبت على هذا الجهاز.";
 "NO_DATA" = "لا توجد تنزيلات";

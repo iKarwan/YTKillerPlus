@@ -307,6 +307,7 @@
 "YES" = "Evet";
 "NO" = "Hayır";
 "ERROR" = "Hata";
+"loading_pip" = "PiP yükleniyor...";
 "APP_RESTART_REQUIRED" = "Değişiklikleri uygulamak için YouTube’u yeniden başlatın.";
 "FILZA_NOT_INSTALLED_ALERT" = "Uygulama yüklü değil.";
 "NO_DATA" = "İndirme Yok";

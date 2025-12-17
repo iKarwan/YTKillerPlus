@@ -308,6 +308,7 @@
 "YES" = "Sì";
 "NO" = "No";
 "ERROR" = "Errore";
+"loading_pip" = "Caricamento PiP...";
 "APP_RESTART_REQUIRED" = "Riavvia YouTube per applicare le modifiche.";
 "FILZA_NOT_INSTALLED_ALERT" = "Questa app non è installata sul tuo dispositivo.";
 "NO_DATA" = "Nessun Download";

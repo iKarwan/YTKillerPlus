@@ -307,6 +307,7 @@
 "YES" = "예";
 "NO" = "아니오";
 "ERROR" = "오류";
+"loading_pip" = "PiP 로딩 중...";
 "APP_RESTART_REQUIRED" = "YouTube를 다시 시작해야 적용됩니다.";
 "FILZA_NOT_INSTALLED_ALERT" = "앱이 설치되어 있지 않습니다.";
 "NO_DATA" = "다운로드 없음";

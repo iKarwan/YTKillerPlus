@@ -308,6 +308,7 @@
 "YES" = "Có";
 "NO" = "Không";
 "ERROR" = "Lỗi";
+"loading_pip" = "Đang tải PiP...";
 "APP_RESTART_REQUIRED" = "Khởi động lại YouTube để áp dụng thay đổi.";
 "FILZA_NOT_INSTALLED_ALERT" = "Ứng dụng chưa được cài đặt.";
 "NO_DATA" = "Không có dữ liệu tải";

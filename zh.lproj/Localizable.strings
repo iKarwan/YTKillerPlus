@@ -308,6 +308,7 @@
 "YES" = "是";
 "NO" = "否";
 "ERROR" = "错误";
+"loading_pip" = "正在加载画中画...";
 "APP_RESTART_REQUIRED" = "请重启 YouTube 应用以应用更改。";
 "FILZA_NOT_INSTALLED_ALERT" = "此设备未安装 Filza。";
 "NO_DATA" = "暂无下载";
