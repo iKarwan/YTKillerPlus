@@ -353,8 +353,10 @@
 
 "video_saved" = "✓ Đã lưu video - %@";
 "video_downloaded" = "🎬 ✓ Đã tải video: %@";
-"audio_saved" = "✓ Đã lưu âm thanh - %@";
-"audio_downloaded" = "🎵 ✓ Đã tải âm thanh: %@";
+"m4a_smaller" = "🎵 M4A (Âm thanh AAC • Nhỏ hơn)";
+"mp3_larger" = "🎵 MP3 (Phổ biến • Lớn hơn)";
+"audio_saved" = "✓ Âm thanh %@ đã lưu dưới dạng %@";
+"audio_downloaded" = "🎵 ✓ Đã tải âm thanh (%@)";
 "shorts_downloaded" = "🎬 ✓ Đã tải Shorts";
 "queued" = "📥 Đã thêm vào hàng đợi: ";
 "video_queuad" = "🎬 📥 Video trong hàng đợi: ";

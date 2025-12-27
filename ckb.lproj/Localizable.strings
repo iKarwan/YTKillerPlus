@@ -354,8 +354,10 @@
 
 "video_saved" = "✓ ڤیدیۆ پاشەکەوت کرا - %@";
 "video_downloaded" = "🎬 ✓ ڤیدیۆ دابەزێت: %@";
-"audio_saved" = "✓ دەنگ پاشەکەوت کرا - %@";
-"audio_downloaded" = "🎵 ✓ دەنگ دابەزێت: %@";
+"m4a_smaller" = "🎵 ‏M4A (دەنگی AAC • بچووکتر)";
+"mp3_larger" = "🎵 ‏MP3 (گشتی • گەورەتر)";
+"audio_saved" = "✓ دەنگ %@ هاتە پاشەکەوتکردن وەک %@";
+"audio_downloaded" = "🎵 ✓ دەنگ داگیرا (%@)";
 "shorts_downloaded" = "🎬 ✓ Shorts دابەزێت";
 "queued" = "📥 زیاد کرا بۆ لیست: ";
 "video_queuad" = "🎬 📥 ڤیدیۆ زیاد کرا بۆ لیست: ";

@@ -351,8 +351,10 @@
 
 "video_saved" = "✓ تم حفظ الفيديو - %@";
 "video_downloaded" = "🎬 ✓ تم تنزيل الفيديو: %@";
-"audio_saved" = "✓ تم حفظ الصوت - %@";
-"audio_downloaded" = "🎵 ✓ تم تنزيل الصوت: %@";
+"m4a_smaller" = "🎵 ‏M4A (صوت AAC • أصغر)";
+"mp3_larger" = "🎵 ‏MP3 (عالمي • أكبر)";
+"audio_saved" = "✓ تم حفظ الصوت %@ بصيغة %@";
+"audio_downloaded" = "🎵 ✓ تم تنزيل الصوت (%@)";
 "shorts_downloaded" = "🎬 ✓ تم تنزيل Shorts";
 "queued" = "📥 تمت إضافته إلى القائمة: ";
 "video_queuad" = "🎬 📥 تمت إضافة الفيديو: ";

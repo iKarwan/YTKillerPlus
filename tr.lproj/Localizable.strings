@@ -352,8 +352,10 @@
 
 "video_saved" = "✓ Video kaydedildi - %@";
 "video_downloaded" = "🎬 ✓ Video indirildi: %@";
-"audio_saved" = "✓ Ses kaydedildi - %@";
-"audio_downloaded" = "🎵 ✓ Ses indirildi: %@";
+"m4a_smaller" = "🎵 M4A (AAC Ses • Daha Küçük)";
+"mp3_larger" = "🎵 MP3 (Evrensel • Daha Büyük)";
+"audio_saved" = "✓ %@ sesi %@ olarak kaydedildi";
+"audio_downloaded" = "🎵 ✓ Ses indirildi (%@)";
 "shorts_downloaded" = "🎬 ✓ Shorts indirildi";
 "queued" = "📥 Kuyruğa eklendi: ";
 "video_queuad" = "🎬 📥 Video kuyruğa eklendi: ";

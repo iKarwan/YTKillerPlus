@@ -352,8 +352,10 @@
 
 "video_saved" = "✓ Video guardado - %@";
 "video_downloaded" = "🎬 ✓ Video descargado: %@";
-"audio_saved" = "✓ Audio guardado - %@";
-"audio_downloaded" = "🎵 ✓ Audio descargado: %@";
+"m4a_smaller" = "🎵 M4A (Audio AAC • Más pequeño)";
+"mp3_larger" = "🎵 MP3 (Universal • Más grande)";
+"audio_saved" = "✓ Audio %@ guardado como %@";
+"audio_downloaded" = "🎵 ✓ Audio descargado (%@)";
 "shorts_downloaded" = "🎬 ✓ Shorts descargados";
 "queued" = "📥 En cola: ";
 "video_queuad" = "🎬 📥 Video en cola: ";
