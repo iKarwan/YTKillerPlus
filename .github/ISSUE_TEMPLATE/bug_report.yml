@@ -43,6 +43,14 @@ body:
     validations:
       required: false
 
+  - type: markdown
+    attributes:
+      value: |
+        ## Screenshot (Required)
+        **You must attach a screenshot of the issue.**
+        - Drag and drop the screenshot file here or upload it as an attachment to this issue.
+        - Issues without a screenshot (if applicable) will be closed.
+
   - type: checkboxes
     attributes:
       label: Post Requisites
@@ -54,6 +62,8 @@ body:
         - label: Verified the relevance of the project and the version you are using.
           required: true
         - label: Provided a detailed description of the problem and have filled in all required fields.
+          required: true
+        - label: I have attached a screenshot (if applicable).
           required: true
         - label: I did not answer truthfully to **ALL** the above checkboxes.
           required: false
