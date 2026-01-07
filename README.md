@@ -37,7 +37,7 @@
 * Download and install AltServer from [here](https://altstore.io).
 
     * You can copy and add this source to your source list in AltStore ..
-    * [ https://ikghd.site/repo.json
+    * [ https://repo.ikghd.me/repo.json
 
 
 ### Sideloadly
@@ -49,7 +49,7 @@
 ### Installing with third party AppStore
 *
     * You can copy and add this source to your source list AltStore, Feather, Esign, Gbox, etc ..
-    * [ https://ikghd.site/repo.json
+    * [ https://repo.ikghd.me/repo.json
 
 
 
