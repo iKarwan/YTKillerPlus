@@ -467,6 +467,19 @@
 "DEVELOPER" = "Разработчик";
 "WELCOM_ALERT" = "Чтобы изменить настройки, откройте вкладку YTKPlus и нажмите на значок шестерёнки.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "Совместимо (устаревшая iOS)";
+"not_compatible_ver" = "Несовместимо";
+"unknown_ver" = "Неизвестно";
+"compatible_ver" = "Совместимо";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Очистить все данные";
+"clear_all_data_disc" = "Это удалит ВСЕ данные приложения, включая связку ключей, настройки и кэшированные файлы. Это действие нельзя отменить!";
+"delete_everything" = "Удалить всё";
+"data_cleared" = "✅ Данные очищены";
+"data_cleared_disc" = "Все данные приложения успешно удалены. Приложение будет перезапущено.";
+
 /* clearCaches */
 "clearonstartup" = "Очищать при запуске";
 "clearcache" = "Очистить кэш";
@@ -480,10 +493,6 @@
 "CALCULATING" = "Подсчёт...";
 
 /* checkForUpdates */
-"the_changelog" = "Список изменений";
-"skip_version" = "Пропустить версию";
-"updates_available" = "Доступно обновление";
-"new_version_available" = "Доступна новая версия YTKillerPlus (%@). Рекомендуется обновиться.";
 
 /* license prompt */
 "license_option" = "Параметры лицензии";

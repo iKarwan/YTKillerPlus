@@ -467,6 +467,19 @@
 "DEVELOPER" = "개발자";
 "WELCOM_ALERT" = "설정을 변경하려면 YTKPlus 탭에서 톱니바퀴 아이콘을 누르세요.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "호환됨 (구형 iOS)";
+"not_compatible_ver" = "호환되지 않음";
+"unknown_ver" = "알 수 없음";
+"compatible_ver" = "호환됨";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ 모든 데이터 삭제";
+"clear_all_data_disc" = "이 작업은 키체인, 환경설정 및 캐시된 파일을 포함한 모든 앱 데이터를 삭제합니다. 이 작업은 되돌릴 수 없습니다!";
+"delete_everything" = "모두 삭제";
+"data_cleared" = "✅ 데이터 삭제됨";
+"data_cleared_disc" = "모든 앱 데이터가 성공적으로 삭제되었습니다. 앱이 이제 재시작됩니다.";
+
 /* clearCaches */
 "clearonstartup" = "시작 시 캐시 삭제";
 "clearcache" = "캐시 삭제";
@@ -480,10 +493,6 @@
 "CALCULATING" = "계산 중...";
 
 /* checkForUpdates */
-"the_changelog" = "변경 로그";
-"skip_version" = "이 버전 건너뛰기";
-"updates_available" = "업데이트 가능";
-"new_version_available" = "새 버전 YTKillerPlus (%@)이(가) 출시되었습니다. 최신 버전으로 유지하는 것을 권장합니다.";
 
 /* license prompt */
 "license_option" = "라이선스 옵션";

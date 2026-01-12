@@ -471,6 +471,19 @@
 "DEVELOPER" = "پەرەپێدەر";
 "WELCOM_ALERT" = "بۆ گۆڕینی ڕێکخستنەکان، بچۆ بۆ تابی YTKPlus و کرتە بکە لەسەر دوگمەی ڕێکخستنەکان.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "گونجاو (iOS کۆن)";
+"not_compatible_ver" = "ناگونجاو";
+"unknown_ver" = "نەزانراو";
+"compatible_ver" = "گونجاو";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ سڕینەوەی هەموو داتاکان";
+"clear_all_data_disc" = "ئەم کارە هەموو داتای ئەپەکە دەسڕێتەوە، لەوانەش keychain، هەڵبژاردەکان و فایلە کاشکراوەکان. ئەم کارە ناتوانرێت بگەڕێندرێتەوە!";
+"delete_everything" = "سڕینەوەی هەموو شتێک";
+"data_cleared" = "✅ داتاکان سڕایەوە";
+"data_cleared_disc" = "هەموو داتای ئەپەکە بە سەرکەوتوویی سڕایەوە. ئەپەکە ئێستا دووبارە دەستپێدەکات.";
+
 /* clearCaches */
 "clearonstartup" = "پاککردنەوە لە کاتی دەستپێکردن";
 "clearcache" = "پاککردنەوەی کاش";
@@ -484,10 +497,6 @@
 "CALCULATING" = "ژمێرەکردن...";
 
 /* checkForUpdates */
-"the_changelog" = "گۆڕانەکان";
-"skip_version" = "پەڕینەوەی ئەم وەشانە";
-"updates_available" = "نوێکردنەوە بەردەستە";
-"new_version_available" = "وەشانی نوێی YTKillerPlus (%@) بەردەستە. پێشنیار دەکرێت هەمیشە بە نوێترین وەشان بمێنیت.";
 
 /* promptForActivation */
 "license_option" = "هەڵبژاردەکانی مۆڵەت";

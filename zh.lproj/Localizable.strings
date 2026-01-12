@@ -468,6 +468,19 @@
 "DEVELOPER" = "开发者";
 "WELCOM_ALERT" = "进入设置请打开 YTKPlus 标签并点击右上角齿轮图标。";
 
+/* compatibility... */
+"compatible_legacy_ver" = "兼容（旧版 iOS）";
+"not_compatible_ver" = "不兼容";
+"unknown_ver" = "未知";
+"compatible_ver" = "兼容";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ 清除所有数据";
+"clear_all_data_disc" = "这将删除所有应用数据，包括钥匙串、偏好设置和缓存文件。此操作无法撤销！";
+"delete_everything" = "删除全部";
+"data_cleared" = "✅ 数据已清除";
+"data_cleared_disc" = "所有应用数据已成功删除。应用将立即重新启动。";
+
 /* clearCaches */
 "clearonstartup" = "启动时清除缓存";
 "clearcache" = "清除缓存";
@@ -481,10 +494,6 @@
 "CALCULATING" = "计算中...";
 
 /* checkForUpdates */
-"the_changelog" = "更新日志";
-"skip_version" = "跳过此版本";
-"updates_available" = "有可用更新";
-"new_version_available" = "YTKillerPlus (%@) 新版本可用，建议保持最新。";
 
 /* license prompt */
 "license_option" = "许可选项";

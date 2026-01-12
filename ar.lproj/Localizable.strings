@@ -466,6 +466,19 @@
 "DEVELOPER" = "المطور";
 "WELCOM_ALERT" = "لتعديل الإعدادات، افتح تبويب YTKPlus واضغط على أيقونة الإعدادات.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "متوافق (إصدار iOS قديم)";
+"not_compatible_ver" = "غير متوافق";
+"unknown_ver" = "غير معروف";
+"compatible_ver" = "متوافق";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ مسح جميع البيانات";
+"clear_all_data_disc" = "سيؤدي هذا إلى حذف جميع بيانات التطبيق بما في ذلك سلسلة المفاتيح والتفضيلات والملفات المؤقتة. لا يمكن التراجع عن هذا الإجراء!";
+"delete_everything" = "حذف كل شيء";
+"data_cleared" = "✅ تم مسح البيانات";
+"data_cleared_disc" = "تم حذف جميع بيانات التطبيق بنجاح. سيُعاد تشغيل التطبيق الآن.";
+
 /* clearCaches */
 "clearonstartup" = "مسح عند التشغيل";
 "clearcache" = "مسح الذاكرة المؤقتة";
@@ -479,10 +492,6 @@
 "CALCULATING" = "جاري الحساب...";
 
 /* checkForUpdates */
-"the_changelog" = "سجل التغييرات";
-"skip_version" = "تخطي هذا الإصدار";
-"updates_available" = "تحديث متاح";
-"new_version_available" = "يتوفر إصدار جديد من YTKillerPlus (%@). يُنصح بالبقاء محدثاً دائماً.";
 
 /* license prompt */
 "license_option" = "خيارات الترخيص";

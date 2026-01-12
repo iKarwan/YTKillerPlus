@@ -467,6 +467,19 @@
 "DEVELOPER" = "Geliştirici";
 "WELCOM_ALERT" = "Ayarları değiştirmek için YTKPlus sekmesine gidin ve dişli simgesine dokunun.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "Uyumlu (Eski iOS)";
+"not_compatible_ver" = "Uyumlu değil";
+"unknown_ver" = "Bilinmiyor";
+"compatible_ver" = "Uyumlu";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Tüm Verileri Temizle";
+"clear_all_data_disc" = "Bu işlem, anahtarlık, tercihler ve önbelleğe alınmış dosyalar dahil olmak üzere TÜM uygulama verilerini siler. Bu işlem geri alınamaz!";
+"delete_everything" = "Her Şeyi Sil";
+"data_cleared" = "✅ Veriler Temizlendi";
+"data_cleared_disc" = "Tüm uygulama verileri başarıyla silindi. Uygulama şimdi yeniden başlatılacak.";
+
 /* clearCaches */
 "clearonstartup" = "Başlangıçta Önbelleği Temizle";
 "clearcache" = "Önbelleği Temizle";
@@ -480,10 +493,6 @@
 "CALCULATING" = "Hesaplanıyor...";
 
 /* checkForUpdates */
-"the_changelog" = "Değişiklikler";
-"skip_version" = "Bu Sürümü Atla";
-"updates_available" = "Güncelleme Mevcut";
-"new_version_available" = "YTKillerPlus’un yeni sürümü (%@) mevcut. Güncel kalmanız önerilir.";
 
 /* license prompt */
 "license_option" = "Lisans Seçenekleri";

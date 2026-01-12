@@ -468,6 +468,19 @@
 "DEVELOPER" = "Nhà phát triển";
 "WELCOM_ALERT" = "Để chỉnh cài đặt, vào tab YTKPlus và nhấn biểu tượng bánh răng.";
 
+/* compatibility... */
+"compatible_legacy_ver" = "Tương thích (iOS cũ)";
+"not_compatible_ver" = "Không tương thích";
+"unknown_ver" = "Không xác định";
+"compatible_ver" = "Tương thích";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ Xóa toàn bộ dữ liệu";
+"clear_all_data_disc" = "Thao tác này sẽ xóa TOÀN BỘ dữ liệu ứng dụng bao gồm keychain, tùy chọn và tệp bộ nhớ đệm. Không thể hoàn tác!";
+"delete_everything" = "Xóa tất cả";
+"data_cleared" = "✅ Dữ liệu đã được xóa";
+"data_cleared_disc" = "Tất cả dữ liệu ứng dụng đã được xóa thành công. Ứng dụng sẽ khởi động lại ngay bây giờ.";
+
 /* clearCaches */
 "clearonstartup" = "Xóa bộ nhớ đệm khi khởi động";
 "clearcache" = "Xóa bộ nhớ đệm";
@@ -481,10 +494,6 @@
 "CALCULATING" = "Đang tính toán...";
 
 /* checkForUpdates */
-"the_changelog" = "Nhật ký thay đổi";
-"skip_version" = "Bỏ qua phiên bản này";
-"updates_available" = "Có bản cập nhật mới";
-"new_version_available" = "Có phiên bản mới của YTKillerPlus (%@). Khuyến nghị nên cập nhật.";
 
 /* license prompt */
 "license_option" = "Tùy chọn giấy phép";
