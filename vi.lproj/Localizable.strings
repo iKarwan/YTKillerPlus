@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Bật Tính Năng Tải Xuống";
 "glob_overlay_button" = "Các nút hiển thị trong trình phát.";
+"overlay_button_disc" = "Tải xuống, không quảng cáo, phát nền, v.v.";
+"first_cleaner_disc" = "Nhấn giữ biểu tượng bánh răng trong 3 giây để hiển thị các tùy chọn dọn dẹp!";
+
+"fix_playback_issue" = "Sửa lỗi phát lại";
+"fix_playback_issue_disc" = "Sửa lỗi 'đã xảy ra sự cố' — требуется перезапуск. Không bật nếu phát lại hoạt động bình thường.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Trình Quản Lý Tải Xuống";
@@ -520,7 +525,7 @@
 "license_key_copied_to_clipboard" = "Đã sao chép mã giấy phép.";
 "license_details" = "Chi tiết giấy phép";
 "license_details_disc" = "Mã: %@\n\nHết hạn: %@\n\n%@";
-"license_restored_successfully" = "Khôi phục giấy phép thành công.";
+"license_restored_successfully" = "Giấy phép đang hoạt động.";
 "license_restored" = "Đã khôi phục giấy phép";
 "restore_failed" = "Khôi phục thất bại";
 

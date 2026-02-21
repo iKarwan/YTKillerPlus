@@ -8,6 +8,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Włącz funkcję pobierania";
 "glob_overlay_button" = "Przyciski pokazane w odtwarzaczu.";
+"overlay_button_disc" = "Pobieranie, brak reklam, odtwarzanie w tle itp.";
+"first_cleaner_disc" = "Przytrzymaj ikonę koła zębatego przez 3 sekundy, aby wyświetlić opcje czyszczenia!";
+
+"fix_playback_issue" = "Napraw problem z odtwarzaniem";
+"fix_playback_issue_disc" = "Naprawia błąd 'coś poszło nie tak' — wymagane ponowne uruchomienie. Nie włączaj, jeśli odtwarzanie działa poprawnie.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Menedżer pobierania";
@@ -522,7 +527,7 @@
 "license_key_copied_to_clipboard" = "Klucz licencyjny skopiowano do schowka.";
 "license_details" = "Szczegóły licencji";
 "license_details_disc" = "Klucz licencyjny: %@\n\nWygasa: %@\n\n%@";
-"license_restored_successfully" = "Licencję przywrócono pomyślnie.";
+"license_restored_successfully" = "Licencja jest aktywna.";
 "license_restored" = "Licencja przywrócona";
 "restore_failed" = "Przywracanie nie powiodło się";
 

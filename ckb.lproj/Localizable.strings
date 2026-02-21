@@ -8,6 +8,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "چالاککردنی تایبەتمەندی دابەزاندن";
 "glob_overlay_button" = "دوگمەکان کە پیشان دەدرێن لە نێو پەخشەکەر.";
+"overlay_button_disc" = "داگرتن، بێ ڕیکلام، لێدانی پاشبنەما، هتد.";
+"first_cleaner_disc" = "بۆ 3 چرکە دەست بخەسە سەر نیشانی گێر بۆ پیشاندانی هەڵبژاردەکانی پاککردن!";
+
+"fix_playback_issue" = "چارەسەری کێشەی پەخشکردن";
+"fix_playback_issue_disc" = "چارەسەری هەڵەی 'هەڵەیەک ڕوویدا' — پێویستی بە دووبارە دەستپێکردنەوە هەیە. ئەگەر پەخشکردن باشە چالاکی مەکە.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "بەڕێوەبەری دابەزاندن";
@@ -524,7 +529,7 @@
 "license_key_copied_to_clipboard" = "کۆدی مۆڵەت کۆپی کرا.";
 "license_details" = "وردەکارییەکانی مۆڵەت";
 "license_details_disc" = "کۆدی مۆڵەت: %@\n\nبەسەرچوون: %@\n\n%@";
-"license_restored_successfully" = "مۆڵەت بە سەرکەوتوویی گەڕێندرایەوە.";
+"license_restored_successfully" = "مۆڵەت چالاکە.";
 "license_restored" = "مۆڵەت گەڕێندرایەوە";
 "restore_failed" = "گەڕاندنەوە سەرکەوتوو نەبوو";
 "copied_key" = "کۆپی کرا بۆ کلیپبۆرد";

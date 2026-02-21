@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "다운로드 기능 활성화";
 "glob_overlay_button" = "플레이어 내부에 표시되는 버튼입니다.";
+"overlay_button_disc" = "다운로드, 광고 없음, 백그라운드 재생 등.";
+"first_cleaner_disc" = "정리 옵션을 표시하려면 톱니바퀴 아이콘을 3초간 길게 누르세요!";
+
+"fix_playback_issue" = "재생 문제 수정";
+"fix_playback_issue_disc" = "'문제가 발생했습니다' 오류 수정 — 재시작이 필요합니다. 재생이 정상적으로 작동하면 활성화하지 마세요.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "다운로드 관리자";
@@ -519,7 +524,7 @@
 "license_key_copied_to_clipboard" = "라이선스 키가 복사되었습니다.";
 "license_details" = "라이선스 세부정보";
 "license_details_disc" = "키: %@\n\n만료일: %@\n\n%@";
-"license_restored_successfully" = "라이선스가 성공적으로 복원되었습니다.";
+"license_restored_successfully" = "라이선스가 활성화되었습니다.";
 "license_restored" = "라이선스 복원됨";
 "restore_failed" = "복원 실패";
 

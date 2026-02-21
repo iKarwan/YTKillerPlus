@@ -8,6 +8,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Download-Funktion aktivieren";
 "glob_overlay_button" = "Schaltflächen werden im Player angezeigt.";
+"overlay_button_disc" = "Download, keine Werbung, Wiedergabe im Hintergrund usw.";
+"first_cleaner_disc" = "Halte das Zahnrad-Symbol 3 Sekunden lang gedrückt, um die Reinigungsoptionen anzuzeigen!";
+
+"fix_playback_issue" = "Wiedergabeproblem beheben";
+"fix_playback_issue_disc" = "Behebt den Fehler 'etwas ist schiefgelaufen' — Neustart erforderlich. Nicht aktivieren, wenn die Wiedergabe normal funktioniert.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download-Manager";
@@ -521,7 +526,7 @@
 "license_key_copied_to_clipboard" = "Lizenzschlüssel in die Zwischenablage kopiert.";
 "license_details" = "Lizenzdetails";
 "license_details_disc" = "Lizenzschlüssel: %@\n\nAblaufdatum: %@\n\n%@";
-"license_restored_successfully" = "Lizenz erfolgreich wiederhergestellt.";
+"license_restored_successfully" = "Die Lizenz ist aktiv.";
 "license_restored" = "Lizenz wiederhergestellt";
 "restore_failed" = "Wiederherstellung fehlgeschlagen";
 

@@ -10,6 +10,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Abilita Funzione Download";
 "glob_overlay_button" = "Pulsanti visualizzati all'interno del player.";
+"overlay_button_disc" = "Download, senza pubblicità, riproduzione in background, ecc.";
+"first_cleaner_disc" = "Tieni premuta l’icona dell’ingranaggio per 3 secondi per mostrare le opzioni di pulizia!";
+
+"fix_playback_issue" = "Correggi problema di riproduzione";
+"fix_playback_issue_disc" = "Corregge l'errore 'qualcosa è andato storto' — riavvio richiesto. Non attivare se la riproduzione funziona correttamente.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestore Download";
@@ -522,7 +527,7 @@
 "license_key_copied_to_clipboard" = "Chiave licenza copiata negli appunti.";
 "license_details" = "Dettagli Licenza";
 "license_details_disc" = "Chiave Licenza: %@\n\nScadenza: %@\n\n%@";
-"license_restored_successfully" = "Licenza ripristinata con successo.";
+"license_restored_successfully" = "La licenza è attiva.";
 "license_restored" = "Licenza Ripristinata";
 "restore_failed" = "Ripristino Fallito";
 

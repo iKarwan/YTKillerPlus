@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "启用下载功能";
 "glob_overlay_button" = "显示在播放器中的按钮。";
+"overlay_button_disc" = "下载、无广告、后台播放等功能。";
+"first_cleaner_disc" = "长按齿轮图标 3 秒即可显示清理选项！";
+
+"fix_playback_issue" = "修复播放问题";
+"fix_playback_issue_disc" = "修复“出现错误”问题 — 需要重新启动。如果播放正常，请不要启用。";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "下载管理器";
@@ -520,7 +525,7 @@
 "license_key_copied_to_clipboard" = "许可密钥已复制。";
 "license_details" = "许可详情";
 "license_details_disc" = "许可密钥: %@\n\n到期日期: %@\n\n%@";
-"license_restored_successfully" = "许可已成功恢复。";
+"license_restored_successfully" = "许可证已激活。";
 "license_restored" = "许可已恢复";
 "restore_failed" = "恢复失败";
 

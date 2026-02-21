@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Activar función de descarga";
 "glob_overlay_button" = "Botones que aparecen dentro del reproductor.";
+"overlay_button_disc" = "Descarga, sin anuncios, reproducción en segundo plano, etc.";
+"first_cleaner_disc" = "Mantén pulsado el icono del engranaje durante 3 segundos para mostrar las opciones de limpieza.";
+
+"fix_playback_issue" = "Solucionar problema de reproducción";
+"fix_playback_issue_disc" = "Soluciona el error 'algo salió mal' — se requiere reinicio. No lo actives si la reproducción funciona correctamente.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestor de descargas";
@@ -519,7 +524,7 @@
 "license_key_copied_to_clipboard" = "Clave copiada al portapapeles.";
 "license_details" = "Detalles de licencia";
 "license_details_disc" = "Clave: %@\n\nExpira: %@\n\n%@";
-"license_restored_successfully" = "Licencia restaurada con éxito.";
+"license_restored_successfully" = "La licencia está activa.";
 "license_restored" = "Licencia restaurada";
 "restore_failed" = "Error al restaurar";
 

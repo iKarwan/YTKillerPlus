@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "İndirme Özelliğini Etkinleştir";
 "glob_overlay_button" = "Oynatıcı içindeki görünür düğmeler.";
+"overlay_button_disc" = "İndirme, reklamsız, arka planda oynatma vb.";
+"first_cleaner_disc" = "Temizleme seçeneklerini görmek için dişli simgesine 3 saniye basılı tutun!";
+
+"fix_playback_issue" = "Oynatma sorununu düzelt";
+"fix_playback_issue_disc" = "'Bir şeyler ters gitti' hatasını düzelt — yeniden başlatma gerekli. Oynatma düzgün çalışıyorsa etkinleştirmeyin.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "İndirme Yöneticisi";
@@ -519,7 +524,7 @@
 "license_key_copied_to_clipboard" = "Lisans anahtarı kopyalandı.";
 "license_details" = "Lisans Detayları";
 "license_details_disc" = "Anahtar: %@\n\nBitiş Tarihi: %@\n\n%@";
-"license_restored_successfully" = "Lisans başarıyla geri yüklendi.";
+"license_restored_successfully" = "Lisans aktif.";
 "license_restored" = "Lisans Geri Yüklendi";
 "restore_failed" = "Geri Yükleme Başarısız";
 

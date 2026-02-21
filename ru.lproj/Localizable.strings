@@ -9,6 +9,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Включить загрузку";
 "glob_overlay_button" = "Кнопки, отображаемые в плеере.";
+"overlay_button_disc" = "Загрузка, без рекламы, фоновое воспроизведение и т.д.";
+"first_cleaner_disc" = "Нажмите и удерживайте значок шестерёнки 3 секунды, чтобы открыть параметры очистки!";
+
+"fix_playback_issue" = "Исправить проблему воспроизведения";
+"fix_playback_issue_disc" = "Исправляет ошибку 'что-то пошло не так' — требуется перезапуск. Не включайте, если воспроизведение работает нормально.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Менеджер загрузок";
@@ -519,7 +524,7 @@
 "license_key_copied_to_clipboard" = "Ключ скопирован.";
 "license_details" = "Детали лицензии";
 "license_details_disc" = "Ключ: %@\n\nИстекает: %@\n\n%@";
-"license_restored_successfully" = "Лицензия успешно восстановлена.";
+"license_restored_successfully" = "Лицензия активна.";
 "license_restored" = "Лицензия восстановлена";
 "restore_failed" = "Ошибка восстановления";
 

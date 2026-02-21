@@ -8,6 +8,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "تفعيل ميزة التحميل";
 "glob_overlay_button" = "الأزرار التي تظهر داخل المشغل.";
+"overlay_button_disc" = "التنزيل، بدون إعلانات، تشغيل في الخلفية، وغيرها.";
+"first_cleaner_disc" = "اضغط مطولاً على أيقونة الترس لمدة 3 ثوانٍ لعرض خيارات التنظيف!";
+
+"fix_playback_issue" = "إصلاح مشكلة التشغيل";
+"fix_playback_issue_disc" = "إصلاح خطأ 'حدث خطأ ما' — يتطلب إعادة تشغيل. لا تقم بالتفعيل إذا كان التشغيل يعمل بشكل طبيعي.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "مدير التنزيلات";
@@ -518,7 +523,7 @@
 "license_key_copied_to_clipboard" = "تم نسخ مفتاح الترخيص.";
 "license_details" = "تفاصيل الترخيص";
 "license_details_disc" = "المفتاح: %@\n\nينتهي في: %@\n\n%@";
-"license_restored_successfully" = "تمت الاستعادة بنجاح.";
+"license_restored_successfully" = "الترخيص نشط.";
 "license_restored" = "تمت الاستعادة";
 "restore_failed" = "فشلت الاستعادة";
 

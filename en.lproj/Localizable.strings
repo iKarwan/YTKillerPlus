@@ -12,6 +12,11 @@
 /* downloading global switch */
 "DOWNLOADING" = "Enable Download Feature";
 "glob_overlay_button" = "Buttons shown inside the player.";
+"overlay_button_disc" = "Downloading, no ad, background play, etc.";
+"first_cleaner_disc" = "Long press on the gear icon for 3 second to show cleaning options!";
+
+"fix_playback_issue" = "Fix playback issue";
+"fix_playback_issue_disc" = "Fix 'something went wrong' — restart required. don't enable if playback works fine.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download Manager";
@@ -526,7 +531,7 @@
 "license_key_copied_to_clipboard" = "License key copied to clipboard.";
 "license_details" = "License Details";
 "license_details_disc" = "License Key: %@\n\nExpiration: %@\n\n%@";
-"license_restored_successfully" = "License restored successfully.";
+"license_restored_successfully" = "License is active.";
 "license_restored" = "License Restored";
 "restore_failed" = "Restore Failed";
 
