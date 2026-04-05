@@ -415,6 +415,11 @@
 "end_of_track" = "Fin de la pista";
 "min_left" = "%ld min restantes";
 "sleep_timer_activated" = "Temporizador de sueño activado - reproducción pausada";
+"custom_time" = "Tiempo personalizado";
+"enter_duration_desc" = "Introduce la duración (ej.: 20m, 1h, 1h 30m, 90)";
+"set" = "Establecer";
+"invalid_input" = "Entrada no válida";
+"invalid_input_desc" = "Usa formatos como: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
 "gestures_control" = "Control por gestos";
@@ -497,7 +502,15 @@
 "CLEAR_CACHE" = "Borrar caché";
 "CALCULATING" = "Calculando...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Desvincular correo";
+"unlink_confirmation" = "Confirmar desvinculación";
+"unlink_email_explanation" = "¿Seguro que quieres desvincular este correo de tu licencia?";
+"unlink" = "Desvincular";
+"error_unlink" = "Error";
+"error_unlink_desc" = "Error al desvincular el correo.";
+"success_unlink" = "Éxito";
+"success_unlink_desc" = "Correo desvinculado correctamente.";
 
 /* license prompt */
 "license_option" = "Opciones de licencia";

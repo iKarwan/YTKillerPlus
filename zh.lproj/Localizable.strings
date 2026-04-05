@@ -416,6 +416,11 @@
 "end_of_track" = "曲目结束";
 "min_left" = "剩余 %ld 分钟";
 "sleep_timer_activated" = "睡眠定时器已激活 - 播放已暂停";
+"custom_time" = "自定义时间";
+"enter_duration_desc" = "输入时长（例如：20m，1h，1h 30m，90）";
+"set" = "设置";
+"invalid_input" = "输入无效";
+"invalid_input_desc" = "请使用格式：20m，1h，1h 30m，90";
 
 /* gestures */
 "gestures_control" = "手势控制";
@@ -498,7 +503,15 @@
 "CLEAR_CACHE" = "清除缓存";
 "CALCULATING" = "计算中...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "解除邮箱绑定";
+"unlink_confirmation" = "确认解除";
+"unlink_email_explanation" = "确定要将此邮箱从许可证中解除绑定吗？";
+"unlink" = "解除绑定";
+"error_unlink" = "错误";
+"error_unlink_desc" = "解除邮箱绑定失败。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "邮箱已成功解除绑定。";
 
 /* license prompt */
 "license_option" = "许可选项";

@@ -421,6 +421,11 @@
 "end_of_track" = "End of track";
 "min_left" = "%ld min left";
 "sleep_timer_activated" = "Sleep timer activated - playback paused";
+"custom_time" = "Custom Time";
+"enter_duration_desc" = "Enter duration (e.g. 20m, 1h, 1h 30m, 90)";
+"set" = "Set";
+"invalid_input" = "Invalid Input";
+"invalid_input_desc" = "Use formats like: 20m, 1h, 1h 30m, 90";
 
 "gestures_control" = "Gestures Control";
 "brightness" = "Brightness";
@@ -503,7 +508,15 @@
 "CLEAR_CACHE" = "Clear Cache";
 "CALCULATING" = "Calculating...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Unlink Email";
+"unlink_confirmation" = "Confirm Unlink";
+"unlink_email_explanation" = "Are you sure you want to unlink this email from your license?";
+"unlink" = "Unlink";
+"error_unlink" = "Error";
+"error_unlink_desc" = "Failed to unlink email.";
+"success_unlink" = "Success";
+"success_unlink_desc" = "Email unlinked successfully.";
 
 /* promptForActivation */
 "license_option" = "License Options";

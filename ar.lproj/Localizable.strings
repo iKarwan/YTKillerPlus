@@ -414,6 +414,11 @@
 "end_of_track" = "نهاية المقطع";
 "min_left" = "متبقي %ld دقيقة";
 "sleep_timer_activated" = "تم تفعيل مؤقت النوم - تم إيقاف التشغيل مؤقتًا";
+"custom_time" = "وقت مخصص";
+"enter_duration_desc" = "أدخل المدة (مثال: 20د، 1س، 1س 30د، 90)";
+"set" = "تعيين";
+"invalid_input" = "إدخال غير صالح";
+"invalid_input_desc" = "استخدم صيغ مثل: 20د، 1س، 1س 30د، 90";
 
 /* gestures */
 "gestures_control" = "تحكم الإيماءات";
@@ -496,7 +501,15 @@
 "CLEAR_CACHE" = "مسح الذاكرة";
 "CALCULATING" = "جاري الحساب...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "إلغاء ربط البريد الإلكتروني";
+"unlink_confirmation" = "تأكيد الإلغاء";
+"unlink_email_explanation" = "هل أنت متأكد أنك تريد إلغاء ربط هذا البريد الإلكتروني من الترخيص؟";
+"unlink" = "إلغاء الربط";
+"error_unlink" = "خطأ";
+"error_unlink_desc" = "فشل إلغاء ربط البريد الإلكتروني.";
+"success_unlink" = "نجاح";
+"success_unlink_desc" = "تم إلغاء ربط البريد الإلكتروني بنجاح.";
 
 /* license prompt */
 "license_option" = "خيارات الترخيص";

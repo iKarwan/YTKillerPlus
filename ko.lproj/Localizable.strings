@@ -415,6 +415,11 @@
 "end_of_track" = "트랙 종료";
 "min_left" = "남은 시간 %ld분";
 "sleep_timer_activated" = "수면 타이머 활성화됨 - 재생이 일시 중지되었습니다";
+"custom_time" = "사용자 지정 시간";
+"enter_duration_desc" = "시간을 입력하세요 (예: 20m, 1h, 1h 30m, 90)";
+"set" = "설정";
+"invalid_input" = "잘못된 입력";
+"invalid_input_desc" = "다음 형식을 사용하세요: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
 "gestures_control" = "제스처 컨트롤";
@@ -497,7 +502,15 @@
 "CLEAR_CACHE" = "캐시 삭제";
 "CALCULATING" = "계산 중...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "이메일 연결 해제";
+"unlink_confirmation" = "연결 해제 확인";
+"unlink_email_explanation" = "이 이메일을 라이선스에서 제거하시겠습니까?";
+"unlink" = "연결 해제";
+"error_unlink" = "오류";
+"error_unlink_desc" = "이메일 연결 해제에 실패했습니다.";
+"success_unlink" = "성공";
+"success_unlink_desc" = "이메일 연결이 성공적으로 해제되었습니다.";
 
 /* license prompt */
 "license_option" = "라이선스 옵션";

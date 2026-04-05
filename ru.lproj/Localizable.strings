@@ -415,6 +415,11 @@
 "end_of_track" = "Конец трека";
 "min_left" = "Осталось %ld мин";
 "sleep_timer_activated" = "Таймер сна активирован — воспроизведение приостановлено";
+"custom_time" = "Произвольное время";
+"enter_duration_desc" = "Введите длительность (например: 20m, 1h, 1h 30m, 90)";
+"set" = "Установить";
+"invalid_input" = "Неверный ввод";
+"invalid_input_desc" = "Используйте форматы: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
 "gestures_control" = "Жесты управления";
@@ -497,7 +502,15 @@
 "CLEAR_CACHE" = "Очистить кэш";
 "CALCULATING" = "Подсчёт...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Отвязать email";
+"unlink_confirmation" = "Подтвердить отвязку";
+"unlink_email_explanation" = "Вы уверены, что хотите отвязать этот email от лицензии?";
+"unlink" = "Отвязать";
+"error_unlink" = "Ошибка";
+"error_unlink_desc" = "Не удалось отвязать email.";
+"success_unlink" = "Успешно";
+"success_unlink_desc" = "Email успешно отвязан.";
 
 /* license prompt */
 "license_option" = "Параметры лицензии";

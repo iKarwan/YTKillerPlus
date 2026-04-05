@@ -416,6 +416,11 @@
 "end_of_track" = "Kết thúc bài";
 "min_left" = "Còn %ld phút";
 "sleep_timer_activated" = "Đã kích hoạt hẹn giờ ngủ - phát tạm dừng";
+"custom_time" = "Thời gian tùy chỉnh";
+"enter_duration_desc" = "Nhập thời lượng (ví dụ: 20m, 1h, 1h 30m, 90)";
+"set" = "Đặt";
+"invalid_input" = "Dữ liệu không hợp lệ";
+"invalid_input_desc" = "Sử dụng định dạng như: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
 "gestures_control" = "Điều khiển cử chỉ";
@@ -498,7 +503,15 @@
 "CLEAR_CACHE" = "Xóa bộ nhớ đệm";
 "CALCULATING" = "Đang tính toán...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Hủy liên kết email";
+"unlink_confirmation" = "Xác nhận hủy liên kết";
+"unlink_email_explanation" = "Bạn có chắc muốn hủy liên kết email này khỏi giấy phép không?";
+"unlink" = "Hủy liên kết";
+"error_unlink" = "Lỗi";
+"error_unlink_desc" = "Không thể hủy liên kết email.";
+"success_unlink" = "Thành công";
+"success_unlink_desc" = "Đã hủy liên kết email thành công.";
 
 /* license prompt */
 "license_option" = "Tùy chọn giấy phép";

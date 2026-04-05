@@ -415,6 +415,11 @@
 "end_of_track" = "Parça sonu";
 "min_left" = "%ld dakika kaldı";
 "sleep_timer_activated" = "Uyku zamanlayıcı etkin - oynatma duraklatıldı";
+"custom_time" = "Özel süre";
+"enter_duration_desc" = "Süre girin (örn: 20m, 1h, 1h 30m, 90)";
+"set" = "Ayarla";
+"invalid_input" = "Geçersiz giriş";
+"invalid_input_desc" = "Şu formatları kullanın: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
 "gestures_control" = "Hareket Kontrolü";
@@ -497,7 +502,15 @@
 "CLEAR_CACHE" = "Önbelleği Temizle";
 "CALCULATING" = "Hesaplanıyor...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "E-postayı Bağlantıdan Kaldır";
+"unlink_confirmation" = "Kaldırmayı Onayla";
+"unlink_email_explanation" = "Bu e-postayı lisansınızdan kaldırmak istediğinizden emin misiniz?";
+"unlink" = "Bağlantıyı Kaldır";
+"error_unlink" = "Hata";
+"error_unlink_desc" = "E-posta bağlantısı kaldırılamadı.";
+"success_unlink" = "Başarılı";
+"success_unlink_desc" = "E-posta başarıyla kaldırıldı.";
 
 /* license prompt */
 "license_option" = "Lisans Seçenekleri";

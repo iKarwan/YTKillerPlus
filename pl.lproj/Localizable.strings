@@ -418,6 +418,11 @@
 "end_of_track" = "Koniec utworu";
 "min_left" = "%ld min pozostało";
 "sleep_timer_activated" = "Timer uśpienia aktywny – odtwarzanie wstrzymane";
+"custom_time" = "Niestandardowy czas";
+"enter_duration_desc" = "Wprowadź czas trwania (np.: 20m, 1h, 1h 30m, 90)";
+"set" = "Ustaw";
+"invalid_input" = "Nieprawidłowe dane";
+"invalid_input_desc" = "Użyj formatów: 20m, 1h, 1h 30m, 90";
 
 "gestures_control" = "Sterowanie gestami";
 "brightness" = "Jasność";
@@ -499,7 +504,15 @@
 "CLEAR_CACHE" = "Wyczyść pamięć podręczną";
 "CALCULATING" = "Obliczanie...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "Odłącz e-mail";
+"unlink_confirmation" = "Potwierdź odłączenie";
+"unlink_email_explanation" = "Czy na pewno chcesz odłączyć ten e-mail od licencji?";
+"unlink" = "Odłącz";
+"error_unlink" = "Błąd";
+"error_unlink_desc" = "Nie udało się odłączyć e-maila.";
+"success_unlink" = "Sukces";
+"success_unlink_desc" = "E-mail został pomyślnie odłączony.";
 
 /* promptForActivation */
 "license_option" = "Opcje licencji";

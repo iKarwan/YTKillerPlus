@@ -419,6 +419,11 @@
 "end_of_track" = "کۆتایی تراک";
 "min_left" = "%ld خولەك ماوە";
 "sleep_timer_activated" = "كاتژمێری خەو چالاک کرا - پەخش وەستێنرا";
+"custom_time" = "کاتی تایبەتی";
+"enter_duration_desc" = "ماوە بنووسە (نموونە: 20m، 1h، 1h 30m، 90)";
+"set" = "دانان";
+"invalid_input" = "داتا نەگونجاوە";
+"invalid_input_desc" = "شێوەکان وەک: 20m، 1h، 1h 30m، 90 بەکاربهێنە";
 
 /* gestures */
 "gestures_control" = "کۆنترۆڵی گەشتەکان";
@@ -501,7 +506,15 @@
 "CLEAR_CACHE" = "پاککردنەوەی کاش";
 "CALCULATING" = "ژمێرەکردن...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "جیاکردنەوەی ئیمەیڵ";
+"unlink_confirmation" = "دڵنیابوونەوەی جیاکردنەوە";
+"unlink_email_explanation" = "دڵنیایت کە دەتەوێت ئەم ئیمەیڵە لە مۆڵەتەکەت جیا بکەیتەوە؟";
+"unlink" = "جیاکردنەوە";
+"error_unlink" = "هەڵە";
+"error_unlink_desc" = "جیاکردنەوەی ئیمەیڵ سەرکەوتوو نەبوو.";
+"success_unlink" = "سەرکەوتوو";
+"success_unlink_desc" = "ئیمەیڵ بە سەرکەوتوویی جیاکرایەوە.";
 
 /* promptForActivation */
 "license_option" = "هەڵبژاردەکانی مۆڵەت";

@@ -417,6 +417,11 @@
 "end_of_track" = "Ende des Titels";
 "min_left" = "%ld Min verbleibend";
 "sleep_timer_activated" = "Sleep-Timer aktiviert – Wiedergabe pausiert";
+"custom_time" = "Benutzerdefinierte Zeit";
+"enter_duration_desc" = "Dauer eingeben (z. B.: 20m, 1h, 1h 30m, 90)";
+"set" = "Festlegen";
+"invalid_input" = "Ungültige Eingabe";
+"invalid_input_desc" = "Verwende Formate wie: 20m, 1h, 1h 30m, 90";
 
 "gestures_control" = "Gestensteuerung";
 "brightness" = "Helligkeit";
@@ -498,7 +503,15 @@
 "CLEAR_CACHE" = "Cache leeren";
 "CALCULATING" = "Wird berechnet...";
 
-/* checkForUpdates */
+/* Unlink Email from License */
+"unlink_email" = "E-Mail-Verknüpfung aufheben";
+"unlink_confirmation" = "Aufhebung bestätigen";
+"unlink_email_explanation" = "Möchten Sie diese E-Mail wirklich von Ihrer Lizenz trennen?";
+"unlink" = "Trennen";
+"error_unlink" = "Fehler";
+"error_unlink_desc" = "E-Mail konnte nicht getrennt werden.";
+"success_unlink" = "Erfolg";
+"success_unlink_desc" = "E-Mail erfolgreich getrennt.";
 
 /* promptForActivation */
 "license_option" = "Lizenzoptionen";
