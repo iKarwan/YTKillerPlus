@@ -13,8 +13,9 @@
 "overlay_button_disc" = "Download, senza pubblicità, riproduzione in background, ecc.";
 "first_cleaner_disc" = "Tieni premuta l’icona dell’ingranaggio per 3 secondi per mostrare le opzioni di pulizia!";
 
-"fix_playback_issue" = "Correggi problema di riproduzione";
-"fix_playback_issue_disc" = "Corregge l'errore 'qualcosa è andato storto' — riavvio richiesto. Non attivare se la riproduzione funziona correttamente.";
+"fix_playback_issue" = "🔧 Correzione riproduzione e recupero account";
+"fix_playback_issue_disc" = "🎯 Risolve errori \"Qualcosa è andato storto\" e interruzioni.";
+"fix_playback_issue_disc_footer" = "✅ Testato su più account — ripristino dopo pochi giorni.\n\n📍 Per risultati migliori:\n• Attiva posizione per YouTube\n• NON usare VPN\n\nPassaggi critici.\n\n⚠️ Disabilita download...\n\n⚠️ Attiva solo se necessario.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestore Download";
@@ -281,6 +282,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Nascondi Scheda Iscrizioni";
 "HIDE_LIBRARY_TAB" = "Nascondi Scheda Libreria";
 "HIDE_ALL_TAB" = "Nascondi Tutte le Schede";
+"MAIN_TAB" = "PRINCIPALE";
+"ACTIVE_TABS" = "SCHEDE ATTIVE";
+"INACTIVE_TABS" = "SCHEDE INATTIVE";
+"CANT_REMOVE" = "Impossibile rimuovere";
+"CANT_REMOVE_DESC" = "È necessaria almeno una scheda attiva.";
+"INACTIVE_TABS_TXT" = "%@ (inattiva)";
+"TABS_INACTIVE" = "Le schede sono inattive";
+"TABS_INACTIVE_DESC" = "\"%@\" è inattiva. Aggiungila prima alle schede attive.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Varie";

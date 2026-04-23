@@ -11,8 +11,9 @@
 "overlay_button_disc" = "Download, keine Werbung, Wiedergabe im Hintergrund usw.";
 "first_cleaner_disc" = "Halte das Zahnrad-Symbol 3 Sekunden lang gedrückt, um die Reinigungsoptionen anzuzeigen!";
 
-"fix_playback_issue" = "Wiedergabeproblem beheben";
-"fix_playback_issue_disc" = "Behebt den Fehler 'etwas ist schiefgelaufen' — Neustart erforderlich. Nicht aktivieren, wenn die Wiedergabe normal funktioniert.";
+"fix_playback_issue" = "🔧 Wiedergabeprobleme beheben & Konto wiederherstellen";
+"fix_playback_issue_disc" = "🎯 Behebt \"Etwas ist schiefgelaufen\" Fehler und Unterbrechungen.";
+"fix_playback_issue_disc_footer" = "✅ Auf mehreren Konten getestet — nach wenigen Tagen wieder normal.\n\n📍 Für beste Ergebnisse:\n• Standortdienste aktivieren\n• KEIN VPN\n\nWichtige Schritte.\n\n⚠️ Deaktiviert Downloads...\n\n⚠️ Nur bei Problemen aktivieren.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download-Manager";
@@ -280,6 +281,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Abos-Tab ausblenden";
 "HIDE_LIBRARY_TAB" = "Bibliothek-Tab ausblenden";
 "HIDE_ALL_TAB" = "Alle Tabs ausblenden";
+"MAIN_TAB" = "HAUPT";
+"ACTIVE_TABS" = "AKTIVE TABS";
+"INACTIVE_TABS" = "INAKTIVE TABS";
+"CANT_REMOVE" = "Kann nicht entfernt werden";
+"CANT_REMOVE_DESC" = "Du benötigst mindestens einen aktiven Tab.";
+"INACTIVE_TABS_TXT" = "%@ (inaktiv)";
+"TABS_INACTIVE" = "Tabs sind inaktiv";
+"TABS_INACTIVE_DESC" = "\"%@\" ist inaktiv. Füge es zuerst zu den aktiven Tabs hinzu.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Verschiedenes";

@@ -15,8 +15,9 @@
 "overlay_button_disc" = "Downloading, no ad, background play, etc.";
 "first_cleaner_disc" = "Long press on the gear icon for 3 second to show cleaning options!";
 
-"fix_playback_issue" = "Fix playback issue";
-"fix_playback_issue_disc" = "Fix 'something went wrong' — restart required. don't enable if playback works fine.";
+"fix_playback_issue" = "🔧 Fix Playback & Account Recovery";
+"fix_playback_issue_disc" = "🎯 Fixes 'Something went wrong' errors and stream cutoffs for sideloaded apps.";
+"fix_playback_issue_disc_footer" = "✅ Tested on multiple accounts — both fully recovered to normal playback state after a few days with this enabled.\n\n📍 For best results:\n• Enable Location Services for YouTube\n• Do NOT use a VPN\n\nThese two steps are critical for your account to return to its normal state.\n\n⚠️ this will disable downloading...\n\n⚠️ Only enable if you experience playback issues. If playback works fine, leave this off.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download Manager";
@@ -283,6 +284,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Hide Subscription Tab";
 "HIDE_LIBRARY_TAB" = "Hide Library Tab";
 "HIDE_ALL_TAB" = "Hide All Tabs";
+"MAIN_TAB" = "MAIN";
+"ACTIVE_TABS" = "ACTIVE TABS";
+"INACTIVE_TABS" = "INACTIVE TABS";
+"CANT_REMOVE" = "Cannot remove";
+"CANT_REMOVE_DESC" = "You need at least one active tab.";
+"INACTIVE_TABS_TXT" = "%@ (inactive)";
+"TABS_INACTIVE" = "Tabs is inactive";
+"TABS_INACTIVE_DESC" = "\"%@\" is inactive. Add it to active tabs first.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Miscellaneous";

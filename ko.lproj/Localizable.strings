@@ -12,8 +12,9 @@
 "overlay_button_disc" = "다운로드, 광고 없음, 백그라운드 재생 등.";
 "first_cleaner_disc" = "정리 옵션을 표시하려면 톱니바퀴 아이콘을 3초간 길게 누르세요!";
 
-"fix_playback_issue" = "재생 문제 수정";
-"fix_playback_issue_disc" = "'문제가 발생했습니다' 오류 수정 — 재시작이 필요합니다. 재생이 정상적으로 작동하면 활성화하지 마세요.";
+"fix_playback_issue" = "🔧 재생 문제 해결 및 계정 복구";
+"fix_playback_issue_disc" = "🎯 \"문제가 발생했습니다\" 오류 및 스트림 끊김을 해결합니다.";
+"fix_playback_issue_disc_footer" = "✅ 여러 계정에서 테스트됨 — 며칠 후 정상 재생 상태로 복구됨.\n\n📍 최상의 결과를 위해:\n• YouTube 위치 서비스 활성화\n• VPN 사용 금지\n\n이 두 단계는 매우 중요합니다.\n\n⚠️ 다운로드 비활성화됨...\n\n⚠️ 문제 있을 때만 활성화하세요.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "다운로드 관리자";
@@ -280,6 +281,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "구독 탭 숨기기";
 "HIDE_LIBRARY_TAB" = "라이브러리 탭 숨기기";
 "HIDE_ALL_TAB" = "모든 탭 숨기기";
+"MAIN_TAB" = "메인";
+"ACTIVE_TABS" = "활성 탭";
+"INACTIVE_TABS" = "비활성 탭";
+"CANT_REMOVE" = "삭제할 수 없음";
+"CANT_REMOVE_DESC" = "최소 하나의 활성 탭이 필요합니다.";
+"INACTIVE_TABS_TXT" = "%@ (비활성)";
+"TABS_INACTIVE" = "탭이 비활성 상태입니다";
+"TABS_INACTIVE_DESC" = "\"%@\" 는 비활성 상태입니다. 먼저 활성 탭에 추가하세요.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "기타";

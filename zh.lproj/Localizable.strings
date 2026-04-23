@@ -12,8 +12,9 @@
 "overlay_button_disc" = "下载、无广告、后台播放等功能。";
 "first_cleaner_disc" = "长按齿轮图标 3 秒即可显示清理选项！";
 
-"fix_playback_issue" = "修复播放问题";
-"fix_playback_issue_disc" = "修复“出现错误”问题 — 需要重新启动。如果播放正常，请不要启用。";
+"fix_playback_issue" = "🔧 修复播放问题与账号恢复";
+"fix_playback_issue_disc" = "🎯 修复“出现错误”以及流中断问题。";
+"fix_playback_issue_disc_footer" = "✅ 已在多个账号测试 — 启用几天后均恢复正常播放。\n\n📍 为获得最佳效果：\n• 启用 YouTube 定位服务\n• 不要使用 VPN\n\n这两步非常关键。\n\n⚠️ 将禁用下载功能...\n\n⚠️ 仅在出现播放问题时启用。正常则保持关闭。";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "下载管理器";
@@ -281,6 +282,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "隐藏订阅标签";
 "HIDE_LIBRARY_TAB" = "隐藏资料库标签";
 "HIDE_ALL_TAB" = "隐藏所有标签";
+"MAIN_TAB" = "메인";
+"ACTIVE_TABS" = "활성 탭";
+"INACTIVE_TABS" = "비활성 탭";
+"CANT_REMOVE" = "삭제할 수 없음";
+"CANT_REMOVE_DESC" = "최소 하나의 활성 탭이 필요합니다.";
+"INACTIVE_TABS_TXT" = "%@ (비활성)";
+"TABS_INACTIVE" = "탭이 비활성 상태입니다";
+"TABS_INACTIVE_DESC" = "\"%@\" 는 비활성 상태입니다. 먼저 활성 탭에 추가하세요.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "其他";

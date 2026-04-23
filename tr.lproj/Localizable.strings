@@ -12,8 +12,9 @@
 "overlay_button_disc" = "İndirme, reklamsız, arka planda oynatma vb.";
 "first_cleaner_disc" = "Temizleme seçeneklerini görmek için dişli simgesine 3 saniye basılı tutun!";
 
-"fix_playback_issue" = "Oynatma sorununu düzelt";
-"fix_playback_issue_disc" = "'Bir şeyler ters gitti' hatasını düzelt — yeniden başlatma gerekli. Oynatma düzgün çalışıyorsa etkinleştirmeyin.";
+"fix_playback_issue" = "🔧 Oynatma sorunlarını düzelt ve hesap kurtarma";
+"fix_playback_issue_disc" = "🎯 \"Bir şeyler yanlış gitti\" hatalarını ve akış kesilmelerini düzeltir.";
+"fix_playback_issue_disc_footer" = "✅ Birden fazla hesapta test edildi — birkaç gün içinde normal oynatma durumuna döndü.\n\n📍 En iyi sonuçlar için:\n• YouTube için konum hizmetlerini aç\n• VPN kullanma\n\nBu iki adım kritik öneme sahiptir.\n\n⚠️ Bu indirmeyi devre dışı bırakır...\n\n⚠️ Sadece sorun yaşıyorsan aç. Sorun yoksa kapalı bırak.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "İndirme Yöneticisi";
@@ -280,6 +281,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Abonelik Sekmesini Gizle";
 "HIDE_LIBRARY_TAB" = "Kütüphane Sekmesini Gizle";
 "HIDE_ALL_TAB" = "Tüm Sekmeleri Gizle";
+"MAIN_TAB" = "ANA";
+"ACTIVE_TABS" = "AKTİF SEKMELER";
+"INACTIVE_TABS" = "PASİF SEKMELER";
+"CANT_REMOVE" = "Kaldırılamaz";
+"CANT_REMOVE_DESC" = "En az bir aktif sekmeye ihtiyacınız var.";
+"INACTIVE_TABS_TXT" = "%@ (pasif)";
+"TABS_INACTIVE" = "Sekmeler pasif";
+"TABS_INACTIVE_DESC" = "\"%@\" pasif. Önce aktif sekmelere ekleyin.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Diğer";

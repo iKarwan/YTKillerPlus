@@ -12,8 +12,9 @@
 "overlay_button_disc" = "Tải xuống, không quảng cáo, phát nền, v.v.";
 "first_cleaner_disc" = "Nhấn giữ biểu tượng bánh răng trong 3 giây để hiển thị các tùy chọn dọn dẹp!";
 
-"fix_playback_issue" = "Sửa lỗi phát lại";
-"fix_playback_issue_disc" = "Sửa lỗi 'đã xảy ra sự cố' — требуется перезапуск. Không bật nếu phát lại hoạt động bình thường.";
+"fix_playback_issue" = "🔧 Sửa lỗi phát và khôi phục tài khoản";
+"fix_playback_issue_disc" = "🎯 Sửa lỗi \"Đã xảy ra lỗi\" và gián đoạn phát.";
+"fix_playback_issue_disc_footer" = "✅ Đã thử nghiệm trên nhiều tài khoản — đều trở lại bình thường sau vài ngày.\n\n📍 Để đạt kết quả tốt nhất:\n• Bật dịch vụ vị trí cho YouTube\n• KHÔNG dùng VPN\n\nHai bước này rất quan trọng.\n\n⚠️ Sẽ tắt tính năng tải xuống...\n\n⚠️ Chỉ bật khi có lỗi. Nếu hoạt động bình thường, hãy tắt.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Trình Quản Lý Tải Xuống";
@@ -281,6 +282,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Ẩn tab Đăng ký";
 "HIDE_LIBRARY_TAB" = "Ẩn tab Thư viện";
 "HIDE_ALL_TAB" = "Ẩn tất cả tab";
+"MAIN_TAB" = "CHÍNH";
+"ACTIVE_TABS" = "TAB ĐANG HOẠT ĐỘNG";
+"INACTIVE_TABS" = "TAB KHÔNG HOẠT ĐỘNG";
+"CANT_REMOVE" = "Không thể xóa";
+"CANT_REMOVE_DESC" = "Bạn cần ít nhất một tab đang hoạt động.";
+"INACTIVE_TABS_TXT" = "%@ (không hoạt động)";
+"TABS_INACTIVE" = "Các tab đang không hoạt động";
+"TABS_INACTIVE_DESC" = "\"%@\" đang không hoạt động. Hãy thêm vào tab hoạt động trước.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Khác";

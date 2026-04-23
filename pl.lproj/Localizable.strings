@@ -11,8 +11,9 @@
 "overlay_button_disc" = "Pobieranie, brak reklam, odtwarzanie w tle itp.";
 "first_cleaner_disc" = "Przytrzymaj ikonę koła zębatego przez 3 sekundy, aby wyświetlić opcje czyszczenia!";
 
-"fix_playback_issue" = "Napraw problem z odtwarzaniem";
-"fix_playback_issue_disc" = "Naprawia błąd 'coś poszło nie tak' — wymagane ponowne uruchomienie. Nie włączaj, jeśli odtwarzanie działa poprawnie.";
+"fix_playback_issue" = "🔧 Napraw odtwarzanie i odzyskaj konto";
+"fix_playback_issue_disc" = "🎯 Naprawia błędy \"Coś poszło nie tak\" i przerwy.";
+"fix_playback_issue_disc_footer" = "✅ Testowane na wielu kontach — powrót do normy po kilku dniach.\n\n📍 Najlepsze wyniki:\n• Włącz lokalizację\n• NIE używaj VPN\n\nKluczowe kroki.\n\n⚠️ Wyłącza pobieranie...\n\n⚠️ Używaj tylko przy problemach.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Menedżer pobierania";
@@ -279,6 +280,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Ukryj zakładkę Subskrypcje";
 "HIDE_LIBRARY_TAB" = "Ukryj zakładkę Biblioteka";
 "HIDE_ALL_TAB" = "Ukryj wszystkie zakładki";
+"MAIN_TAB" = "GŁÓWNA";
+"ACTIVE_TABS" = "AKTYWNE KARTY";
+"INACTIVE_TABS" = "NIEAKTYWNE KARTY";
+"CANT_REMOVE" = "Nie można usunąć";
+"CANT_REMOVE_DESC" = "Musisz mieć co najmniej jedną aktywną kartę.";
+"INACTIVE_TABS_TXT" = "%@ (nieaktywna)";
+"TABS_INACTIVE" = "Karty są nieaktywne";
+"TABS_INACTIVE_DESC" = "\"%@\" jest nieaktywna. Najpierw dodaj ją do aktywnych kart.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Różne";

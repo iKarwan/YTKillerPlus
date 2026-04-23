@@ -15,8 +15,9 @@
 "overlay_button_disc" = "Téléchargement, pas de pub, lecture en arrière-plan, etc.";
 "first_cleaner_disc" = "Appuyez longuement sur l'icône d'engrenage pendant 3 secondes pour afficher les options de nettoyage !";
 
-"fix_playback_issue" = "Corriger les problèmes de lecture";
-"fix_playback_issue_disc" = "Corrige 'quelque chose s'est mal passé' — redémarrage requis. Ne pas activer si la lecture fonctionne correctement.";
+"fix_playback_issue" = "🔧 Correction de la lecture et récupération du compte";
+"fix_playback_issue_disc" = "🎯 Corrige les erreurs \"Une erreur s'est produite\" et les coupures.";
+"fix_playback_issue_disc_footer" = "✅ Testé sur plusieurs comptes — retour à la normale après quelques jours.\n\n📍 Pour de meilleurs résultats :\n• Activez la localisation pour YouTube\n• N’utilisez PAS de VPN\n\nÉtapes critiques.\n\n⚠️ Désactive le téléchargement...\n\n⚠️ À activer seulement en cas de problème.";
 
 /* Section gestionnaire de téléchargement */
 "DOWNLOAD_MANAGER" = "Gestionnaire de téléchargement";
@@ -283,6 +284,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Masquer l'onglet Abonnements";
 "HIDE_LIBRARY_TAB" = "Masquer l'onglet Bibliothèque";
 "HIDE_ALL_TAB" = "Masquer tous les onglets";
+"MAIN_TAB" = "PRINCIPAL";
+"ACTIVE_TABS" = "ONGLETS ACTIFS";
+"INACTIVE_TABS" = "ONGLETS INACTIFS";
+"CANT_REMOVE" = "Impossible de supprimer";
+"CANT_REMOVE_DESC" = "Vous devez avoir au moins un onglet actif.";
+"INACTIVE_TABS_TXT" = "%@ (inactif)";
+"TABS_INACTIVE" = "Les onglets sont inactifs";
+"TABS_INACTIVE_DESC" = "\"%@\" est inactif. Ajoutez-le d'abord aux onglets actifs.";
 
 /* Section divers */
 "MISCELLANEOUS_SECTION" = "Divers";

@@ -12,8 +12,9 @@
 "overlay_button_disc" = "Descarga, sin anuncios, reproducción en segundo plano, etc.";
 "first_cleaner_disc" = "Mantén pulsado el icono del engranaje durante 3 segundos para mostrar las opciones de limpieza.";
 
-"fix_playback_issue" = "Solucionar problema de reproducción";
-"fix_playback_issue_disc" = "Soluciona el error 'algo salió mal' — se requiere reinicio. No lo actives si la reproducción funciona correctamente.";
+"fix_playback_issue" = "🔧 Corregir reproducción y recuperación de cuenta";
+"fix_playback_issue_disc" = "🎯 Soluciona errores de \"Algo salió mal\" y cortes de transmisión en apps sideload.";
+"fix_playback_issue_disc_footer" = "✅ Probado en varias cuentas — todas volvieron al estado normal tras unos días con esto activado.\n\n📍 Para mejores resultados:\n• Activa los servicios de ubicación para YouTube\n• NO uses VPN\n\nEstos dos pasos son críticos para que tu cuenta vuelva a la normalidad.\n\n⚠️ Esto desactivará las descargas...\n\n⚠️ Actívalo solo si tienes problemas de reproducción. Si todo funciona bien, déjalo desactivado.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestor de descargas";
@@ -280,6 +281,14 @@
 "HIDE_SUBSCRIPTION_TAB" = "Ocultar pestaña Suscripciones";
 "HIDE_LIBRARY_TAB" = "Ocultar pestaña Biblioteca";
 "HIDE_ALL_TAB" = "Ocultar todas las pestañas";
+"MAIN_TAB" = "PRINCIPAL";
+"ACTIVE_TABS" = "PESTAÑAS ACTIVAS";
+"INACTIVE_TABS" = "PESTAÑAS INACTIVAS";
+"CANT_REMOVE" = "No se puede eliminar";
+"CANT_REMOVE_DESC" = "Necesitas al menos una pestaña activa.";
+"INACTIVE_TABS_TXT" = "%@ (inactiva)";
+"TABS_INACTIVE" = "Las pestañas están inactivas";
+"TABS_INACTIVE_DESC" = "\"%@\" está inactiva. Añádela primero a las pestañas activas.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Varios";

@@ -9,6 +9,7 @@
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 16.0 / iOS iPadOS 26.x ...
 * YouTube v20.20x and newer !
+* For older version [visit telegram](https://t.me/ikgipa) .
 
 
 ## Depiction Page
@@ -22,8 +23,8 @@
     1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
         | Application | Bundle | Version | YTKillerPlus | File Type |
         | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_21.14_YTKillerPlus_4.6.8.ipa) | com.google.ios.youtube | 21.14 | 4.6.8 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_21.14_YTKillerPlus_4.6.8_TrollStore.tipa) | com.google.ios.youtube | 21.14 | 4.6.8 | tipa |
+        | [YouTube](https://ikghd.site/ipa/YouTube_21.16_YTKillerPlus_5.0.ipa) | com.google.ios.youtube | 21.16 | 5.0 | IPA |
+        | [TrollStore](https://ikghd.site/ipa/YouTube_21.16_YTKillerPlus_5.0_TrollStore.tipa) | com.google.ios.youtube | 21.16 | 5.0 | tipa |
 
 
 ## How to Sideload on non-jailbroken devices
@@ -55,7 +56,7 @@
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_21.14_YTKillerPlus_4.6.8_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_21.16_YTKillerPlus_5.0_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
