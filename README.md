@@ -49,19 +49,13 @@
 
 ### Installing with third party AppStore
 *
-    * You can copy and add this source to your source list AltStore, Feather, Esign, Gbox, etc ..
+    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Feather, Esign, Gbox, etc ..
     * [ https://repo.ikghd.me/repo.json
 
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
 * Copy this link [here](https://ikghd.site/ipa/YouTube_21.17_YTKillerPlus_5.2_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
-
-
-### LiveContainer App
-* Download and install LiveContainer from [here](https://github.com/LiveContainer/LiveContainer).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_21.17_YTKillerPlus_5.2.ipa) and paste it into the "URL" option in LiveContainer.
-* or just add the repo 'repo.ikghd.me/repo.json' and paste it into the "add URL" option in LiveContainer.
 
 
 ### Telegram Channel
