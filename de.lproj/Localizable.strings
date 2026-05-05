@@ -2,13 +2,13 @@
 /* by iKarwan */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global aktiviert";
+"GLOB_ENABLED" = "Aktivieren";
 "GLOBAL_ENABLED_SWITCH" = "Tippe oben rechts, um Änderungen zu übernehmen.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Download-Funktion aktivieren";
 "glob_overlay_button" = "Schaltflächen werden im Player angezeigt.";
-"overlay_button_disc" = "Download, keine Werbung, Wiedergabe im Hintergrund usw.";
+"overlay_button_disc" = "Downloads, Hintergrundwiedergabe und mehr.";
 "first_cleaner_disc" = "Halte das Zahnrad-Symbol 3 Sekunden lang gedrückt, um die Reinigungsoptionen anzuzeigen!";
 
 "fix_playback_issue" = "🔧 Wiedergabeprobleme beheben & Konto wiederherstellen";
@@ -33,7 +33,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Player-Steuerung & Umschalter";
+"overlay_button" = "Player-Steuerung";
 "overlay_player" = "Overlay-Player";
 "speed_index" = "Wiedergabegeschwindigkeit";
 "default_speed_index" = "Standard-Wiedergabegeschwindigkeit";
@@ -42,8 +42,8 @@
 "short_player" = "Shorts-Player";
 "loop_toggle" = "Wiederholungsschalter hinzufügen";
 
-"yt_video_quality_wifi" = "YT-Videoqualität über WLAN";
-"yt_video_quality_celluar" = "YT-Videoqualität über Mobilfunk";
+"yt_video_quality_wifi" = "WLAN-Qualität";
+"yt_video_quality_celluar" = "Mobilfunkqualität";
 "auto" = "Automatisch";
 "yt_speed_playback" = "Standard-Wiedergabegeschwindigkeit";
 "normal" = "Normal";
@@ -128,13 +128,13 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Video-Player-Optionen";
-"OVERLAY_OPTIONS" = "Overlay-Optionen";
-"STREAM_OPTIONS" = "Stream-Optionen";
+"OVERLAY_OPTIONS" = "Overlay";
+"STREAM_OPTIONS" = "Streaming";
 "IPAD_OPTIONS" = "iPad-Optionen";
-"NAVIGATION_BAR" = "Navigationsleisten-Optionen";
-"SHORTS_OPTION" = "Shorts-Optionen";
+"NAVIGATION_BAR" = "Navigationsleiste";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Zusätzliche Download-Optionen";
-"TAB_BAR_OPTIONS" = "Tab-Leisten-Optionen";
+"TAB_BAR_OPTIONS" = "Tab-Leiste";
 "MISCELLANEOUS" = "Verschiedenes";
 
 /* general section switch */
@@ -432,7 +432,7 @@
 "invalid_input" = "Ungültige Eingabe";
 "invalid_input_desc" = "Verwende Formate wie: 20m, 1h, 1h 30m, 90";
 
-"gestures_control" = "Gestensteuerung";
+"gestures_control" = "Gesten";
 "brightness" = "Helligkeit";
 "left" = "Links";
 "right" = "Rechts";

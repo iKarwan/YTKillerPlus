@@ -3,13 +3,13 @@
 /* Traducción al español por Adarsh & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Activar globalmente";
+"GLOB_ENABLED" = "Activar";
 "GLOBAL_ENABLED_SWITCH" = "Toca el botón superior derecho para aplicar los cambios.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Activar función de descarga";
 "glob_overlay_button" = "Botones que aparecen dentro del reproductor.";
-"overlay_button_disc" = "Descarga, sin anuncios, reproducción en segundo plano, etc.";
+"overlay_button_disc" = "Descargas, reproducción en segundo plano y más.";
 "first_cleaner_disc" = "Mantén pulsado el icono del engranaje durante 3 segundos para mostrar las opciones de limpieza.";
 
 "fix_playback_issue" = "🔧 Corregir reproducción y recuperación de cuenta";
@@ -43,8 +43,8 @@
 "short_player" = "Reproductor de cortos";
 "loop_toggle" = "Botón de repetición";
 
-"yt_video_quality_wifi" = "Calidad de video en Wi-Fi";
-"yt_video_quality_celluar" = "Calidad de video en datos móviles";
+"yt_video_quality_wifi" = "Calidad Wi-Fi";
+"yt_video_quality_celluar" = "Calidad de datos móviles";
 "auto" = "Automático";
 "yt_speed_playback" = "Velocidad de reproducción predeterminada";
 "normal" = "Normal";
@@ -128,14 +128,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Opciones del reproductor";
-"OVERLAY_OPTIONS" = "Opciones de superposición";
-"STREAM_OPTIONS" = "Opciones de transmisión";
+"OVERLAY_OPTIONS" = "Superposición";
+"STREAM_OPTIONS" = "Streaming";
 "IPAD_OPTIONS" = "Opciones para iPad";
 "NAVIGATION_BAR" = "Barra de navegación";
-"SHORTS_OPTION" = "Opciones de cortos";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Opciones de descarga extra";
-"TAB_BAR_OPTIONS" = "Opciones de barra de pestañas";
-"MISCELLANEOUS" = "General";
+"TAB_BAR_OPTIONS" = "Barra de pestañas";
+"MISCELLANEOUS" = "Misceláneo";
 
 /* general section switch */
 "OLED_DARK_MODE" = "Modo oscuro OLED";
@@ -431,7 +431,7 @@
 "invalid_input_desc" = "Usa formatos como: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
-"gestures_control" = "Control por gestos";
+"gestures_control" = "Gestos";
 "brightness" = "Brillo";
 "left" = "Izquierda";
 "right" = "Derecha";

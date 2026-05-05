@@ -6,13 +6,13 @@
 /* NOTE 2 !!! Après la traduction, veuillez ajouter le code de votre pays comme en - fr - ar - zh etc... */
 
 /* Interrupteur global de YTKillerPlus */
-"GLOB_ENABLED" = "Activé globalement";
+"GLOB_ENABLED" = "Activer";
 "GLOBAL_ENABLED_SWITCH" = "Appuyez sur le bouton en haut à droite pour appliquer les modifications.";
 
 /* Interrupteur global de téléchargement */
 "DOWNLOADING" = "Activer la fonction de téléchargement";
 "glob_overlay_button" = "Boutons affichés dans le lecteur.";
-"overlay_button_disc" = "Téléchargement, pas de pub, lecture en arrière-plan, etc.";
+"overlay_button_disc" = "Téléchargements, lecture en arrière-plan et plus encore.";
 "first_cleaner_disc" = "Appuyez longuement sur l'icône d'engrenage pendant 3 secondes pour afficher les options de nettoyage !";
 
 "fix_playback_issue" = "🔧 Correction de la lecture et récupération du compte";
@@ -37,7 +37,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* Valeurs par défaut */
-"overlay_button" = "Contrôles du lecteur & Basculer";
+"overlay_button" = "Commandes du lecteur";
 "overlay_player" = "Lecteur superposé";
 "speed_index" = "Vitesse de lecture";
 "default_speed_index" = "Vitesse de lecture par défaut";
@@ -46,8 +46,8 @@
 "short_player" = "Lecteur de Shorts";
 "loop_toggle" = "Ajouter un bouton de boucle";
 
-"yt_video_quality_wifi" = "Qualité vidéo YouTube en Wi-Fi";
-"yt_video_quality_celluar" = "Qualité vidéo YouTube en données mobiles";
+"yt_video_quality_wifi" = "Qualité Wi-Fi";
+"yt_video_quality_celluar" = "Qualité cellulaire";
 "auto" = "Auto";
 "yt_speed_playback" = "Vitesse de lecture par défaut";
 "normal" = "Normal";
@@ -131,13 +131,13 @@
 
 /* Section générale */
 "VIDEO_PLAYER" = "Options du lecteur vidéo";
-"OVERLAY_OPTIONS" = "Options de superposition";
-"STREAM_OPTIONS" = "Options de diffusion";
+"OVERLAY_OPTIONS" = "Superposition";
+"STREAM_OPTIONS" = "Streaming";
 "IPAD_OPTIONS" = "Options iPad";
-"NAVIGATION_BAR" = "Options de la barre de navigation";
-"SHORTS_OPTION" = "Options des Shorts";
+"NAVIGATION_BAR" = "Barre de navigation";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Options supplémentaires de téléchargement";
-"TAB_BAR_OPTIONS" = "Options de la barre d'onglets";
+"TAB_BAR_OPTIONS" = "Barre d’onglets";
 "MISCELLANEOUS" = "Divers";
 
 /* Interrupteurs de la section générale */
@@ -435,7 +435,7 @@
 "invalid_input" = "Entrée invalide";
 "invalid_input_desc" = "Utilisez des formats comme : 20m, 1h, 1h 30m, 90";
 
-"gestures_control" = "Contrôle des gestes";
+"gestures_control" = "Gestes";
 "brightness" = "Luminosité";
 "left" = "Gauche";
 "right" = "Droite";

@@ -4,13 +4,13 @@
 
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Abilitazione Globale";
+"GLOB_ENABLED" = "Attiva";
 "GLOBAL_ENABLED_SWITCH" = "Tocca il pulsante in alto a destra per applicare le modifiche.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Abilita Funzione Download";
 "glob_overlay_button" = "Pulsanti visualizzati all'interno del player.";
-"overlay_button_disc" = "Download, senza pubblicità, riproduzione in background, ecc.";
+"overlay_button_disc" = "Download, riproduzione in background e altro.";
 "first_cleaner_disc" = "Tieni premuta l’icona dell’ingranaggio per 3 secondi per mostrare le opzioni di pulizia!";
 
 "fix_playback_issue" = "🔧 Correzione riproduzione e recupero account";
@@ -35,7 +35,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Controlli del Player & Toggle";
+"overlay_button" = "Controlli del lettore";
 "overlay_player" = "Player Sovrapposto";
 "speed_index" = "Velocità di Riproduzione";
 "default_speed_index" = "Velocità di Riproduzione Predefinita";
@@ -44,8 +44,8 @@
 "short_player" = "Player Shorts";
 "loop_toggle" = "Aggiungi Toggle Loop";
 
-"yt_video_quality_wifi" = "Qualità Video YouTube su Wi-Fi";
-"yt_video_quality_celluar" = "Qualità Video YouTube su Dati Mobili";
+"yt_video_quality_wifi" = "Qualità Wi-Fi";
+"yt_video_quality_celluar" = "Qualità rete mobile";
 "auto" = "Auto";
 "yt_speed_playback" = "Velocità di Riproduzione Predefinita";
 "normal" = "Normale";
@@ -129,13 +129,13 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Opzioni Video Player";
-"OVERLAY_OPTIONS" = "Opzioni Overlay";
-"STREAM_OPTIONS" = "Opzioni Streaming";
+"OVERLAY_OPTIONS" = "Overlay";
+"STREAM_OPTIONS" = "Streaming";
 "IPAD_OPTIONS" = "Opzioni iPad";
-"NAVIGATION_BAR" = "Opzioni Barra di Navigazione";
-"SHORTS_OPTION" = "Opzioni Shorts";
+"NAVIGATION_BAR" = "Barra di navigazione";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Opzioni Download Extra";
-"TAB_BAR_OPTIONS" = "Opzioni Tab Bar";
+"TAB_BAR_OPTIONS" = "Barra delle schede";
 "MISCELLANEOUS" = "Varie";
 
 /* general section switch */
@@ -433,7 +433,7 @@
 "invalid_input" = "Input non valido";
 "invalid_input_desc" = "Usa formati come: 20m, 1h, 1h 30m, 90";
 
-"gestures_control" = "Controllo Gesture";
+"gestures_control" = "Gesti";
 "brightness" = "Luminosità";
 "left" = "Sinistra";
 "right" = "Destra";

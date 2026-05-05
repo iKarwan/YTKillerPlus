@@ -3,13 +3,13 @@
 /* by ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "글로벌 활성화";
+"GLOB_ENABLED" = "활성화";
 "GLOBAL_ENABLED_SWITCH" = "오른쪽 상단 버튼을 눌러 변경사항을 적용하세요.";
 
 /* downloading global switch */
 "DOWNLOADING" = "다운로드 기능 활성화";
 "glob_overlay_button" = "플레이어 내부에 표시되는 버튼입니다.";
-"overlay_button_disc" = "다운로드, 광고 없음, 백그라운드 재생 등.";
+"overlay_button_disc" = "다운로드, 백그라운드 재생 등.";
 "first_cleaner_disc" = "정리 옵션을 표시하려면 톱니바퀴 아이콘을 3초간 길게 누르세요!";
 
 "fix_playback_issue" = "🔧 재생 문제 해결 및 계정 복구";
@@ -43,8 +43,8 @@
 "short_player" = "쇼츠 플레이어";
 "loop_toggle" = "반복 버튼 추가";
 
-"yt_video_quality_wifi" = "Wi-Fi에서 비디오 품질";
-"yt_video_quality_celluar" = "셀룰러에서 비디오 품질";
+"yt_video_quality_wifi" = "Wi-Fi 화질";
+"yt_video_quality_celluar" = "셀룰러 화질";
 "auto" = "자동";
 "yt_speed_playback" = "기본 재생 속도";
 "normal" = "보통";
@@ -128,14 +128,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "비디오 플레이어 옵션";
-"OVERLAY_OPTIONS" = "오버레이 옵션";
-"STREAM_OPTIONS" = "스트리밍 옵션";
+"OVERLAY_OPTIONS" = "오버레이";
+"STREAM_OPTIONS" = "스트리밍";
 "IPAD_OPTIONS" = "iPad 옵션";
-"NAVIGATION_BAR" = "탐색 바 옵션";
-"SHORTS_OPTION" = "쇼츠 옵션";
+"NAVIGATION_BAR" = "탐색 바";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "추가 다운로드 옵션";
-"TAB_BAR_OPTIONS" = "탭 바 옵션";
-"MISCELLANEOUS" = "일반";
+"TAB_BAR_OPTIONS" = "탭 바";
+"MISCELLANEOUS" = "기타";
 
 /* general section switch */
 "OLED_DARK_MODE" = "OLED 다크 모드";
@@ -431,7 +431,7 @@
 "invalid_input_desc" = "다음 형식을 사용하세요: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
-"gestures_control" = "제스처 컨트롤";
+"gestures_control" = "제스처";
 "brightness" = "밝기";
 "left" = "왼쪽";
 "right" = "오른쪽";

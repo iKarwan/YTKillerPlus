@@ -2,13 +2,13 @@
 /* by marcinmajsc */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Rozszerzenie aktywne";
+"GLOB_ENABLED" = "Włącz";
 "GLOBAL_ENABLED_SWITCH" = "Stuknij przycisk w prawym górnym rogu, aby zastosować zmiany.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Włącz funkcję pobierania";
 "glob_overlay_button" = "Przyciski pokazane w odtwarzaczu.";
-"overlay_button_disc" = "Pobieranie, brak reklam, odtwarzanie w tle itp.";
+"overlay_button_disc" = "Pobieranie, odtwarzanie w tle i więcej.";
 "first_cleaner_disc" = "Przytrzymaj ikonę koła zębatego przez 3 sekundy, aby wyświetlić opcje czyszczenia!";
 
 "fix_playback_issue" = "🔧 Napraw odtwarzanie i odzyskaj konto";
@@ -33,7 +33,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Ustawienia ogólne & ";
+"overlay_button" = "Sterowanie odtwarzaczem";
 "overlay_player" = "Ustawienia odtwarzacza";
 "speed_index" = "Prędkość odtwarzania";
 "default_speed_index" = "Domyślna prędkość odtwarzania";
@@ -42,8 +42,8 @@
 "short_player" = "Odtwarzacz Shorts";
 "loop_toggle" = "Dodaj przełącznik pętli";
 
-"yt_video_quality_wifi" = "Jakość wideo YT przez Wi‑Fi";
-"yt_video_quality_celluar" = "Jakość wideo YT w sieci komórkowej";
+"yt_video_quality_wifi" = "Jakość Wi-Fi";
+"yt_video_quality_celluar" = "Jakość danych komórkowych";
 "auto" = "Auto";
 "yt_speed_playback" = "Domyślna prędkość odtwarzania";
 "normal" = "Normalna";
@@ -127,13 +127,13 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Opcje odtwarzacza wideo";
-"OVERLAY_OPTIONS" = "Opcje odtwarzacza";
-"STREAM_OPTIONS" = "Opcje strumienia";
+"OVERLAY_OPTIONS" = "Nakładka";
+"STREAM_OPTIONS" = "Strumieniowanie";
 "IPAD_OPTIONS" = "Opcje iPada";
-"NAVIGATION_BAR" = "Opcje paska nawigacji";
-"SHORTS_OPTION" = "Opcje Shorts";
+"NAVIGATION_BAR" = "Pasek nawigacji";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Dodatkowe opcje pobierania";
-"TAB_BAR_OPTIONS" = "Opcje paska kart";
+"TAB_BAR_OPTIONS" = "Pasek kart";
 "MISCELLANEOUS" = "Różne";
 
 /* general section switch */
@@ -433,7 +433,7 @@
 "invalid_input" = "Nieprawidłowe dane";
 "invalid_input_desc" = "Użyj formatów: 20m, 1h, 1h 30m, 90";
 
-"gestures_control" = "Sterowanie gestami";
+"gestures_control" = "Gesty";
 "brightness" = "Jasność";
 "left" = "Lewo";
 "right" = "Prawo";

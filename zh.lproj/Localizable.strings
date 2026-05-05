@@ -3,13 +3,13 @@
 /* Simplified Chinese By Stalker(YaoDao) & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "全局启用";
+"GLOB_ENABLED" = "启用";
 "GLOBAL_ENABLED_SWITCH" = "点击右上角按钮以应用更改。";
 
 /* downloading global switch */
 "DOWNLOADING" = "启用下载功能";
 "glob_overlay_button" = "显示在播放器中的按钮。";
-"overlay_button_disc" = "下载、无广告、后台播放等功能。";
+"overlay_button_disc" = "下载、后台播放等。";
 "first_cleaner_disc" = "长按齿轮图标 3 秒即可显示清理选项！";
 
 "fix_playback_issue" = "🔧 修复播放问题与账号恢复";
@@ -43,8 +43,8 @@
 "short_player" = "Shorts 播放器";
 "loop_toggle" = "添加循环按钮";
 
-"yt_video_quality_wifi" = "Wi-Fi 下的视频画质";
-"yt_video_quality_celluar" = "移动网络下的视频画质";
+"yt_video_quality_wifi" = "Wi-Fi 画质";
+"yt_video_quality_celluar" = "蜂窝网络画质";
 "auto" = "自动";
 "yt_speed_playback" = "默认播放速度";
 "normal" = "正常";
@@ -128,14 +128,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "视频播放器设置";
-"OVERLAY_OPTIONS" = "界面叠加选项";
-"STREAM_OPTIONS" = "流媒体设置";
+"OVERLAY_OPTIONS" = "覆盖层";
+"STREAM_OPTIONS" = "流媒体";
 "IPAD_OPTIONS" = "iPad 设置";
-"NAVIGATION_BAR" = "导航栏设置";
-"SHORTS_OPTION" = "Shorts 设置";
+"NAVIGATION_BAR" = "导航栏";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "下载扩展选项";
-"TAB_BAR_OPTIONS" = "标签栏设置";
-"MISCELLANEOUS" = "其他";
+"TAB_BAR_OPTIONS" = "标签栏";
+"MISCELLANEOUS" = "杂项";
 
 /* general section switch */
 "OLED_DARK_MODE" = "OLED 深色模式";
@@ -432,7 +432,7 @@
 "invalid_input_desc" = "请使用格式：20m，1h，1h 30m，90";
 
 /* gestures */
-"gestures_control" = "手势控制";
+"gestures_control" = "手势";
 "brightness" = "亮度";
 "left" = "左侧";
 "right" = "右侧";

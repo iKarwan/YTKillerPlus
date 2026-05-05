@@ -2,13 +2,13 @@
 /* by iKarwan */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "چالاککردنی گشتی";
+"GLOB_ENABLED" = "چالاککردن";
 "GLOBAL_ENABLED_SWITCH" = "کرتە بکە لە گوشەی ڕاستی سەرەوە بۆ جێبەجێکردنی گۆڕانکاریەکان.";
 
 /* downloading global switch */
 "DOWNLOADING" = "چالاککردنی تایبەتمەندی دابەزاندن";
 "glob_overlay_button" = "دوگمەکان کە پیشان دەدرێن لە نێو پەخشەکەر.";
-"overlay_button_disc" = "داگرتن، بێ ڕیکلام، لێدانی پاشبنەما، هتد.";
+"overlay_button_disc" = "داگرتن، لێدان لە پاشبنەما، و زیاتر.";
 "first_cleaner_disc" = "بۆ 3 چرکە دەست بخەسە سەر نیشانی گێر بۆ پیشاندانی هەڵبژاردەکانی پاککردن!";
 
 "fix_playback_issue" = "🔧 چاککردنی کێشەکانی لێدان و گەڕاندنەوەی هەژمار";
@@ -33,7 +33,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "کۆنترۆڵی پەخشەکەر و گۆڕان";
+"overlay_button" = "کۆنترۆڵی پەخشکەر";
 "overlay_player" = "پەخشەکەری Overlay";
 "speed_index" = "خێرایی پەخش";
 "default_speed_index" = "خێرایی بنەڕەتی پەخش";
@@ -43,8 +43,8 @@
 "loop_toggle" = "زیادکردنی دووبارەکردنەوە";
 
 /* quality & playback */
-"yt_video_quality_wifi" = "کوالێتی ڤیدیۆ لە Wi-Fi";
-"yt_video_quality_celluar" = "کوالێتی ڤیدیۆ لە موبایل";
+"yt_video_quality_wifi" = "کوالێتی Wi-Fi";
+"yt_video_quality_celluar" = "کوالێتی داتای مۆبایل";
 "auto" = "خۆکار";
 "yt_speed_playback" = "خێرایی بنەڕەتی پەخش";
 "normal" = "ئاسایی";
@@ -129,14 +129,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "هەڵبژاردەکانی پەخشکەری ڤیدیۆ";
-"OVERLAY_OPTIONS" = "هەڵبژاردەکانی Overlay";
-"STREAM_OPTIONS" = "هەڵبژاردەکانی پەخش";
+"OVERLAY_OPTIONS" = "ئۆڤەرلەی";
+"STREAM_OPTIONS" = "پەخش";
 "IPAD_OPTIONS" = "هەڵبژاردەکانی iPad";
-"NAVIGATION_BAR" = "هەڵبژاردەکانی ڕێنیشاندەر";
-"SHORTS_OPTION" = "هەڵبژاردەکانی Shorts";
+"NAVIGATION_BAR" = "شریتی گەڕان";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "هەڵبژاردەکانی دابەزاندن";
-"TAB_BAR_OPTIONS" = "هەڵبژاردەکانی تاب";
-"MISCELLANEOUS" = "گشتی";
+"TAB_BAR_OPTIONS" = "شریتی تاب";
+"MISCELLANEOUS" = "جۆراوجۆر";
 
 /* switches */
 "OLED_DARK_MODE" = "شێوەی تاریکی OLED";
@@ -435,7 +435,7 @@
 "invalid_input_desc" = "شێوەکان وەک: 20m، 1h، 1h 30m، 90 بەکاربهێنە";
 
 /* gestures */
-"gestures_control" = "کۆنترۆڵی گەشتەکان";
+"gestures_control" = "ئاماژەکان";
 "brightness" = "ڕووناکی";
 "left" = "چەپ";
 "right" = "ڕاست";
