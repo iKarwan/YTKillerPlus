@@ -37,14 +37,14 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 <details>
 <summary><b>How to Sideload on non-jailbroken devices</b></summary>
-    
+
 ### Requirements
 1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
 
 
-### Sideloadly
+### AltStore
 * Download and install AltServer from [here](https://altstore.io).
 
     * You can copy and add this source to your source list in AltStore ..
@@ -75,5 +75,5 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### Donations
 > Donations are always appreciated to keep the project going!
-> 
+>
 > [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW) [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/ikghd)
