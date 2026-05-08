@@ -15,26 +15,36 @@
 ## Depiction Page
 [Click here to read more about YTKillerPlus](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)
 
+
 ## Download Links
 
-* **Jailbreak:** Add __[https://repo.ikghd.me](https://repo.ikghd.me)__ to your Cydia/Zebra/Sileo sources and download it from there.
-* **Sideloading || TrollStore (No Jailbreak):**
+<details>
+<summary><b>🔒 Jailbreak</b></summary>
 
-    1. Download IPA file from here and follow the instructions below to sign and install the app from your computer for one week
-        | Application | Bundle | Version | YTKillerPlus | File Type |
-        | ------------------ |:---------:|:------:|:------:|:------:|
-        | [YouTube](https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.1.ipa) | com.google.ios.youtube | 21.18 | 5.3.1 | IPA |
-        | [TrollStore](https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.1_TrollStore.tipa) | com.google.ios.youtube | 21.18 | 5.3.1 | tipa |
+Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download from there.
 
+</details>
 
-## How to Sideload on non-jailbroken devices
-### Requirementsz
+<details>
+<summary><b>📦 Sideloading / TrollStore (No Jailbreak)</b></summary>
+
+| Application | Bundle | Version | YTKillerPlus | File Type |
+|---|---|---|---|---|
+| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.1.ipa) | com.google.ios.youtube | 21.18 | 5.3.1 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.1_TrollStore.tipa) | com.google.ios.youtube | 21.18 | 5.3.1 | tipa |
+
+</details>
+
+<details>
+<summary><b>How to Sideload on non-jailbroken devices</b></summary>
+    
+### Requirements
 1. A computer running macOS or Windows
 2. Internet connection
 3. Apple ID (email & password)
 
 
-### AltStore
+### Sideloadly
 * Download and install AltServer from [here](https://altstore.io).
 
     * You can copy and add this source to your source list in AltStore ..
@@ -61,6 +71,7 @@
 ### Telegram Channel
 * You can always download the IPA from our Telegram channel using the link [here](https://t.me/ikgipa).
 
+</details>
 
 ### Donations
 * Donations are always appreciated to keep the project going!
