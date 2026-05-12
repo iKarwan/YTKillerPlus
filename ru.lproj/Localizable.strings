@@ -3,13 +3,13 @@
 /* Russian by dayanch96 & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Глобальное включение";
+"GLOB_ENABLED" = "Включить";
 "GLOBAL_ENABLED_SWITCH" = "Нажмите в правом верхнем углу, чтобы применить изменения.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Включить загрузку";
 "glob_overlay_button" = "Кнопки, отображаемые в плеере.";
-"overlay_button_disc" = "Загрузка, без рекламы, фоновое воспроизведение и т.д.";
+"overlay_button_disc" = "Загрузки, фоновое воспроизведение и другое.";
 "first_cleaner_disc" = "Нажмите и удерживайте значок шестерёнки 3 секунды, чтобы открыть параметры очистки!";
 
 "fix_playback_issue" = "🔧 Исправление воспроизведения и восстановление аккаунта";
@@ -43,8 +43,8 @@
 "short_player" = "Плеер Shorts";
 "loop_toggle" = "Добавить повтор";
 
-"yt_video_quality_wifi" = "Качество видео по Wi-Fi";
-"yt_video_quality_celluar" = "Качество видео по мобильной сети";
+"yt_video_quality_wifi" = "Качество Wi-Fi";
+"yt_video_quality_celluar" = "Качество мобильной сети";
 "auto" = "Авто";
 "yt_speed_playback" = "Скорость по умолчанию";
 "normal" = "Обычная";
@@ -128,14 +128,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Настройки видео";
-"OVERLAY_OPTIONS" = "Настройки оверлея";
-"STREAM_OPTIONS" = "Настройки стриминга";
+"OVERLAY_OPTIONS" = "Оверлей";
+"STREAM_OPTIONS" = "Поток";
 "IPAD_OPTIONS" = "Опции iPad";
 "NAVIGATION_BAR" = "Панель навигации";
-"SHORTS_OPTION" = "Настройки Shorts";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Доп. параметры загрузки";
 "TAB_BAR_OPTIONS" = "Панель вкладок";
-"MISCELLANEOUS" = "Общее";
+"MISCELLANEOUS" = "Разное";
 
 /* general section switch */
 "OLED_DARK_MODE" = "OLED-темная тема";
@@ -431,7 +431,7 @@
 "invalid_input_desc" = "Используйте форматы: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
-"gestures_control" = "Жесты управления";
+"gestures_control" = "Жесты";
 "brightness" = "Яркость";
 "left" = "Лево";
 "right" = "Право";

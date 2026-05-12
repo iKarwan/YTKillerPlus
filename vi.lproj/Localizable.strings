@@ -3,13 +3,13 @@
 /* vietnamese bởi Minh Quâb Hûa & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Bật Toàn Cục";
+"GLOB_ENABLED" = "Bật";
 "GLOBAL_ENABLED_SWITCH" = "Nhấn nút ở góc phải trên để áp dụng thay đổi.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Bật Tính Năng Tải Xuống";
 "glob_overlay_button" = "Các nút hiển thị trong trình phát.";
-"overlay_button_disc" = "Tải xuống, không quảng cáo, phát nền, v.v.";
+"overlay_button_disc" = "Tải xuống, phát nền và hơn thế nữa.";
 "first_cleaner_disc" = "Nhấn giữ biểu tượng bánh răng trong 3 giây để hiển thị các tùy chọn dọn dẹp!";
 
 "fix_playback_issue" = "🔧 Sửa lỗi phát và khôi phục tài khoản";
@@ -34,7 +34,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Nút điều khiển trình phát";
+"overlay_button" = "Điều khiển trình phát";
 "overlay_player" = "Trình Phát Nổi";
 "speed_index" = "Tốc Độ Phát";
 "default_speed_index" = "Tốc Độ Mặc Định";
@@ -43,8 +43,8 @@
 "short_player" = "Trình Phát Shorts";
 "loop_toggle" = "Thêm nút lặp lại";
 
-"yt_video_quality_wifi" = "Chất lượng video khi dùng Wi-Fi";
-"yt_video_quality_celluar" = "Chất lượng video khi dùng dữ liệu di động";
+"yt_video_quality_wifi" = "Chất lượng Wi-Fi";
+"yt_video_quality_celluar" = "Chất lượng dữ liệu di động";
 "auto" = "Tự động";
 "yt_speed_playback" = "Tốc độ phát mặc định";
 "normal" = "Bình thường";
@@ -128,13 +128,13 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Tùy chọn Trình phát Video";
-"OVERLAY_OPTIONS" = "Tùy chọn Giao diện Nổi";
-"STREAM_OPTIONS" = "Tùy chọn Phát Trực Tuyến";
+"OVERLAY_OPTIONS" = "Lớp phủ";
+"STREAM_OPTIONS" = "Phát trực tuyến";
 "IPAD_OPTIONS" = "Tùy chọn iPad";
-"NAVIGATION_BAR" = "Thanh Điều Hướng";
-"SHORTS_OPTION" = "Tùy chọn Shorts";
+"NAVIGATION_BAR" = "Thanh điều hướng";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Tùy chọn Tải Xuống Bổ Sung";
-"TAB_BAR_OPTIONS" = "Tùy chọn Thanh Tab";
+"TAB_BAR_OPTIONS" = "Thanh tab";
 "MISCELLANEOUS" = "Khác";
 
 /* general section switch */
@@ -432,7 +432,7 @@
 "invalid_input_desc" = "Sử dụng định dạng như: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
-"gestures_control" = "Điều khiển cử chỉ";
+"gestures_control" = "Cử chỉ";
 "brightness" = "Độ sáng";
 "left" = "Trái";
 "right" = "Phải";

@@ -2,13 +2,13 @@
 /* by iKarwan */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "تفعيل عام";
+"GLOB_ENABLED" = "تفعيل";
 "GLOBAL_ENABLED_SWITCH" = "اضغط على الزر بالأعلى لتطبيق التغييرات.";
 
 /* downloading global switch */
 "DOWNLOADING" = "تفعيل ميزة التحميل";
 "glob_overlay_button" = "الأزرار التي تظهر داخل المشغل.";
-"overlay_button_disc" = "التنزيل، بدون إعلانات، تشغيل في الخلفية، وغيرها.";
+"overlay_button_disc" = "التنزيلات، التشغيل في الخلفية، والمزيد.";
 "first_cleaner_disc" = "اضغط مطولاً على أيقونة الترس لمدة 3 ثوانٍ لعرض خيارات التنظيف!";
 
 "fix_playback_issue" = "🔧 إصلاح مشاكل التشغيل واستعادة الحساب";
@@ -33,7 +33,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "أزرار التحكم بالمشغل";
+"overlay_button" = "عناصر تحكم المشغل";
 "overlay_player" = "مشغل مدمج";
 "speed_index" = "سرعة التشغيل";
 "default_speed_index" = "السرعة الافتراضية";
@@ -42,8 +42,8 @@
 "short_player" = "مشغل الشورتس";
 "loop_toggle" = "زر التكرار";
 
-"yt_video_quality_wifi" = "جودة الفيديو عبر Wi-Fi";
-"yt_video_quality_celluar" = "جودة الفيديو عبر البيانات";
+"yt_video_quality_wifi" = "جودة الواي فاي";
+"yt_video_quality_celluar" = "جودة البيانات الخلوية";
 "auto" = "تلقائي";
 "yt_speed_playback" = "السرعة الافتراضية";
 "normal" = "عادي";
@@ -127,14 +127,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "خيارات مشغل الفيديو";
-"OVERLAY_OPTIONS" = "خيارات المشغل المدمج";
-"STREAM_OPTIONS" = "خيارات البث";
+"OVERLAY_OPTIONS" = "التراكب";
+"STREAM_OPTIONS" = "البث";
 "IPAD_OPTIONS" = "خيارات iPad";
 "NAVIGATION_BAR" = "شريط التنقل";
-"SHORTS_OPTION" = "خيارات الشورتس";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "خيارات التحميل الإضافية";
-"TAB_BAR_OPTIONS" = "خيارات شريط التبويب";
-"MISCELLANEOUS" = "عام";
+"TAB_BAR_OPTIONS" = "شريط التبويبات";
+"MISCELLANEOUS" = "متفرقات";
 
 /* general section switch */
 "OLED_DARK_MODE" = "وضع داكن OLED";
@@ -430,7 +430,7 @@
 "invalid_input_desc" = "استخدم صيغ مثل: 20د، 1س، 1س 30د، 90";
 
 /* gestures */
-"gestures_control" = "تحكم الإيماءات";
+"gestures_control" = "الإيماءات";
 "brightness" = "السطوع";
 "left" = "يسار";
 "right" = "يمين";

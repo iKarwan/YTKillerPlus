@@ -6,13 +6,13 @@
 /* NOTE 2 !!! After translation, please add your country code like en - ar - zh etc... */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Global Enabled";
+"GLOB_ENABLED" = "Enable";
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloading global switch */
 "DOWNLOADING" = "Enable Download Feature";
 "glob_overlay_button" = "Buttons shown inside the player.";
-"overlay_button_disc" = "Downloading, no ad, background play, etc.";
+"overlay_button_disc" = "Downloads, background play, and more.";
 "first_cleaner_disc" = "Long press on the gear icon for 3 second to show cleaning options!";
 
 "fix_playback_issue" = "🔧 Fix Playback & Account Recovery";
@@ -37,7 +37,7 @@
 "YTKPlus" = "YTKPlus";
 
 /* defaults */
-"overlay_button" = "Player Controls & Toggle";
+"overlay_button" = "Player Controls";
 "overlay_player" = "Overlay Player";
 "speed_index" = "Playback Speed";
 "default_speed_index" = "Default Playback Speed";
@@ -46,8 +46,8 @@
 "short_player" = "Shorts Player";
 "loop_toggle" = "Add Loop Toggle";
 
-"yt_video_quality_wifi" = "YT Video Quality on Wi-Fi";
-"yt_video_quality_celluar" = "YT Video Quality on Cellular";
+"yt_video_quality_wifi" = "Wi-Fi Quality";
+"yt_video_quality_celluar" = "Cellular Quality";
 "auto" = "Auto";
 "yt_speed_playback" = "Default Playback Speed";
 "normal" = "Normal";
@@ -131,13 +131,13 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Video Player Options";
-"OVERLAY_OPTIONS" = "Overlay Options";
-"STREAM_OPTIONS" = "Stream Options";
+"OVERLAY_OPTIONS" = "Overlay";
+"STREAM_OPTIONS" = "Streaming";
 "IPAD_OPTIONS" = "iPad Options";
-"NAVIGATION_BAR" = "Navigation Bar Options";
-"SHORTS_OPTION" = "Shorts Options";
+"NAVIGATION_BAR" = "Navigation Bar";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Extra Download Options";
-"TAB_BAR_OPTIONS" = "Tab Bar Options";
+"TAB_BAR_OPTIONS" = "Tab Bar";
 "MISCELLANEOUS" = "Miscellaneous";
 
 /* general section switch */
@@ -370,8 +370,8 @@
 
 "video_saved" = "✓ Video Saved - %@";
 "video_downloaded" = "🎬 ✓ Video Downloaded: %@";
-"m4a_smaller" = "🎵 M4A (AAC Audio • Smaller)";
-"mp3_larger" = "🎵 MP3 (Universal • Larger";
+"m4a_smaller" = "M4A (AAC Audio • Smaller)";
+"mp3_larger" = "MP3 (Universal • Larger";
 "audio_saved" = "✓ Audio %@ Saved as %@";
 "audio_downloaded" = "🎵 ✓ Audio Downloaded (%@)";
 "shorts_downloaded" = "🎬 ✓ Shorts Downloaded";
@@ -436,7 +436,7 @@
 "invalid_input" = "Invalid Input";
 "invalid_input_desc" = "Use formats like: 20m, 1h, 1h 30m, 90";
 
-"gestures_control" = "Gestures Control";
+"gestures_control" = "Gestures";
 "brightness" = "Brightness";
 "left" = "Left";
 "right" = "Right";

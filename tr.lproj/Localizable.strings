@@ -3,13 +3,13 @@
 /* Turkish by Orhan ASLAN & ChatGPT */
 
 /* YTKillerPlus global switch */
-"GLOB_ENABLED" = "Genel Etkinleştirme";
+"GLOB_ENABLED" = "Etkinleştir";
 "GLOBAL_ENABLED_SWITCH" = "Değişiklikleri uygulamak için sağ üstteki düğmeye dokunun.";
 
 /* downloading global switch */
 "DOWNLOADING" = "İndirme Özelliğini Etkinleştir";
 "glob_overlay_button" = "Oynatıcı içindeki görünür düğmeler.";
-"overlay_button_disc" = "İndirme, reklamsız, arka planda oynatma vb.";
+"overlay_button_disc" = "İndirmeler, arka planda oynatma ve daha fazlası.";
 "first_cleaner_disc" = "Temizleme seçeneklerini görmek için dişli simgesine 3 saniye basılı tutun!";
 
 "fix_playback_issue" = "🔧 Oynatma sorunlarını düzelt ve hesap kurtarma";
@@ -43,8 +43,8 @@
 "short_player" = "Shorts Oynatıcı";
 "loop_toggle" = "Döngü Düğmesi Ekle";
 
-"yt_video_quality_wifi" = "Wi-Fi Üzerinden Video Kalitesi";
-"yt_video_quality_celluar" = "Mobil Veri Üzerinden Video Kalitesi";
+"yt_video_quality_wifi" = "Wi-Fi Kalitesi";
+"yt_video_quality_celluar" = "Hücresel Veri Kalitesi";
 "auto" = "Otomatik";
 "yt_speed_playback" = "Varsayılan Oynatma Hızı";
 "normal" = "Normal";
@@ -128,14 +128,14 @@
 
 /* general section */
 "VIDEO_PLAYER" = "Video Oynatıcı Seçenekleri";
-"OVERLAY_OPTIONS" = "Katman Seçenekleri";
-"STREAM_OPTIONS" = "Yayın Seçenekleri";
+"OVERLAY_OPTIONS" = "Kaplama";
+"STREAM_OPTIONS" = "Akış";
 "IPAD_OPTIONS" = "iPad Seçenekleri";
-"NAVIGATION_BAR" = "Gezinme Çubuğu Seçenekleri";
-"SHORTS_OPTION" = "Shorts Seçenekleri";
+"NAVIGATION_BAR" = "Gezinme Çubuğu";
+"SHORTS_OPTION" = "Shorts";
 "DOWNLOAD_OPTIONS" = "Ek İndirme Seçenekleri";
-"TAB_BAR_OPTIONS" = "Sekme Çubuğu Seçenekleri";
-"MISCELLANEOUS" = "Genel";
+"TAB_BAR_OPTIONS" = "Sekme Çubuğu";
+"MISCELLANEOUS" = "Çeşitli";
 
 /* general section switch */
 "OLED_DARK_MODE" = "OLED Karanlık Modu";
@@ -431,7 +431,7 @@
 "invalid_input_desc" = "Şu formatları kullanın: 20m, 1h, 1h 30m, 90";
 
 /* gestures */
-"gestures_control" = "Hareket Kontrolü";
+"gestures_control" = "Hareketler";
 "brightness" = "Parlaklık";
 "left" = "Sol";
 "right" = "Sağ";
