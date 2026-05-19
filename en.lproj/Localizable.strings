@@ -532,7 +532,7 @@
 "license_option_disc" = "Choose an option:";
 "activate_new_license" = "Activate New License";
 "restore_license" = "Restore License";
-"renew_license" = "Renew License";
+"renew_license" = "Buy Subscription";
 "buy_license" = "Buy License";
 "activate_new_license_disc" = "Enter your email and license key.";
 "email" = "Email";

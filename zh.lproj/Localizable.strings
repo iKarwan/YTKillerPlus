@@ -527,7 +527,7 @@
 "license_option_disc" = "请选择一个操作：";
 "activate_new_license" = "激活新许可";
 "restore_license" = "恢复许可";
-"renew_license" = "续订许可";
+"renew_license" = "购买订阅";
 "buy_license" = "购买许可";
 "activate_new_license_disc" = "请输入您的邮箱和许可密钥。";
 "email" = "邮箱";

@@ -524,8 +524,8 @@
 "license_option" = "خيارات الترخيص";
 "license_option_disc" = "اختر خياراً:";
 "activate_new_license" = "تفعيل ترخيص جديد";
+"renew_license" = "شراء اشتراك";
 "restore_license" = "استعادة الترخيص";
-"renew_license" = "تجديد الترخيص";
 "buy_license" = "شراء الترخيص";
 "activate_new_license_disc" = "أدخل بريدك الإلكتروني ومفتاح الترخيص.";
 "email" = "البريد الإلكتروني";
