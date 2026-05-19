@@ -1,0 +1,576 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "啟用全域功能";
+"GLOBAL_ENABLED_SWITCH" = "點擊右上角按鈕以套用變更。";
+
+/* downloading global switch */
+"DOWNLOADING" = "啟用下載功能";
+"glob_overlay_button" = "在播放器內顯示按鈕";
+"overlay_button_disc" = "包含下載、無廣告、背景播放等功能。";
+"first_cleaner_disc" = "長按設定（齒輪）圖示 3 秒以顯示清理選項！";
+
+"fix_playback_issue" = "🔧 修復播放與帳號恢復";
+"fix_playback_issue_disc" = "🎯 修復側載版 App 出現的「發生錯誤」與影片中斷問題。";
+"fix_playback_issue_disc_footer" = "✅ 經多個帳號測試 — 開啟此功能數日後，帳號皆可恢復正常播放狀態。\n\n📍 最佳做法：\n• 開啟 YouTube 的定位服務\n• 請勿使用 VPN\n\n這對恢復帳號狀態至關重要。\n\n⚠️ 開啟此功能將停用下載...\n\n⚠️ 僅在遇到播放問題時開啟。若播放正常，請保持關閉。";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "下載管理員";
+"VIDEO_TAB_BAR" = "影片";
+"AUDIO_TAB_BAR" = "音訊";
+"SHORTS_TAB_BAR" = "Shorts";
+
+/* Startup page section */
+"STARTUP_PAGE" = "預設啟動頁面";
+"DEFAULT_PAGE" = "首頁";
+
+"HOME" = "首頁";
+"EXPLORE" = "探索";
+"SHORTS" = "Shorts";
+"SUBSCRIPTIONS" = "訂閱內容";
+"LIBRARY" = "媒體庫";
+"YTKPlus" = "YTKPlus";
+
+/* defaults */
+"overlay_button" = "播放控制與切換";
+"overlay_player" = "覆蓋層播放器";
+"speed_index" = "播放速度";
+"default_speed_index" = "預設播放速度";
+"default_speed_index_disc" = "保持選定的速度，不與控制介面衝突。";
+"pip_player" = "使用子母畫面播放";
+"short_player" = "Shorts 播放器";
+"loop_toggle" = "新增循環播放開關";
+
+"yt_video_quality_wifi" = "Wi-Fi 影片畫質";
+"yt_video_quality_celluar" = "行動網路影片畫質";
+"auto" = "自動";
+"yt_speed_playback" = "預設播放速度";
+"normal" = "標準";
+"default" = "預設";
+
+"image" = "儲存圖片";
+"information" = "複製資訊";
+"copy_title" = "複製標題";
+"copy_describtion" = "複製說明內容";
+"copied" = "已複製到剪貼簿";
+
+"save_pfP" = "儲存個人頭像";
+"copy_ptext" = "複製貼文文字";
+"save_img" = "儲存圖片";
+"copy_comment" = "複製留言";
+"pip_mode" = "使用外部播放器播放";
+"ios_system_player" = "iOS 系統播放器";
+"infuse_player" = "Infuse 播放器";
+"vlc_player" = "VLC 播放器";
+"infuse_not_installed" = "尚未安裝 Infuse";
+"vlc_not_installed" = "尚未安裝 VLC";
+"pip_mode_desc" = "請在設定中啟用「背景播放」以使用子母畫面。";
+"mini_player2" = "迷你播放器";
+"floating_mini_player" = "懸浮迷你播放器";
+
+/* backup and restore */
+"backup_and_restore" = "備份與還原";
+"cretae_a_backup" = "建立備份";
+"create_a_backup_disc" = "將所有下載的影片與音訊匯出至「檔案」App。";
+"restore_backup" = "還原備份";
+"restore_backup_disc" = "直接從「檔案」App 還原備份。";
+"backup_prepared" = "正在準備備份...";
+"create_failed" = "備份失敗";
+"failed_create_disc" = "無法建立備份，請稍後再試。";
+"restoring_backup" = "正在還原備份...";
+"restore_complete" = "還原完成";
+"restore_complete_disc" = "YTKPlus 備份已還原成功。";
+"restore_failed_disc" = "還原備份失敗，請稍後再試。";
+"restore_failed" = "還原失敗";
+"restore_backup_confirm" = "還原";
+"create" = "建立";
+"create_backup" = "是否要建立備份？";
+"restore_backup_confirm_disc" = "是否要還原 YTKPlus_Backup.zip？\n此動作無法復原！";
+"invalid_backup_file" = "無效的備份檔案";
+"invalid_backup_file_disc" = "請選擇 YTKPlus_Backup.zip 檔案。";
+"Backup_saved" = "備份已成功儲存至「檔案」App。";
+"Backup_not_saved" = "警告：備份未儲存至「檔案」App。";
+
+/* import Media */
+"import_media" = "匯入媒體";
+"import_media_disc" = "將影片或音訊匯入 YTKPlus。可從「檔案」選取多個檔案，包含縮圖或封面。";
+"choose_media_type" = "選擇要匯入的媒體類型";
+"successfully_imported_files" = "成功匯入檔案：%@";
+"failed_to_import_files" = "匯入檔案失敗：%@";
+"import_result" = "匯入結果";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock ";
+"SB_BEHAVIOR" = "處理方式";
+"SB_SKIP" = "自動跳過";
+"SB_ASK" = "詢問";
+"sub_value" = "提示顯示時間：%.lf 秒";
+/* popup */
+"UNSKIP" = "取消跳過";
+"SKIP" = "跳過";
+"SEGMENT_SKIPPED" = "已跳過工商內容";
+"FOUND_SEGMENT" = "偵測到工商內容";
+"AudioNotificationOnSkip" = "跳過時播放音效通知";
+
+/* shorts section */
+"short_fullscreen" = "全螢幕";
+"short_auto_skip" = "自動跳過 Shorts";
+"USE_PREM_LOGO" = "使用 Premium 圖誌";
+"cast_confirm" = "投放確認";
+"video_available" = "部影片可用";
+"videos_available" = "部影片可用";
+"audio_available" = "個音訊可用";
+"audios_available" = "個音訊可用";
+"short_available" = "部 Shorts 可用";
+"shorts_available" = "部 Shorts 可用";
+
+/* general section */
+"VIDEO_PLAYER" = "影片播放器選項";
+"OVERLAY_OPTIONS" = "控制層選項";
+"STREAM_OPTIONS" = "串流選項";
+"IPAD_OPTIONS" = "iPad 選項";
+"NAVIGATION_BAR" = "導覽列選項";
+"SHORTS_OPTION" = "Shorts 選項";
+"DOWNLOAD_OPTIONS" = "額外下載選項";
+"TAB_BAR_OPTIONS" = "分頁標籤列選項";
+"MISCELLANEOUS" = "其他設定";
+
+/* general section switch */
+"OLED_DARK_MODE" = "OLED 深色模式 (純黑)";
+"PLAY_IN_BACKGROUND" = "背景播放";
+"NO_ADVERTISMENT" = "移除廣告";
+"NO_AGE_RESTRICTION" = "繞過年齡限制";
+"HIDE_YT_SHORTS" = "從首頁動態隱藏 Shorts";
+"DISABLE_CAPTIONS" = "停用字幕";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "影片播放器";
+"HIDE_SUGGESTED_VIDEO" = "隱藏推薦影片";
+"COMMENTS" = "留言";
+"HIDE_COMMENTS" = "隱藏留言區";
+"HIDE_COMMENTS_PREVIEW" = "隱藏留言預覽";
+"HIDE_COMMENTS_PREVIEW_INFO" = "移除可能包含劇透的留言。";
+"HIDE_COMMENTS_GUIDLINES" = "隱藏留言規範";
+"HIDE_COMMUNITY_TEXT_INFO" = "隱藏頂部的社群文字。";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "播放介面";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "在播放介面顯示狀態列";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "不支援瀏海機型或 iPad 樣式。";
+"DISABLE_DOUBLE_TAP" = "停用點兩下快進/快退";
+"DISABLE_CONTINUE_WATCHING" = "停用「繼續觀看」";
+"DISABLE_CONTINUE_WATCHING_INFO" = "觀看長影片時不再跳出詢問提示。";
+"HIDE_OVERLAY_QUICK_ACTION" = "隱藏快速操作";
+"HIDE_PLAYERBAR_WAVE" = "隱藏時間軸熱度波形";
+"HIDE_PLAYERBAR_WAVE_INFO" = "隱藏時間軸上的重播次數熱度圖。";
+"SWIPE_TO_HIDE_PANEL" = "滑動隱藏面板";
+"SWIPE_TO_HIDE_PANEL_INFO" = "在全螢幕面板上，從左向右滑動即可隱藏。";
+"DISABLE_PINCH_TO_ZOOM" = "停用兩指縮放全螢幕";
+"MEDIA_CONTROLLER" = "播放控制器";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "恆顯播放/暫停按鈕";
+"SHOW_MEDIA_CONTROLLER" = "恆顯所有控制按鈕";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "隱藏控制層深色背景";
+"KEEP_CAPTION_ON" = "保持開啟字幕";
+"KEEP_CAPTION_ON_INFO" = "播放時自動啟用字幕。";
+"PREVIUOS_AND_NEXT_BUTTON" = "上一部/下一部影片按鈕";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "停用上一部/下一部影片";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "緊湊型上一部/下一部按鈕";
+"PLAYER_BAR_NEXT_BUTTON" = "在時間戳旁新增下一部按鈕";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "隱藏上一部/下一部影片";
+"HIDE_BACK_BUTTON_SHADOW" = "隱藏按鈕陰影";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "替換為快進/快退";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "將按鈕更換為快速前進與後退。";
+"HIDE_ITEMS" = "隱藏項目";
+"HIDE_VOLUME_BAR" = "隱藏音量條";
+"HIDE_VOLUME_BAR_INFO" = "隱藏橫向模式時的白色音量條。";
+"HIDE_INFO_CARD" = "隱藏資訊卡";
+"HIDE_WATER_MARK" = "隱藏浮水印";
+"HIDE_AUTOPLAY_BUTTON" = "隱藏自動播放開關";
+"HIDE_CAPTIONS_BUTTON" = "隱藏字幕按鈕";
+"HIDE_PLAY_PUASE" = "隱藏播放/暫停";
+"HIDE_MORE_GEAR_ICON" = "隱藏更多/齒輪圖示";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "隱藏直播聊天室按鈕";
+"HIDE_CAST_BUTTON" = "隱藏投放按鈕";
+"HIDE_ENDSCREEN_VIDEOS" = "隱藏片尾推薦影片";
+"HIDE_RELATED_VIDEOS" = "隱藏相關影片";
+"HIDE_LANDSCAPE_COMMENTS" = "停用橫向留言區";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "在橫向模式下完全關閉留言區。";
+"SHOW_PROGRESS_BAR" = "保持進度條顯示";
+"SHOW_PROGRESS_BAR_INFO" = "停用向上滑動查看相關影片的功能。";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "啟用舊版畫質選單";
+"LEGACY_QUALITY_MODE_INFO" = "恢復舊式的畫質選擇界面。";
+"PICTURE_IN_PICTURE_PIP" = "子母畫面 (PiP)";
+"ENABLE_PIP" = "啟用子母畫面";
+"ENABLE_PIP_INFO" = "在控制層加入子母畫面圖示。";
+"DOUBLE_TAP" = "點兩下選項";
+"CUSTOM_SKIP_DURATION" = "自訂快進/快退秒數";
+"VALUE_CHANGES_JB" = "秒數：%.lf";
+"VALUE_CHANGES" = "秒數：10";
+"STREAMING_SECTION" = "串流";
+"PLAYBACK_SPEED" = "額外播放速度";
+"PLAYBACK_SPEED_INFO" = "控制層 → 齒輪 → 播放速度";
+"DISABLE_AUTOPLAY_VIDEOS" = "停用自動播放影片";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "行動網路 HD 播放";
+
+/* iPad section */
+"IPAD_SECION" = "iPad 模式";
+"IPADOS_MODE" = "啟用 iPadOS 模式";
+"DISABLE_DRAG_AND_DROP" = "停用拖放功能";
+"HIDE_CHANNEL_CIRCLES" = "隱藏頻道圓形圖示";
+"HIDE_CHANNEL_CIRCLES_INFO" = "隱藏訂閱內容導覽列下方的頻道圖示。";
+"MINI_PLAYER_ASPECT_RATIO" = "縮小播放器比例";
+"USE_ASPECT_RATIO" = "使用完整比例";
+"USE_ASPECT_RATIO_INFO" = "不支援 iPad 樣式的縮小播放器。";
+"MINI_PLAYER" = "iPad 樣式縮小播放器";
+"REDEFIND_MINI_PLAYER" = "縮小播放器置中";
+"MINI_PLAYER_IPAD_MODE" = "縮小播放器靠右";
+
+/* navbar section */
+"STATUS_BAR" = "狀態列";
+"HIDE_STATUS_BAR" = "隱藏狀態列";
+"CHANNEL_SECTIONS" = "頻道區段";
+"STICKY_NAV_BAR" = "固定導覽列";
+"SHOW_YTKPLUS_ICON" = "顯示 YTKPlus 圖示";
+"HIDE_ITEMS_NAV_BAR" = "隱藏項目";
+"SHOW_YTKPlus_Icon" = "顯示 YTKPlus 圖示";
+"HIDE_YT_LOGO" = "隱藏 YouTube 標誌";
+"HIDE_NOTIFICATIONS_BILL" = "隱藏通知鈴鐺";
+"HIDE_ACCOUNT" = "隱藏帳戶";
+"HIDE_SEARCH" = "隱藏搜尋";
+"HIDE_CAST_BUTTON" = "隱藏投放按鈕";
+
+/* shorts section */
+"SHORTS_SECTION" = "Shorts";
+"ENABLE_PLAYER_BAR" = "啟用底部進度條";
+"HIDE_ELEMNTS" = "隱藏元素";
+"HIDE_PAUSE_CARD" = "隱藏暫停資訊卡";
+"HIDE_LIKE_BUTTON" = "隱藏喜歡按鈕";
+"HIDE_DISLIKE_BUTTON" = "隱藏不喜歡按鈕";
+"HIDE_COMMENTS_BUTTON" = "隱藏留言按鈕";
+"HIDE_SHARE_BUTTON" = "隱藏分享按鈕";
+"HIDE_REMIX_BUTTON" = "隱藏 Remix 按鈕";
+"HIDE_AVATAR_BUTTON" = "隱藏頭像按鈕";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "額外下載選項";
+"LOCAL_DOWNLOADING" = "啟用本地下載";
+"LOCAL_DOWNLOADING_INFO" = "長按影片以開啟下載選單。";
+"HIDE_DOWNLOAD_BUTTON" = "隱藏下載按鈕";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "隱藏 YouTube 原生的下載按鈕。";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "取消下載影片過期限制";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "適用於 YouTube 原生功能下載的影片。";
+"DOWNLOAD_SECTION_INFO" = "註：若出現相同畫質請選上方的一個。本地下載會儲存至照片。長按快進手勢將停用。開啟 4K 會停用此項。";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "分頁標籤列";
+"TABS_SHRINKED_BUTTOM" = "縮小標籤 (底部)";
+"TABS_SHRINKED_SMART" = "縮小標籤 (智慧)";
+"DISABLE_CREATE_BUTTON" = "停用建立按鈕 (+)";
+"HIDE_TAB_LABELS" = "隱藏標籤文字";
+"PREVENT_OPEN_IN_SHORTS" = "防止啟動進入 Shorts";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "修正關閉 App 時停在 Shorts 分頁，下次啟動仍會進入 Shorts 的問題。";
+"REPLACE_SHORTS_WITH_EXPLORE" = "將 Shorts 替換為探索";
+"HIDE_TABS" = "隱藏分頁標籤";
+"HIDE_EXPLORE_TAB" = "隱藏探索";
+"HIDE_SHORTS_TAB" = "隱藏 Shorts";
+"HIDE_CREATE_TAB" = "隱藏建立";
+"HIDE_SUBSCRIPTION_TAB" = "隱藏訂閱內容";
+"HIDE_LIBRARY_TAB" = "隱藏媒體庫";
+"HIDE_ALL_TAB" = "隱藏所有標籤";
+"MAIN_TAB" = "主要";
+"ACTIVE_TABS" = "啟用中標籤";
+"INACTIVE_TABS" = "已停用標籤";
+"CANT_REMOVE" = "無法移除";
+"CANT_REMOVE_DESC" = "必須保留至少一個標籤。";
+"INACTIVE_TABS_TXT" = "%@ (停用)";
+"TABS_INACTIVE" = "標籤已停用";
+"TABS_INACTIVE_DESC" = "「%@」目前為停用狀態，請先將其加入啟用標籤。";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "其他項目";
+"USE_STOCK_VOLUME_HUD" = "使用系統音量條";
+"USE_STOCK_VOLUME_HUD_INFO" = "僅在橫向模式下生效。";
+"HIDE_SEARCHED_HISTORY" = "隱藏搜尋紀錄";
+"NOT_TOPIC_SECTION" = "隱藏主題區段";
+"HIDE_PREMIUM_POPUP" = "隱藏 Premium 彈窗";
+"HIDE_YT_UPDATE_POPUP" = "隱藏更新彈窗";
+"HIDE_YT_UPDATE_POPUP_INFO" = "移除強制更新提示。";
+"ENABLE_MINI_PLAYER_VIDEOS" = "對所有影片啟用縮小播放";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "即使是兒童影片也能縮小播放。";
+"HIDE_HUD_ALERTS" = "隱藏 HUD 提示";
+"HIDE_HUD_ALERTS_INFO" = "隱藏如不喜歡確認等小型彈窗。";
+"CLASSIC_SHARE" = "傳統分享選單";
+"HIDE_LINE_SEPERATOR" = "隱藏分隔線";
+"ROUND_ALL_VIEW_CORNERS" = "將所有視圖圓角化";
+"DISABLE_DARK_MODE" = "停用深色模式";
+"HIDE_INCLUDE_PAID_PROMO" = "隱藏付費推廣提示";
+"DISABLE_RTL" = "停用 RTL 格式";
+"OTHERS" = "首頁動態";
+"HIDE_PLAYLIST" = "隱藏播放清單";
+"PLAYLIST_INFO" = "不支援 iPad 樣式。";
+"HIDE_COVID_NEWS" = "隱藏新聞區塊";
+"COVID_NEWS_INFO" = "移除 COVID 與新聞動態。";
+"HIDE_FILTER_TAGS" = "隱藏主題篩選標籤";
+
+/* global action title */
+"OK" = "確定";
+"YES" = "是";
+"NO" = "否";
+"ERROR" = "錯誤";
+"loading_pip" = "載入子母畫面...";
+"APP_RESTART_REQUIRED" = "請重啟 YouTube 以套用變更。";
+"FILZA_NOT_INSTALLED_ALERT" = "裝置尚未安裝 Filza";
+"NO_DATA" = "無下載內容";
+"CANCEL" = "取消";
+"DISMISS" = "關閉";
+"DELETED" = "已刪除";
+"SAVED" = "已儲存";
+"SUCCESS" = "成功";
+"VIDEO" = "下載影片";
+"AUDIO" = "下載音訊";
+"RENAME" = "重新命名";
+"RENAME_FILE" = "重新命名檔案";
+"RENAME_NEW_NAME" = "輸入檔案新名稱：";
+"RENAME_PLACEHOLDER" = "輸入影片名稱";
+"RENAME_PLACEHOLDER_AUDIO" = "輸入音訊名稱";
+"PLAY" = "預設播放器";
+"SHARE" = "分享";
+"VIEW_IN_FILZA" = "在 Filza 中查看";
+"DELETE" = "刪除";
+"MORE_OPTION" = "更多選項";
+"MAIN_OPTION" = "主要選項";
+"DELETE_ALL" = "刪除全部";
+"SAVE_ARTWORK" = "儲存封面圖";
+"SAVE_TO_PHOTOS" = "儲存至照片 App";
+"ARE_YOU_SURE" = "確定要刪除所有項目？";
+"NOTE" = "註記！";
+"SAVE_FAILED" = "儲存失敗！";
+"SAVE_TO_PHOTOS_FAILED" = "無法儲存至照片App。請至「設定」給予 YouTube 照片圖庫取用權限。";
+"DELETING_VIDEO" = "刪除影片？";
+"DELETING_AUDIO" = "刪除音訊？";
+"AUTO_LANGUAGE" = "自動";
+"SELECT_LANGUAGE" = "選擇語言";
+"FAQ" = "常見問題";
+"action_undone" = "此動作無法還原！";
+
+/* downloading... */
+"toast_downloading" = "正在下載...";
+"toast_downloading_audio" = "正在下載音訊";
+"toast_downloading_video" = "正在下載影片";
+"toast_merging" = "正在合併...";
+"toast_preparing" = "正在準備... : 0%";
+"toast_download_cancelled" = "下載已取消";
+
+"video_saved" = "✓ 影片已儲存 - %@";
+"video_downloaded" = "🎬 ✓ 影片已下載：%@";
+"m4a_smaller" = "🎵 M4A (AAC • 較小)";
+"mp3_larger" = "🎵 MP3 (通用 • 較大)";
+"audio_saved" = "✓ 音訊 %@ 已儲存為 %@";
+"audio_downloaded" = "🎵 ✓ 音訊已下載 (%@)";
+"shorts_downloaded" = "🎬 ✓ Shorts 已下載";
+"queued" = "📥 已加入隊列：";
+"video_queuad" = "🎬 📥 影片已加入隊列：";
+"audio_queuad" = "🎵 📥 音訊已加入隊列：";
+"starting" = "🔄 開始：%@";
+"audio_progress" = "🎵 音訊：%@";
+"video_progress" = "🎬 影片：%@";
+"converting" = "⚙️ 轉換中：%@";
+"merging" = "⚙️ 合併中：%@";
+"download_cancelled" = "❌ 下載已取消：%@";
+"quea_cancelled" = "❌ 已從隊列移除";
+"cancelled" = "❌ 已取消：%@";
+
+"loop_disabled" = "🔁 循環播放已停用";
+"loop_enabled" = "🔂 循環播放已啟用";
+"Auto_Skip" = "自動跳過";
+"Exit_Fullscreen" = "退出全螢幕";
+
+
+"play_next" = "播放下一首";
+"close" = "關閉";
+
+"VIDEO_INFO" = "影片資訊";
+"FILE_SIZE" = "檔案大小";
+"DURATION" = "長度";
+"DIMENSIONS" = "解析度";
+"BITRATE" = "位元率";
+"FRAME_RATE" = "幀率 (FPS)";
+"CREATED" = "建立時間";
+"AUDIO_INFO" = "音訊資訊";
+"FORMAT" = "格式";
+"SAMPLE_RATE" = "取樣率";
+"CHANNELS" = "聲道";
+
+"year_ago" = "%ld 年%@前";
+"month_ago" = "%ld 個月%@前";
+"week_ago" = "%ld 週%@前";
+"day_ago" = "%ld 天%@前";
+"hour_ago" = "%ld 小時%@前";
+"minute_ago" = "%ld 分鐘%@前";
+"s" = "秒";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
+"sleep_timer" = "睡眠定時器";
+"time_calculater" = "%ld 分鐘";
+"5_min" = "5 分鐘";
+"10_min" = "10 分鐘";
+"15_min" = "15 分鐘";
+"20_min" = "20 分鐘";
+"30_min" = "30 分鐘";
+"45_min" = "45 分鐘";
+"1_hour" = "1 小時";
+"end_of_track" = "曲目结束";
+"min_left" = "剩餘 %ld 分鐘";
+"sleep_timer_activated" = "睡眠定時器已啟動 - 播放已暫停";
+"custom_time" = "自訂時間";
+"enter_duration_desc" = "輸入時間 (如 20m, 1h, 1h 30m, 90)";
+"set" = "設定";
+"invalid_input" = "無效輸入";
+"invalid_input_desc" = "格式：20m, 1h, 1h 30m, 90";
+
+/* gestures */
+"gestures_control" = "手勢控制";
+"brightness" = "亮度";
+"left" = "左側";
+"right" = "右側";
+"disabled" = "已停用";
+"volume" = "音量";
+"hold_to_seek" = "長按快進";
+"seek_duration" = "快進時長";
+"seconds" = "%.0f 秒";
+"volume_brightness_gesture" = "音量與亮度手勢";
+"seek_settings" = "快進設定";
+"gestures_config_description" = "設定播放器兩側對應的亮度與音量控制。\n\n提示：\n1. 直向模式下，在播放器任一側向下滑動即可控制。\n2. 全螢幕模式下，受限於 YouTube 手勢機制，請由底部區域向上滑動。";
+"hold_to_seek_description" = "長按左側或右側可連續調整時長。可自訂單次跳過的秒數。";
+"brightness_gesture_left" = "亮度";
+"gesture_left_side" = "左側手勢";
+"cancel" = "取消";
+"volume_gesture_right" = "音量";
+"gesture_right_side" = "右側手勢";
+
+/* icon themes */
+"icon_changed" = "圖示更換成功。";
+"select_icon_theme" = "選擇圖示主題";
+"icon_not_available" = "不支援自定義圖示";
+"icon_not_available_disc" = "此版未內建自定義圖示。需安裝專用 IPA 以更換圖示。";
+
+
+/* fake location */
+"fake_location" = "虛擬定位";
+"save" = "儲存";
+"location_name" = "位置名稱";
+"enter_location_name" = "國家：%@\n輸入位置名稱";
+"unknown" = "未知";
+"save_location" = "儲存位置";
+"getting_location_info" = "獲取位置資訊中...";
+"loading" = "載入中...";
+"selected_location" = "已選位置";
+"delete" = "刪除";
+"saved_location_disc" = "管理已存位置。向左滑動可移除。";
+"enable_fake_location_disc" = "模擬自訂位置。";
+"SAVED_LOCATIONS" = "已儲存的位置";
+"search_places" = "搜尋地點";
+"select_location" = "選擇位置";
+"custom_location" = "自訂位置";
+"system_default" = "系統預設";
+"current_location" = "目前位置";
+"enable_fake_location" = "啟用虛擬定位";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "其他專案";
+"CREDITS" = "開發與貢獻";
+"SPECIAL_THANK" = "特別鳴謝";
+"LOCALIZATION" = "在地化翻譯";
+"icon_by" = "圖示設計：";
+"DEVELOPER" = "開發者";
+"WELCOM_ALERT" = "如需修改設定，請開啟 YTKPlus 標籤頁並點選上方的齒輪圖示。";
+
+/* compatibility... */
+"compatible_legacy_ver" = "相容 (舊版 iOS)";
+"not_compatible_ver" = "不相容";
+"unknown_ver" = "未知";
+"compatible_ver" = "相容";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ 清除所有資料";
+"clear_all_data_disc" = "這將刪除所有 App 資料，包含鑰匙圈 、偏好設定與快取檔案。此動作無法還原！";
+"delete_everything" = "全部刪除";
+"data_cleared" = "✅ 資料已清除";
+"data_cleared_disc" = "資料已刪除，App 即將重啟。";
+
+/* clearCaches */
+"clearonstartup" = "啟動時自動清理";
+"clearcache" = "清除快取";
+"On" = "開啟";
+"Off" = "關閉";
+
+"CLEARING_CACHE" = "正在清除快取...";
+"PLEASE_WAIT" = "請稍候...";
+"CACHE_CLEARED" = "快取清除成功！";
+"CLEAR_CACHE" = "清除快取";
+"CALCULATING" = "計算中...";
+
+/* Unlink Email from License */
+"unlink_email" = "取消綁定電子郵件";
+"unlink_confirmation" = "確認取消綁定";
+"unlink_email_explanation" = "您確定要將此電子郵件從授權中取消綁定嗎？";
+"unlink" = "取消綁定";
+"error_unlink" = "錯誤";
+"error_unlink_desc" = "取消綁定失敗。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "電子郵件已成功取消綁定。";
+
+/* promptForActivation */
+"license_option" = "授權選項";
+"license_option_disc" = "請選擇動作：";
+"activate_new_license" = "啟動新授權";
+"restore_license" = "還原授權";
+"renew_license" = "續訂授權";
+"buy_license" = "購買授權";
+"activate_new_license_disc" = "輸入您的電子郵件與授權序號。";
+"email" = "電子郵件";
+"license_key" = "授權序號";
+"activate" = "啟動";
+"invalid_email" = "無效電子郵件";
+"invalid_email_disc" = "請輸入正確的電子郵件地址。";
+"invalid_license" = "無效授權";
+"license_key_empty" = "授權序號不得為空。";
+"license_key_length_wrong" = "授權序號長度錯誤。\n請輸入有效的序號。";
+
+/* promptForRestore */
+"restore_notice" = "還原流程已更新";
+"restore_notice_desc" = "還原流程已有變動。還原後請複製序號，並返回啟動頁面使用電子郵件與序號重新啟動。";
+"restore_license_disc" = "輸入與授權綁定的電子郵件。";
+"restore" = "還原";
+"copy_license_key" = "複製授權序號";
+"license_key_copied_to_clipboard" = "授權序號已複製到剪貼簿。";
+"license_details" = "授權詳情";
+"license_details_disc" = "授權序號：%@\n\n過期日期：%@\n\n%@";
+"license_restored_successfully" = "授權目前有效。";
+"license_restored" = "授權已還原";
+"restore_failed" = "還原失敗";
+
+/* enter license prompt */
+"enter_license_key" = "輸入授權序號";
+"enter_license_key_disc" = "請輸入您的授權序號以進行驗證。";
+"license_key_authenticated" = "驗證成功。過期時間：%@";
+"authentication_successful" = "認證成功";
+"key_used_on_another_device" = "授權已在其他裝置使用。";
+"key_is_in_use_on_another_device" = "此授權已在其他裝置啟動。請使用不同序號。";
+"email_associated_with_another_key" = "電子郵件已連結至其他授權。";
+"authentication_failed" = "驗證失敗";
+"email_associated_with_defferent_key" = "此電子郵件已連結至不同授權，請換一個電子郵件或序號。";
+"key_expired" = "授權序號已過期";
+"license_expired" = "授權已過期";
+"license_expired_disc" = "您的授權已過期，請進行續訂。";
+"license_verification_failed" = "授權驗證失敗";
+"no_internet" = "無網路連線";
+"no_internet_disc" = "驗證授權需要網路連線。";
+"license_disc" = "輸入的授權序號無效。";
+
+/* other stuff */
