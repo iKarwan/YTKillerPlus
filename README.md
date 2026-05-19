@@ -4,7 +4,7 @@
 ## Screenshots
 | ![1](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG) | ![2](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG) | ![3](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG) |
 |---|---|---|
-| ![6](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG) | ![7](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG) | ![11](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG) |
+| ![6](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG) | ![8](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG) | ![11](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG) |
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 16.0 / iOS iPadOS 26.x ...
