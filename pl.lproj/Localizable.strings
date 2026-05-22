@@ -13,7 +13,25 @@
 
 "fix_playback_issue" = "🔧 Napraw odtwarzanie i odzyskaj konto";
 "fix_playback_issue_disc" = "🎯 Naprawia błędy \"Coś poszło nie tak\" i przerwy.";
-"fix_playback_issue_disc_footer" = "✅ Testowane na wielu kontach — powrót do normy po kilku dniach.\n\n📍 Najlepsze wyniki:\n• Włącz lokalizację\n• NIE używaj VPN\n\nKluczowe kroki.\n\n⚠️ Wyłącza pobieranie...\n\n⚠️ Używaj tylko przy problemach.";
+"fix_playback_issue_disc_footer" = "✅ Przetestowano na wielu kontach — wszystkie wróciły do normalnego stanu odtwarzania po kilku dniach korzystania z tej opcji.
+
+📍 Ważne:
+To tymczasowe rozwiązanie. Po kilku dniach korzystania konto powinno ponownie wrócić do normalnego stanu odtwarzania. Upewnij się, że dokładnie wykonujesz wszystkie kroki.
+
+📍 Aby uzyskać najlepsze rezultaty:
+• Włącz usługi lokalizacji dla YouTube
+• Wyłącz VPN i nie używaj go podczas rozwiązywania problemu
+
+▶️ Aby przyspieszyć proces odzyskiwania:
+• Odtwarzaj długie filmy (1 godzina lub dłużej)
+• Pozwól im odtwarzać się normalnie od początku do końca
+• Nie pomijaj, nie przewijaj ani nie przyspieszaj filmu
+
+Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspieszyć powrót konta do normalnego stanu.
+
+⚠️ Pobieranie będzie wyłączone, gdy ta opcja jest aktywna.
+
+⚠️ Włącz tę opcję tylko wtedy, gdy występują problemy z odtwarzaniem. Jeśli wszystko działa poprawnie, pozostaw ją wyłączoną.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Menedżer pobierania";
@@ -387,7 +405,15 @@
 "loop_enabled" = "🔂 Pętla włączona";
 "Auto_Skip" = "Auto‑pomijanie";
 "Exit_Fullscreen" = "Wyjdź z pełnego ekranu";
+"already_downloading" = "Pobieranie jest już w toku";
 
+"gestures_on" = "Gesty włączone";
+"gestures_off" = "Gesty wyłączone";
+"remaining" = "Pozostało";
+"your_queue" = "Twoja kolejka";
+"playing_from" = "Odtwarzanie z";
+"auto_mix_on" = "✦ Automatyczny miks";
+"auto_mix_off" = "○ Automatyczny miks";
 
 "play_next" = "Odtwórz następny";
 "close" = "Zamknij";

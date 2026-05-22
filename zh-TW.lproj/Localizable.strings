@@ -14,7 +14,25 @@
 
 "fix_playback_issue" = "🔧 修復播放與帳號恢復";
 "fix_playback_issue_disc" = "🎯 修復側載版 App 出現的「發生錯誤」與影片中斷問題。";
-"fix_playback_issue_disc_footer" = "✅ 經多個帳號測試 — 開啟此功能數日後，帳號皆可恢復正常播放狀態。\n\n📍 最佳做法：\n• 開啟 YouTube 的定位服務\n• 請勿使用 VPN\n\n這對恢復帳號狀態至關重要。\n\n⚠️ 開啟此功能將停用下載...\n\n⚠️ 僅在遇到播放問題時開啟。若播放正常，請保持關閉。";
+"fix_playback_issue_disc_footer" = "✅ 已在多个账号上测试——启用此选项后，所有账号都在几天内完全恢复到正常播放状态。
+
+📍 重要：
+这是一个临时修复方案。使用几天后，您的账号应会恢复到正常播放状态。请务必仔细遵循以下所有步骤。
+
+📍 为获得最佳效果：
+• 为 YouTube 启用定位服务
+• 关闭所有 VPN，并在修复期间不要使用 VPN
+
+▶️ 为加快恢复速度：
+• 播放较长的视频（1 小时或以上）
+• 让视频从头到尾正常播放
+• 不要跳过、拖动进度条或快进视频
+
+这有助于 YouTube 验证正常观看行为，并可能让您的账号更快恢复正常状态。
+
+⚠️ 启用此选项期间将无法下载内容。
+
+⚠️ 仅在遇到播放问题时启用此选项。如果播放一切正常，请保持此选项关闭。";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "下載管理員";
@@ -388,7 +406,15 @@
 "loop_enabled" = "🔂 循環播放已啟用";
 "Auto_Skip" = "自動跳過";
 "Exit_Fullscreen" = "退出全螢幕";
+"already_downloading" = "已有下载正在进行中";
 
+"gestures_on" = "手势已开启";
+"gestures_off" = "手势已关闭";
+"remaining" = "剩余";
+"your_queue" = "你的队列";
+"playing_from" = "播放来源";
+"auto_mix_on" = "✦ 自动混音";
+"auto_mix_off" = "○ 自动混音";
 
 "play_next" = "播放下一首";
 "close" = "關閉";

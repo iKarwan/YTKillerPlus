@@ -17,7 +17,25 @@
 
 "fix_playback_issue" = "🔧 Fix Playback & Account Recovery";
 "fix_playback_issue_disc" = "🎯 Fixes 'Something went wrong' errors and stream cutoffs for sideloaded apps.";
-"fix_playback_issue_disc_footer" = "✅ Tested on multiple accounts — both fully recovered to normal playback state after a few days with this enabled.\n\n📍 For best results:\n• Enable Location Services for YouTube\n• Do NOT use a VPN\n\nThese two steps are critical for your account to return to its normal state.\n\n⚠️ this will disable downloading...\n\n⚠️ Only enable if you experience playback issues. If playback works fine, leave this off.";
+"fix_playback_issue_disc_footer" = "✅ Tested on multiple accounts — both fully recovered to normal playback state after a few days with this enabled.
+
+📍 Important:
+This is a temporary fix. After a couple of days of using it, your account should return to its normal playback state again. Make sure to follow all steps carefully.
+
+📍 For best results:
+• Enable Location Services for YouTube
+• Turn OFF any VPN and do not use one while fixing the issue
+
+▶️ To speed up the recovery process:
+• Play long videos (1 hour or longer)
+• Let them play normally from start to finish
+• Do NOT skip, seek, or fast-forward through the video
+
+This helps YouTube verify normal viewing activity and may allow your account to return to its normal state faster.
+
+⚠️ This will disable downloading while enabled.
+
+⚠️ Only enable this if you are experiencing playback issues. If playback works normally, leave this option disabled.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download Manager";
@@ -391,7 +409,15 @@
 "loop_enabled" = "🔂 Loop enabled";
 "Auto_Skip" = "Auto-Skip";
 "Exit_Fullscreen" = "Exit Fullscreen";
+"already_downloading" = "A download is already in progress";
 
+"gestures_on" = "Gestures On";
+"gestures_off" = "Gestures Off";
+"remaining" = "Remaining";
+"your_queue" = "Your Queue";
+"playing_from" = "Playing from";
+"auto_mix_on" = "✦ Auto Mix";
+"auto_mix_off" = "○ Auto Mix";
 
 "play_next" = "Play Next";
 "close" = "Close";

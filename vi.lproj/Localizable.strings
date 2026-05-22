@@ -14,7 +14,25 @@
 
 "fix_playback_issue" = "🔧 Sửa lỗi phát và khôi phục tài khoản";
 "fix_playback_issue_disc" = "🎯 Sửa lỗi \"Đã xảy ra lỗi\" và gián đoạn phát.";
-"fix_playback_issue_disc_footer" = "✅ Đã thử nghiệm trên nhiều tài khoản — đều trở lại bình thường sau vài ngày.\n\n📍 Để đạt kết quả tốt nhất:\n• Bật dịch vụ vị trí cho YouTube\n• KHÔNG dùng VPN\n\nHai bước này rất quan trọng.\n\n⚠️ Sẽ tắt tính năng tải xuống...\n\n⚠️ Chỉ bật khi có lỗi. Nếu hoạt động bình thường, hãy tắt.";
+"fix_playback_issue_disc_footer" = "✅ Đã được thử nghiệm trên nhiều tài khoản — tất cả đều trở lại trạng thái phát bình thường sau vài ngày bật tùy chọn này.
+
+📍 Quan trọng:
+Đây là giải pháp tạm thời. Sau vài ngày sử dụng, tài khoản của bạn sẽ quay lại trạng thái phát bình thường. Hãy đảm bảo làm theo tất cả các bước một cách cẩn thận.
+
+📍 Để có kết quả tốt nhất:
+• Bật Dịch vụ Vị trí cho YouTube
+• Tắt mọi VPN và không sử dụng VPN trong quá trình khắc phục
+
+▶️ Để tăng tốc quá trình khôi phục:
+• Phát các video dài (1 giờ trở lên)
+• Để video phát bình thường từ đầu đến cuối
+• Không bỏ qua, tua hoặc phát nhanh video
+
+Điều này giúp YouTube xác minh hoạt động xem bình thường và có thể giúp tài khoản của bạn trở lại trạng thái bình thường nhanh hơn.
+
+⚠️ Tính năng tải xuống sẽ bị vô hiệu hóa khi tùy chọn này được bật.
+
+⚠️ Chỉ bật tùy chọn này nếu bạn gặp sự cố phát video. Nếu mọi thứ hoạt động bình thường, hãy để tùy chọn này tắt.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Trình Quản Lý Tải Xuống";
@@ -387,6 +405,15 @@
 "loop_enabled" = "🔂 Lặp lại đã bật";
 "Auto_Skip" = "Tự động bỏ qua";
 "Exit_Fullscreen" = "Thoát toàn màn hình";
+"already_downloading" = "Đã có một quá trình tải xuống đang diễn ra";
+
+"gestures_on" = "Bật cử chỉ";
+"gestures_off" = "Tắt cử chỉ";
+"remaining" = "Còn lại";
+"your_queue" = "Hàng đợi của bạn";
+"playing_from" = "Đang phát từ";
+"auto_mix_on" = "✦ Trộn tự động";
+"auto_mix_off" = "○ Trộn tự động";
 
 "play_next" = "Phát tiếp theo";
 "close" = "Đóng";

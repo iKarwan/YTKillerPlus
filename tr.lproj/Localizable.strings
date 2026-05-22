@@ -14,7 +14,25 @@
 
 "fix_playback_issue" = "🔧 Oynatma sorunlarını düzelt ve hesap kurtarma";
 "fix_playback_issue_disc" = "🎯 \"Bir şeyler yanlış gitti\" hatalarını ve akış kesilmelerini düzeltir.";
-"fix_playback_issue_disc_footer" = "✅ Birden fazla hesapta test edildi — birkaç gün içinde normal oynatma durumuna döndü.\n\n📍 En iyi sonuçlar için:\n• YouTube için konum hizmetlerini aç\n• VPN kullanma\n\nBu iki adım kritik öneme sahiptir.\n\n⚠️ Bu indirmeyi devre dışı bırakır...\n\n⚠️ Sadece sorun yaşıyorsan aç. Sorun yoksa kapalı bırak.";
+"fix_playback_issue_disc_footer" = "✅ Birden fazla hesapta test edildi — bu seçenek etkinleştirildikten birkaç gün sonra hepsi normal oynatma durumuna tamamen geri döndü.
+
+📍 Önemli:
+Bu geçici bir çözümdür. Birkaç gün kullandıktan sonra hesabınızın yeniden normal oynatma durumuna dönmesi gerekir. Tüm adımları dikkatlice uyguladığınızdan emin olun.
+
+📍 En iyi sonuçlar için:
+• YouTube için Konum Hizmetlerini etkinleştirin
+• Tüm VPN'leri kapatın ve sorun giderme sırasında kullanmayın
+
+▶️ Kurtarma sürecini hızlandırmak için:
+• Uzun videolar oynatın (1 saat veya daha uzun)
+• Baştan sona normal şekilde oynatılmasına izin verin
+• Videoyu atlamayın, ileri sarmayın veya hızlı oynatmayın
+
+Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hesabınızın daha hızlı normale dönmesini sağlayabilir.
+
+⚠️ Bu seçenek etkinleştirildiğinde indirme özelliği devre dışı kalacaktır.
+
+⚠️ Bu seçeneği yalnızca oynatma sorunları yaşıyorsanız etkinleştirin. Her şey normal çalışıyorsa devre dışı bırakın.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "İndirme Yöneticisi";
@@ -386,6 +404,15 @@
 "loop_enabled" = "🔂 Döngü etkin";
 "Auto_Skip" = "Otomatik Geç";
 "Exit_Fullscreen" = "Tam Ekrandan Çık";
+"already_downloading" = "Zaten devam eden bir indirme var";
+
+"gestures_on" = "Hareketler Açık";
+"gestures_off" = "Hareketler Kapalı";
+"remaining" = "Kalan";
+"your_queue" = "Sıran";
+"playing_from" = "Buradan oynatılıyor";
+"auto_mix_on" = "✦ Otomatik Karışım";
+"auto_mix_off" = "○ Otomatik Karışım";
 
 "play_next" = "Sonraki Oynat";
 "close" = "Kapat";

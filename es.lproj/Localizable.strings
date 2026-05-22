@@ -14,7 +14,25 @@
 
 "fix_playback_issue" = "🔧 Corregir reproducción y recuperación de cuenta";
 "fix_playback_issue_disc" = "🎯 Soluciona errores de \"Algo salió mal\" y cortes de transmisión en apps sideload.";
-"fix_playback_issue_disc_footer" = "✅ Probado en varias cuentas — todas volvieron al estado normal tras unos días con esto activado.\n\n📍 Para mejores resultados:\n• Activa los servicios de ubicación para YouTube\n• NO uses VPN\n\nEstos dos pasos son críticos para que tu cuenta vuelva a la normalidad.\n\n⚠️ Esto desactivará las descargas...\n\n⚠️ Actívalo solo si tienes problemas de reproducción. Si todo funciona bien, déjalo desactivado.";
+"fix_playback_issue_disc_footer" = "✅ Probado en varias cuentas: todas volvieron completamente a su estado normal de reproducción después de unos días con esta opción activada.
+
+📍 Importante:
+Esta es una solución temporal. Después de usarla durante un par de días, tu cuenta debería volver a su estado normal de reproducción. Asegúrate de seguir todos los pasos cuidadosamente.
+
+📍 Para obtener los mejores resultados:
+• Activa los servicios de ubicación para YouTube
+• Desactiva cualquier VPN y no la uses mientras solucionas el problema
+
+▶️ Para acelerar el proceso de recuperación:
+• Reproduce videos largos (1 hora o más)
+• Déjalos reproducirse normalmente de principio a fin
+• No los saltes, adelantes ni avances rápidamente
+
+Esto ayuda a YouTube a verificar una actividad de visualización normal y puede permitir que tu cuenta vuelva a la normalidad más rápido.
+
+⚠️ Esto desactivará las descargas mientras esté habilitado.
+
+⚠️ Activa esta opción solo si tienes problemas de reproducción. Si todo funciona correctamente, déjala desactivada.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestor de descargas";
@@ -386,6 +404,15 @@
 "loop_enabled" = "🔂 Bucle activado";
 "Auto_Skip" = "Salto automático";
 "Exit_Fullscreen" = "Salir de pantalla completa";
+"already_downloading" = "Ya hay una descarga en progreso";
+
+"gestures_on" = "Gestos activados";
+"gestures_off" = "Gestos desactivados";
+"remaining" = "Restante";
+"your_queue" = "Tu cola";
+"playing_from" = "Reproduciendo desde";
+"auto_mix_on" = "✦ Mezcla automática";
+"auto_mix_off" = "○ Mezcla automática";
 
 "play_next" = "Reproducir siguiente";
 "close" = "Cerrar";

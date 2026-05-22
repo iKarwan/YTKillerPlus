@@ -17,7 +17,25 @@
 
 "fix_playback_issue" = "🔧 Correction de la lecture et récupération du compte";
 "fix_playback_issue_disc" = "🎯 Corrige les erreurs \"Une erreur s'est produite\" et les coupures.";
-"fix_playback_issue_disc_footer" = "✅ Testé sur plusieurs comptes — retour à la normale après quelques jours.\n\n📍 Pour de meilleurs résultats :\n• Activez la localisation pour YouTube\n• N’utilisez PAS de VPN\n\nÉtapes critiques.\n\n⚠️ Désactive le téléchargement...\n\n⚠️ À activer seulement en cas de problème.";
+"fix_playback_issue_disc_footer" = "✅ Testé sur plusieurs comptes — tous sont revenus à un état de lecture normal après quelques jours avec cette option activée.
+
+📍 Important :
+Il s'agit d'une solution temporaire. Après quelques jours d'utilisation, votre compte devrait retrouver son état de lecture normal. Assurez-vous de suivre toutes les étapes attentivement.
+
+📍 Pour de meilleurs résultats :
+• Activez les services de localisation pour YouTube
+• Désactivez tout VPN et n'en utilisez pas pendant la résolution du problème
+
+▶️ Pour accélérer la récupération :
+• Regardez de longues vidéos (1 heure ou plus)
+• Laissez-les se lire normalement du début à la fin
+• Ne sautez pas, ne recherchez pas et n'accélérez pas la vidéo
+
+Cela aide YouTube à vérifier une activité de visionnage normale et peut permettre à votre compte de revenir plus rapidement à la normale.
+
+⚠️ Les téléchargements seront désactivés tant que cette option est activée.
+
+⚠️ Activez cette option uniquement si vous rencontrez des problèmes de lecture. Si tout fonctionne normalement, laissez-la désactivée.";
 
 /* Section gestionnaire de téléchargement */
 "DOWNLOAD_MANAGER" = "Gestionnaire de téléchargement";
@@ -391,6 +409,15 @@
 "loop_enabled" = "🔂 Boucle activée";
 "Auto_Skip" = "Saut automatique";
 "Exit_Fullscreen" = "Quitter le plein écran";
+"already_downloading" = "Un téléchargement est déjà en cours";
+
+"gestures_on" = "Gestes activés";
+"gestures_off" = "Gestes désactivés";
+"remaining" = "Restant";
+"your_queue" = "Votre file d’attente";
+"playing_from" = "Lecture depuis";
+"auto_mix_on" = "✦ Mix automatique";
+"auto_mix_off" = "○ Mix automatique";
 
 "play_next" = "Lire ensuite";
 "close" = "Fermer";

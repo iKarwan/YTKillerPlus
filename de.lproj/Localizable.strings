@@ -13,7 +13,25 @@
 
 "fix_playback_issue" = "🔧 Wiedergabeprobleme beheben & Konto wiederherstellen";
 "fix_playback_issue_disc" = "🎯 Behebt \"Etwas ist schiefgelaufen\" Fehler und Unterbrechungen.";
-"fix_playback_issue_disc_footer" = "✅ Auf mehreren Konten getestet — nach wenigen Tagen wieder normal.\n\n📍 Für beste Ergebnisse:\n• Standortdienste aktivieren\n• KEIN VPN\n\nWichtige Schritte.\n\n⚠️ Deaktiviert Downloads...\n\n⚠️ Nur bei Problemen aktivieren.";
+"fix_playback_issue_disc_footer" = "✅ Auf mehreren Konten getestet — alle kehrten nach einigen Tagen mit dieser Option vollständig zum normalen Wiedergabestatus zurück.
+
+📍 Wichtig:
+Dies ist eine vorübergehende Lösung. Nach einigen Tagen Nutzung sollte dein Konto wieder in den normalen Wiedergabestatus zurückkehren. Befolge alle Schritte sorgfältig.
+
+📍 Für beste Ergebnisse:
+• Standortdienste für YouTube aktivieren
+• VPN vollständig deaktivieren und während der Behebung nicht verwenden
+
+▶️ Um die Wiederherstellung zu beschleunigen:
+• Lange Videos abspielen (1 Stunde oder länger)
+• Von Anfang bis Ende normal laufen lassen
+• Nicht überspringen, vorspulen oder innerhalb des Videos springen
+
+Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beitragen, dass dein Konto schneller wieder den Normalzustand erreicht.
+
+⚠️ Downloads werden deaktiviert, solange diese Option aktiviert ist.
+
+⚠️ Nur aktivieren, wenn Wiedergabeprobleme auftreten. Wenn alles normal funktioniert, diese Option deaktiviert lassen.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Download-Manager";
@@ -388,6 +406,15 @@
 "loop_enabled" = "🔂 Wiederholung aktiviert";
 "Auto_Skip" = "Auto-Überspringen";
 "Exit_Fullscreen" = "Vollbild verlassen";
+"already_downloading" = "Ein Download läuft bereits";
+
+"gestures_on" = "Gesten an";
+"gestures_off" = "Gesten aus";
+"remaining" = "Verbleibend";
+"your_queue" = "Deine Warteschlange";
+"playing_from" = "Wiedergabe von";
+"auto_mix_on" = "✦ Auto-Mix";
+"auto_mix_off" = "○ Auto-Mix";
 
 "play_next" = "Als Nächstes abspielen";
 "close" = "Schließen";

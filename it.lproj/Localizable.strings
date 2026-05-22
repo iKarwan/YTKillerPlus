@@ -15,7 +15,25 @@
 
 "fix_playback_issue" = "🔧 Correzione riproduzione e recupero account";
 "fix_playback_issue_disc" = "🎯 Risolve errori \"Qualcosa è andato storto\" e interruzioni.";
-"fix_playback_issue_disc_footer" = "✅ Testato su più account — ripristino dopo pochi giorni.\n\n📍 Per risultati migliori:\n• Attiva posizione per YouTube\n• NON usare VPN\n\nPassaggi critici.\n\n⚠️ Disabilita download...\n\n⚠️ Attiva solo se necessario.";
+"fix_playback_issue_disc_footer" = "✅ Testato su più account: tutti sono tornati completamente allo stato normale di riproduzione dopo alcuni giorni con questa opzione attivata.
+
+📍 Importante:
+Questa è una soluzione temporanea. Dopo alcuni giorni di utilizzo, il tuo account dovrebbe tornare nuovamente al normale stato di riproduzione. Assicurati di seguire attentamente tutti i passaggi.
+
+📍 Per ottenere i migliori risultati:
+• Attiva i servizi di localizzazione per YouTube
+• Disattiva qualsiasi VPN e non utilizzarla durante la risoluzione del problema
+
+▶️ Per accelerare il processo di ripristino:
+• Riproduci video lunghi (1 ora o più)
+• Lasciali riprodurre normalmente dall'inizio alla fine
+• Non saltare, avanzare o mandare avanti velocemente il video
+
+Questo aiuta YouTube a verificare una normale attività di visualizzazione e può consentire al tuo account di tornare alla normalità più rapidamente.
+
+⚠️ I download saranno disattivati mentre questa opzione è attiva.
+
+⚠️ Attiva questa opzione solo se riscontri problemi di riproduzione. Se tutto funziona normalmente, lasciala disattivata.";
 
 /* download manager section */
 "DOWNLOAD_MANAGER" = "Gestore Download";
@@ -389,6 +407,15 @@
 "loop_enabled" = "🔂 Loop abilitato";
 "Auto_Skip" = "Salto Automatico";
 "Exit_Fullscreen" = "Esci da Schermo Intero";
+"already_downloading" = "È già in corso un download";
+
+"gestures_on" = "Gesti attivi";
+"gestures_off" = "Gesti disattivati";
+"remaining" = "Rimanente";
+"your_queue" = "La tua coda";
+"playing_from" = "Riproduzione da";
+"auto_mix_on" = "✦ Mix automatico";
+"auto_mix_off" = "○ Mix automatico";
 
 "play_next" = "Riproduci Successivo";
 "close" = "Chiudi";
