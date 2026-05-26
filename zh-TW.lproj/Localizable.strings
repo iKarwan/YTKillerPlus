@@ -50,6 +50,17 @@
 "SUBSCRIPTIONS" = "訂閱內容";
 "LIBRARY" = "媒體庫";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "音乐";
+"LIVE_TAB"      = "直播";
+"GAMING_TAB"    = "游戏";
+"NEWS_TAB"      = "新闻";
+"SPORTS_TAB"    = "体育";
+"LEARNING_TAB"  = "学习";
+"FASHION_TAB"   = "时尚";
+"PLAYLISTS_TAB" = "播放列表";
+"HISTORY_TAB"   = "历史记录";
+"NOTIFS_TAB"    = "通知";
+"WLATER_TAB"    = "稍后观看";
 
 /* defaults */
 "overlay_button" = "播放控制與切換";
@@ -307,6 +318,10 @@
 "INACTIVE_TABS_TXT" = "%@ (停用)";
 "TABS_INACTIVE" = "標籤已停用";
 "TABS_INACTIVE_DESC" = "「%@」目前為停用狀態，請先將其加入啟用標籤。";
+"remove_restrict" = "无法移除";
+"remove_restrict_desc" = "至少需要保留一个激活标签。";
+"limit_reached" = "已达到上限";
+"limit_reached_desc" = "最多只能有 6 个激活标签。";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "其他項目";
@@ -368,6 +383,7 @@
 "NOTE" = "註記！";
 "SAVE_FAILED" = "儲存失敗！";
 "SAVE_TO_PHOTOS_FAILED" = "無法儲存至照片App。請至「設定」給予 YouTube 照片圖庫取用權限。";
+"SAVE_HIGH_RES_FAILED_FMT" = "保存 %@ 视频到照片失败。这可能是由于您当前 iOS 版本对 HEVC 编码的限制。请尝试使用“分享”选项。";
 "DELETING_VIDEO" = "刪除影片？";
 "DELETING_AUDIO" = "刪除音訊？";
 "AUTO_LANGUAGE" = "自動";
@@ -458,6 +474,12 @@
 "set" = "設定";
 "invalid_input" = "無效輸入";
 "invalid_input_desc" = "格式：20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "未找到此歌曲的歌词。";
+"could_not_load_lyrics" = "无法加载歌词。\n请检查您的网络连接。";
+"lyrics_not_available_for_this_track" = "此歌曲暂无歌词。";
+"unknown_artist" = "未知艺术家";
+"lyrics" = "歌词";
+"mo_track_playing" = "当前没有正在播放的歌曲。";
 
 /* gestures */
 "gestures_control" = "手勢控制";

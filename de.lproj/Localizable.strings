@@ -49,6 +49,17 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 "SUBSCRIPTIONS" = "Abos";
 "LIBRARY" = "Bibliothek";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Musik";
+"LIVE_TAB"      = "Live";
+"GAMING_TAB"    = "Gaming";
+"NEWS_TAB"      = "Nachrichten";
+"SPORTS_TAB"    = "Sport";
+"LEARNING_TAB"  = "Lernen";
+"FASHION_TAB"   = "Mode";
+"PLAYLISTS_TAB" = "Playlists";
+"HISTORY_TAB"   = "Verlauf";
+"NOTIFS_TAB"    = "Benachr.";
+"WLATER_TAB"    = "Später ansehen";
 
 /* defaults */
 "overlay_button" = "Player-Steuerung";
@@ -307,6 +318,10 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 "INACTIVE_TABS_TXT" = "%@ (inaktiv)";
 "TABS_INACTIVE" = "Tabs sind inaktiv";
 "TABS_INACTIVE_DESC" = "\"%@\" ist inaktiv. Füge es zuerst zu den aktiven Tabs hinzu.";
+"remove_restrict" = "Kann nicht entfernt werden";
+"remove_restrict_desc" = "Du benötigst mindestens einen aktiven Tab.";
+"limit_reached" = "Limit erreicht";
+"limit_reached_desc" = "Du kannst höchstens 6 aktive Tabs haben.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Verschiedenes";
@@ -368,6 +383,7 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 "NOTE" = "Hinweis!";
 "SAVE_FAILED" = "Speichern fehlgeschlagen!";
 "SAVE_TO_PHOTOS_FAILED" = "Speichern in Fotos fehlgeschlagen. Erlaube YouTube den Zugriff auf Fotos in den Einstellungen.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Das Speichern des Videos %@ in Fotos ist fehlgeschlagen. Dies kann an HEVC-Codec-Beschränkungen deiner iOS-Version liegen. Versuche stattdessen die Teilen-Option zu verwenden.";
 "DELETING_VIDEO" = "Video löschen?";
 "DELETING_AUDIO" = "Audio löschen?";
 "AUTO_LANGUAGE" = "Automatisch";
@@ -458,6 +474,12 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 "set" = "Festlegen";
 "invalid_input" = "Ungültige Eingabe";
 "invalid_input_desc" = "Verwende Formate wie: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Für diesen Titel wurde kein Liedtext gefunden.";
+"could_not_load_lyrics" = "Liedtext konnte nicht geladen werden.\nÜberprüfe deine Verbindung.";
+"lyrics_not_available_for_this_track" = "Für diesen Titel sind keine Liedtexte verfügbar.";
+"unknown_artist" = "Unbekannter Künstler";
+"lyrics" = "Liedtext";
+"mo_track_playing" = "Derzeit wird kein Titel abgespielt.";
 
 "gestures_control" = "Gesten";
 "brightness" = "Helligkeit";

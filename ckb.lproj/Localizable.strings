@@ -49,6 +49,17 @@
 "SUBSCRIPTIONS" = "بەشداربوونەکان";
 "LIBRARY" = "کتێبخانە";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "مۆسیقا";
+"LIVE_TAB"      = "ڕاستەوخۆ";
+"GAMING_TAB"    = "یارییەکان";
+"NEWS_TAB"      = "هەواڵ";
+"SPORTS_TAB"    = "وەرزش";
+"LEARNING_TAB"  = "فێربوون";
+"FASHION_TAB"   = "مۆدا";
+"PLAYLISTS_TAB" = "لیستی پەخشکردن";
+"HISTORY_TAB"   = "مێژوو";
+"NOTIFS_TAB"    = "ئاگادارکردنەوەکان";
+"WLATER_TAB"    = "بینین لە دواتر";
 
 /* defaults */
 "overlay_button" = "کۆنترۆڵی پەخشکەر";
@@ -308,6 +319,10 @@
 "INACTIVE_TABS_TXT" = "%@ (ناچالاک)";
 "TABS_INACTIVE" = "تابەکان ناچالاکن";
 "TABS_INACTIVE_DESC" = "\"%@\" ناچالاکە. سەرەتا زیادی بکە بۆ تابە چالاکەکان.";
+"remove_restrict" = "ناتوانرێت بسڕدرێتەوە";
+"remove_restrict_desc" = "دەبێت لانیکەم یەک تابی چالاکت هەبێت.";
+"limit_reached" = "گەیشتە سنوور";
+"limit_reached_desc" = "زۆرترین ژمارەی تابە چالاکەکان 6 دانەیە.";
 
 /* miscellaneous */
 "MISCELLANEOUS_SECTION" = "گشتی";
@@ -369,6 +384,7 @@
 "NOTE" = "تێبینی!";
 "SAVE_FAILED" = "پاشەکەوت سەرکەوتوو نەبوو!";
 "SAVE_TO_PHOTOS_FAILED" = "پاشەکەوتکردن بۆ وێنەکان سەرکەوتوو نەبوو. ڕێگەی ڕوونی وێنە بدە لە ڕێکخستنەکان.";
+"SAVE_HIGH_RES_FAILED_FMT" = "پاشەکەوتکردنی ڤیدیۆی %@ بۆ وێنەکان سەرکەوتوو نەبوو. لەوانەیە هۆکارەکە سنوورداربوونی کۆدەکی HEVC بێت لە وەشانی iOS ـەکەت. تکایە هەوڵی بەکارهێنانی هەڵبژاردەی هاوبەشکردن بدە.";
 "DELETING_VIDEO" = "سڕینەوەی ڤیدیۆ؟";
 "DELETING_AUDIO" = "سڕینەوەی دەنگ؟";
 "AUTO_LANGUAGE" = "خۆکار";
@@ -460,6 +476,12 @@
 "set" = "دانان";
 "invalid_input" = "داتا نەگونجاوە";
 "invalid_input_desc" = "شێوەکان وەک: 20m، 1h، 1h 30m، 90 بەکاربهێنە";
+"no_lyrics_found_for_this_track" = "وشەکانی ئەم گۆرانییە نەدۆزرایەوە.";
+"could_not_load_lyrics" = "بارکردنی وشەکان سەرکەوتوو نەبوو.\nپشکنین بۆ پەیوەندییەکەت بکە.";
+"lyrics_not_available_for_this_track" = "وشەکانی ئەم گۆرانییە بەردەست نین.";
+"unknown_artist" = "هونەرمەندی نەناسراو";
+"lyrics" = "وشەکان";
+"mo_track_playing" = "ئێستا هیچ گۆرانییەک لێ نادرێت.";
 
 /* gestures */
 "gestures_control" = "ئاماژەکان";

@@ -49,6 +49,17 @@
 "SUBSCRIPTIONS" = "الاشتراكات";
 "LIBRARY" = "المكتبة";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "الموسيقى";
+"LIVE_TAB"      = "مباشر";
+"GAMING_TAB"    = "الألعاب";
+"NEWS_TAB"      = "الأخبار";
+"SPORTS_TAB"    = "الرياضة";
+"LEARNING_TAB"  = "التعلّم";
+"FASHION_TAB"   = "الموضة";
+"PLAYLISTS_TAB" = "قوائم التشغيل";
+"HISTORY_TAB"   = "السجل";
+"NOTIFS_TAB"    = "الإشعارات";
+"WLATER_TAB"    = "المشاهدة لاحقاً";
 
 /* defaults */
 "overlay_button" = "عناصر تحكم المشغل";
@@ -306,6 +317,10 @@
 "INACTIVE_TABS_TXT" = "%@ (غير نشط)";
 "TABS_INACTIVE" = "التبويبات غير نشطة";
 "TABS_INACTIVE_DESC" = "\"%@\" غير نشط. أضفه إلى التبويبات النشطة أولاً.";
+"remove_restrict" = "لا يمكن الإزالة";
+"remove_restrict_desc" = "يجب أن يكون لديك علامة تبويب نشطة واحدة على الأقل.";
+"limit_reached" = "تم الوصول إلى الحد الأقصى";
+"limit_reached_desc" = "يمكنك امتلاك 6 علامات تبويب نشطة كحد أقصى.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "إعدادات متنوعة";
@@ -367,6 +382,7 @@
 "NOTE" = "ملاحظة!";
 "SAVE_FAILED" = "فشل الحفظ!";
 "SAVE_TO_PHOTOS_FAILED" = "فشل الحفظ في الصور، تحقق من صلاحيات التطبيق.";
+"SAVE_HIGH_RES_FAILED_FMT" = "فشل حفظ فيديو %@ في الصور. قد يكون السبب قيود ترميز HEVC في إصدار iOS لديك. جرّب استخدام خيار المشاركة بدلاً من ذلك.";
 "DELETING_VIDEO" = "حذف الفيديو؟";
 "DELETING_AUDIO" = "حذف الصوت؟";
 "AUTO_LANGUAGE" = "تلقائي";
@@ -455,6 +471,12 @@
 "set" = "تعيين";
 "invalid_input" = "إدخال غير صالح";
 "invalid_input_desc" = "استخدم صيغ مثل: 20د، 1س، 1س 30د، 90";
+"no_lyrics_found_for_this_track" = "لم يتم العثور على كلمات لهذه الأغنية.";
+"could_not_load_lyrics" = "تعذر تحميل الكلمات.\nتحقق من اتصالك.";
+"lyrics_not_available_for_this_track" = "الكلمات غير متوفرة لهذه الأغنية.";
+"unknown_artist" = "فنان غير معروف";
+"lyrics" = "كلمات الأغنية";
+"mo_track_playing" = "لا توجد أغنية قيد التشغيل حالياً.";
 
 /* gestures */
 "gestures_control" = "الإيماءات";

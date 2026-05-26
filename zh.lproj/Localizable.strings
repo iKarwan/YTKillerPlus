@@ -50,6 +50,17 @@
 "SUBSCRIPTIONS" = "订阅";
 "LIBRARY" = "资料库";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "音乐";
+"LIVE_TAB"      = "直播";
+"GAMING_TAB"    = "游戏";
+"NEWS_TAB"      = "新闻";
+"SPORTS_TAB"    = "体育";
+"LEARNING_TAB"  = "学习";
+"FASHION_TAB"   = "时尚";
+"PLAYLISTS_TAB" = "播放列表";
+"HISTORY_TAB"   = "历史记录";
+"NOTIFS_TAB"    = "通知";
+"WLATER_TAB"    = "稍后观看";
 
 /* defaults */
 "overlay_button" = "播放器控制";
@@ -300,14 +311,18 @@
 "HIDE_SUBSCRIPTION_TAB" = "隐藏订阅标签";
 "HIDE_LIBRARY_TAB" = "隐藏资料库标签";
 "HIDE_ALL_TAB" = "隐藏所有标签";
-"MAIN_TAB" = "메인";
-"ACTIVE_TABS" = "활성 탭";
-"INACTIVE_TABS" = "비활성 탭";
-"CANT_REMOVE" = "삭제할 수 없음";
-"CANT_REMOVE_DESC" = "최소 하나의 활성 탭이 필요합니다.";
-"INACTIVE_TABS_TXT" = "%@ (비활성)";
-"TABS_INACTIVE" = "탭이 비활성 상태입니다";
-"TABS_INACTIVE_DESC" = "\"%@\" 는 비활성 상태입니다. 먼저 활성 탭에 추가하세요.";
+"MAIN_TAB" = "主标签";
+"ACTIVE_TABS" = "已激活标签";
+"INACTIVE_TABS" = "未激活标签";
+"CANT_REMOVE" = "无法移除";
+"CANT_REMOVE_DESC" = "至少需要一个激活的标签。";
+"INACTIVE_TABS_TXT" = "%@（未激活）";
+"TABS_INACTIVE" = "标签未激活";
+"TABS_INACTIVE_DESC" = "\"%@\" 未激活。请先将其添加到激活标签。";
+"remove_restrict" = "无法移除";
+"remove_restrict_desc" = "至少需要保留一个激活标签。";
+"limit_reached" = "已达到上限";
+"limit_reached_desc" = "最多只能有 6 个激活标签。";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "其他";
@@ -369,6 +384,7 @@
 "NOTE" = "提示";
 "SAVE_FAILED" = "保存失败！";
 "SAVE_TO_PHOTOS_FAILED" = "请在设置中授权 YouTube 访问“照片”。";
+"SAVE_HIGH_RES_FAILED_FMT" = "保存 %@ 视频到照片失败。这可能是由于您当前 iOS 版本对 HEVC 编码的限制。请尝试使用“分享”选项。";
 "DELETING_VIDEO" = "删除视频？";
 "DELETING_AUDIO" = "删除音频？";
 "AUTO_LANGUAGE" = "自动";
@@ -457,6 +473,12 @@
 "set" = "设置";
 "invalid_input" = "输入无效";
 "invalid_input_desc" = "请使用格式：20m，1h，1h 30m，90";
+"no_lyrics_found_for_this_track" = "未找到此歌曲的歌词。";
+"could_not_load_lyrics" = "无法加载歌词。\n请检查您的网络连接。";
+"lyrics_not_available_for_this_track" = "此歌曲暂无歌词。";
+"unknown_artist" = "未知艺术家";
+"lyrics" = "歌词";
+"mo_track_playing" = "当前没有正在播放的歌曲。";
 
 /* gestures */
 "gestures_control" = "手势";

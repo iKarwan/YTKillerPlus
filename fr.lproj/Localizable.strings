@@ -53,6 +53,17 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "SUBSCRIPTIONS" = "Abonnements";
 "LIBRARY" = "Bibliothèque";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Musique";
+"LIVE_TAB"      = "Direct";
+"GAMING_TAB"    = "Jeux";
+"NEWS_TAB"      = "Actualités";
+"SPORTS_TAB"    = "Sports";
+"LEARNING_TAB"  = "Apprentissage";
+"FASHION_TAB"   = "Mode";
+"PLAYLISTS_TAB" = "Playlists";
+"HISTORY_TAB"   = "Historique";
+"NOTIFS_TAB"    = "Notifs";
+"WLATER_TAB"    = "À regarder";
 
 /* Valeurs par défaut */
 "overlay_button" = "Commandes du lecteur";
@@ -310,6 +321,10 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "INACTIVE_TABS_TXT" = "%@ (inactif)";
 "TABS_INACTIVE" = "Les onglets sont inactifs";
 "TABS_INACTIVE_DESC" = "\"%@\" est inactif. Ajoutez-le d'abord aux onglets actifs.";
+"remove_restrict" = "Impossible de supprimer";
+"remove_restrict_desc" = "Vous devez avoir au moins un onglet actif.";
+"limit_reached" = "Limite atteinte";
+"limit_reached_desc" = "Vous pouvez avoir au maximum 6 onglets actifs.";
 
 /* Section divers */
 "MISCELLANEOUS_SECTION" = "Divers";
@@ -371,6 +386,7 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "NOTE" = "Remarque !";
 "SAVE_FAILED" = "Échec de l'enregistrement !";
 "SAVE_TO_PHOTOS_FAILED" = "L'enregistrement dans Photos a échoué. Accordez l'accès à Photos pour YouTube dans les paramètres.";
+"SAVE_HIGH_RES_FAILED_FMT" = "L’enregistrement de la vidéo %@ dans Photos a échoué. Cela peut être dû aux restrictions du codec HEVC sur votre version d’iOS. Essayez plutôt d’utiliser l’option Partager.";
 "DELETING_VIDEO" = "Supprimer la vidéo ?";
 "DELETING_AUDIO" = "Supprimer l'audio ?";
 "AUTO_LANGUAGE" = "Auto";
@@ -461,6 +477,12 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "set" = "Définir";
 "invalid_input" = "Entrée invalide";
 "invalid_input_desc" = "Utilisez des formats comme : 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Paroles introuvables pour ce titre.";
+"could_not_load_lyrics" = "Impossible de charger les paroles.\nVérifiez votre connexion.";
+"lyrics_not_available_for_this_track" = "Les paroles ne sont pas disponibles pour ce titre.";
+"unknown_artist" = "Artiste inconnu";
+"lyrics" = "Paroles";
+"mo_track_playing" = "Aucun titre n'est actuellement en lecture.";
 
 "gestures_control" = "Gestes";
 "brightness" = "Luminosité";

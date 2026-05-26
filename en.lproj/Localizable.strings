@@ -47,12 +47,23 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "STARTUP_PAGE" = "Default Startup Page";
 "DEFAULT_PAGE" = "Home";
 
-"HOME" = "Home";
-"EXPLORE" = "Explore";
-"SHORTS" = "Shorts";
+"HOME"          = "Home";
+"EXPLORE"       = "Explore";
+"SHORTS"        = "Shorts";
 "SUBSCRIPTIONS" = "Subscriptions";
-"LIBRARY" = "Library";
-"YTKPlus" = "YTKPlus";
+"LIBRARY"       = "Library";
+"YTKPlus"       = "YTKPlus";
+"MUSIC_TAB"     = "Music";
+"LIVE_TAB"      = "Live";
+"GAMING_TAB"    = "Gaming";
+"NEWS_TAB"      = "News";
+"SPORTS_TAB"    = "Sports";
+"LEARNING_TAB"  = "Learning";
+"FASHION_TAB"   = "Fashion";
+"PLAYLISTS_TAB" = "Playlists";
+"HISTORY_TAB"   = "History";
+"NOTIFS_TAB"    = "Notifs";
+"WLATER_TAB"    = "WLater";
 
 /* defaults */
 "overlay_button" = "Player Controls";
@@ -310,6 +321,10 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "INACTIVE_TABS_TXT" = "%@ (inactive)";
 "TABS_INACTIVE" = "Tabs is inactive";
 "TABS_INACTIVE_DESC" = "\"%@\" is inactive. Add it to active tabs first.";
+"remove_restrict" = "Cannot remove";
+"remove_restrict_desc" = "You need at least one active tab.";
+"limit_reached" = "Limit reached";
+"limit_reached_desc" = "You can have at most 6 active tabs.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Miscellaneous";
@@ -371,6 +386,7 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "NOTE" = "Note!";
 "SAVE_FAILED" = "Save Failed!";
 "SAVE_TO_PHOTOS_FAILED" = "Saving to Photos failed. Grant Photos access to YouTube in Settings.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Saving %@ video to Photos failed. This may be due to HEVC codec restrictions on your iOS version. Try using the Share option instead.";
 "DELETING_VIDEO" = "Deleting Video?";
 "DELETING_AUDIO" = "Deleting Audio?";
 "AUTO_LANGUAGE" = "Auto";
@@ -461,6 +477,12 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "set" = "Set";
 "invalid_input" = "Invalid Input";
 "invalid_input_desc" = "Use formats like: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Lyrics not found for this track.";
+"could_not_load_lyrics" = "Could not load lyrics.\nCheck your connection.";
+"lyrics_not_available_for_this_track" = "Lyrics not available for this track.";
+"unknown_artist" = "Unknown Artist";
+"lyrics" = "Lyrics";
+"mo_track_playing" = "No track is currently playing.";
 
 "gestures_control" = "Gestures";
 "brightness" = "Brightness";

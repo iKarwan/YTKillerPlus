@@ -49,6 +49,17 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "SUBSCRIPTIONS" = "Subskrypcje";
 "LIBRARY" = "Biblioteka";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Muzyka";
+"LIVE_TAB"      = "Na żywo";
+"GAMING_TAB"    = "Gry";
+"NEWS_TAB"      = "Wiadomości";
+"SPORTS_TAB"    = "Sport";
+"LEARNING_TAB"  = "Nauka";
+"FASHION_TAB"   = "Moda";
+"PLAYLISTS_TAB" = "Playlisty";
+"HISTORY_TAB"   = "Historia";
+"NOTIFS_TAB"    = "Powiad.";
+"WLATER_TAB"    = "Obejrzyj później";
 
 /* defaults */
 "overlay_button" = "Sterowanie odtwarzaczem";
@@ -306,6 +317,10 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "INACTIVE_TABS_TXT" = "%@ (nieaktywna)";
 "TABS_INACTIVE" = "Karty są nieaktywne";
 "TABS_INACTIVE_DESC" = "\"%@\" jest nieaktywna. Najpierw dodaj ją do aktywnych kart.";
+"remove_restrict" = "Nie można usunąć";
+"remove_restrict_desc" = "Musisz mieć co najmniej jedną aktywną kartę.";
+"limit_reached" = "Osiągnięto limit";
+"limit_reached_desc" = "Możesz mieć maksymalnie 6 aktywnych kart.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Różne";
@@ -367,6 +382,7 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "NOTE" = "Uwaga!";
 "SAVE_FAILED" = "Zapis nie powiódł się!";
 "SAVE_TO_PHOTOS_FAILED" = "Nie udało się zapisać do Zdjęć. Przyznaj aplikacji YouTube dostęp do Zdjęć w Ustawieniach.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Nie udało się zapisać filmu %@ w Zdjęciach. Może to być spowodowane ograniczeniami kodeka HEVC w używanej wersji iOS. Spróbuj zamiast tego użyć opcji Udostępnij.";
 "DELETING_VIDEO" = "Usunąć wideo?";
 "DELETING_AUDIO" = "Usunąć audio?";
 "AUTO_LANGUAGE" = "Auto";
@@ -458,6 +474,12 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "set" = "Ustaw";
 "invalid_input" = "Nieprawidłowe dane";
 "invalid_input_desc" = "Użyj formatów: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Nie znaleziono tekstu dla tego utworu.";
+"could_not_load_lyrics" = "Nie udało się załadować tekstu.\nSprawdź połączenie.";
+"lyrics_not_available_for_this_track" = "Tekst nie jest dostępny dla tego utworu.";
+"unknown_artist" = "Nieznany wykonawca";
+"lyrics" = "Tekst";
+"mo_track_playing" = "Obecnie nie jest odtwarzany żaden utwór.";
 
 "gestures_control" = "Gesty";
 "brightness" = "Jasność";

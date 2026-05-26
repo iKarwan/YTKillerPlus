@@ -51,6 +51,17 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 "SUBSCRIPTIONS" = "Iscrizioni";
 "LIBRARY" = "Libreria";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Musica";
+"LIVE_TAB"      = "Live";
+"GAMING_TAB"    = "Gaming";
+"NEWS_TAB"      = "Notizie";
+"SPORTS_TAB"    = "Sport";
+"LEARNING_TAB"  = "Apprendimento";
+"FASHION_TAB"   = "Moda";
+"PLAYLISTS_TAB" = "Playlist";
+"HISTORY_TAB"   = "Cronologia";
+"NOTIFS_TAB"    = "Notifiche";
+"WLATER_TAB"    = "Guarda più tardi";
 
 /* defaults */
 "overlay_button" = "Controlli del lettore";
@@ -308,6 +319,10 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 "INACTIVE_TABS_TXT" = "%@ (inattiva)";
 "TABS_INACTIVE" = "Le schede sono inattive";
 "TABS_INACTIVE_DESC" = "\"%@\" è inattiva. Aggiungila prima alle schede attive.";
+"remove_restrict" = "Impossibile rimuovere";
+"remove_restrict_desc" = "È necessaria almeno una scheda attiva.";
+"limit_reached" = "Limite raggiunto";
+"limit_reached_desc" = "Puoi avere al massimo 6 schede attive.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Varie";
@@ -369,6 +384,7 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 "NOTE" = "Nota!";
 "SAVE_FAILED" = "Salvataggio Fallito!";
 "SAVE_TO_PHOTOS_FAILED" = "Salvataggio in Foto fallito. Concedi l’accesso a Foto nelle impostazioni di YouTube.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Impossibile salvare il video %@ in Foto. Ciò potrebbe essere dovuto alle restrizioni del codec HEVC nella tua versione di iOS. Prova invece a utilizzare l'opzione Condividi.";
 "DELETING_VIDEO" = "Eliminare Video?";
 "DELETING_AUDIO" = "Eliminare Audio?";
 "AUTO_LANGUAGE" = "Auto";
@@ -459,6 +475,12 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 "set" = "Imposta";
 "invalid_input" = "Input non valido";
 "invalid_input_desc" = "Usa formati come: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Testo non trovato per questo brano.";
+"could_not_load_lyrics" = "Impossibile caricare il testo.\nControlla la connessione.";
+"lyrics_not_available_for_this_track" = "Testo non disponibile per questo brano.";
+"unknown_artist" = "Artista sconosciuto";
+"lyrics" = "Testo";
+"mo_track_playing" = "Nessun brano è attualmente in riproduzione.";
 
 "gestures_control" = "Gesti";
 "brightness" = "Luminosità";

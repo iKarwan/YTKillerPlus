@@ -50,6 +50,17 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "SUBSCRIPTIONS" = "Abonelikler";
 "LIBRARY" = "Kütüphane";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Müzik";
+"LIVE_TAB"      = "Canlı";
+"GAMING_TAB"    = "Oyun";
+"NEWS_TAB"      = "Haberler";
+"SPORTS_TAB"    = "Spor";
+"LEARNING_TAB"  = "Öğrenme";
+"FASHION_TAB"   = "Moda";
+"PLAYLISTS_TAB" = "Oynatma Listeleri";
+"HISTORY_TAB"   = "Geçmiş";
+"NOTIFS_TAB"    = "Bildirimler";
+"WLATER_TAB"    = "Daha Sonra İzle";
 
 /* defaults */
 "overlay_button" = "Oynatıcı Kontrolleri";
@@ -307,6 +318,10 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "INACTIVE_TABS_TXT" = "%@ (pasif)";
 "TABS_INACTIVE" = "Sekmeler pasif";
 "TABS_INACTIVE_DESC" = "\"%@\" pasif. Önce aktif sekmelere ekleyin.";
+"remove_restrict" = "Kaldırılamaz";
+"remove_restrict_desc" = "En az bir aktif sekmeye ihtiyacınız var.";
+"limit_reached" = "Sınıra ulaşıldı";
+"limit_reached_desc" = "En fazla 6 aktif sekmeniz olabilir.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Diğer";
@@ -368,6 +383,7 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "NOTE" = "Not";
 "SAVE_FAILED" = "Kaydedilemedi!";
 "SAVE_TO_PHOTOS_FAILED" = "Fotoğraflar uygulamasına izin verildiğinden emin olun.";
+"SAVE_HIGH_RES_FAILED_FMT" = "%@ videosu Fotoğraflar'a kaydedilemedi. Bunun nedeni iOS sürümünüzdeki HEVC codec kısıtlamaları olabilir. Bunun yerine Paylaş seçeneğini kullanmayı deneyin.";
 "DELETING_VIDEO" = "Video Silinsin mi?";
 "DELETING_AUDIO" = "Ses Silinsin mi?";
 "AUTO_LANGUAGE" = "Otomatik";
@@ -456,6 +472,12 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "set" = "Ayarla";
 "invalid_input" = "Geçersiz giriş";
 "invalid_input_desc" = "Şu formatları kullanın: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Bu parça için şarkı sözü bulunamadı.";
+"could_not_load_lyrics" = "Şarkı sözleri yüklenemedi.\nBağlantınızı kontrol edin.";
+"lyrics_not_available_for_this_track" = "Bu parça için şarkı sözleri mevcut değil.";
+"unknown_artist" = "Bilinmeyen Sanatçı";
+"lyrics" = "Şarkı Sözleri";
+"mo_track_playing" = "Şu anda çalan bir parça yok.";
 
 /* gestures */
 "gestures_control" = "Hareketler";

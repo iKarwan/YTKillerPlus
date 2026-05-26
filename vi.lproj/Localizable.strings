@@ -50,6 +50,17 @@
 "SUBSCRIPTIONS" = "Đăng Ký";
 "LIBRARY" = "Thư Viện";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Nhạc";
+"LIVE_TAB"      = "Trực tiếp";
+"GAMING_TAB"    = "Trò chơi";
+"NEWS_TAB"      = "Tin tức";
+"SPORTS_TAB"    = "Thể thao";
+"LEARNING_TAB"  = "Học tập";
+"FASHION_TAB"   = "Thời trang";
+"PLAYLISTS_TAB" = "Danh sách phát";
+"HISTORY_TAB"   = "Lịch sử";
+"NOTIFS_TAB"    = "Thông báo";
+"WLATER_TAB"    = "Xem sau";
 
 /* defaults */
 "overlay_button" = "Điều khiển trình phát";
@@ -308,6 +319,10 @@
 "INACTIVE_TABS_TXT" = "%@ (không hoạt động)";
 "TABS_INACTIVE" = "Các tab đang không hoạt động";
 "TABS_INACTIVE_DESC" = "\"%@\" đang không hoạt động. Hãy thêm vào tab hoạt động trước.";
+"remove_restrict" = "Không thể xóa";
+"remove_restrict_desc" = "Bạn cần ít nhất một tab đang hoạt động.";
+"limit_reached" = "Đã đạt giới hạn";
+"limit_reached_desc" = "Bạn chỉ có thể có tối đa 6 tab đang hoạt động.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Khác";
@@ -369,6 +384,7 @@
 "NOTE" = "Lưu ý";
 "SAVE_FAILED" = "Lưu thất bại!";
 "SAVE_TO_PHOTOS_FAILED" = "Hãy cấp quyền truy cập Ảnh cho YouTube.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Không thể lưu video %@ vào Ảnh. Điều này có thể do hạn chế codec HEVC trên phiên bản iOS của bạn. Hãy thử sử dụng tùy chọn Chia sẻ thay thế.";
 "DELETING_VIDEO" = "Xóa video?";
 "DELETING_AUDIO" = "Xóa âm thanh?";
 "AUTO_LANGUAGE" = "Tự động";
@@ -457,6 +473,12 @@
 "set" = "Đặt";
 "invalid_input" = "Dữ liệu không hợp lệ";
 "invalid_input_desc" = "Sử dụng định dạng như: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Không tìm thấy lời bài hát cho bài hát này.";
+"could_not_load_lyrics" = "Không thể tải lời bài hát.\nVui lòng kiểm tra kết nối của bạn.";
+"lyrics_not_available_for_this_track" = "Lời bài hát không khả dụng cho bài hát này.";
+"unknown_artist" = "Nghệ sĩ không xác định";
+"lyrics" = "Lời bài hát";
+"mo_track_playing" = "Hiện không có bài hát nào đang phát.";
 
 /* gestures */
 "gestures_control" = "Cử chỉ";

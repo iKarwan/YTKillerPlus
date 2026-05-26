@@ -50,6 +50,17 @@
 "SUBSCRIPTIONS" = "Подписки";
 "LIBRARY" = "Библиотека";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Музыка";
+"LIVE_TAB"      = "Трансляции";
+"GAMING_TAB"    = "Игры";
+"NEWS_TAB"      = "Новости";
+"SPORTS_TAB"    = "Спорт";
+"LEARNING_TAB"  = "Обучение";
+"FASHION_TAB"   = "Мода";
+"PLAYLISTS_TAB" = "Плейлисты";
+"HISTORY_TAB"   = "История";
+"NOTIFS_TAB"    = "Уведомления";
+"WLATER_TAB"    = "Смотреть позже";
 
 /* defaults */
 "overlay_button" = "Элементы управления плеером";
@@ -307,6 +318,10 @@
 "INACTIVE_TABS_TXT" = "%@ (неактивна)";
 "TABS_INACTIVE" = "Вкладки неактивны";
 "TABS_INACTIVE_DESC" = "\"%@\" неактивна. Сначала добавьте её в активные вкладки.";
+"remove_restrict" = "Невозможно удалить";
+"remove_restrict_desc" = "Необходимо иметь хотя бы одну активную вкладку.";
+"limit_reached" = "Достигнут лимит";
+"limit_reached_desc" = "Можно иметь не более 6 активных вкладок.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Прочее";
@@ -368,6 +383,7 @@
 "NOTE" = "Примечание";
 "SAVE_FAILED" = "Ошибка сохранения!";
 "SAVE_TO_PHOTOS_FAILED" = "Проверьте разрешения приложения Фото.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Не удалось сохранить видео %@ в Фото. Это может быть связано с ограничениями кодека HEVC в вашей версии iOS. Попробуйте использовать функцию «Поделиться».";
 "DELETING_VIDEO" = "Удалить видео?";
 "DELETING_AUDIO" = "Удалить аудио?";
 "AUTO_LANGUAGE" = "Авто";
@@ -456,6 +472,12 @@
 "set" = "Установить";
 "invalid_input" = "Неверный ввод";
 "invalid_input_desc" = "Используйте форматы: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "Текст песни для этого трека не найден.";
+"could_not_load_lyrics" = "Не удалось загрузить текст песни.\nПроверьте подключение.";
+"lyrics_not_available_for_this_track" = "Текст песни недоступен для этого трека.";
+"unknown_artist" = "Неизвестный исполнитель";
+"lyrics" = "Текст песни";
+"mo_track_playing" = "Сейчас ничего не воспроизводится.";
 
 /* gestures */
 "gestures_control" = "Жесты";

@@ -50,6 +50,17 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 "SUBSCRIPTIONS" = "Suscripciones";
 "LIBRARY" = "Biblioteca";
 "YTKPlus" = "YTKPlus";
+"MUSIC_TAB"     = "Música";
+"LIVE_TAB"      = "En directo";
+"GAMING_TAB"    = "Juegos";
+"NEWS_TAB"      = "Noticias";
+"SPORTS_TAB"    = "Deportes";
+"LEARNING_TAB"  = "Aprendizaje";
+"FASHION_TAB"   = "Moda";
+"PLAYLISTS_TAB" = "Listas";
+"HISTORY_TAB"   = "Historial";
+"NOTIFS_TAB"    = "Notifs";
+"WLATER_TAB"    = "Ver más tarde";
 
 /* defaults */
 "overlay_button" = "Controles del reproductor";
@@ -307,6 +318,10 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 "INACTIVE_TABS_TXT" = "%@ (inactiva)";
 "TABS_INACTIVE" = "Las pestañas están inactivas";
 "TABS_INACTIVE_DESC" = "\"%@\" está inactiva. Añádela primero a las pestañas activas.";
+"remove_restrict" = "No se puede eliminar";
+"remove_restrict_desc" = "Necesitas al menos una pestaña activa.";
+"limit_reached" = "Límite alcanzado";
+"limit_reached_desc" = "Puedes tener como máximo 6 pestañas activas.";
 
 /* miscellaneous section */
 "MISCELLANEOUS_SECTION" = "Varios";
@@ -368,6 +383,7 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 "NOTE" = "Nota";
 "SAVE_FAILED" = "Error al guardar";
 "SAVE_TO_PHOTOS_FAILED" = "Error al guardar en Fotos. Da permiso a YouTube en Ajustes.";
+"SAVE_HIGH_RES_FAILED_FMT" = "Error al guardar el vídeo %@ en Fotos. Esto puede deberse a restricciones del códec HEVC en tu versión de iOS. Intenta usar la opción Compartir en su lugar.";
 "DELETING_VIDEO" = "¿Eliminar video?";
 "DELETING_AUDIO" = "¿Eliminar audio?";
 "AUTO_LANGUAGE" = "Automático";
@@ -456,6 +472,12 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 "set" = "Establecer";
 "invalid_input" = "Entrada no válida";
 "invalid_input_desc" = "Usa formatos como: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "No se encontraron letras para esta canción.";
+"could_not_load_lyrics" = "No se pudieron cargar las letras.\nComprueba tu conexión.";
+"lyrics_not_available_for_this_track" = "Las letras no están disponibles para esta canción.";
+"unknown_artist" = "Artista desconocido";
+"lyrics" = "Letras";
+"mo_track_playing" = "No se está reproduciendo ninguna canción.";
 
 /* gestures */
 "gestures_control" = "Gestos";
