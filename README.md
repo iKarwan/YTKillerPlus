@@ -30,9 +30,9 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | YTKillerPlus | File Type |
 |---|---|---|---|---|
-| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.21_YTKillerPlus_5.5.3.ipa) | com.google.ios.youtube | 21.21 | 5.5.3 | IPA |
-| [TrollStore ↓](https://ikghd.site/ipa/YouTube_21.21_YTKillerPlus_5.5.3_TrollStore.tipa) | com.google.ios.youtube | 21.21 | 5.5.3 | tipa |
-| [No_Plugin ↓](https://ikghd.site/ipa/YouTube_21.21_YTKillerPlus_5.5.3_NP.ipa) | com.google.ios.youtube | 21.21 | 5.5.3 | IPA |
+| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4.ipa) | com.google.ios.youtube | 21.22 | 5.5.4 | IPA |
+| [TrollStore ↓](https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_TrollStore.tipa) | com.google.ios.youtube | 21.22 | 5.5.4 | tipa |
+| [No_Plugin ↓](https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_NP.ipa) | com.google.ios.youtube | 21.22 | 5.5.4 | IPA |
 
 </details>
 
@@ -66,7 +66,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_21.21_YTKillerPlus_5.5.3_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
