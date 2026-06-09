@@ -24,7 +24,7 @@ This is a temporary fix. After a couple of days of using it, your account should
 
 📍 For best results:
 • Enable Location Services for YouTube
-• Turn OFF any VPN and do not use one while fixing the issue
+• Turn OFF any VPN - Proxy and do not use one while fixing the issue
 
 ▶️ To speed up the recovery process:
 • Play long videos (1 hour or longer)
@@ -429,6 +429,11 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 
 "gestures_on" = "Gestures On";
 "gestures_off" = "Gestures Off";
+"autoplay_taggole" = "AutoPlay";
+"autoplay_on" = "AutoPlay On";
+"autoplay_off" = "AutoPlay Off";
+"zoomed_fill" = "Zoomed to fill";
+"original" = "Original";
 "remaining" = "Remaining";
 "your_queue" = "Your Queue";
 "playing_from" = "Playing from";

@@ -21,7 +21,7 @@
 
 📍 Để có kết quả tốt nhất:
 • Bật Dịch vụ Vị trí cho YouTube
-• Tắt mọi VPN và không sử dụng VPN trong quá trình khắc phục
+• Tắt mọi VPN - Proxy và không sử dụng VPN - Proxy trong quá trình khắc phục
 
 ▶️ Để tăng tốc quá trình khôi phục:
 • Phát các video dài (1 giờ trở lên)
@@ -425,6 +425,11 @@
 
 "gestures_on" = "Bật cử chỉ";
 "gestures_off" = "Tắt cử chỉ";
+"autoplay_taggole" = "Tự động phát";
+"autoplay_on" = "Đã bật tự động phát";
+"autoplay_off" = "Đã tắt tự động phát";
+"zoomed_fill" = "Phóng to để lấp đầy";
+"original" = "Gốc";
 "remaining" = "Còn lại";
 "your_queue" = "Hàng đợi của bạn";
 "playing_from" = "Đang phát từ";

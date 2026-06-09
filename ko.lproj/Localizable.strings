@@ -21,7 +21,7 @@
 
 📍 최상의 결과를 위해:
 • YouTube의 위치 서비스를 활성화하세요
-• VPN을 모두 끄고 문제 해결 중에는 사용하지 마세요
+• VPN - Proxy을 모두 끄고 문제 해결 중에는 사용하지 마세요
 
 ▶️ 복구 속도를 높이려면:
 • 1시간 이상인 긴 동영상을 재생하세요
@@ -424,6 +424,11 @@
 
 "gestures_on" = "제스처 켜짐";
 "gestures_off" = "제스처 꺼짐";
+"autoplay_taggole" = "자동 재생";
+"autoplay_on" = "자동 재생 켜짐";
+"autoplay_off" = "자동 재생 꺼짐";
+"zoomed_fill" = "화면 채우기로 확대";
+"original" = "원본";
 "remaining" = "남음";
 "your_queue" = "재생 목록";
 "playing_from" = "재생 위치";

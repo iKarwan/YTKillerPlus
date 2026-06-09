@@ -21,7 +21,7 @@ Bu geçici bir çözümdür. Birkaç gün kullandıktan sonra hesabınızın yen
 
 📍 En iyi sonuçlar için:
 • YouTube için Konum Hizmetlerini etkinleştirin
-• Tüm VPN'leri kapatın ve sorun giderme sırasında kullanmayın
+• Tüm VPN - Proxy'leri kapatın ve sorun giderme sırasında kullanmayın
 
 ▶️ Kurtarma sürecini hızlandırmak için:
 • Uzun videolar oynatın (1 saat veya daha uzun)
@@ -424,6 +424,11 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 
 "gestures_on" = "Hareketler Açık";
 "gestures_off" = "Hareketler Kapalı";
+"autoplay_taggole" = "Otomatik Oynatma";
+"autoplay_on" = "Otomatik Oynatma Açık";
+"autoplay_off" = "Otomatik Oynatma Kapalı";
+"zoomed_fill" = "Dolduracak şekilde yakınlaştırıldı";
+"original" = "Orijinal";
 "remaining" = "Kalan";
 "your_queue" = "Sıran";
 "playing_from" = "Buradan oynatılıyor";

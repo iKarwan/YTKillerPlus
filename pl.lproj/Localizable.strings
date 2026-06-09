@@ -20,7 +20,7 @@ To tymczasowe rozwiązanie. Po kilku dniach korzystania konto powinno ponownie w
 
 📍 Aby uzyskać najlepsze rezultaty:
 • Włącz usługi lokalizacji dla YouTube
-• Wyłącz VPN i nie używaj go podczas rozwiązywania problemu
+• Wyłącz VPN - Proxy i nie używaj go podczas rozwiązywania problemu
 
 ▶️ Aby przyspieszyć proces odzyskiwania:
 • Odtwarzaj długie filmy (1 godzina lub dłużej)
@@ -425,6 +425,11 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 
 "gestures_on" = "Gesty włączone";
 "gestures_off" = "Gesty wyłączone";
+"autoplay_taggole" = "Autoodtwarzanie";
+"autoplay_on" = "Autoodtwarzanie włączone";
+"autoplay_off" = "Autoodtwarzanie wyłączone";
+"zoomed_fill" = "Powiększono do wypełnienia";
+"original" = "Oryginalny";
 "remaining" = "Pozostało";
 "your_queue" = "Twoja kolejka";
 "playing_from" = "Odtwarzanie z";

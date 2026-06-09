@@ -20,7 +20,7 @@ Dies ist eine vorübergehende Lösung. Nach einigen Tagen Nutzung sollte dein Ko
 
 📍 Für beste Ergebnisse:
 • Standortdienste für YouTube aktivieren
-• VPN vollständig deaktivieren und während der Behebung nicht verwenden
+• VPN - Proxy vollständig deaktivieren und während der Behebung nicht verwenden
 
 ▶️ Um die Wiederherstellung zu beschleunigen:
 • Lange Videos abspielen (1 Stunde oder länger)
@@ -426,6 +426,11 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 
 "gestures_on" = "Gesten an";
 "gestures_off" = "Gesten aus";
+"autoplay_taggole" = "Automatische Wiedergabe";
+"autoplay_on" = "Automatische Wiedergabe an";
+"autoplay_off" = "Automatische Wiedergabe aus";
+"zoomed_fill" = "Zum Ausfüllen vergrößert";
+"original" = "Original";
 "remaining" = "Verbleibend";
 "your_queue" = "Deine Warteschlange";
 "playing_from" = "Wiedergabe von";

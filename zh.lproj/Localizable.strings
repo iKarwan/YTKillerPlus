@@ -21,7 +21,7 @@
 
 📍 为获得最佳效果：
 • 为 YouTube 启用定位服务
-• 关闭所有 VPN，并在修复期间不要使用 VPN
+• 关闭所有 VPN - Proxy，并在修复期间不要使用 VPN - Proxy
 
 ▶️ 为加快恢复速度：
 • 播放较长的视频（1 小时或以上）
@@ -425,6 +425,11 @@
 
 "gestures_on" = "手势已开启";
 "gestures_off" = "手势已关闭";
+"autoplay_taggole" = "自动播放";
+"autoplay_on" = "自动播放已开启";
+"autoplay_off" = "自动播放已关闭";
+"zoomed_fill" = "缩放填充";
+"original" = "原始";
 "remaining" = "剩余";
 "your_queue" = "你的队列";
 "playing_from" = "播放来源";

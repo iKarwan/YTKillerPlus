@@ -22,7 +22,7 @@ Questa è una soluzione temporanea. Dopo alcuni giorni di utilizzo, il tuo accou
 
 📍 Per ottenere i migliori risultati:
 • Attiva i servizi di localizzazione per YouTube
-• Disattiva qualsiasi VPN e non utilizzarla durante la risoluzione del problema
+• Disattiva qualsiasi VPN - Proxy e non utilizzarla durante la risoluzione del problema
 
 ▶️ Per accelerare il processo di ripristino:
 • Riproduci video lunghi (1 ora o più)
@@ -427,6 +427,11 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 
 "gestures_on" = "Gesti attivi";
 "gestures_off" = "Gesti disattivati";
+"autoplay_taggole" = "Riproduzione automatica";
+"autoplay_on" = "Riproduzione automatica attiva";
+"autoplay_off" = "Riproduzione automatica disattivata";
+"zoomed_fill" = "Ingrandito per riempire";
+"original" = "Originale";
 "remaining" = "Rimanente";
 "your_queue" = "La tua coda";
 "playing_from" = "Riproduzione da";

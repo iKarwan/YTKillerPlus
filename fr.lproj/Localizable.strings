@@ -24,7 +24,7 @@ Il s'agit d'une solution temporaire. Après quelques jours d'utilisation, votre 
 
 📍 Pour de meilleurs résultats :
 • Activez les services de localisation pour YouTube
-• Désactivez tout VPN et n'en utilisez pas pendant la résolution du problème
+• Désactivez tout VPN - Proxy et n'en utilisez pas pendant la résolution du problème
 
 ▶️ Pour accélérer la récupération :
 • Regardez de longues vidéos (1 heure ou plus)
@@ -429,6 +429,11 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 
 "gestures_on" = "Gestes activés";
 "gestures_off" = "Gestes désactivés";
+"autoplay_taggole" = "Lecture automatique";
+"autoplay_on" = "Lecture automatique activée";
+"autoplay_off" = "Lecture automatique désactivée";
+"zoomed_fill" = "Zoom pour remplir";
+"original" = "Original";
 "remaining" = "Restant";
 "your_queue" = "Votre file d’attente";
 "playing_from" = "Lecture depuis";
