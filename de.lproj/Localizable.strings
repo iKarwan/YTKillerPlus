@@ -13,10 +13,10 @@
 
 "fix_playback_issue" = "🔧 Wiedergabeprobleme beheben & Konto wiederherstellen";
 "fix_playback_issue_disc" = "🎯 Behebt \"Etwas ist schiefgelaufen\" Fehler und Unterbrechungen.";
-"fix_playback_issue_disc_footer" = "✅ Auf mehreren Konten getestet — alle kehrten nach einigen Tagen mit dieser Option vollständig zum normalen Wiedergabestatus zurück.
+"fix_playback_issue_disc_footer" = "✅ Auf mehreren Konten getestet — alle kehrten nach einigen Tagen mit aktivierter Option vollständig zum normalen Wiedergabestatus zurück.
 
 📍 Wichtig:
-Dies ist eine vorübergehende Lösung. Nach einigen Tagen Nutzung sollte dein Konto wieder in den normalen Wiedergabestatus zurückkehren. Befolge alle Schritte sorgfältig.
+Dies ist ein vorübergehender Schalter und gleichzeitig eine dauerhafte Lösung. Nach einigen Tagen Nutzung sollte dein Konto wieder in den normalen Wiedergabestatus zurückkehren. Stelle sicher, dass du alle Schritte sorgfältig befolgst.
 
 📍 Für beste Ergebnisse:
 • Standortdienste für YouTube aktivieren
@@ -40,7 +40,7 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Standard-Startseite";
+"STARTUP_PAGE" = "Standard-Starttab";
 "DEFAULT_PAGE" = "Startseite";
 
 "HOME" = "Startseite";
@@ -64,7 +64,9 @@ Dies hilft YouTube, normales Wiedergabeverhalten zu erkennen, und kann dazu beit
 /* defaults */
 "overlay_button" = "Player-Steuerung";
 "overlay_player" = "Overlay-Player";
-"speed_index" = "Wiedergabegeschwindigkeit";
+"speed_index_id" = "Wiedergabe";
+"speed_index" = "Umschalter für Wiedergabegeschwindigkeit";
+"speed_index_players" = "Wiedergabegeschwindigkeit";
 "default_speed_index" = "Standard-Wiedergabegeschwindigkeit";
 "default_speed_index_disc" = "Behält die gewählte Geschwindigkeit ohne Konflikte mit Overlay-Steuerungen bei.";
 "pip_player" = "Im PiP abspielen";

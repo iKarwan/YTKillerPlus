@@ -17,7 +17,7 @@
 "fix_playback_issue_disc_footer" = "✅ Birden fazla hesapta test edildi — bu seçenek etkinleştirildikten birkaç gün sonra hepsi normal oynatma durumuna tamamen geri döndü.
 
 📍 Önemli:
-Bu geçici bir çözümdür. Birkaç gün kullandıktan sonra hesabınızın yeniden normal oynatma durumuna dönmesi gerekir. Tüm adımları dikkatlice uyguladığınızdan emin olun.
+Bu geçici bir anahtar olsa da kalıcı bir çözümdür. Birkaç gün kullandıktan sonra hesabınız tekrar normal oynatma durumuna dönmelidir. Tüm adımları dikkatlice uyguladığınızdan emin olun.
 
 📍 En iyi sonuçlar için:
 • YouTube için Konum Hizmetlerini etkinleştirin
@@ -41,7 +41,7 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Varsayılan Başlangıç Sayfası";
+"STARTUP_PAGE" = "Varsayılan başlangıç sekmesi";
 "DEFAULT_PAGE" = "Ana Sayfa";
 
 "HOME" = "Ana Sayfa";
@@ -65,7 +65,9 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 /* defaults */
 "overlay_button" = "Oynatıcı Kontrolleri";
 "overlay_player" = "Katmanlı Oynatıcı";
-"speed_index" = "Oynatma Hızı";
+"speed_index_id" = "Oynatma";
+"speed_index" = "Oynatma hızı seçenekleri";
+"speed_index_players" = "Oynatma Hızı";
 "default_speed_index" = "Varsayılan Oynatma Hızı";
 "default_speed_index_disc" = "Varsayılan hızı korur ve çakışmaları önler.";
 "pip_player" = "PiP Oynat";

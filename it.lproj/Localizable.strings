@@ -18,7 +18,7 @@
 "fix_playback_issue_disc_footer" = "✅ Testato su più account: tutti sono tornati completamente allo stato normale di riproduzione dopo alcuni giorni con questa opzione attivata.
 
 📍 Importante:
-Questa è una soluzione temporanea. Dopo alcuni giorni di utilizzo, il tuo account dovrebbe tornare nuovamente al normale stato di riproduzione. Assicurati di seguire attentamente tutti i passaggi.
+Si tratta di un'interruttore temporaneo ma di una soluzione permanente. Dopo alcuni giorni di utilizzo, il tuo account dovrebbe tornare al normale stato di riproduzione. Assicurati di seguire attentamente tutti i passaggi.
 
 📍 Per ottenere i migliori risultati:
 • Attiva i servizi di localizzazione per YouTube
@@ -42,7 +42,7 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Pagina di Avvio Predefinita";
+"STARTUP_PAGE" = "Scheda iniziale predefinita";
 "DEFAULT_PAGE" = "Home";
 
 "HOME" = "Home";
@@ -66,7 +66,9 @@ Questo aiuta YouTube a verificare una normale attività di visualizzazione e pu�
 /* defaults */
 "overlay_button" = "Controlli del lettore";
 "overlay_player" = "Player Sovrapposto";
-"speed_index" = "Velocità di Riproduzione";
+"speed_index_id" = "Riproduzione";
+"speed_index" = "Opzioni velocità di riproduzione";
+"speed_index_players" = "Velocità di Riproduzione";
 "default_speed_index" = "Velocità di Riproduzione Predefinita";
 "default_speed_index_disc" = "Mantiene la velocità scelta senza conflitti con i controlli sovrapposti.";
 "pip_player" = "Riproduci in PiP";

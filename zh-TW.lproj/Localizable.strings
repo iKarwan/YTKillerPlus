@@ -14,10 +14,10 @@
 
 "fix_playback_issue" = "🔧 修復播放與帳號恢復";
 "fix_playback_issue_disc" = "🎯 修復側載版 App 出現的「發生錯誤」與影片中斷問題。";
-"fix_playback_issue_disc_footer" = "✅ 已在多个账号上测试——启用此选项后，所有账号都在几天内完全恢复到正常播放状态。
+"fix_playback_issue_disc_footer" = "✅ 已在多个账号上测试——启用此选项几天后，均已完全恢复到正常播放状态。
 
 📍 重要：
-这是一个临时修复方案。使用几天后，您的账号应会恢复到正常播放状态。请务必仔细遵循以下所有步骤。
+这是一个临时开关，同时也是永久修复方案。使用几天后，您的账号应恢复到正常播放状态。请务必仔细按照所有步骤操作。
 
 📍 为获得最佳效果：
 • 为 YouTube 启用定位服务
@@ -41,7 +41,7 @@
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "預設啟動頁面";
+"STARTUP_PAGE" = "默认启动标签页";
 "DEFAULT_PAGE" = "首頁";
 
 "HOME" = "首頁";
@@ -65,7 +65,9 @@
 /* defaults */
 "overlay_button" = "播放控制與切換";
 "overlay_player" = "覆蓋層播放器";
-"speed_index" = "播放速度";
+"speed_index_id" = "播放";
+"speed_index" = "播放速度切换选项";
+"speed_index_players" = "播放速度";
 "default_speed_index" = "預設播放速度";
 "default_speed_index_disc" = "保持選定的速度，不與控制介面衝突。";
 "pip_player" = "使用子母畫面播放";

@@ -14,10 +14,10 @@
 
 "fix_playback_issue" = "🔧 Sửa lỗi phát và khôi phục tài khoản";
 "fix_playback_issue_disc" = "🎯 Sửa lỗi \"Đã xảy ra lỗi\" và gián đoạn phát.";
-"fix_playback_issue_disc_footer" = "✅ Đã được thử nghiệm trên nhiều tài khoản — tất cả đều trở lại trạng thái phát bình thường sau vài ngày bật tùy chọn này.
+"fix_playback_issue_disc_footer" = "✅ Đã được thử nghiệm trên nhiều tài khoản — tất cả đều khôi phục hoàn toàn trạng thái phát bình thường sau vài ngày bật tính năng này.
 
 📍 Quan trọng:
-Đây là giải pháp tạm thời. Sau vài ngày sử dụng, tài khoản của bạn sẽ quay lại trạng thái phát bình thường. Hãy đảm bảo làm theo tất cả các bước một cách cẩn thận.
+Đây là một công tắc tạm thời nhưng là giải pháp lâu dài. Sau vài ngày sử dụng, tài khoản của bạn sẽ trở lại trạng thái phát bình thường. Hãy đảm bảo làm theo tất cả các bước một cách cẩn thận.
 
 📍 Để có kết quả tốt nhất:
 • Bật Dịch vụ Vị trí cho YouTube
@@ -41,7 +41,7 @@
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Trang Khởi Động Mặc Định";
+"STARTUP_PAGE" = "Tab khởi động mặc định";
 "DEFAULT_PAGE" = "Trang Chủ";
 
 "HOME" = "Trang Chủ";
@@ -65,7 +65,9 @@
 /* defaults */
 "overlay_button" = "Điều khiển trình phát";
 "overlay_player" = "Trình Phát Nổi";
-"speed_index" = "Tốc Độ Phát";
+"speed_index_id" = "Phát lại";
+"speed_index" = "Tùy chọn tốc độ phát";
+"speed_index_players" = "Tốc Độ Phát";
 "default_speed_index" = "Tốc Độ Mặc Định";
 "default_speed_index_disc" = "Giữ tốc độ phát mặc định để tránh lỗi xung đột.";
 "pip_player" = "Phát trong PiP";

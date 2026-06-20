@@ -14,10 +14,10 @@
 
 "fix_playback_issue" = "🔧 Corregir reproducción y recuperación de cuenta";
 "fix_playback_issue_disc" = "🎯 Soluciona errores de \"Algo salió mal\" y cortes de transmisión en apps sideload.";
-"fix_playback_issue_disc_footer" = "✅ Probado en varias cuentas: todas volvieron completamente a su estado normal de reproducción después de unos días con esta opción activada.
+"fix_playback_issue_disc_footer" = "✅ Probado en varias cuentas: todas recuperaron completamente el estado normal de reproducción después de unos días con esta opción activada.
 
 📍 Importante:
-Esta es una solución temporal. Después de usarla durante un par de días, tu cuenta debería volver a su estado normal de reproducción. Asegúrate de seguir todos los pasos cuidadosamente.
+Este es un interruptor temporal y una solución permanente al mismo tiempo. Después de usarlo durante unos días, tu cuenta debería volver a su estado normal de reproducción. Asegúrate de seguir todos los pasos cuidadosamente.
 
 📍 Para obtener los mejores resultados:
 • Activa los servicios de ubicación para YouTube
@@ -41,7 +41,7 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 "SHORTS_TAB_BAR" = "Cortos";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Página de inicio predeterminada";
+"STARTUP_PAGE" = "Pestaña de inicio predeterminada";
 "DEFAULT_PAGE" = "Inicio";
 
 "HOME" = "Inicio";
@@ -65,7 +65,9 @@ Esto ayuda a YouTube a verificar una actividad de visualización normal y puede 
 /* defaults */
 "overlay_button" = "Controles del reproductor";
 "overlay_player" = "Reproductor superpuesto";
-"speed_index" = "Velocidad de reproducción";
+"speed_index_id" = "Reproducción";
+"speed_index" = "Opciones de velocidad de reproducción";
+"speed_index_players" = "Velocidad de reproducción";
 "default_speed_index" = "Velocidad predeterminada";
 "default_speed_index_disc" = "Mantiene la velocidad elegida sin conflicto con los controles.";
 "pip_player" = "Reproducir en PiP";

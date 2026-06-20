@@ -13,10 +13,10 @@
 
 "fix_playback_issue" = "🔧 Napraw odtwarzanie i odzyskaj konto";
 "fix_playback_issue_disc" = "🎯 Naprawia błędy \"Coś poszło nie tak\" i przerwy.";
-"fix_playback_issue_disc_footer" = "✅ Przetestowano na wielu kontach — wszystkie wróciły do normalnego stanu odtwarzania po kilku dniach korzystania z tej opcji.
+"fix_playback_issue_disc_footer" = "✅ Przetestowano na wielu kontach — wszystkie w pełni wróciły do normalnego stanu odtwarzania po kilku dniach z włączoną opcją.
 
 📍 Ważne:
-To tymczasowe rozwiązanie. Po kilku dniach korzystania konto powinno ponownie wrócić do normalnego stanu odtwarzania. Upewnij się, że dokładnie wykonujesz wszystkie kroki.
+Jest to tymczasowy przełącznik, ale trwałe rozwiązanie problemu. Po kilku dniach korzystania konto powinno wrócić do normalnego stanu odtwarzania. Upewnij się, że dokładnie wykonasz wszystkie kroki.
 
 📍 Aby uzyskać najlepsze rezultaty:
 • Włącz usługi lokalizacji dla YouTube
@@ -40,7 +40,7 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Domyślna strona startowa";
+"STARTUP_PAGE" = "Domyślna karta startowa";
 "DEFAULT_PAGE" = "Strona główna";
 
 "HOME" = "Strona główna";
@@ -64,7 +64,9 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 /* defaults */
 "overlay_button" = "Sterowanie odtwarzaczem";
 "overlay_player" = "Ustawienia odtwarzacza";
-"speed_index" = "Prędkość odtwarzania";
+"speed_index_id" = "Odtwarzanie";
+"speed_index" = "Przełączniki prędkości odtwarzania";
+"speed_index_players" = "Prędkość odtwarzania";
 "default_speed_index" = "Domyślna prędkość odtwarzania";
 "default_speed_index_disc" = "Utrzymuje wybraną prędkość bez konfliktu z kontrolkami nakładki.";
 "pip_player" = "Odtwarzanie w PiP";

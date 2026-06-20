@@ -20,7 +20,7 @@
 "fix_playback_issue_disc_footer" = "✅ Testé sur plusieurs comptes — tous sont revenus à un état de lecture normal après quelques jours avec cette option activée.
 
 📍 Important :
-Il s'agit d'une solution temporaire. Après quelques jours d'utilisation, votre compte devrait retrouver son état de lecture normal. Assurez-vous de suivre toutes les étapes attentivement.
+Il s'agit d'un interrupteur temporaire mais d'une solution permanente. Après quelques jours d'utilisation, votre compte devrait retrouver son état de lecture normal. Assurez-vous de suivre attentivement toutes les étapes.
 
 📍 Pour de meilleurs résultats :
 • Activez les services de localisation pour YouTube
@@ -44,7 +44,7 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Section page de démarrage */
-"STARTUP_PAGE" = "Page de démarrage par défaut";
+"STARTUP_PAGE" = "Varsayılan başlangıç sekmesi";
 "DEFAULT_PAGE" = "Accueil";
 
 "HOME" = "Accueil";
@@ -68,7 +68,9 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 /* Valeurs par défaut */
 "overlay_button" = "Commandes du lecteur";
 "overlay_player" = "Lecteur superposé";
-"speed_index" = "Vitesse de lecture";
+"speed_index_id" = "Oynatma";
+"speed_index" = "Oynatma hızı seçenekleri";
+"speed_index_players" = "Vitesse de lecture";
 "default_speed_index" = "Vitesse de lecture par défaut";
 "default_speed_index_disc" = "Conserve la vitesse choisie sans conflit avec les contrôles superposés.";
 "pip_player" = "Lire en PiP";

@@ -17,10 +17,10 @@
 
 "fix_playback_issue" = "🔧 Fix Playback & Account Recovery";
 "fix_playback_issue_disc" = "🎯 Fixes 'Something went wrong' errors and stream cutoffs for sideloaded apps.";
-"fix_playback_issue_disc_footer" = "✅ Tested on multiple accounts — both fully recovered to normal playback state after a few days with this enabled.
+"fix_playback_issue_disc_footer" = "✅ Tested on multiple accounts — fully recovered to normal playback state after a few days with this enabled.
 
 📍 Important:
-This is a temporary fix. After a couple of days of using it, your account should return to its normal playback state again. Make sure to follow all steps carefully.
+This is a temporary switch. and a permanent fix. After a couple of days of using it, your account should return to its normal playback state again. Make sure to follow all steps carefully.
 
 📍 For best results:
 • Enable Location Services for YouTube
@@ -44,7 +44,7 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "SHORTS_TAB_BAR" = "Shorts";
 
 /* Startup page section */
-"STARTUP_PAGE" = "Default Startup Page";
+"STARTUP_PAGE" = "Default Startup Tab";
 "DEFAULT_PAGE" = "Home";
 
 "HOME"          = "Home";
@@ -68,7 +68,9 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 /* defaults */
 "overlay_button" = "Player Controls";
 "overlay_player" = "Overlay Player";
-"speed_index" = "Playback Speed";
+"speed_index_id" = "Playback";
+"speed_index" = "Playback Speed toggles";
+"speed_index_players" = "Playback Speed";
 "default_speed_index" = "Default Playback Speed";
 "default_speed_index_disc" = "Keeps your chosen speed without conflicting with overlay controls.";
 "pip_player" = "Play in PiP";
