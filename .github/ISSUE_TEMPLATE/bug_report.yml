@@ -67,5 +67,7 @@ body:
           required: true
         - label: I did not answer truthfully to **ALL** the above checkboxes.
           required: false
+        - label: I have checked existing issues and confirm this is not a duplicate. Duplicate submissions may be closed or removed without notice.
+          required: true
         - label: By submitting this issue, **I confirm that I have filled in all the necessary fields and complied with the guidelines. Failure to comply may result in the issue being closed without discussion, and repeated violations may lead to restrict account from further participation.**
           required: true
