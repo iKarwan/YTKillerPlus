@@ -30,7 +30,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | YTKillerPlus | File Type |
 |---|---|---|---|---|
-| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.30_YTKillerPlus_5.19.ipa) | com.google.ios.youtube | 21.30 | 5.19 | IPA |
+| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.30_YTKillerPlus_5.20.ipa) | com.google.ios.youtube | 21.30 | 5.20 | IPA |
 | [TrollStore ↓](https://ikghd.site/ipa/YouTube_21.30_YTKillerPlus_5.18_TrollStore.tipa) | com.google.ios.youtube | 21.30 | 5.18 | tipa |
 
 </details>
