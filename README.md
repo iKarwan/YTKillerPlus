@@ -9,7 +9,7 @@
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 17.0 / iOS iPadOS 27.x
 * YouTube v20.20x and newer !
-* For older version [visit](https://repo.ikghd.me/YTKPlus) .
+* For older iOS versions [Visit](https://repo.ikghd.me/YTKPlus) .
 
 
 ## Depiction Page
