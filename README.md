@@ -7,9 +7,9 @@
 | ![6](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG) | ![8](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG) | ![12](https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG) |
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
-* iOS iPadOS 16.0 / iOS iPadOS 27.x
+* iOS iPadOS 17.0 / iOS iPadOS 27.x
 * YouTube v20.20x and newer !
-* For older version [visit telegram](https://t.me/ikgipa) .
+* For older version [visit](https://repo.ikghd.me/YTKPlus) .
 
 
 ## Depiction Page
