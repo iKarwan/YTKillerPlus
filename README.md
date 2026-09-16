@@ -59,7 +59,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### Installing with third party AppStore
 *
-    * You can copy and add this source to your source list AltStore, FlekSt0re, Signulous, LC, Esign, etc ..
+    * You can copy and add this source to your source list AltStore, LC, Esign, etc ..
     * [ https://repo.ikghd.me/repo.json
 
 
