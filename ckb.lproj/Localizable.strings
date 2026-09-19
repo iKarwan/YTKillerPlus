@@ -59,6 +59,7 @@
 "PLAYLISTS_TAB" = "لیستی پەخشکردن";
 "HISTORY_TAB"   = "مێژوو";
 "NOTIFS_TAB"    = "ئاگادارکردنەوەکان";
+"POST_TAB"      = "پۆستەکان";
 "WLATER_TAB"    = "بینین لە دواتر";
 
 /* defaults */
@@ -72,6 +73,12 @@
 "pip_player" = "پەخش لە PiP";
 "short_player" = "پەخشکەری Shorts";
 "loop_toggle" = "زیادکردنی دووبارەکردنەوە";
+
+"default_audio" = "دەنگی بنەڕەت";
+"original_audio" = "دەنگی ئەسڵی";
+"preferred_audio" = "دەنگی پەسەندکراو";
+"audio_language" = "زمانی دەنگ";
+"audio_language_disc" = "زمانی دەنگی پەسەندکراوت هەڵبژێرە";
 
 /* quality & playback */
 "yt_video_quality_wifi" = "کوالێتی Wi-Fi";
@@ -173,6 +180,8 @@
 "OLED_DARK_MODE" = "شێوەی تاریکی OLED";
 "PLAY_IN_BACKGROUND" = "پەخش لە پشتەوە";
 "NO_ADVERTISMENT" = "لابردنی ڕیکلام";
+"NO_ADVERTISMENT2" = "لابردنی پێشنیارەکان";
+"NO_ADVERTISMENT2_DISC" = "لابردنی پێشنیارەکانی خۆراک، یارییە کورتەکان، پۆستەکان، هتد..";
 "NO_AGE_RESTRICTION" = "لابردنی سنورە سنییەکان";
 "HIDE_YT_SHORTS" = "شاردنەوەی Shorts لە فید";
 "DISABLE_CAPTIONS" = "ناچالاککردنی نووسراوەکان";
@@ -392,6 +401,8 @@
 "AUTO_LANGUAGE" = "خۆکار";
 "SELECT_LANGUAGE" = "زمان هەڵبژێرە";
 "FAQ" = "پرسیار و وەڵام";
+"terms_privacy" = "مەرجەکان و تایبەتمەندی";
+"retrieve_icense" = "وەرگرتنەوەی لایسەنس";
 "action_undone" = "ئەم کردارە ناتوانرێت پاشگەزبکرێتەوە!";
 
 /* toast messages */
@@ -570,6 +581,26 @@
 "CACHE_CLEARED" = "کاش بە سەرکەوتوویی سڕایەوە!";
 "CLEAR_CACHE" = "پاککردنەوەی کاش";
 "CALCULATING" = "ژمێرەکردن...";
+
+"license_expiring_soon" = "⚠️ مۆڵەتی لایسەنس بە زوویی کۆتایی دێت";
+"license_expiring_soon_desc" = "مۆڵەتی لایسەنسی YTKillerPlus لە ماوەی %@ کۆتایی دێت.\n\nتکایە لە repo.ikghd.me نوێی بکەرەوە بۆ ئەوەی دەستگەیشتنت لەدەست نەدەیت.";
+"renew_later" = "دواتر";
+"already_subscribed" = "پێشتر دا خۆندراوە";
+
+"check_for_update" = "پشکنینی نوێکردنەوە";
+"update_youtube" = "نوێکردنەوەی YouTube";
+"incompatible_version" = "⚠️ وەشانی ناگونجاو";
+"yt_version_too_new" = "YTKillerPlus %@ لەگەڵ YouTube %@ ناگونجێت.\n\nتکایە چاوەڕێی نوێکردنەوە بکە لە repo.ikghd.me";
+"yt_version_too_old" = "YTKillerPlus %@ پێویستی بە YouTube %@ یان نوێتر هەیە.\n\nتکایە YouTube لە App Store یان Telegram نوێ بکەرەوە.";
+
+"license_activation_status" = "چالاک · %@";
+"inactive_verify" = "ناچالاک (پشکنینی لایسەنس)";
+"verifying" = "لە پشکنیندایە...";
+
+"verification_warning" = "⚠️ ئاگاداری پشکنین";
+"verification_warning_desc" = "تکایە بە ئینتەرنێت ببەستەوە بۆ پشکنینی YTKillerPlus.\n\nمۆڵەتی پشکنین دوای %dh %dm کۆتایی دێت.";
+"grace_period_expiry" = "❌ ماوەی مۆڵەت کۆتایی هات";
+"grace_period_expiry_desc" = "YTKillerPlus نەیتوانی پەیوەندی بە سێرڤەرەوە بکات بۆ نوێکردنەوەی پشکنین. ئێستا YouTube دادەخرێت.";
 
 /* Unlink Email from License */
 "unlink_email" = "جیاکردنەوەی ئیمەیڵ";

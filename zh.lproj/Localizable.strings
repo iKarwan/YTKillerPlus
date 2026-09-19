@@ -60,6 +60,7 @@
 "PLAYLISTS_TAB" = "播放列表";
 "HISTORY_TAB"   = "历史记录";
 "NOTIFS_TAB"    = "通知";
+"POST_TAB"      = "帖子";
 "WLATER_TAB"    = "稍后观看";
 
 /* defaults */
@@ -72,6 +73,12 @@
 "pip_player" = "画中画播放";
 "short_player" = "Shorts 播放器";
 "loop_toggle" = "添加循环按钮";
+
+"default_audio" = "默认音频";
+"original_audio" = "原始音频";
+"preferred_audio" = "首选音频";
+"audio_language" = "音频语言";
+"audio_language_disc" = "选择首选音频语言";
 
 "yt_video_quality_wifi" = "Wi-Fi 画质";
 "yt_video_quality_celluar" = "蜂窝网络画质";
@@ -171,6 +178,8 @@
 "OLED_DARK_MODE" = "OLED 深色模式";
 "PLAY_IN_BACKGROUND" = "后台播放";
 "NO_ADVERTISMENT" = "无广告";
+"NO_ADVERTISMENT2" = "移除推荐";
+"NO_ADVERTISMENT2_DISC" = "移除动态推荐、Shorts 游戏、帖子等..";
 "NO_AGE_RESTRICTION" = "无年龄限制";
 "HIDE_YT_SHORTS" = "隐藏 Shorts";
 "DISABLE_CAPTIONS" = "禁用字幕";
@@ -391,6 +400,8 @@
 "AUTO_LANGUAGE" = "自动";
 "SELECT_LANGUAGE" = "选择语言";
 "FAQ" = "常见问题";
+"terms_privacy" = "条款与隐私";
+"retrieve_icense" = "恢复许可证";
 "action_undone" = "此操作无法撤销！";
 
 "toast_downloading" = "正在下载...";
@@ -566,6 +577,26 @@
 "CACHE_CLEARED" = "缓存已成功清除！";
 "CLEAR_CACHE" = "清除缓存";
 "CALCULATING" = "计算中...";
+
+"license_expiring_soon" = "⚠️ 许可证即将到期";
+"license_expiring_soon_desc" = "您的 YTKillerPlus 许可证将在 %@ 后到期。\n\n请前往 repo.ikghd.me 续订，以免失去访问权限。";
+"renew_later" = "稍后";
+"already_subscribed" = "已訂閱";
+
+"check_for_update" = "检查更新";
+"update_youtube" = "更新 YouTube";
+"incompatible_version" = "⚠️ 版本不兼容";
+"yt_version_too_new" = "YTKillerPlus %@ 与 YouTube %@ 不兼容。\n\n请等待 repo.ikghd.me 发布更新。";
+"yt_version_too_old" = "YTKillerPlus %@ 需要 YouTube %@ 或更高版本。\n\n请通过 App Store 或 Telegram 更新 YouTube。";
+
+"license_activation_status" = "已激活 · %@";
+"inactive_verify" = "未激活（验证许可证）";
+"verifying" = "正在验证...";
+
+"verification_warning" = "⚠️ 验证警告";
+"verification_warning_desc" = "请连接互联网以验证 YTKillerPlus。\n\n验证将在 %dh %dm 后过期。";
+"grace_period_expiry" = "❌ 宽限期已结束";
+"grace_period_expiry_desc" = "YTKillerPlus 无法连接到服务器以刷新验证。YouTube 现在将关闭。";
 
 /* Unlink Email from License */
 "unlink_email" = "解除邮箱绑定";

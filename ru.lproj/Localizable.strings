@@ -60,6 +60,7 @@
 "PLAYLISTS_TAB" = "Плейлисты";
 "HISTORY_TAB"   = "История";
 "NOTIFS_TAB"    = "Уведомления";
+"POST_TAB"      = "Публикации";
 "WLATER_TAB"    = "Смотреть позже";
 
 /* defaults */
@@ -73,6 +74,12 @@
 "pip_player" = "PiP режим";
 "short_player" = "Плеер Shorts";
 "loop_toggle" = "Добавить повтор";
+
+"default_audio" = "Аудио по умолчанию";
+"original_audio" = "Оригинальное аудио";
+"preferred_audio" = "Предпочитаемое аудио";
+"audio_language" = "Язык аудио";
+"audio_language_disc" = "Выберите предпочитаемый язык аудио";
 
 "yt_video_quality_wifi" = "Качество Wi-Fi";
 "yt_video_quality_celluar" = "Качество мобильной сети";
@@ -172,6 +179,8 @@
 "OLED_DARK_MODE" = "OLED-темная тема";
 "PLAY_IN_BACKGROUND" = "Фоновое воспроизведение";
 "NO_ADVERTISMENT" = "Без рекламы";
+"NO_ADVERTISMENT2" = "Удалить рекомендации";
+"NO_ADVERTISMENT2_DISC" = "Удалить рекомендации в ленте, игры Shorts, публикации и т.д..";
 "NO_AGE_RESTRICTION" = "Без возрастных ограничений";
 "HIDE_YT_SHORTS" = "Скрыть Shorts из ленты";
 "DISABLE_CAPTIONS" = "Отключить субтитры";
@@ -391,6 +400,8 @@
 "AUTO_LANGUAGE" = "Авто";
 "SELECT_LANGUAGE" = "Выбор языка";
 "FAQ" = "FAQ";
+"terms_privacy" = "Условия и конфиденциальность";
+"retrieve_icense" = "Восстановить лицензию";
 "action_undone" = "Это действие нельзя отменить!";
 
 "toast_downloading" = "Загрузка...";
@@ -566,6 +577,26 @@
 "CACHE_CLEARED" = "Кэш успешно очищен!";
 "CLEAR_CACHE" = "Очистить кэш";
 "CALCULATING" = "Подсчёт...";
+
+"license_expiring_soon" = "⚠️ Срок действия лицензии скоро истечёт";
+"license_expiring_soon_desc" = "Срок действия вашей лицензии YTKillerPlus истекает через %@.\n\nПожалуйста, продлите её на repo.ikghd.me, чтобы не потерять доступ.";
+"renew_later" = "Позже";
+"already_subscribed" = "Уже подписан";
+
+"check_for_update" = "Проверить обновления";
+"update_youtube" = "Обновить YouTube";
+"incompatible_version" = "⚠️ Несовместимая версия";
+"yt_version_too_new" = "YTKillerPlus %@ несовместим с YouTube %@.\n\nПожалуйста, дождитесь обновления на repo.ikghd.me.";
+"yt_version_too_old" = "YTKillerPlus %@ требует YouTube %@ или новее.\n\nПожалуйста, обновите YouTube через App Store или Telegram.";
+
+"license_activation_status" = "Активна · %@";
+"inactive_verify" = "Неактивна (Проверить лицензию)";
+"verifying" = "Проверка...";
+
+"verification_warning" = "⚠️ Предупреждение о проверке";
+"verification_warning_desc" = "Подключитесь к Интернету для проверки YTKillerPlus.\n\nСрок проверки истекает через %dh %dm.";
+"grace_period_expiry" = "❌ Льготный период истёк";
+"grace_period_expiry_desc" = "YTKillerPlus не удалось связаться с сервером для обновления проверки. YouTube будет закрыт.";
 
 /* Unlink Email from License */
 "unlink_email" = "Отвязать email";

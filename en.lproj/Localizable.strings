@@ -10,7 +10,7 @@
 "GLOBAL_ENABLED_SWITCH" = "Tap the top-right button to apply changes.";
 
 /* downloading global switch */
-"DOWNLOADING" = "Enable Download Feature";
+"DOWNLOADING" = "Enable Download Feature-";
 "glob_overlay_button" = "Buttons shown inside the player.";
 "overlay_button_disc" = "Downloads, background play, and more.";
 "first_cleaner_disc" = "Long press on the gear icon for 3 second to show cleaning options!";
@@ -63,6 +63,7 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "PLAYLISTS_TAB" = "Playlists";
 "HISTORY_TAB"   = "History";
 "NOTIFS_TAB"    = "Notifs";
+"POST_TAB"      = "Posts";
 "WLATER_TAB"    = "WLater";
 
 /* defaults */
@@ -76,6 +77,13 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "pip_player" = "Play in PiP";
 "short_player" = "Shorts Player";
 "loop_toggle" = "Add Loop Toggle";
+
+/* playback */
+"default_audio" = "Default Audio";
+"original_audio" = "Original Audio";
+"preferred_audio" = "Preferred Audio";
+"audio_language" = "Audio Language";
+"audio_language_disc" = "Select preferred audio language";
 
 "yt_video_quality_wifi" = "Wi-Fi Quality";
 "yt_video_quality_celluar" = "Cellular Quality";
@@ -175,6 +183,8 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "OLED_DARK_MODE" = "OLED Dark Mode";
 "PLAY_IN_BACKGROUND" = "Play in Background";
 "NO_ADVERTISMENT" = "Remove Advertisements";
+"NO_ADVERTISMENT2" = "Remove suggesation";
+"NO_ADVERTISMENT2_DISC" = "remove feed suggesation, Shorts Game Post product etc..";
 "NO_AGE_RESTRICTION" = "Bypass Age Restriction";
 "HIDE_YT_SHORTS" = "Hide Shorts from Feed";
 "DISABLE_CAPTIONS" = "Disable Captions";
@@ -394,6 +404,8 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Select Language";
 "FAQ" = "FAQ";
+"terms_privacy" = "Terms & refund";
+"retrieve_icense" = "Retrieve license";
 "action_undone" = "This action cannot be undone!";
 
 /* downloading... */
@@ -407,7 +419,7 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "video_saved" = "✓ Video Saved - %@";
 "video_downloaded" = "🎬 ✓ Video Downloaded: %@";
 "m4a_smaller" = "M4A (AAC Audio • Smaller)";
-"mp3_larger" = "MP3 (Universal • Larger";
+"mp3_larger" = "MP3 (Universal • Larger)";
 "audio_saved" = "✓ Audio %@ Saved as %@";
 "audio_downloaded" = "🎵 ✓ Audio Downloaded (%@)";
 "shorts_downloaded" = "🎬 ✓ Shorts Downloaded";
@@ -571,6 +583,29 @@ This helps YouTube verify normal viewing activity and may allow your account to 
 "CACHE_CLEARED" = "Cache cleared successfully!";
 "CLEAR_CACHE" = "Clear Cache";
 "CALCULATING" = "Calculating...";
+
+"license_expiring_soon" = "⚠️ License Expiring Soon";
+"license_expiring_soon_desc" = "Your YTKillerPlus license expires in %@.\n\nRenew it at repo.ikghd.me to avoid losing access.";
+"renew_later" = "Later";
+"already_subscribed" = "i'm Subscribed";
+
+"check_for_update" = "Check for Updates";
+"update_youtube" = "Update YouTube";
+"incompatible_version" = "⚠️ Incompatible Version";
+
+"yt_version_too_new" = "YTKillerPlus %@ is not compatible with YouTube %@.\n\nPlease wait for a compatible update at repo.ikghd.me.";
+
+"yt_version_too_old" = "YTKillerPlus %@ requires YouTube %@ or later.\n\nPlease update YouTube from the App Store or Telegram.";
+
+"license_activation_status" = "Active · %@";
+"inactive_verify" = "Inactive (Verify License)";
+"verifying" = "Verifying...";
+
+"verification_warning" = "⚠️ Verification Required";
+"verification_warning_desc" = "Please connect to the internet to verify your YTKillerPlus license.\n\nVerification expires in %dh %dm.";
+
+"grace_period_expiry" = "❌ Grace Period Expired";
+"grace_period_expiry_desc" = "YTKillerPlus couldn't connect to the verification server. YouTube will now close.";
 
 /* Unlink Email from License */
 "unlink_email" = "Unlink Email";

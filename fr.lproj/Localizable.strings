@@ -63,6 +63,7 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "PLAYLISTS_TAB" = "Playlists";
 "HISTORY_TAB"   = "Historique";
 "NOTIFS_TAB"    = "Notifs";
+"POST_TAB"      = "Publications";
 "WLATER_TAB"    = "À regarder";
 
 /* Valeurs par défaut */
@@ -76,6 +77,12 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "pip_player" = "Lire en PiP";
 "short_player" = "Lecteur de Shorts";
 "loop_toggle" = "Ajouter un bouton de boucle";
+
+"default_audio" = "Audio par défaut";
+"original_audio" = "Audio original";
+"preferred_audio" = "Audio préféré";
+"audio_language" = "Langue audio";
+"audio_language_disc" = "Sélectionnez votre langue audio préférée";
 
 "yt_video_quality_wifi" = "Qualité Wi-Fi";
 "yt_video_quality_celluar" = "Qualité cellulaire";
@@ -175,6 +182,8 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "OLED_DARK_MODE" = "Mode sombre OLED";
 "PLAY_IN_BACKGROUND" = "Lire en arrière-plan";
 "NO_ADVERTISMENT" = "Supprimer les publicités";
+"NO_ADVERTISMENT2" = "Supprimer les suggestions";
+"NO_ADVERTISMENT2_DISC" = "Supprimer les suggestions du fil, les jeux Shorts, les publications, etc..";
 "NO_AGE_RESTRICTION" = "Contourner la restriction d'âge";
 "HIDE_YT_SHORTS" = "Masquer les Shorts du fil d'actualité";
 "DISABLE_CAPTIONS" = "Désactiver les sous-titres";
@@ -394,6 +403,8 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Sélectionner la langue";
 "FAQ" = "FAQ";
+"terms_privacy" = "Conditions et confidentialité";
+"retrieve_icense" = "Récupérer la licence";
 "action_undone" = "Cette action est irréversible !";
 
 /* Téléchargement... */
@@ -570,6 +581,26 @@ Cela aide YouTube à vérifier une activité de visionnage normale et peut perme
 "CACHE_CLEARED" = "Cache effacé avec succès !";
 "CLEAR_CACHE" = "Effacer le cache";
 "CALCULATING" = "Calcul en cours...";
+
+"license_expiring_soon" = "⚠️ La licence expire bientôt";
+"license_expiring_soon_desc" = "Votre licence YTKillerPlus expire dans %@.\n\nVeuillez la renouveler sur repo.ikghd.me afin de ne pas perdre l'accès.";
+"renew_later" = "Plus tard";
+"already_subscribed" = "Déjà abonné";
+
+"check_for_update" = "Rechercher une mise à jour";
+"update_youtube" = "Mettre à jour YouTube";
+"incompatible_version" = "⚠️ Version incompatible";
+"yt_version_too_new" = "YTKillerPlus %@ n'est pas compatible avec YouTube %@.\n\nVeuillez attendre une mise à jour sur repo.ikghd.me.";
+"yt_version_too_old" = "YTKillerPlus %@ nécessite YouTube %@ ou une version plus récente.\n\nVeuillez mettre à jour YouTube depuis l'App Store ou Telegram.";
+
+"license_activation_status" = "Active · %@";
+"inactive_verify" = "Inactive (Vérifier la licence)";
+"verifying" = "Vérification...";
+
+"verification_warning" = "⚠️ Avertissement de vérification";
+"verification_warning_desc" = "Veuillez vous connecter à Internet pour vérifier YTKillerPlus.\n\nLa vérification expire dans %dh %dm.";
+"grace_period_expiry" = "❌ Période de grâce expirée";
+"grace_period_expiry_desc" = "YTKillerPlus n'a pas pu contacter le serveur pour actualiser la vérification. YouTube va maintenant se fermer.";
 
 /* Désassocier l'e-mail de la licence */
 "unlink_email" = "Désassocier l'e-mail";

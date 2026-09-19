@@ -59,6 +59,7 @@
 "PLAYLISTS_TAB" = "قوائم التشغيل";
 "HISTORY_TAB"   = "السجل";
 "NOTIFS_TAB"    = "الإشعارات";
+"POST_TAB"      = "المنشورات";
 "WLATER_TAB"    = "المشاهدة لاحقاً";
 
 /* defaults */
@@ -72,6 +73,12 @@
 "pip_player" = "تشغيل في PiP";
 "short_player" = "مشغل الشورتس";
 "loop_toggle" = "زر التكرار";
+
+"default_audio" = "الصوت الافتراضي";
+"original_audio" = "الصوت الأصلي";
+"preferred_audio" = "الصوت المفضل";
+"audio_language" = "لغة الصوت";
+"audio_language_disc" = "اختر لغة الصوت المفضلة";
 
 "yt_video_quality_wifi" = "جودة الواي فاي";
 "yt_video_quality_celluar" = "جودة البيانات الخلوية";
@@ -171,6 +178,8 @@
 "OLED_DARK_MODE" = "وضع داكن OLED";
 "PLAY_IN_BACKGROUND" = "تشغيل في الخلفية";
 "NO_ADVERTISMENT" = "بدون إعلانات";
+"NO_ADVERTISMENT2" = "إزالة الاقتراحات";
+"NO_ADVERTISMENT2_DISC" = "إزالة اقتراحات التغذية، الألعاب القصيرة، المنشورات، إلخ..";
 "NO_AGE_RESTRICTION" = "إزالة القيود العمرية";
 "HIDE_YT_SHORTS" = "إخفاء الشورتس من الصفحة";
 "DISABLE_CAPTIONS" = "تعطيل الترجمة";
@@ -390,6 +399,8 @@
 "AUTO_LANGUAGE" = "تلقائي";
 "SELECT_LANGUAGE" = "اختيار اللغة";
 "FAQ" = "الأسئلة الشائعة";
+"terms_privacy" = "الشروط والخصوصية";
+"retrieve_icense" = "استرداد الترخيص";
 "action_undone" = "لا يمكن التراجع عن هذا الإجراء!";
 
 "toast_downloading" = "جاري التحميل...";
@@ -565,6 +576,26 @@
 "CACHE_CLEARED" = "تم المسح بنجاح!";
 "CLEAR_CACHE" = "مسح الذاكرة";
 "CALCULATING" = "جاري الحساب...";
+
+"license_expiring_soon" = "⚠️ ستنتهي صلاحية الترخيص قريبًا";
+"license_expiring_soon_desc" = "ستنتهي صلاحية ترخيص YTKillerPlus خلال %@.\n\nيرجى التجديد عبر repo.ikghd.me لتجنب فقدان الوصول.";
+"renew_later" = "لاحقًا";
+"already_subscribed" = "مشترك بالفعل";
+
+"check_for_update" = "التحقق من وجود تحديث";
+"update_youtube" = "تحديث YouTube";
+"incompatible_version" = "⚠️ إصدار غير متوافق";
+"yt_version_too_new" = "YTKillerPlus %@ غير متوافق مع YouTube %@.\n\nيرجى انتظار التحديث على repo.ikghd.me";
+"yt_version_too_old" = "يتطلب YTKillerPlus %@ إصدار YouTube %@ أو أحدث.\n\nيرجى تحديث YouTube من App Store أو Telegram.";
+
+"license_activation_status" = "نشط · %@";
+"inactive_verify" = "غير نشط (تحقق من الترخيص)";
+"verifying" = "جارٍ التحقق...";
+
+"verification_warning" = "⚠️ تحذير التحقق";
+"verification_warning_desc" = "يرجى الاتصال بالإنترنت للتحقق من YTKillerPlus.\n\nتنتهي صلاحية التحقق خلال %dh %dm.";
+"grace_period_expiry" = "❌ انتهت فترة السماح";
+"grace_period_expiry_desc" = "تعذر على YTKillerPlus الوصول إلى الخادم لتحديث التحقق. سيتم الآن إغلاق YouTube.";
 
 /* Unlink Email from License */
 "unlink_email" = "إلغاء ربط البريد الإلكتروني";

@@ -60,6 +60,7 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "PLAYLISTS_TAB" = "Oynatma Listeleri";
 "HISTORY_TAB"   = "Geçmiş";
 "NOTIFS_TAB"    = "Bildirimler";
+"POST_TAB"      = "Gönderiler";
 "WLATER_TAB"    = "Daha Sonra İzle";
 
 /* defaults */
@@ -73,6 +74,12 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "pip_player" = "PiP Oynat";
 "short_player" = "Shorts Oynatıcı";
 "loop_toggle" = "Döngü Düğmesi Ekle";
+
+"default_audio" = "Varsayılan Ses";
+"original_audio" = "Orijinal Ses";
+"preferred_audio" = "Tercih Edilen Ses";
+"audio_language" = "Ses Dili";
+"audio_language_disc" = "Tercih ettiğiniz ses dilini seçin";
 
 "yt_video_quality_wifi" = "Wi-Fi Kalitesi";
 "yt_video_quality_celluar" = "Hücresel Veri Kalitesi";
@@ -172,6 +179,8 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "OLED_DARK_MODE" = "OLED Karanlık Modu";
 "PLAY_IN_BACKGROUND" = "Arka Planda Oynat";
 "NO_ADVERTISMENT" = "Reklamları Kaldır";
+"NO_ADVERTISMENT2" = "Önerileri kaldır";
+"NO_ADVERTISMENT2_DISC" = "Akış önerilerini, Shorts oyunlarını, gönderileri vb. kaldır..";
 "NO_AGE_RESTRICTION" = "Yaş Sınırını Kaldır";
 "HIDE_YT_SHORTS" = "Shorts'u Akıştan Gizle";
 "DISABLE_CAPTIONS" = "Altyazıları Devre Dışı Bırak";
@@ -391,6 +400,8 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "AUTO_LANGUAGE" = "Otomatik";
 "SELECT_LANGUAGE" = "Dil Seçin";
 "FAQ" = "SSS";
+"terms_privacy" = "Koşullar ve Gizlilik";
+"retrieve_icense" = "Lisansı Geri Al";
 "action_undone" = "Bu işlem geri alınamaz!";
 
 "toast_downloading" = "İndiriliyor...";
@@ -566,6 +577,26 @@ Bu, YouTube'un normal izleme etkinliğini doğrulamasına yardımcı olur ve hes
 "CACHE_CLEARED" = "Önbellek başarıyla temizlendi!";
 "CLEAR_CACHE" = "Önbelleği Temizle";
 "CALCULATING" = "Hesaplanıyor...";
+
+"license_expiring_soon" = "⚠️ Lisansın süresi yakında doluyor";
+"license_expiring_soon_desc" = "YTKillerPlus lisansınızın süresi %@ içinde dolacak.\n\nErişiminizi kaybetmemek için repo.ikghd.me üzerinden yenileyin.";
+"renew_later" = "Daha Sonra";
+"already_subscribed" = "Zaten abone olundu";
+
+"check_for_update" = "Güncellemeyi Kontrol Et";
+"update_youtube" = "YouTube'u Güncelle";
+"incompatible_version" = "⚠️ Uyumsuz Sürüm";
+"yt_version_too_new" = "YTKillerPlus %@, YouTube %@ ile uyumlu değildir.\n\nLütfen repo.ikghd.me adresindeki güncellemeyi bekleyin.";
+"yt_version_too_old" = "YTKillerPlus %@, YouTube %@ veya daha yeni bir sürüm gerektirir.\n\nLütfen YouTube'u App Store veya Telegram üzerinden güncelleyin.";
+
+"license_activation_status" = "Aktif · %@";
+"inactive_verify" = "Etkin Değil (Lisansı Doğrula)";
+"verifying" = "Doğrulanıyor...";
+
+"verification_warning" = "⚠️ Doğrulama Uyarısı";
+"verification_warning_desc" = "YTKillerPlus'ı doğrulamak için lütfen internete bağlanın.\n\nDoğrulamanın süresi %dh %dm içinde dolacak.";
+"grace_period_expiry" = "❌ Ek Süre Doldu";
+"grace_period_expiry_desc" = "YTKillerPlus doğrulamayı yenilemek için sunucuya ulaşamadı. YouTube şimdi kapatılacak.";
 
 /* Unlink Email from License */
 "unlink_email" = "E-postayı Bağlantıdan Kaldır";

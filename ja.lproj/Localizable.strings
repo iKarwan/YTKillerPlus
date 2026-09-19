@@ -1,0 +1,665 @@
+/* created on 25/10/2022 */
+/* by iKarwan */
+/* Japanese ChatGPT */
+
+/* YTKillerPlus global switch */
+"GLOB_ENABLED" = "有効化";
+"GLOBAL_ENABLED_SWITCH" = "右上のボタンをタップして変更を適用します。";
+
+/* downloading global switch */
+"DOWNLOADING" = "ダウンロード機能を有効化-";
+"glob_overlay_button" = "プレーヤー内に表示されるボタン。";
+"overlay_button_disc" = "ダウンロード、バックグラウンド再生など。";
+"first_cleaner_disc" = "歯車アイコンを3秒間長押しすると、クリーンアップオプションが表示されます！";
+
+"fix_playback_issue" = "🔧 再生の問題を修正 & アカウント復旧";
+"fix_playback_issue_disc" = "🎯 サイドロードしたアプリで発生する「問題が発生しました」エラーやストリームの途切れを修正します。";
+"fix_playback_issue_disc_footer" = "✅ 複数のアカウントでテスト済み — これを有効にして数日後、完全に通常の再生状態に復旧しました。
+
+📍 重要:
+これは一時的なスイッチであり、恒久的な修正です。数日間使用すると、アカウントは通常の再生状態に戻るはずです。すべての手順を慎重に守ってください。
+
+📍 最良の結果を得るために:
+• YouTubeの位置情報サービスを有効にする
+• VPN・プロキシをオフにし、問題修正中は使用しない
+
+▶️ 復旧プロセスを早めるには:
+• 長い動画（1時間以上）を再生する
+• 最初から最後まで普通に再生する
+• 動画をスキップ、シーク、早送りしない
+
+これによりYouTubeが正常な視聴活動を確認し、アカウントが通常状態に早く戻る可能性があります。
+
+⚠️ これを有効にすると、ダウンロードが無効になります。
+
+⚠️ 再生の問題が発生している場合のみ有効にしてください。再生が正常に動作している場合は、このオプションを無効のままにしてください。";
+
+/* download manager section */
+"DOWNLOAD_MANAGER" = "ダウンロードマネージャー";
+"VIDEO_TAB_BAR" = "動画";
+"AUDIO_TAB_BAR" = "音声";
+"SHORTS_TAB_BAR" = "ショート";
+
+/* Startup page section */
+"STARTUP_PAGE" = "デフォルトの起動タブ";
+"DEFAULT_PAGE" = "ホーム";
+
+"HOME"          = "ホーム";
+"EXPLORE"       = "探索";
+"SHORTS"        = "ショート";
+"SUBSCRIPTIONS" = "登録チャンネル";
+"LIBRARY"       = "ライブラリ";
+"YTKPlus"       = "YTKPlus";
+"MUSIC_TAB"     = "音楽";
+"LIVE_TAB"      = "ライブ";
+"GAMING_TAB"    = "ゲーム";
+"NEWS_TAB"      = "ニュース";
+"SPORTS_TAB"    = "スポーツ";
+"LEARNING_TAB"  = "学習";
+"FASHION_TAB"   = "ファッション";
+"PLAYLISTS_TAB" = "再生リスト";
+"HISTORY_TAB"   = "履歴";
+"NOTIFS_TAB"    = "通知";
+"POST_TAB"      = "投稿";
+"WLATER_TAB"    = "後で見る";
+
+/* defaults */
+"overlay_button" = "プレーヤーコントロール";
+"overlay_player" = "オーバーレイプレーヤー";
+"speed_index_id" = "再生";
+"speed_index" = "再生速度の切り替え";
+"speed_index_players" = "再生速度";
+"default_speed_index" = "デフォルトの再生速度";
+"default_speed_index_disc" = "オーバーレイコントロールと競合せずに、選択した速度を維持します。";
+"pip_player" = "PiPで再生";
+"short_player" = "ショートプレーヤー";
+"loop_toggle" = "ループ切り替えを追加";
+
+/* playback */
+"default_audio" = "デフォルト音声";
+"original_audio" = "オリジナル音声";
+"preferred_audio" = "優先音声";
+"audio_language" = "音声言語";
+"audio_language_disc" = "優先する音声言語を選択";
+
+"yt_video_quality_wifi" = "Wi-Fi品質";
+"yt_video_quality_celluar" = "モバイル品質";
+"auto" = "自動";
+"yt_speed_playback" = "デフォルトの再生速度";
+"normal" = "通常";
+"default" = "デフォルト";
+
+"image" = "画像を保存";
+"information" = "情報をコピー";
+"copy_title" = "タイトルをコピー";
+"copy_describtion" = "説明をコピー";
+"copied" = "クリップボードにコピーしました";
+
+"save_pfP" = "プロフィール画像を保存";
+"copy_ptext" = "投稿テキストをコピー";
+"save_img" = "画像を保存";
+"copy_comment" = "コメントをコピー";
+"pip_mode" = "外部プレーヤーで再生";
+"ios_system_player" = "iOSプレーヤー";
+"infuse_player" = "Infuseプレーヤー";
+"vlc_player" = "VLCプレーヤー";
+"infuse_not_installed" = "Infuseがインストールされていません";
+"vlc_not_installed" = "VLCがインストールされていません";
+"pip_mode_desc" = "PiPを使用するには、設定で「バックグラウンド再生」を有効にしてください。";
+"mini_player2" = "ミニプレーヤー";
+"floating_mini_player" = "フローティングミニプレーヤー";
+
+/* backup and restore */
+"backup_and_restore" = "バックアップと復元";
+"cretae_a_backup" = "バックアップを作成";
+"create_a_backup_disc" = "ダウンロードしたすべての動画と音声をファイルAppに書き出します。";
+"restore_backup" = "バックアップを復元";
+"restore_backup_disc" = "ファイルAppから直接バックアップを復元します。";
+"backup_prepared" = "バックアップを準備中...";
+"create_failed" = "バックアップ失敗";
+"failed_create_disc" = "バックアップを作成できませんでした。もう一度お試しください。";
+"restoring_backup" = "バックアップを復元中...";
+"restore_complete" = "復元完了";
+"restore_complete_disc" = "YTKPlusライブラリが正常に復元されました。";
+"restore_failed_disc" = "バックアップの復元に失敗しました。もう一度お試しください。";
+"restore_failed" = "復元失敗";
+"restore_backup_confirm" = "復元";
+"create" = "作成";
+"create_backup" = "バックアップを作成しますか？";
+"restore_backup_confirm_disc" = "YTKPlus_Backup.zipを復元しますか？\nこの操作は元に戻せません！";
+"invalid_backup_file" = "無効なバックアップファイル";
+"invalid_backup_file_disc" = "YTKPlus_Backup.zipファイルを選択してください。";
+"Backup_saved" = "バックアップがファイルAppに正常に保存されました。";
+"Backup_not_saved" = "警告: バックアップがファイルAppに保存されませんでした。";
+
+/* import Media */
+"import_media" = "メディアを読み込む";
+"import_media_disc" = "動画と音声をYTKPlusに読み込みます。サムネイルやアートワークを含む複数のファイルをファイルから選択できます。";
+"choose_media_type" = "読み込むメディアの種類を選択";
+"successfully_imported_files" = "正常に読み込まれたファイル: %@";
+"failed_to_import_files" = "読み込みに失敗したファイル: %@";
+"import_result" = "読み込み結果";
+
+/* sponsorBlock */
+"SPONSORBLOCK" = "SponsorBlock";
+"SB_BEHAVIOR" = "スポンサー動作";
+"SB_SKIP" = "スキップ";
+"SB_ASK" = "確認";
+"sub_value" = "アラート表示時間: %.lf";
+/* popup */
+"UNSKIP" = "スキップ解除";
+"SKIP" = "スキップ";
+"SEGMENT_SKIPPED" = "スポンサー区間をスキップしました";
+"FOUND_SEGMENT" = "スポンサー区間を検出しました";
+"AudioNotificationOnSkip" = "スキップ時に音声通知を再生";
+
+/* shorts section */
+"short_fullscreen" = "全画面";
+"short_auto_skip" = "ショートを自動スキップ";
+"USE_PREM_LOGO" = "プレミアムロゴを使用";
+"cast_confirm" = "キャスト確認";
+"video_available" = "動画が利用可能";
+"videos_available" = "動画が利用可能";
+"audio_available" = "音声が利用可能";
+"audios_available" = "音声が利用可能";
+"short_available" = "ショートが利用可能";
+"shorts_available" = "ショートが利用可能";
+
+/* general section */
+"VIDEO_PLAYER" = "動画プレーヤーオプション";
+"OVERLAY_OPTIONS" = "オーバーレイ";
+"STREAM_OPTIONS" = "ストリーミング";
+"IPAD_OPTIONS" = "iPadオプション";
+"NAVIGATION_BAR" = "ナビゲーションバー";
+"SHORTS_OPTION" = "ショート";
+"DOWNLOAD_OPTIONS" = "追加のダウンロードオプション";
+"TAB_BAR_OPTIONS" = "タブバー";
+"MISCELLANEOUS" = "その他";
+
+/* general section switch */
+"OLED_DARK_MODE" = "OLEDダークモード";
+"PLAY_IN_BACKGROUND" = "バックグラウンドで再生";
+"NO_ADVERTISMENT" = "広告を削除";
+"NO_ADVERTISMENT2" = "提案を削除";
+"NO_ADVERTISMENT2_DISC" = "フィードの提案、ショートのゲーム、投稿などを削除します..";
+"NO_AGE_RESTRICTION" = "年齢制限を回避";
+"HIDE_YT_SHORTS" = "フィードからショートを非表示";
+"DISABLE_CAPTIONS" = "字幕を無効化";
+
+/* video player section */
+"VIDEO_PLAYER_SECTION" = "動画プレーヤー";
+"HIDE_SUGGESTED_VIDEO" = "おすすめ動画を非表示";
+"COMMENTS" = "コメント";
+"HIDE_COMMENTS" = "コメントを非表示";
+"HIDE_COMMENTS_PREVIEW" = "コメントプレビューを非表示";
+"HIDE_COMMENTS_PREVIEW_INFO" = "ネタバレコメントを削除します。";
+"HIDE_COMMENTS_GUIDLINES" = "コメントガイドラインを非表示";
+"HIDE_COMMUNITY_TEXT_INFO" = "上部のコミュニティテキストを非表示にします。";
+
+/* overlay options section */
+"OVERLAY_SECTION" = "オーバーレイ";
+"SHOW_STATUS_BAR_IN_OVERLAY" = "オーバーレイでステータスバーを表示";
+"SHOW_STATUS_BAR_IN_OVERLAY_INFO" = "ノッチ搭載デバイスまたはiPadスタイルではサポートされていません。";
+"DISABLE_DOUBLE_TAP" = "ダブルタップを無効化";
+"DISABLE_CONTINUE_WATCHING" = "視聴を続けるを無効化";
+"DISABLE_CONTINUE_WATCHING_INFO" = "長い動画を視聴すると表示されます。";
+"HIDE_OVERLAY_QUICK_ACTION" = "クイックアクションを非表示";
+"HIDE_PLAYERBAR_WAVE" = "タイムラインの波を非表示";
+"HIDE_PLAYERBAR_WAVE_INFO" = "タイムライン上の視聴済みヒートマップを非表示にします。";
+"SWIPE_TO_HIDE_PANEL" = "スワイプでパネルを非表示";
+"SWIPE_TO_HIDE_PANEL_INFO" = "全画面パネルで左から右へスワイプします。";
+"DISABLE_PINCH_TO_ZOOM" = "ピンチズームを無効化";
+"MEDIA_CONTROLLER" = "オーバーレイコントローラー";
+"SHOW_OVERLAY_CONTROLLER_SMART" = "再生/一時停止ボタンを常に表示";
+"SHOW_MEDIA_CONTROLLER" = "すべてのコントロールを常に表示";
+"HIDE_DARK_OVERLAY_BACKGROUND" = "暗いオーバーレイ背景を非表示";
+"KEEP_CAPTION_ON" = "字幕を常にオン";
+"KEEP_CAPTION_ON_INFO" = "動画再生時に字幕を自動で有効にします。";
+"PREVIUOS_AND_NEXT_BUTTON" = "前へ & 次へボタン";
+"DISABLE_PREVIUOS_AND_NEXT_BUTTON" = "前へ & 次へを無効化";
+"PREVIUOS_AND_NEXT_BUTTON_PADDING" = "前へ & 次へをコンパクト化";
+"PLAYER_BAR_NEXT_BUTTON" = "タイムコード付近に次へボタンを追加";
+"HIDE_PREVIUOS_AND_NEXT_BUTTON" = "前へ & 次へを非表示";
+"HIDE_BACK_BUTTON_SHADOW" = "ボタンの影を非表示";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON" = "早送り/巻き戻しに置き換え";
+"REPLACE_PREVIUOS_AND_NEXT_BUTTON_INFO" = "ボタンを早送りと巻き戻しに置き換えます。";
+"HIDE_ITEMS" = "項目を非表示";
+"HIDE_VOLUME_BAR" = "音量バーを非表示";
+"HIDE_VOLUME_BAR_INFO" = "横向きモードの白い音量バーを非表示にします。";
+"HIDE_INFO_CARD" = "情報カードを非表示";
+"HIDE_WATER_MARK" = "ウォーターマークを非表示";
+"HIDE_AUTOPLAY_BUTTON" = "自動再生ボタンを非表示";
+"HIDE_CAPTIONS_BUTTON" = "字幕ボタンを非表示";
+"HIDE_PLAY_PUASE" = "再生/一時停止を非表示";
+"HIDE_MORE_GEAR_ICON" = "その他/歯車アイコンを非表示";
+"HIDE_CHAT_BUTTON_IN_STREAM" = "ストリームチャットボタンを非表示";
+"HIDE_CAST_BUTTON" = "キャストボタンを非表示";
+"HIDE_ENDSCREEN_VIDEOS" = "終了画面の動画を非表示";
+"HIDE_RELATED_VIDEOS" = "関連動画を非表示";
+"HIDE_LANDSCAPE_COMMENTS" = "横向きコメントを無効化";
+"HIDE_LANDSCAPE_COMMENTS_INFO" = "横向き時にコメント欄を完全に無効にします。";
+"SHOW_PROGRESS_BAR" = "進行状況バーを表示したままにする";
+"SHOW_PROGRESS_BAR_INFO" = "関連動画へのスワイプを無効にします。";
+
+/* streaming section */
+"LEGACY_QUALITY_MODE" = "レガシー画質モードを有効化";
+"LEGACY_QUALITY_MODE_INFO" = "以前の画質選択メニューを復元します。";
+"PICTURE_IN_PICTURE_PIP" = "ピクチャ・イン・ピクチャ（PiP）";
+"ENABLE_PIP" = "PiPを有効化";
+"ENABLE_PIP_INFO" = "オーバーレイにPiPアイコンを追加します。";
+"DOUBLE_TAP" = "ダブルタップオプション";
+"CUSTOM_SKIP_DURATION" = "カスタムスキップ時間";
+"VALUE_CHANGES_JB" = "秒: %.lf";
+"VALUE_CHANGES" = "秒: 10";
+"STREAMING_SECTION" = "ストリーミング";
+"PLAYBACK_SPEED" = "追加の再生速度";
+"PLAYBACK_SPEED_INFO" = "オーバーレイ → 歯車 → 再生速度";
+"DISABLE_AUTOPLAY_VIDEOS" = "動画の自動再生を無効化";
+"PLAY_HD_VIDEOS_OVER_CELLULAR" = "3G/4G/5GでHD動画を再生";
+
+/* iPad section */
+"IPAD_SECION" = "iPadモード";
+"IPADOS_MODE" = "iPadOSモードを有効化";
+"DISABLE_DRAG_AND_DROP" = "ドラッグ & ドロップを無効化";
+"HIDE_CHANNEL_CIRCLES" = "チャンネルサークルを非表示";
+"HIDE_CHANNEL_CIRCLES_INFO" = "登録チャンネル → ナビゲーションバー下のチャンネルアイコン。";
+"MINI_PLAYER_ASPECT_RATIO" = "ミニプレーヤーのアスペクト比";
+"USE_ASPECT_RATIO" = "フルアスペクトを使用";
+"USE_ASPECT_RATIO_INFO" = "iPadスタイルのミニプレーヤーではサポートされていません。";
+"MINI_PLAYER" = "iPadスタイルのミニプレーヤー";
+"REDEFIND_MINI_PLAYER" = "ミニプレーヤーを中央に配置";
+"MINI_PLAYER_IPAD_MODE" = "ミニプレーヤーを右側に配置";
+
+/* navbar section */
+"STATUS_BAR" = "ステータスバー";
+"HIDE_STATUS_BAR" = "ステータスバーを非表示";
+"CHANNEL_SECTIONS" = "チャンネルセクション";
+"STICKY_NAV_BAR" = "ナビゲーションバー下のカテゴリを非表示";
+"SHOW_YTKPLUS_ICON" = "YTKPlusアイコンを表示";
+"HIDE_ITEMS_NAV_BAR" = "項目を非表示";
+"SHOW_YTKPlus_Icon" = "YTKPlusアイコンを表示";
+"HIDE_YT_LOGO" = "YouTubeロゴを非表示";
+"HIDE_NOTIFICATIONS_BILL" = "通知を非表示";
+"HIDE_ACCOUNT" = "アカウントを非表示";
+"HIDE_SEARCH" = "検索を非表示";
+"HIDE_CAST_BUTTON" = "キャストボタンを非表示";
+
+/* shorts section */
+"SHORTS_SECTION" = "ショート";
+"ENABLE_PLAYER_BAR" = "下部の進行状況バーを有効化";
+"HIDE_ELEMNTS" = "要素を非表示";
+"HIDE_PAUSE_CARD" = "一時停止カードを非表示";
+"HIDE_LIKE_BUTTON" = "高評価ボタンを非表示";
+"HIDE_DISLIKE_BUTTON" = "低評価ボタンを非表示";
+"HIDE_COMMENTS_BUTTON" = "コメントボタンを非表示";
+"HIDE_SHARE_BUTTON" = "共有ボタンを非表示";
+"HIDE_REMIX_BUTTON" = "リミックスボタンを非表示";
+"HIDE_AVATAR_BUTTON" = "アバターボタンを非表示";
+
+/* downloading section */
+"DOWNLOAD_SECTION" = "追加のダウンロードオプション";
+"LOCAL_DOWNLOADING" = "ローカルダウンロードを有効化";
+"LOCAL_DOWNLOADING_INFO" = "動画を長押ししてダウンロードメニューを開きます。";
+"HIDE_DOWNLOAD_BUTTON" = "ダウンロードボタンを非表示";
+"HIDE_DOWNLOAD_BUTTON_INFO" = "YouTubeのデフォルトのダウンロードボタンを非表示にします。";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS" = "期限付きダウンロードを無効化";
+"DISABLE_EXPIRITY_DOWNLOADED_VIDEOS_INFO" = "YouTubeの内蔵ツールでダウンロードした動画用です。";
+"DOWNLOAD_SECTION_INFO" = "注意: 同じ画質が複数表示される場合は、一番上のものを選択してください。ローカルダウンロードは写真Appに保存されます。長押しシークジェスチャーは無効になります。4K有効化機能はこの機能を無効にします。";
+
+/* tabbar section */
+"TAB_BAR_SECTION" = "タブバー";
+"TABS_SHRINKED_BUTTOM" = "タブを縮小（下部）";
+"TABS_SHRINKED_SMART" = "タブを縮小（スマート）";
+"DISABLE_CREATE_BUTTON" = "作成（+）を無効化";
+"HIDE_TAB_LABELS" = "タブのラベルを非表示";
+"PREVENT_OPEN_IN_SHORTS" = "ショートで開くのを防止";
+"PREVENT_OPEN_IN_SHORTS_INFO" = "ショートタブ表示中にYouTubeを閉じた場合に発生します。";
+"REPLACE_SHORTS_WITH_EXPLORE" = "ショートを探索に置き換え";
+"HIDE_TABS" = "タブを非表示";
+"HIDE_EXPLORE_TAB" = "探索タブを非表示";
+"HIDE_SHORTS_TAB" = "ショートタブを非表示";
+"HIDE_CREATE_TAB" = "作成タブを非表示";
+"HIDE_SUBSCRIPTION_TAB" = "登録チャンネルタブを非表示";
+"HIDE_LIBRARY_TAB" = "ライブラリタブを非表示";
+"HIDE_ALL_TAB" = "すべてのタブを非表示";
+"MAIN_TAB" = "メイン";
+"ACTIVE_TABS" = "アクティブなタブ";
+"INACTIVE_TABS" = "非アクティブなタブ";
+"CANT_REMOVE" = "削除できません";
+"CANT_REMOVE_DESC" = "少なくとも1つのアクティブなタブが必要です。";
+"INACTIVE_TABS_TXT" = "%@（非アクティブ）";
+"TABS_INACTIVE" = "タブが非アクティブです";
+"TABS_INACTIVE_DESC" = "「%@」は非アクティブです。先にアクティブなタブに追加してください。";
+"remove_restrict" = "削除できません";
+"remove_restrict_desc" = "少なくとも1つのアクティブなタブが必要です。";
+"limit_reached" = "上限に達しました";
+"limit_reached_desc" = "アクティブなタブは最大6つまでです。";
+
+/* miscellaneous section */
+"MISCELLANEOUS_SECTION" = "その他";
+"USE_STOCK_VOLUME_HUD" = "システム音量HUDを使用";
+"USE_STOCK_VOLUME_HUD_INFO" = "横向きモードでのみ動作します。";
+"HIDE_SEARCHED_HISTORY" = "検索履歴を非表示";
+"NOT_TOPIC_SECTION" = "トピックセクションを非表示";
+"HIDE_PREMIUM_POPUP" = "プレミアムポップアップを非表示";
+"HIDE_YT_UPDATE_POPUP" = "YouTube更新ポップアップを非表示";
+"HIDE_YT_UPDATE_POPUP_INFO" = "強制更新アラートを削除します。";
+"ENABLE_MINI_PLAYER_VIDEOS" = "すべての動画でミニプレーヤーを有効化";
+"ENABLE_MINI_PLAYER_VIDEOS_INFO" = "キッズ動画でもミニプレーヤーを使用します。";
+"HIDE_HUD_ALERTS" = "HUDアラートを非表示";
+"HIDE_HUD_ALERTS_INFO" = "低評価確認などのポップアップアラートを非表示にします。";
+"CLASSIC_SHARE" = "クラシック共有メニュー";
+"HIDE_LINE_SEPERATOR" = "ライブラリの区切り線を非表示";
+"ROUND_ALL_VIEW_CORNERS" = "すべてのビューの角を丸くする";
+"DISABLE_DARK_MODE" = "ダークモードを無効化";
+"HIDE_INCLUDE_PAID_PROMO" = "有料プロモーション通知を非表示";
+"DISABLE_RTL" = "RTL言語を無効化";
+"OTHERS" = "ホームフィード";
+"HIDE_PLAYLIST" = "再生リストを非表示";
+"PLAYLIST_INFO" = "iPadスタイルはサポートされていません。";
+"HIDE_COVID_NEWS" = "COVID & ニュースを非表示";
+"COVID_NEWS_INFO" = "ホームフィードからCOVIDとニュースセクションを削除します。";
+"HIDE_FILTER_TAGS" = "上部のトピックフィルターを非表示";
+
+/* global action title */
+"OK" = "OK";
+"YES" = "はい";
+"NO" = "いいえ";
+"ERROR" = "エラー";
+"loading_pip" = "PiPを読み込み中...";
+"APP_RESTART_REQUIRED" = "変更を適用するにはYouTubeを再起動してください。";
+"FILZA_NOT_INSTALLED_ALERT" = "このアプリはお使いのデバイスにインストールされていません。";
+"NO_DATA" = "ダウンロードなし";
+"CANCEL" = "キャンセル";
+"DISMISS" = "閉じる";
+"DELETED" = "削除しました";
+"SAVED" = "保存しました";
+"SUCCESS" = "成功";
+"VIDEO" = "動画をダウンロード";
+"AUDIO" = "音声をダウンロード";
+"RENAME" = "名前を変更";
+"RENAME_FILE" = "ファイル名を変更";
+"RENAME_NEW_NAME" = "ファイルの新しい名前を入力してください:";
+"RENAME_PLACEHOLDER" = "新しい動画名を入力";
+"RENAME_PLACEHOLDER_AUDIO" = "新しい音声名を入力";
+"PLAY" = "デフォルトプレーヤー";
+"SHARE" = "共有";
+"VIEW_IN_FILZA" = "Filzaで表示";
+"DELETE" = "削除";
+"MORE_OPTION" = "その他のオプション";
+"MAIN_OPTION" = "メインオプション";
+"DELETE_ALL" = "すべて削除";
+"SAVE_ARTWORK" = "アートワークを保存";
+"SAVE_TO_PHOTOS" = "写真に保存";
+"ARE_YOU_SURE" = "すべての項目を削除してもよろしいですか？";
+"NOTE" = "注意！";
+"SAVE_FAILED" = "保存に失敗しました！";
+"SAVE_TO_PHOTOS_FAILED" = "写真への保存に失敗しました。設定でYouTubeに写真へのアクセスを許可してください。";
+"SAVE_HIGH_RES_FAILED_FMT" = "%@動画の写真への保存に失敗しました。お使いのiOSバージョンのHEVCコーデック制限が原因の可能性があります。代わりに共有オプションを使用してみてください。";
+"DELETING_VIDEO" = "動画を削除しますか？";
+"DELETING_AUDIO" = "音声を削除しますか？";
+"AUTO_LANGUAGE" = "自動";
+"SELECT_LANGUAGE" = "言語を選択";
+"FAQ" = "よくある質問";
+"terms_privacy" = "利用規約 & 返金";
+"retrieve_icense" = "ライセンスを取得";
+"action_undone" = "この操作は元に戻せません！";
+
+/* downloading... */
+"toast_downloading" = "ダウンロード中...";
+"toast_downloading_audio" = "音声をダウンロード中";
+"toast_downloading_video" = "動画をダウンロード中";
+"toast_merging" = "結合中...";
+"toast_preparing" = "準備中... : 0%";
+"toast_download_cancelled" = "ダウンロードをキャンセルしました";
+
+"video_saved" = "✓ 動画を保存しました - %@";
+"video_downloaded" = "🎬 ✓ 動画をダウンロードしました: %@";
+"m4a_smaller" = "M4A（AAC音声・小サイズ）";
+"mp3_larger" = "MP3（汎用・大サイズ）";
+"audio_saved" = "✓ 音声 %@ を %@ として保存しました";
+"audio_downloaded" = "🎵 ✓ 音声をダウンロードしました（%@）";
+"shorts_downloaded" = "🎬 ✓ ショートをダウンロードしました";
+"queued" = "📥 キューに追加: ";
+"video_queuad" = "🎬 📥 キューに追加: ";
+"audio_queuad" = "🎵 📥 音声をキューに追加: ";
+"starting" = "🔄 開始: %@";
+"audio_progress" = "🎵 音声: %@";
+"video_progress" = "🎬 動画: %@";
+"converting" = "⚙️ 変換: %@";
+"merging" = "⚙️ 結合: %@";
+"download_cancelled" = "❌ ダウンロードをキャンセルしました: %@";
+"quea_cancelled" = "❌ キューから削除しました";
+"cancelled" = "❌ キャンセルしました: %@";
+
+"loop_disabled" = "🔁 ループ無効";
+"loop_enabled" = "🔂 ループ有効";
+"Auto_Skip" = "自動スキップ";
+"Exit_Fullscreen" = "全画面を終了";
+"already_downloading" = "ダウンロードがすでに進行中です";
+
+"gestures_on" = "ジェスチャーオン";
+"gestures_off" = "ジェスチャーオフ";
+"autoplay_taggole" = "自動再生";
+"autoplay_on" = "自動再生オン";
+"autoplay_off" = "自動再生オフ";
+"zoomed_fill" = "ズームして埋める";
+"original" = "オリジナル";
+"remaining" = "残り";
+"your_queue" = "キュー";
+"playing_from" = "再生元";
+"auto_mix_on" = "✦ オートミックス";
+"auto_mix_off" = "○ オートミックス";
+
+"play_next" = "次に再生";
+"close" = "閉じる";
+
+"VIDEO_INFO" = "動画情報";
+"FILE_SIZE" = "ファイルサイズ";
+"DURATION" = "長さ";
+"DIMENSIONS" = "解像度";
+"BITRATE" = "ビットレート";
+"FRAME_RATE" = "フレームレート";
+"CREATED" = "作成日";
+"AUDIO_INFO" = "音声情報";
+"FORMAT" = "フォーマット";
+"SAMPLE_RATE" = "サンプルレート";
+"CHANNELS" = "チャンネル";
+
+"year_ago" = "%ld年前";
+"month_ago" = "%ldヶ月前";
+"week_ago" = "%ld週間前";
+"day_ago" = "%ld日前";
+"hour_ago" = "%ld時間前";
+"minute_ago" = "%ld分前";
+"s" = "秒";
+"kilo_byte" = "%@    %*s    %.0f KB";
+"mega_byte" = "%@    %*s    %.1f MB";
+
+"sleep_timer" = "スリープタイマー";
+"time_calculater" = "%ld分";
+"5_min" = "5分";
+"10_min" = "10分";
+"15_min" = "15分";
+"20_min" = "20分";
+"30_min" = "30分";
+"45_min" = "45分";
+"1_hour" = "1時間";
+"end_of_track" = "トラック終了時";
+"min_left" = "残り%ld分";
+"sleep_timer_activated" = "スリープタイマーが有効になりました - 再生を一時停止しました";
+"custom_time" = "カスタム時間";
+"enter_duration_desc" = "時間を入力（例: 20m, 1h, 1h 30m, 90）";
+"set" = "設定";
+"invalid_input" = "無効な入力";
+"invalid_input_desc" = "次の形式を使用してください: 20m, 1h, 1h 30m, 90";
+"no_lyrics_found_for_this_track" = "このトラックの歌詞が見つかりませんでした。";
+"could_not_load_lyrics" = "歌詞を読み込めませんでした。\n接続を確認してください。";
+"lyrics_not_available_for_this_track" = "このトラックの歌詞は利用できません。";
+"unknown_artist" = "不明なアーティスト";
+"lyrics" = "歌詞";
+"mo_track_playing" = "現在再生中のトラックはありません。";
+
+"gestures_control" = "ジェスチャー";
+"brightness" = "明るさ";
+"left" = "左";
+"right" = "右";
+"disabled" = "無効";
+"volume" = "音量";
+"hold_to_seek" = "長押しでシーク";
+"seek_duration" = "シーク時間";
+"seconds" = "%.0f秒";
+"volume_brightness_gesture" = "音量 & 明るさジェスチャー";
+"seek_settings" = "シーク設定";
+"gestures_config_description" = "どちら側で明るさと音量を操作するか設定します。\n\nヒント:\n1. 縦向きモードでは、プレーヤーのどちら側でも下にスワイプします。\n2. 全画面では、YouTubeのジェスチャー処理のため、下部エリアからスワイプします。";
+"hold_to_seek_description" = "左側または右側を長押しして連続シークします。ステップごとの時間を調整できます。";
+"brightness_gesture_left" = "明るさ";
+"gesture_left_side" = "左側ジェスチャー";
+"cancel" = "キャンセル";
+"volume_gesture_right" = "音量";
+"gesture_right_side" = "右側ジェスチャー";
+
+/* icon themes */
+"icon_changed" = "「YouTube」の\nアイコンを変更しました。";
+"select_icon_theme" = "アイコンテーマを選択";
+"icon_not_available" = "カスタムアイコンは利用できません";
+"icon_not_available_disc" = "このYouTubeアプリにはカスタムアイコンが含まれていません。アプリアイコンを変更するにはIPAをインストールする必要があります。";
+
+
+/* fake location */
+"fake_location" = "偽の位置情報";
+"save" = "保存";
+"location_name" = "場所の名前";
+"enter_location_name" = "国: %@\nこの場所の名前を入力してください";
+"unknown" = "不明";
+"save_location" = "場所を保存";
+"getting_location_info" = "位置情報を取得中...";
+"loading" = "読み込み中...";
+"selected_location" = "選択した場所";
+"delete" = "削除";
+"saved_location_disc" = "保存した場所を管理し、1つをアクティブな場所として設定します。スワイプして保存した項目を削除できます。";
+"enable_fake_location_disc" = "実際の位置の代わりに、YouTube内でカスタム位置をシミュレートします。フレンズマップに場所をすばやく切り替える便利なボタンを追加します。";
+"SAVED_LOCATIONS" = "保存した場所";
+"search_places" = "場所を検索";
+"select_location" = "場所を選択";
+"custom_location" = "カスタム位置";
+"system_default" = "システムデフォルト";
+"current_location" = "現在地";
+"enable_fake_location" = "偽の位置情報を有効化";
+
+/* other || credits translation & links */
+"OTHER_TWEAKS" = "その他のプロジェクト";
+"CREDITS" = "クレジット";
+"SPECIAL_THANK" = "特別感謝";
+"LOCALIZATION" = "ローカライズ";
+"icon_by" = "アイコン制作";
+"DEVELOPER" = "開発者";
+"WELCOM_ALERT" = "設定を変更するには、YTKPlusタブを開き、上部の歯車アイコンをタップしてください。";
+
+/* compatibility... */
+"compatible_legacy_ver" = "互換性あり（レガシーiOS）";
+"not_compatible_ver" = "互換性なし";
+"unknown_ver" = "不明";
+"compatible_ver" = "互換性あり";
+
+/* reset the app completly */
+"clear_all_data" = "⚠️ すべてのデータを消去";
+"clear_all_data_disc" = "キーチェーン、環境設定、キャッシュファイルを含むすべてのアプリデータが削除されます。この操作は元に戻せません！";
+"delete_everything" = "すべて削除";
+"data_cleared" = "✅ データを消去しました";
+"data_cleared_disc" = "すべてのアプリデータが正常に削除されました。アプリが再起動します。";
+
+/* clearCaches */
+"clearonstartup" = "起動時に消去";
+"clearcache" = "キャッシュを消去";
+"On" = "オン";
+"Off" = "オフ";
+
+"CLEARING_CACHE" = "キャッシュを消去中...";
+"PLEASE_WAIT" = "お待ちください...";
+"CACHE_CLEARED" = "キャッシュが正常に消去されました！";
+"CLEAR_CACHE" = "キャッシュを消去";
+"CALCULATING" = "計算中...";
+
+"license_expiring_soon" = "⚠️ ライセンスの有効期限が近づいています";
+"license_expiring_soon_desc" = "YTKillerPlusライセンスは%@で期限切れになります。\n\nアクセスを失わないよう、repo.ikghd.meで更新してください。";
+"renew_later" = "後で";
+"already_subscribed" = "購読済みです";
+
+"check_for_update" = "アップデートを確認";
+"update_youtube" = "YouTubeを更新";
+"incompatible_version" = "⚠️ 互換性のないバージョン";
+
+"yt_version_too_new" = "YTKillerPlus %@ は YouTube %@ と互換性がありません。\n\nrepo.ikghd.meで互換性のあるアップデートをお待ちください。";
+
+"yt_version_too_old" = "YTKillerPlus %@ には YouTube %@ 以降が必要です。\n\nApp StoreまたはTelegramからYouTubeを更新してください。";
+
+"license_activation_status" = "アクティブ · %@";
+"inactive_verify" = "非アクティブ（ライセンスを確認）";
+"verifying" = "確認中...";
+
+"verification_warning" = "⚠️ 確認が必要です";
+"verification_warning_desc" = "YTKillerPlusライセンスを確認するため、インターネットに接続してください。\n\n確認は%dh %dmで期限切れになります。";
+
+"grace_period_expiry" = "❌ 猶予期間が終了しました";
+"grace_period_expiry_desc" = "YTKillerPlusが確認サーバーに接続できませんでした。YouTubeを終了します。";
+
+/* Unlink Email from License */
+"unlink_email" = "メールのリンクを解除";
+"unlink_confirmation" = "リンク解除の確認";
+"unlink_email_explanation" = "このメールをライセンスからリンク解除してもよろしいですか？";
+"unlink" = "リンク解除";
+"error_unlink" = "エラー";
+"error_unlink_desc" = "メールのリンク解除に失敗しました。";
+"success_unlink" = "成功";
+"success_unlink_desc" = "メールのリンクが正常に解除されました。";
+
+/* promptForActivation */
+"license_option" = "ライセンスオプション";
+"license_option_disc" = "オプションを選択:";
+"activate_new_license" = "新しいライセンスを有効化";
+"restore_license" = "ライセンスを復元";
+"renew_license" = "サブスクリプションを購入";
+"buy_license" = "ライセンスを購入";
+"activate_new_license_disc" = "メールアドレスとライセンスキーを入力してください。";
+"email" = "メール";
+"license_key" = "ライセンスキー";
+"activate" = "有効化";
+"invalid_email" = "無効なメール";
+"invalid_email_disc" = "有効なメールアドレスを入力してください。";
+"invalid_license" = "無効なライセンス";
+"license_key_empty" = "ライセンスキーを空にすることはできません。";
+"license_key_length_wrong" = "ライセンスキーの長さが正しくありません。\n有効なキーを入力してください。";
+
+/* promptForRestore */
+"restore_notice" = "復元プロセスが更新されました";
+"restore_notice_desc" = "復元プロセスが変更されました。ライセンスを復元した後、キーをコピーして有効化画面に戻り、メールとキーを使用して再度有効化する必要があります。";
+"restore_license_disc" = "ライセンスにリンクされているメールアドレスを入力してください。";
+"restore" = "復元";
+"copy_license_key" = "ライセンスキーをコピー";
+"license_key_copied_to_clipboard" = "ライセンスキーをクリップボードにコピーしました。";
+"license_details" = "ライセンス詳細";
+"license_details_disc" = "ライセンスキー: %@\n\n有効期限: %@\n\n%@";
+"license_restored_successfully" = "ライセンスはアクティブです。";
+"license_restored" = "ライセンスを復元しました";
+"restore_failed" = "復元に失敗しました";
+
+/* enter license prompt */
+"enter_license_key" = "ライセンスキーを入力";
+"enter_license_key_disc" = "確認するライセンスキーを入力してください。";
+"license_key_authenticated" = "ライセンスが正常に確認されました。有効期限: %@";
+"authentication_successful" = "認証成功";
+"key_used_on_another_device" = "ライセンスはすでに別のデバイスで使用されています。";
+"key_is_in_use_on_another_device" = "このライセンスは別のデバイスでアクティブです。別のキーを使用してください。";
+"email_associated_with_another_key" = "メールは別のライセンスにリンクされています。";
+"authentication_failed" = "認証に失敗しました";
+"email_associated_with_defferent_key" = "このメールは別のライセンスにリンクされています。別のメールまたはキーを使用してください。";
+"key_expired" = "ライセンスキーの有効期限が切れています";
+"license_expired" = "ライセンスの有効期限が切れています";
+"license_expired_disc" = "ライセンスの有効期限が切れています。更新してください。";
+"license_verification_failed" = "ライセンスの確認に失敗しました";
+"no_internet" = "インターネットなし";
+"no_internet_disc" = "認証にはインターネット接続が必要です。";
+"license_disc" = "入力されたライセンスキーは無効です。";
+
+/* other stuff */

@@ -59,6 +59,7 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "PLAYLISTS_TAB" = "Playlisty";
 "HISTORY_TAB"   = "Historia";
 "NOTIFS_TAB"    = "Powiad.";
+"POST_TAB"      = "Posty";
 "WLATER_TAB"    = "Obejrzyj później";
 
 /* defaults */
@@ -72,6 +73,13 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "pip_player" = "Odtwarzanie w PiP";
 "short_player" = "Odtwarzacz Shorts";
 "loop_toggle" = "Dodaj przełącznik pętli";
+
+/* playback */
+"default_audio" = "Domyślny dźwięk";
+"original_audio" = "Oryginalny dźwięk";
+"preferred_audio" = "Preferowany dźwięk";
+"audio_language" = "Język dźwięku";
+"audio_language_disc" = "Wybierz preferowany język dźwięku";
 
 "yt_video_quality_wifi" = "Jakość Wi-Fi";
 "yt_video_quality_celluar" = "Jakość danych komórkowych";
@@ -171,6 +179,8 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "OLED_DARK_MODE" = "Tryb ciemny OLED";
 "PLAY_IN_BACKGROUND" = "Odtwarzaj w tle";
 "NO_ADVERTISMENT" = "Usuń reklamy";
+"NO_ADVERTISMENT2" = "Usuń sugestie";
+"NO_ADVERTISMENT2_DISC" = "Usuń sugestie w feedzie, gry Shorts, posty itp..";
 "NO_AGE_RESTRICTION" = "Omijaj ograniczenia wiekowe";
 "HIDE_YT_SHORTS" = "Ukryj Shorts z kanału";
 "DISABLE_CAPTIONS" = "Wyłącz napisy";
@@ -390,6 +400,8 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "AUTO_LANGUAGE" = "Auto";
 "SELECT_LANGUAGE" = "Wybierz język";
 "FAQ" = "FAQ";
+"terms_privacy" = "Warunki i prywatność";
+"retrieve_icense" = "Odzyskaj licencję";
 "action_undone" = "Tej czynności nie można cofnąć!";
 
 /* downloading... */
@@ -567,6 +579,26 @@ Pomaga to YouTube zweryfikować normalną aktywność oglądania i może przyspi
 "CACHE_CLEARED" = "Pamięć podręczna została wyczyszczona!";
 "CLEAR_CACHE" = "Wyczyść pamięć podręczną";
 "CALCULATING" = "Obliczanie...";
+
+"license_expiring_soon" = "⚠️ Licencja wkrótce wygaśnie";
+"license_expiring_soon_desc" = "Twoja licencja YTKillerPlus wygaśnie za %@.\n\nOdnów ją na repo.ikghd.me, aby nie utracić dostępu.";
+"renew_later" = "Później";
+"already_subscribed" = "Już zasubskrybowano";
+
+"check_for_update" = "Sprawdź aktualizacje";
+"update_youtube" = "Zaktualizuj YouTube";
+"incompatible_version" = "⚠️ Niezgodna wersja";
+"yt_version_too_new" = "YTKillerPlus %@ nie jest zgodny z YouTube %@.\n\nPoczekaj na aktualizację na repo.ikghd.me.";
+"yt_version_too_old" = "YTKillerPlus %@ wymaga YouTube %@ lub nowszego.\n\nZaktualizuj YouTube z App Store lub Telegrama.";
+
+"license_activation_status" = "Aktywna · %@";
+"inactive_verify" = "Nieaktywna (Zweryfikuj licencję)";
+"verifying" = "Weryfikowanie...";
+
+"verification_warning" = "⚠️ Ostrzeżenie o weryfikacji";
+"verification_warning_desc" = "Połącz się z Internetem, aby zweryfikować YTKillerPlus.\n\nWeryfikacja wygaśnie za %dh %dm.";
+"grace_period_expiry" = "❌ Okres karencji wygasł";
+"grace_period_expiry_desc" = "YTKillerPlus nie mógł połączyć się z serwerem, aby odświeżyć weryfikację. YouTube zostanie teraz zamknięty.";
 
 /* Unlink Email from License */
 "unlink_email" = "Odłącz e-mail";

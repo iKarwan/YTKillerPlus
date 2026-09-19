@@ -60,6 +60,7 @@
 "PLAYLISTS_TAB" = "Danh sách phát";
 "HISTORY_TAB"   = "Lịch sử";
 "NOTIFS_TAB"    = "Thông báo";
+"POST_TAB"      = "Bài viết";
 "WLATER_TAB"    = "Xem sau";
 
 /* defaults */
@@ -73,6 +74,13 @@
 "pip_player" = "Phát trong PiP";
 "short_player" = "Trình Phát Shorts";
 "loop_toggle" = "Thêm nút lặp lại";
+
+/* playback */
+"default_audio" = "Âm thanh mặc định";
+"original_audio" = "Âm thanh gốc";
+"preferred_audio" = "Âm thanh ưu tiên";
+"audio_language" = "Ngôn ngữ âm thanh";
+"audio_language_disc" = "Chọn ngôn ngữ âm thanh ưu tiên";
 
 "yt_video_quality_wifi" = "Chất lượng Wi-Fi";
 "yt_video_quality_celluar" = "Chất lượng dữ liệu di động";
@@ -172,6 +180,8 @@
 "OLED_DARK_MODE" = "Chế độ tối OLED";
 "PLAY_IN_BACKGROUND" = "Phát trong nền";
 "NO_ADVERTISMENT" = "Không quảng cáo";
+"NO_ADVERTISMENT2" = "Xóa gợi ý";
+"NO_ADVERTISMENT2_DISC" = "Xóa gợi ý trong bảng tin, trò chơi Shorts, bài đăng, v.v..";
 "NO_AGE_RESTRICTION" = "Không giới hạn tuổi";
 "HIDE_YT_SHORTS" = "Ẩn Shorts khỏi nguồn cấp";
 "DISABLE_CAPTIONS" = "Tắt phụ đề";
@@ -392,6 +402,8 @@
 "AUTO_LANGUAGE" = "Tự động";
 "SELECT_LANGUAGE" = "Chọn ngôn ngữ";
 "FAQ" = "Câu hỏi thường gặp";
+"terms_privacy" = "Điều khoản & quyền riêng tư";
+"retrieve_icense" = "Khôi phục giấy phép";
 "action_undone" = "Không thể hoàn tác hành động này!";
 
 "toast_downloading" = "Đang tải...";
@@ -567,6 +579,26 @@
 "CACHE_CLEARED" = "Đã xóa bộ nhớ đệm thành công!";
 "CLEAR_CACHE" = "Xóa bộ nhớ đệm";
 "CALCULATING" = "Đang tính toán...";
+
+"license_expiring_soon" = "⚠️ Giấy phép sắp hết hạn";
+"license_expiring_soon_desc" = "Giấy phép YTKillerPlus của bạn sẽ hết hạn sau %@.\n\nVui lòng gia hạn tại repo.ikghd.me để tránh mất quyền truy cập.";
+"renew_later" = "Để sau";
+"already_subscribed" = "Đã đăng ký";
+
+"check_for_update" = "Kiểm tra cập nhật";
+"update_youtube" = "Cập nhật YouTube";
+"incompatible_version" = "⚠️ Phiên bản không tương thích";
+"yt_version_too_new" = "YTKillerPlus %@ không tương thích với YouTube %@.\n\nVui lòng chờ bản cập nhật tại repo.ikghd.me.";
+"yt_version_too_old" = "YTKillerPlus %@ yêu cầu YouTube %@ hoặc mới hơn.\n\nVui lòng cập nhật YouTube từ App Store hoặc Telegram.";
+
+"license_activation_status" = "Đã kích hoạt · %@";
+"inactive_verify" = "Chưa kích hoạt (Xác minh giấy phép)";
+"verifying" = "Đang xác minh...";
+
+"verification_warning" = "⚠️ Cảnh báo xác minh";
+"verification_warning_desc" = "Vui lòng kết nối Internet để xác minh YTKillerPlus.\n\nXác minh sẽ hết hạn sau %dh %dm.";
+"grace_period_expiry" = "❌ Đã hết thời gian gia hạn";
+"grace_period_expiry_desc" = "YTKillerPlus không thể kết nối đến máy chủ để làm mới xác minh. YouTube sẽ đóng ngay bây giờ.";
 
 /* Unlink Email from License */
 "unlink_email" = "Hủy liên kết email";

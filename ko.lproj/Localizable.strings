@@ -60,6 +60,7 @@
 "PLAYLISTS_TAB" = "재생목록";
 "HISTORY_TAB"   = "기록";
 "NOTIFS_TAB"    = "알림";
+"POST_TAB"      = "게시물";
 "WLATER_TAB"    = "나중에 보기";
 
 /* defaults */
@@ -73,6 +74,12 @@
 "pip_player" = "PiP에서 재생";
 "short_player" = "쇼츠 플레이어";
 "loop_toggle" = "반복 버튼 추가";
+
+"default_audio" = "기본 오디오";
+"original_audio" = "원본 오디오";
+"preferred_audio" = "선호 오디오";
+"audio_language" = "오디오 언어";
+"audio_language_disc" = "선호하는 오디오 언어를 선택하세요";
 
 "yt_video_quality_wifi" = "Wi-Fi 화질";
 "yt_video_quality_celluar" = "셀룰러 화질";
@@ -172,6 +179,8 @@
 "OLED_DARK_MODE" = "OLED 다크 모드";
 "PLAY_IN_BACKGROUND" = "백그라운드 재생";
 "NO_ADVERTISMENT" = "광고 없음";
+"NO_ADVERTISMENT2" = "추천 제거";
+"NO_ADVERTISMENT2_DISC" = "피드 추천, 쇼츠 게임, 게시물 등을 제거합니다..";
 "NO_AGE_RESTRICTION" = "연령 제한 해제";
 "HIDE_YT_SHORTS" = "피드에서 쇼츠 숨기기";
 "DISABLE_CAPTIONS" = "자막 비활성화";
@@ -391,6 +400,8 @@
 "AUTO_LANGUAGE" = "자동";
 "SELECT_LANGUAGE" = "언어 선택";
 "FAQ" = "자주 묻는 질문";
+"terms_privacy" = "약관 및 개인정보 보호";
+"retrieve_icense" = "라이선스 복구";
 "action_undone" = "이 작업은 되돌릴 수 없습니다!";
 
 "toast_downloading" = "다운로드 중...";
@@ -566,6 +577,26 @@
 "CACHE_CLEARED" = "캐시가 성공적으로 삭제되었습니다!";
 "CLEAR_CACHE" = "캐시 삭제";
 "CALCULATING" = "계산 중...";
+
+"license_expiring_soon" = "⚠️ 라이선스가 곧 만료됩니다";
+"license_expiring_soon_desc" = "YTKillerPlus 라이선스가 %@ 후에 만료됩니다.\n\n액세스를 유지하려면 repo.ikghd.me에서 갱신하세요.";
+"renew_later" = "나중에";
+"already_subscribed" = "이미 구독함";
+
+"check_for_update" = "업데이트 확인";
+"update_youtube" = "YouTube 업데이트";
+"incompatible_version" = "⚠️ 호환되지 않는 버전";
+"yt_version_too_new" = "YTKillerPlus %@는 YouTube %@와 호환되지 않습니다.\n\nrepo.ikghd.me에서 업데이트를 기다려 주세요.";
+"yt_version_too_old" = "YTKillerPlus %@는 YouTube %@ 이상이 필요합니다.\n\nApp Store 또는 Telegram에서 YouTube를 업데이트하세요.";
+
+"license_activation_status" = "활성화됨 · %@";
+"inactive_verify" = "비활성화됨 (라이선스 확인)";
+"verifying" = "확인 중...";
+
+"verification_warning" = "⚠️ 인증 경고";
+"verification_warning_desc" = "YTKillerPlus를 인증하려면 인터넷에 연결하세요.\n\n인증은 %dh %dm 후 만료됩니다.";
+"grace_period_expiry" = "❌ 유예 기간 만료";
+"grace_period_expiry_desc" = "YTKillerPlus가 인증을 갱신하기 위해 서버에 연결하지 못했습니다. 이제 YouTube가 종료됩니다.";
 
 /* Unlink Email from License */
 "unlink_email" = "이메일 연결 해제";
