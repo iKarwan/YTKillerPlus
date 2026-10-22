@@ -8,7 +8,7 @@
 
 ## Recommended iOS iPadOS Firmware & YouTube App Versions?
 * iOS iPadOS 17.0 / iOS iPadOS 27.x
-* YouTube v20.20x and newer !
+* YouTube v21.24x and newer !
 * For older iOS versions [Visit](https://repo.ikghd.me/YTKPlus) .
 
 
@@ -30,8 +30,8 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 | Application | Bundle | Version | YTKillerPlus | File Type |
 |---|---|---|---|---|
-| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.41_YTKillerPlus_6.7.ipa) | com.google.ios.youtube | 21.41 | 6.7 | IPA |
-| [TrollStore & Plugin ↓](https://repo.ikghd.me/YTKPlus) | com.google.ios.youtube | 21.41 | 6.7 | tipa |
+| [YouTube ↓](https://ikghd.site/ipa/YouTube_21.42_YTKillerPlus_6.7.ipa) | com.google.ios.youtube | 21.42 | 6.7 | IPA |
+| [TrollStore & Plugin ↓](https://repo.ikghd.me/YTKPlus) | com.google.ios.youtube | 21.42 | 6.7 | tipa |
 
 </details>
 
@@ -65,7 +65,7 @@ Add `https://repo.ikghd.me` to your Cydia / Zebra / Sileo sources and download f
 
 ### TrollStore TIPA
 * Download and install TrollStore from [here](https://github.com/opa334/TrollStore).
-* Copy this link [here](https://ikghd.site/ipa/YouTube_21.41_YTKillerPlus_6.7_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
+* Copy this link [here](https://ikghd.site/ipa/YouTube_21.42_YTKillerPlus_6.7_TrollStore.tipa) and paste it into the "Install from URL" option in TrollStore.
 
 
 ### Telegram Channel
